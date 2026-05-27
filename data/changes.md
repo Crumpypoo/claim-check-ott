@@ -1,4 +1,36 @@
 
+## 2026-05-27 17:35 UTC
+Total claims: 15166 | Removed: 5 | Added: 10
+
+### Removed
+**CuddlyCryptid** — 1 claim(s), 27,405 blocks total
+  - (-3362,-7921) → (-3217,-7732) center (-3290,-7827) size 145×189
+**sp00kybattz** — 1 claim(s), 1,394 blocks total
+  - (22843,16676) → (22877,16717) center (22860,16696) size 34×41
+**OhHelloItsAugust** — 1 claim(s), 50,516 blocks total
+  - (22877,16090) → (22950,16782) center (22913,16436) size 73×692
+**Fist_Hitter** — 1 claim(s), 3,478 blocks total
+  - (-21411,4580) → (-21317,4617) center (-21364,4598) size 94×37
+**_W3_T0_T0X1C** — 1 claim(s), 462 blocks total
+  - (16110,-12240) → (16132,-12219) center (16121,-12230) size 22×21
+
+### Added
+**FloPlays115** — 5 claim(s), 4,527 blocks total
+  - (21723,21918) → (21746,21935) center (21734,21926) size 23×17
+  - (21680,21940) → (21723,21953) center (21701,21946) size 43×13
+  - (21700,21871) → (21763,21918) center (21731,21894) size 63×47
+  - (21723,21935) → (21745,21940) center (21734,21937) size 22×5
+  - (21700,21918) → (21723,21940) center (21711,21929) size 23×22
+**OhHelloItsAugust** — 2 claim(s), 53,739 blocks total
+  - (22841,16684) → (22877,16735) center (22859,16709) size 36×51
+  - (22877,16071) → (22950,16782) center (22913,16426) size 73×711
+**b33l0vesd0gs** — 1 claim(s), 160 blocks total
+  - (-2839,-22283) → (-2819,-22275) center (-2829,-22279) size 20×8
+**_monkeman4278** — 1 claim(s), 299 blocks total
+  - (-23493,4276) → (-23480,4299) center (-23487,4287) size 13×23
+**CuddlyCryptid** — 1 claim(s), 6,731 blocks total
+  - (-3276,-7899) → (-3223,-7772) center (-3250,-7836) size 53×127
+
 ## 2026-05-27 15:56 UTC
 Total claims: 15161 | Removed: 0 | Added: 1
 
