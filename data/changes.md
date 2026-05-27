@@ -1,4 +1,24 @@
 
+## 2026-05-27 23:54 UTC
+Total claims: 15182 | Removed: 2 | Added: 5
+
+### Removed
+**tinnyapple77793** — 1 claim(s), 722 blocks total
+  - (-20276,23428) → (-20238,23447) center (-20257,23437) size 38×19
+**Hygrophobia** — 1 claim(s), 780 blocks total
+  - (12575,-17196) → (12605,-17170) center (12590,-17183) size 30×26
+
+### Added
+**Rafaeloss** — 2 claim(s), 1,039 blocks total
+  - (21089,10081) → (21106,10104) center (21097,10092) size 17×23
+  - (35,-21295) → (59,-21268) center (47,-21282) size 24×27
+**LukeySuzuky** — 1 claim(s), 825 blocks total
+  - (2967,23328) → (2992,23361) center (2979,23344) size 25×33
+**_Rajput184435** — 1 claim(s), 518 blocks total
+  - (-4404,-23133) → (-4390,-23096) center (-4397,-23115) size 14×37
+**_CedarCast4444** — 1 claim(s), 112 blocks total
+  - (13693,20275) → (13700,20291) center (13696,20283) size 7×16
+
 ## 2026-05-27 22:28 UTC
 Total claims: 15179 | Removed: 3 | Added: 5
 
