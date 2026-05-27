@@ -2,7 +2,7 @@ name: Check OtterSMP Claims
 
 on:
   schedule:
-    - cron: '0 */1 * * *'   # runs every 3 hours (midnight, 8am, 4pm UTC)
+    - cron: '0 */2 * * *'   # runs every 3 hours (midnight, 8am, 4pm UTC)
   workflow_dispatch:          # lets you also trigger it manually from GitHub
 
 jobs:
