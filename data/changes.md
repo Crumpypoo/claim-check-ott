@@ -1,4 +1,24 @@
 
+## 2026-05-27 22:28 UTC
+Total claims: 15179 | Removed: 3 | Added: 5
+
+### Removed
+**TompaLegendo** — 2 claim(s), 1,936 blocks total
+  - (23307,20716) → (23351,20737) center (23329,20726) size 44×21
+  - (23308,20737) → (23352,20760) center (23330,20748) size 44×23
+**1Emica** — 1 claim(s), 1,215 blocks total
+  - (23315,20760) → (23360,20787) center (23337,20773) size 45×27
+
+### Added
+**RibbitHoppy** — 3 claim(s), 939 blocks total
+  - (21076,15905) → (21101,15919) center (21088,15912) size 25×14
+  - (21109,15903) → (21141,15911) center (21125,15907) size 32×8
+  - (21033,15912) → (21070,15921) center (21051,15916) size 37×9
+**1Emica** — 1 claim(s), 1,365 blocks total
+  - (23325,20760) → (23360,20799) center (23342,20779) size 35×39
+**TompaLegendo** — 1 claim(s), 1,998 blocks total
+  - (23302,20723) → (23356,20760) center (23329,20741) size 54×37
+
 ## 2026-05-27 21:43 UTC
 Total claims: 15177 | Removed: 4 | Added: 4
 
