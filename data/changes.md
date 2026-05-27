@@ -1,4 +1,14 @@
 
+## 2026-05-27 09:13 UTC
+Total claims: 15162 | Removed: 0 | Added: 2
+
+
+### Added
+**Romeo1905** — 1 claim(s), 294 blocks total
+  - (12307,23183) → (12328,23197) center (12317,23190) size 21×14
+**Yiuma** — 1 claim(s), 812 blocks total
+  - (-10460,18721) → (-10432,18750) center (-10446,18735) size 28×29
+
 ## 2026-05-27 07:07 UTC
 Total claims: 15160 | Removed: 3 | Added: 6
 
