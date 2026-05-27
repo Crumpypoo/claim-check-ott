@@ -1,4 +1,30 @@
 
+## 2026-05-27 20:55 UTC
+Total claims: 15177 | Removed: 2 | Added: 8
+
+### Removed
+**Paulo699** — 1 claim(s), 20,961 blocks total
+  - (1547,-23190) → (1700,-23053) center (1623,-23122) size 153×137
+**DukeTheDog202** — 1 claim(s), 2,016 blocks total
+  - (-17759,22664) → (-17717,22712) center (-17738,22688) size 42×48
+
+### Added
+**Co0kiez1** — 2 claim(s), 1,206 blocks total
+  - (7684,23034) → (7715,23069) center (7699,23051) size 31×35
+  - (7570,23073) → (7581,23084) center (7575,23078) size 11×11
+**_fire_bane7916** — 1 claim(s), 104 blocks total
+  - (-4804,-22298) → (-4791,-22290) center (-4798,-22294) size 13×8
+**_JuanDavid9741** — 1 claim(s), 266 blocks total
+  - (-22500,13700) → (-22481,13714) center (-22491,13707) size 19×14
+**smallpvp** — 1 claim(s), 896 blocks total
+  - (22378,-701) → (22410,-673) center (22394,-687) size 32×28
+**Agnother32** — 1 claim(s), 1,829 blocks total
+  - (-13109,19079) → (-13050,19110) center (-13080,19094) size 59×31
+**biazij** — 1 claim(s), 5,032 blocks total
+  - (-279,1293) → (-205,1361) center (-242,1327) size 74×68
+**Paulo699** — 1 claim(s), 23,460 blocks total
+  - (1530,-23191) → (1700,-23053) center (1615,-23122) size 170×138
+
 ## 2026-05-27 19:42 UTC
 Total claims: 15171 | Removed: 1 | Added: 6
 
