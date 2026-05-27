@@ -2,15 +2,15 @@ name: Check OtterSMP Claims
 
 on:
   schedule:
-    - cron: '0 8 * * *'   # runs daily at 8:00 AM UTC
-  workflow_dispatch:        # lets you also trigger it manually from GitHub
+    - cron: '0 */8 * * *'   # runs every 8 hours (midnight, 8am, 4pm UTC)
+  workflow_dispatch:          # lets you also trigger it manually from GitHub
 
 jobs:
   check-claims:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write       # needed to commit the updated snapshot back
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -34,5 +34,5 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/snapshot.json data/changes.md
-          git diff --cached --quiet || git commit -m "chore: daily claim snapshot $(date -u '+%Y-%m-%d')"
+          git diff --cached --quiet || git commit -m "chore: claim snapshot $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
