@@ -92,7 +92,8 @@ def send_discord(removed, total, watchlist):
         print("No Discord webhook set, skipping notification.")
         return
     if not removed:
-        print("No removed claims, skipping Discord notification.")
+        if DISCORD_WEBHOOK:
+            post_discord(f"✅ **OtterSMP claim check** — {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}\nNo claims removed. Total claims: **{total}**")
         return
 
     # --- Watchlist alert (separate urgent message) ---
