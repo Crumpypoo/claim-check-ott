@@ -1,4 +1,25 @@
 
+## 2026-05-27 15:55 UTC
+Total claims: 15160 | Removed: 2 | Added: 6
+
+### Removed
+**EchoCrest** — 1 claim(s), 2,294 blocks total
+  - (2912,15976) → (2943,16050) center (2927,16013) size 31×74
+**MediocreDust172** — 1 claim(s), 104 blocks total
+  - (15824,22512) → (15832,22525) center (15828,22518) size 8×13
+
+### Added
+**WildNougat** — 2 claim(s), 254 blocks total
+  - (2171,22795) → (2185,22806) center (2178,22800) size 14×11
+  - (2223,22783) → (2233,22793) center (2228,22788) size 10×10
+**xxX4jhin4Xxx** — 2 claim(s), 333 blocks total
+  - (-12945,22108) → (-12936,22125) center (-12941,22116) size 9×17
+  - (-12936,22103) → (-12926,22121) center (-12931,22112) size 10×18
+**Itzzz_Emi** — 1 claim(s), 24,822 blocks total
+  - (-20665,23579) → (-20468,23705) center (-20567,23642) size 197×126
+**NOTMYTEA928** — 1 claim(s), 1,517 blocks total
+  - (-11977,-21292) → (-11940,-21251) center (-11959,-21272) size 37×41
+
 ## 2026-05-27 12:06 UTC
 Total claims: 15156 | Removed: 0 | Added: 12260
 
