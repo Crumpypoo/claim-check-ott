@@ -94,24 +94,7 @@ def send_discord(removed, added, total):
             )
             shown += 1
 
-    if added:
-        lines.append("\n🟢 **New claims:**")
-        by_player = group_by_player(added)
-        shown = 0
-        for owner, claims in by_player.items():
-            if shown >= 15:
-                lines.append(f"  *...and more players*")
-                break
-            total_area = sum(c["area"] for c in claims)
-            coords = ", ".join(f"`{c['cx']},{c['cz']}`" for c in claims[:3])
-            if len(claims) > 3:
-                coords += f" +{len(claims) - 3} more"
-            lines.append(
-                f"• **{owner}** — {len(claims)} claim(s), {total_area:,} blocks total\n"
-                f"  {coords}"
-            )
-            shown += 1
-
+    
     payload = {"content": "\n".join(lines)}
     r = requests.post(DISCORD_WEBHOOK, json=payload)
     if r.status_code not in (200, 204):
@@ -153,7 +136,7 @@ def append_log(removed, added, now_str, total):
                     f"center ({c['cx']},{c['cz']}) size {c['width']}×{c['height']}\n"
                 )
 
-    if not removed and not added:
+    if not removed:
         entry.append("No changes detected.\n")
 
     with open(LOG_FILE, "w") as f:
