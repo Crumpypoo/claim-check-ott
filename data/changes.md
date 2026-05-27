@@ -1,4 +1,28 @@
 
+## 2026-05-27 07:07 UTC
+Total claims: 15160 | Removed: 3 | Added: 6
+
+### Removed
+**Luxavva** — 1 claim(s), 576,378 blocks total
+  - (-25000,6758) → (-23647,7184) center (-24324,6971) size 1353×426
+**Gamerbr432** — 1 claim(s), 2,940 blocks total
+  - (8327,17356) → (8387,17405) center (8357,17380) size 60×49
+**rose_guld** — 1 claim(s), 1,326 blocks total
+  - (23124,7932) → (23158,7971) center (23141,7951) size 34×39
+
+### Added
+**hazel562luis** — 2 claim(s), 319 blocks total
+  - (345,-21728) → (355,-21717) center (350,-21723) size 10×11
+  - (355,-21737) → (366,-21718) center (360,-21728) size 11×19
+**_AlmightyOdin192** — 1 claim(s), 105 blocks total
+  - (2397,-23028) → (2402,-23007) center (2399,-23018) size 5×21
+**rose_guld** — 1 claim(s), 7,600 blocks total
+  - (23053,7935) → (23148,8015) center (23100,7975) size 95×80
+**twyla_** — 1 claim(s), 627 blocks total
+  - (-16495,-23941) → (-16462,-23922) center (-16479,-23932) size 33×19
+**Luxavva** — 1 claim(s), 711,678 blocks total
+  - (-25000,6658) → (-23647,7184) center (-24324,6921) size 1353×526
+
 ## 2026-05-27 04:59 UTC
 Total claims: 15157 | Removed: 0 | Added: 1
 
