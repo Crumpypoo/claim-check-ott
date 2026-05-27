@@ -1,4 +1,26 @@
 
+## 2026-05-27 21:43 UTC
+Total claims: 15177 | Removed: 4 | Added: 4
+
+### Removed
+**LSDjostein8189** — 2 claim(s), 4,834 blocks total
+  - (-7797,-21949) → (-7757,-21909) center (-7777,-21929) size 40×40
+  - (22275,-14329) → (22352,-14287) center (22313,-14308) size 77×42
+**TompaLegendo** — 1 claim(s), 851 blocks total
+  - (23315,20737) → (23352,20760) center (23333,20748) size 37×23
+**Agnother32** — 1 claim(s), 1,829 blocks total
+  - (-13109,19079) → (-13050,19110) center (-13080,19094) size 59×31
+
+### Added
+**TompaLegendo** — 1 claim(s), 1,012 blocks total
+  - (23308,20737) → (23352,20760) center (23330,20748) size 44×23
+**Agnother32** — 1 claim(s), 1,806 blocks total
+  - (-13099,19079) → (-13057,19122) center (-13078,19100) size 42×43
+**corbord12** — 1 claim(s), 375 blocks total
+  - (4920,20679) → (4935,20704) center (4927,20691) size 15×25
+**LSDjostein8189** — 1 claim(s), 8,436 blocks total
+  - (22249,-14341) → (22363,-14267) center (22306,-14304) size 114×74
+
 ## 2026-05-27 20:57 UTC
 Total claims: 15177 | Removed: 0 | Added: 0
 
