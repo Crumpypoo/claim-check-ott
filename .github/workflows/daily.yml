@@ -1,0 +1,38 @@
+name: Check OtterSMP Claims
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # runs daily at 8:00 AM UTC
+  workflow_dispatch:        # lets you also trigger it manually from GitHub
+
+jobs:
+  check-claims:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write       # needed to commit the updated snapshot back
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run claim checker
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: python check_claims.py
+
+      - name: Commit updated snapshot and log
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/snapshot.json data/changes.md
+          git diff --cached --quiet || git commit -m "chore: daily claim snapshot $(date -u '+%Y-%m-%d')"
+          git push
