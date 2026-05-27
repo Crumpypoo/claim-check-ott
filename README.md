@@ -1,6 +1,4 @@
-# OtterSMP claim tracker
-
-Automatically checks [map.ottersmp.com](https://map.ottersmp.com) once a day and records which GriefPrevention claims were removed or added.
+# claim tracker
 
 ## How it works
 
