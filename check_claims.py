@@ -67,40 +67,41 @@ def group_by_player(claims):
     return dict(sorted(grouped.items(), key=lambda x: len(x[1]), reverse=True))
 
 
-def send_discord(removed, added, total):
+def send_discord(removed, total):
     if not DISCORD_WEBHOOK:
+        print("No Discord webhook set, skipping notification.")
         return
-    if not removed and not added:
+    if not removed:
+        print("No removed claims, skipping Discord notification.")
         return
 
-    lines = [f"**OtterSMP claim changes** — {datetime.now(timezone.utc).strftime('%Y-%m-%d')}"]
-    lines.append(f"Total claims: **{total}** | Removed: **{len(removed)}** | Added: **{len(added)}**\n")
+    lines = [f"**OtterSMP claim changes** — {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}"]
+    lines.append(f"Total claims: **{total}** | Removed: **{len(removed)}**\n")
 
-    if removed:
-        lines.append("🔴 **Removed claims:**")
-        by_player = group_by_player(removed)
-        shown = 0
-        for owner, claims in by_player.items():
-            if shown >= 15:
-                lines.append(f"  *...and more players*")
-                break
-            total_area = sum(c["area"] for c in claims)
-            coords = ", ".join(f"`{c['cx']},{c['cz']}`" for c in claims[:3])
-            if len(claims) > 3:
-                coords += f" +{len(claims) - 3} more"
-            lines.append(
-                f"• **{owner}** — {len(claims)} claim(s), {total_area:,} blocks total\n"
-                f"  {coords}"
-            )
-            shown += 1
+    lines.append("🔴 **Removed claims:**")
+    by_player = group_by_player(removed)
+    shown = 0
+    for owner, claims in by_player.items():
+        if shown >= 15:
+            lines.append("  *...and more players*")
+            break
+        total_area = sum(c["area"] for c in claims)
+        coords = ", ".join(f"`{c['cx']},{c['cz']}`" for c in claims[:3])
+        if len(claims) > 3:
+            coords += f" +{len(claims) - 3} more"
+        lines.append(
+            f"• **{owner}** — {len(claims)} claim(s), {total_area:,} blocks total\n"
+            f"  {coords}"
+        )
+        shown += 1
 
-    
     payload = {"content": "\n".join(lines)}
+    print(f"Sending Discord notification... payload length: {len(payload['content'])} chars")
     r = requests.post(DISCORD_WEBHOOK, json=payload)
     if r.status_code not in (200, 204):
         print(f"Discord webhook failed: {r.status_code} {r.text}")
     else:
-        print("Discord notification sent.")
+        print("Discord notification sent successfully.")
 
 
 def append_log(removed, added, now_str, total):
@@ -136,7 +137,7 @@ def append_log(removed, added, now_str, total):
                     f"center ({c['cx']},{c['cz']}) size {c['width']}×{c['height']}\n"
                 )
 
-    if not removed:
+    if not removed and not added:
         entry.append("No changes detected.\n")
 
     with open(LOG_FILE, "w") as f:
@@ -186,7 +187,7 @@ def main():
         print("No snapshot found — saving initial baseline.")
 
     append_log(removed, added, now_str, len(current))
-    send_discord(removed, added, len(current))
+    send_discord(removed, len(current))
 
     with open(SNAPSHOT_FILE, "w") as f:
         json.dump({"claims": current, "time": now_str}, f, indent=2)
