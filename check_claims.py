@@ -4,9 +4,19 @@ from datetime import datetime, timezone
 URL = "https://map.ottersmp.com/tiles/minecraft_overworld/markers.json"
 SNAPSHOT_FILE = "data/snapshot.json"
 LOG_FILE = "data/changes.md"
+WATCHLIST_FILE = "watchlist.txt"
 DISCORD_WEBHOOK = os.environ.get("DISCORD_WEBHOOK")
 
 os.makedirs("data", exist_ok=True)
+
+
+def load_watchlist():
+    if not os.path.exists(WATCHLIST_FILE):
+        return set()
+    with open(WATCHLIST_FILE) as f:
+        names = {line.strip().lower() for line in f if line.strip() and not line.startswith("#")}
+    print(f"Watchlist loaded: {names}")
+    return names
 
 
 def fetch_with_retry(url, retries=3, delay=10):
@@ -67,7 +77,17 @@ def group_by_player(claims):
     return dict(sorted(grouped.items(), key=lambda x: len(x[1]), reverse=True))
 
 
-def send_discord(removed, total):
+def post_discord(content):
+    payload = {"content": content}
+    print(f"Sending Discord message ({len(content)} chars)...")
+    r = requests.post(DISCORD_WEBHOOK, json=payload)
+    if r.status_code not in (200, 204):
+        print(f"Discord webhook failed: {r.status_code} {r.text}")
+    else:
+        print("Discord message sent successfully.")
+
+
+def send_discord(removed, total, watchlist):
     if not DISCORD_WEBHOOK:
         print("No Discord webhook set, skipping notification.")
         return
@@ -75,10 +95,27 @@ def send_discord(removed, total):
         print("No removed claims, skipping Discord notification.")
         return
 
+    # --- Watchlist alert (separate urgent message) ---
+    watched_removed = [c for c in removed if c["owner"].lower() in watchlist]
+    if watched_removed:
+        lines = [f"🚨 **WATCHLIST ALERT** — {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}"]
+        by_player = group_by_player(watched_removed)
+        for owner, claims in by_player.items():
+            total_area = sum(c["area"] for c in claims)
+            coords = ", ".join(f"`{c['cx']},{c['cz']}`" for c in claims[:3])
+            if len(claims) > 3:
+                coords += f" +{len(claims) - 3} more"
+            lines.append(
+                f"• **{owner}** lost {len(claims)} claim(s), {total_area:,} blocks total\n"
+                f"  {coords}"
+            )
+        post_discord("\n".join(lines))
+
+    # --- General removed claims message ---
     lines = [f"**OtterSMP claim changes** — {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}"]
     lines.append(f"Total claims: **{total}** | Removed: **{len(removed)}**\n")
-
     lines.append("🔴 **Removed claims:**")
+
     by_player = group_by_player(removed)
     shown = 0
     for owner, claims in by_player.items():
@@ -89,19 +126,15 @@ def send_discord(removed, total):
         coords = ", ".join(f"`{c['cx']},{c['cz']}`" for c in claims[:3])
         if len(claims) > 3:
             coords += f" +{len(claims) - 3} more"
+        # Mark watched players in the general list too
+        tag = " 👁️" if owner.lower() in watchlist else ""
         lines.append(
-            f"• **{owner}** — {len(claims)} claim(s), {total_area:,} blocks total\n"
+            f"• **{owner}**{tag} — {len(claims)} claim(s), {total_area:,} blocks total\n"
             f"  {coords}"
         )
         shown += 1
 
-    payload = {"content": "\n".join(lines)}
-    print(f"Sending Discord notification... payload length: {len(payload['content'])} chars")
-    r = requests.post(DISCORD_WEBHOOK, json=payload)
-    if r.status_code not in (200, 204):
-        print(f"Discord webhook failed: {r.status_code} {r.text}")
-    else:
-        print("Discord notification sent successfully.")
+    post_discord("\n".join(lines))
 
 
 def append_log(removed, added, now_str, total):
@@ -148,6 +181,7 @@ def main():
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     print(f"Fetching claims at {now_str}...")
 
+    watchlist = load_watchlist()
     data = fetch_with_retry(URL)
 
     current = parse_claims(data)
@@ -187,7 +221,7 @@ def main():
         print("No snapshot found — saving initial baseline.")
 
     append_log(removed, added, now_str, len(current))
-    send_discord(removed, len(current))
+    send_discord(removed, len(current), watchlist)
 
     with open(SNAPSHOT_FILE, "w") as f:
         json.dump({"claims": current, "time": now_str}, f, indent=2)
