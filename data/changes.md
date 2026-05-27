@@ -1,4 +1,23 @@
 
+## 2026-05-27 19:42 UTC
+Total claims: 15171 | Removed: 1 | Added: 6
+
+### Removed
+**Aidaannnn** — 1 claim(s), 5,208 blocks total
+  - (9381,9124) → (9465,9186) center (9423,9155) size 84×62
+
+### Added
+**_Rainbow3Crystal** — 3 claim(s), 4,270 blocks total
+  - (14184,21793) → (14218,21838) center (14201,21815) size 34×45
+  - (14226,21841) → (14281,21861) center (14253,21851) size 55×20
+  - (14245,21800) → (14285,21841) center (14265,21820) size 40×41
+**Aidaannnn** — 1 claim(s), 24,138 blocks total
+  - (9366,9074) → (9515,9236) center (9440,9155) size 149×162
+**Mini_Kaktus** — 1 claim(s), 1,026 blocks total
+  - (23487,-10552) → (23505,-10495) center (23496,-10524) size 18×57
+**Purplesmile13** — 1 claim(s), 1,440 blocks total
+  - (15722,20319) → (15767,20351) center (15744,20335) size 45×32
+
 ## 2026-05-27 18:03 UTC
 Total claims: 15166 | Removed: 0 | Added: 0
 
