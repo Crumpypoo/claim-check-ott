@@ -1,4 +1,14 @@
 
+## 2026-05-27 09:56 UTC
+Total claims: 15158 | Removed: 4 | Added: 0
+
+### Removed
+**_BefitCat9709764** — 4 claim(s), 623 blocks total
+  - (5667,21308) → (5678,21321) center (5672,21314) size 11×13
+  - (5678,21312) → (5699,21323) center (5688,21317) size 21×11
+  - (5683,21323) → (5699,21331) center (5691,21327) size 16×8
+  - (5667,21321) → (5678,21332) center (5672,21326) size 11×11
+
 ## 2026-05-27 09:13 UTC
 Total claims: 15162 | Removed: 0 | Added: 2
 
