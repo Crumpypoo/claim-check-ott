@@ -1,10 +1,26 @@
-import requests, json, re, os
+import requests, json, re, os, time
 from datetime import datetime, timezone
 
 URL = "https://map.ottersmp.com/tiles/minecraft_overworld/markers.json"
 SNAPSHOT_FILE = "data/snapshot.json"
 LOG_FILE = "data/changes.md"
 DISCORD_WEBHOOK = os.environ.get("DISCORD_WEBHOOK")
+
+os.makedirs("data", exist_ok=True)
+
+
+def fetch_with_retry(url, retries=3, delay=10):
+    for attempt in range(1, retries + 1):
+        try:
+            response = requests.get(url, timeout=30)
+            response.raise_for_status()
+            return response.json()
+        except Exception as e:
+            print(f"Attempt {attempt}/{retries} failed: {e}")
+            if attempt < retries:
+                print(f"Retrying in {delay} seconds...")
+                time.sleep(delay)
+    raise RuntimeError(f"All {retries} attempts failed.")
 
 
 def parse_claims(data):
@@ -45,7 +61,6 @@ def map_link(cx, cz):
 
 
 def group_by_player(claims):
-    """Returns an ordered dict: { owner: [claim, ...] } sorted by number of claims desc."""
     grouped = {}
     for c in claims:
         grouped.setdefault(c["owner"], []).append(c)
@@ -88,10 +103,7 @@ def send_discord(removed, added, total):
                 lines.append(f"  *...and more players*")
                 break
             total_area = sum(c["area"] for c in claims)
-            coords = ", ".join(
-                f"`{c['cx']},{c['cz']}` [{c['width']}×{c['height']}]([map]({map_link(c['cx'], c['cz'])}))"
-                for c in claims[:3]
-            )
+            coords = ", ".join(f"`{c['cx']},{c['cz']}`" for c in claims[:3])
             if len(claims) > 3:
                 coords += f" +{len(claims) - 3} more"
             lines.append(
@@ -152,9 +164,7 @@ def main():
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     print(f"Fetching claims at {now_str}...")
 
-    response = requests.get(URL, timeout=30)
-    response.raise_for_status()
-    data = response.json()
+    data = fetch_with_retry(URL)
 
     current = parse_claims(data)
     current_keys = {claim_key(c) for c in current}
@@ -165,20 +175,30 @@ def main():
     if os.path.exists(SNAPSHOT_FILE):
         with open(SNAPSHOT_FILE) as f:
             saved = json.load(f)
-        snapshot = saved["claims"]
+
+        snapshot = saved.get("claims", [])
         snapshot_time = saved.get("time", "unknown")
-        snapshot_keys = {claim_key(c) for c in snapshot}
 
-        removed = [c for c in snapshot if claim_key(c) not in current_keys]
-        added   = [c for c in current  if claim_key(c) not in snapshot_keys]
+        if len(snapshot) < 100:
+            print(f"Snapshot only has {len(snapshot)} claims — looks corrupt, resetting baseline.")
+            snapshot = []
 
-        print(f"Baseline from {snapshot_time}: {len(snapshot)} claims")
-        print(f"Changes — removed: {len(removed)}, added: {len(added)}")
+        if snapshot:
+            snapshot_keys = {claim_key(c) for c in snapshot}
+            removed = [c for c in snapshot if claim_key(c) not in current_keys]
+            added   = [c for c in current  if claim_key(c) not in snapshot_keys]
 
-        for c in removed:
-            print(f"  REMOVED — {c['owner']} at ({c['cx']},{c['cz']})")
-        for c in added:
-            print(f"  ADDED   — {c['owner']} at ({c['cx']},{c['cz']})")
+            if len(removed) > len(snapshot) * 0.5:
+                print(f"WARNING: {len(removed)}/{len(snapshot)} claims appear removed — "
+                      f"this seems wrong, skipping notification and resetting baseline.")
+                removed, added = [], []
+            else:
+                print(f"Baseline from {snapshot_time}: {len(snapshot)} claims")
+                print(f"Changes — removed: {len(removed)}, added: {len(added)}")
+                for c in removed:
+                    print(f"  REMOVED — {c['owner']} at ({c['cx']},{c['cz']})")
+                for c in added:
+                    print(f"  ADDED   — {c['owner']} at ({c['cx']},{c['cz']})")
     else:
         print("No snapshot found — saving initial baseline.")
 
