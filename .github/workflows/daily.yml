@@ -2,7 +2,7 @@ name: Check Otta Claims
 
 on:
   schedule:
-  - cron: '*/30 * * * *'
+  - cron: '0 */2 * * *'
   workflow_dispatch:          # lets you also trigger it manually from GitHub
 
 jobs:
