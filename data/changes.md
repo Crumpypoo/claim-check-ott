@@ -1,4 +1,27 @@
 
+## 2026-05-28 06:00 UTC
+Total claims: 15183 | Removed: 4 | Added: 4
+
+### Removed
+**kindasc4red** — 1 claim(s), 352 blocks total
+  - (-23400,12183) → (-23378,12199) center (-23389,12191) size 22×16
+**Azzure__** — 1 claim(s), 1,394 blocks total
+  - (-20827,17004) → (-20793,17045) center (-20810,17024) size 34×41
+**Spl1inter** — 1 claim(s), 2,890 blocks total
+  - (-22938,3947) → (-22853,3981) center (-22896,3964) size 85×34
+**_Auroryx300** — 1 claim(s), 918 blocks total
+  - (22991,-2768) → (23025,-2741) center (23008,-2755) size 34×27
+
+### Added
+**thatrandumguy456** — 1 claim(s), 504 blocks total
+  - (-23421,12181) → (-23393,12199) center (-23407,12190) size 28×18
+**kindasc4red** — 1 claim(s), 340 blocks total
+  - (-23393,12182) → (-23373,12199) center (-23383,12190) size 20×17
+**Azzure__** — 1 claim(s), 2,300 blocks total
+  - (-20839,17004) → (-20793,17054) center (-20816,17029) size 46×50
+**_Auroryx300** — 1 claim(s), 4,318 blocks total
+  - (22991,-2768) → (23025,-2641) center (23008,-2705) size 34×127
+
 ## 2026-05-28 05:18 UTC
 Total claims: 15183 | Removed: 0 | Added: 0
 
