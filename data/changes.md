@@ -1,4 +1,17 @@
 
+## 2026-05-28 00:44 UTC
+Total claims: 15183 | Removed: 1 | Added: 2
+
+### Removed
+**Woxny** — 1 claim(s), 121 blocks total
+  - (-16104,21428) → (-16093,21439) center (-16099,21433) size 11×11
+
+### Added
+**_Rajput184435** — 1 claim(s), 208 blocks total
+  - (-4334,-23101) → (-4318,-23088) center (-4326,-23095) size 16×13
+**snovvex** — 1 claim(s), 165 blocks total
+  - (-7352,4401) → (-7337,4412) center (-7345,4406) size 15×11
+
 ## 2026-05-27 23:54 UTC
 Total claims: 15182 | Removed: 2 | Added: 5
 
