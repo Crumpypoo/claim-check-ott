@@ -1,4 +1,19 @@
 
+## 2026-05-28 02:39 UTC
+Total claims: 15187 | Removed: 1 | Added: 3
+
+### Removed
+**PrismaKnight** — 1 claim(s), 58,081 blocks total
+  - (-8895,9908) → (-8654,10149) center (-8775,10028) size 241×241
+
+### Added
+**SilverStrike0371** — 1 claim(s), 140 blocks total
+  - (20520,-10513) → (20534,-10503) center (20527,-10508) size 14×10
+**Sc00by_W00by** — 1 claim(s), 820 blocks total
+  - (-22688,12973) → (-22668,13014) center (-22678,12993) size 20×41
+**PrismaKnight** — 1 claim(s), 70,490 blocks total
+  - (-8920,9884) → (-8654,10149) center (-8787,10016) size 266×265
+
 ## 2026-05-28 02:15 UTC
 Total claims: 15185 | Removed: 1 | Added: 2
 
