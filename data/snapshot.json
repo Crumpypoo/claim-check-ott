@@ -55329,6 +55329,19 @@
       "area": 2793
     },
     {
+      "owner": "Azzure__",
+      "trusted": "",
+      "x1": -20827,
+      "z1": 17004,
+      "x2": -20793,
+      "z2": 17045,
+      "cx": -20810,
+      "cz": 17024,
+      "width": 34,
+      "height": 41,
+      "area": 1394
+    },
+    {
       "owner": "_PriyanshuG11",
       "trusted": "",
       "x1": 2858,
@@ -158016,19 +158029,6 @@
       "area": 27209
     },
     {
-      "owner": "toetagpat13",
-      "trusted": "",
-      "x1": 16438,
-      "z1": 7573,
-      "x2": 16457,
-      "z2": 7592,
-      "cx": 16447,
-      "cz": 7582,
-      "width": 19,
-      "height": 19,
-      "area": 361
-    },
-    {
       "owner": "Polomo83",
       "trusted": "",
       "x1": -11250,
@@ -174578,19 +174578,6 @@
       "area": 26448
     },
     {
-      "owner": "toetagpat13",
-      "trusted": "",
-      "x1": 16427,
-      "z1": 7581,
-      "x2": 16438,
-      "z2": 7592,
-      "cx": 16432,
-      "cz": 7586,
-      "width": 11,
-      "height": 11,
-      "area": 121
-    },
-    {
       "owner": "Nikthepick",
       "trusted": "HunterWillBugYou",
       "x1": -3180,
@@ -189658,19 +189645,6 @@
       "area": 176
     },
     {
-      "owner": "toetagpat13",
-      "trusted": "",
-      "x1": 16424,
-      "z1": 7592,
-      "x2": 16457,
-      "z2": 7606,
-      "cx": 16440,
-      "cz": 7599,
-      "width": 33,
-      "height": 14,
-      "area": 462
-    },
-    {
       "owner": "Casuallysadd",
       "trusted": "",
       "x1": 1674,
@@ -197406,5 +197380,5 @@
       "area": 1482
     }
   ],
-  "time": "2026-05-28 04:08 UTC"
+  "time": "2026-05-28 04:45 UTC"
 }

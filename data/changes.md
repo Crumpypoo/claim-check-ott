@@ -1,4 +1,17 @@
 
+## 2026-05-28 04:45 UTC
+Total claims: 15183 | Removed: 3 | Added: 1
+
+### Removed
+**toetagpat13** — 3 claim(s), 944 blocks total
+  - (16438,7573) → (16457,7592) center (16447,7582) size 19×19
+  - (16427,7581) → (16438,7592) center (16432,7586) size 11×11
+  - (16424,7592) → (16457,7606) center (16440,7599) size 33×14
+
+### Added
+**Azzure__** — 1 claim(s), 1,394 blocks total
+  - (-20827,17004) → (-20793,17045) center (-20810,17024) size 34×41
+
 ## 2026-05-28 04:08 UTC
 Total claims: 15185 | Removed: 26 | Added: 24
 
