@@ -1,4 +1,17 @@
 
+## 2026-05-28 02:15 UTC
+Total claims: 15185 | Removed: 1 | Added: 2
+
+### Removed
+**PrismaKnight** — 1 claim(s), 41,358 blocks total
+  - (-8880,9925) → (-8654,10108) center (-8767,10016) size 226×183
+
+### Added
+**Swaria** — 1 claim(s), 162 blocks total
+  - (-21029,-12390) → (-21020,-12372) center (-21025,-12381) size 9×18
+**PrismaKnight** — 1 claim(s), 58,081 blocks total
+  - (-8895,9908) → (-8654,10149) center (-8775,10028) size 241×241
+
 ## 2026-05-28 01:53 UTC
 Total claims: 15184 | Removed: 1 | Added: 2
 
