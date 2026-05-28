@@ -6,6 +6,7 @@ SNAPSHOT_FILE = "data/snapshot.json"
 LOG_FILE = "data/changes.md"
 WATCHLIST_FILE = "watchlist.txt"
 DISCORD_WEBHOOK = os.environ.get("DISCORD_WEBHOOK")
+REMOVAL_THRESHOLD = 150  # if more than this many claims are removed, verify before alerting
 
 os.makedirs("data", exist_ok=True)
 
@@ -87,13 +88,51 @@ def post_discord(content):
         print("Discord message sent successfully.")
 
 
+def verify_removals(snapshot, removed, retries=2, delay=30):
+    """Re-fetch the map to confirm large removals are real and not a glitch."""
+    snapshot_keys = {claim_key(c) for c in snapshot}
+    removed_keys = {claim_key(c) for c in removed}
+
+    for attempt in range(1, retries + 1):
+        print(f"Large removal detected ({len(removed)} claims) — verifying (attempt {attempt}/{retries})...")
+        print(f"Waiting {delay} seconds before re-fetch...")
+        time.sleep(delay)
+
+        try:
+            data = fetch_with_retry(URL)
+            fresh = parse_claims(data)
+            fresh_keys = {claim_key(c) for c in fresh}
+
+            # Check how many of the "removed" claims are still gone in the fresh fetch
+            still_gone = removed_keys - fresh_keys
+            came_back = removed_keys & fresh_keys
+
+            print(f"  Verification {attempt}: {len(still_gone)} still gone, {len(came_back)} came back")
+
+            if len(came_back) > len(still_gone):
+                print(f"  Most claims came back — this looks like a map glitch. Skipping notification.")
+                # Return the fresh claims as the new current so snapshot updates correctly
+                return False, fresh
+            else:
+                print(f"  Claims still gone after re-fetch — looks real.")
+
+        except Exception as e:
+            print(f"  Verification fetch failed: {e} — assuming glitch, skipping notification.")
+            return False, None
+
+    print(f"All verifications confirm removals are real.")
+    return True, None
+
+
 def send_discord(removed, total, watchlist):
     if not DISCORD_WEBHOOK:
         print("No Discord webhook set, skipping notification.")
         return
     if not removed:
-        if DISCORD_WEBHOOK:
-            post_discord(f"✅ **OtterSMP claim check** — {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}\nNo claims removed. Total claims: **{total}**")
+        post_discord(
+            f"✅ **OtterSMP claim check** — {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}\n"
+            f"No claims removed. Total claims: **{total}**"
+        )
         return
 
     # --- Watchlist alert (separate urgent message) ---
@@ -127,7 +166,6 @@ def send_discord(removed, total, watchlist):
         coords = ", ".join(f"`{c['cx']},{c['cz']}`" for c in claims[:3])
         if len(claims) > 3:
             coords += f" +{len(claims) - 3} more"
-        # Mark watched players in the general list too
         tag = " 👁️" if owner.lower() in watchlist else ""
         lines.append(
             f"• **{owner}**{tag} — {len(claims)} claim(s), {total_area:,} blocks total\n"
@@ -158,7 +196,6 @@ def append_log(removed, added, now_str, total):
                     f"  - ({c['x1']},{c['z1']}) → ({c['x2']},{c['z2']}) "
                     f"center ({c['cx']},{c['cz']}) size {c['width']}×{c['height']}\n"
                 )
-
     if added:
         entry.append("\n### Added\n")
         by_player = group_by_player(added)
@@ -170,7 +207,6 @@ def append_log(removed, added, now_str, total):
                     f"  - ({c['x1']},{c['z1']}) → ({c['x2']},{c['z2']}) "
                     f"center ({c['cx']},{c['cz']}) size {c['width']}×{c['height']}\n"
                 )
-
     if not removed and not added:
         entry.append("No changes detected.\n")
 
@@ -207,13 +243,23 @@ def main():
             removed = [c for c in snapshot if claim_key(c) not in current_keys]
             added   = [c for c in current  if claim_key(c) not in snapshot_keys]
 
-            if len(removed) > len(snapshot) * 0.5:
-                print(f"WARNING: {len(removed)}/{len(snapshot)} claims appear removed — "
-                      f"this seems wrong, skipping notification and resetting baseline.")
-                removed, added = [], []
+            print(f"Baseline from {snapshot_time}: {len(snapshot)} claims")
+            print(f"Changes — removed: {len(removed)}, added: {len(added)}")
+
+            # If removals exceed threshold, verify before alerting
+            if len(removed) > REMOVAL_THRESHOLD:
+                confirmed, fresh_claims = verify_removals(snapshot, removed)
+                if not confirmed:
+                    print("Removals not confirmed — treating as map glitch, resetting baseline.")
+                    # Use the fresh fetch as the new current if we got one
+                    if fresh_claims:
+                        current = fresh_claims
+                    removed, added = [], []
+                else:
+                    print(f"Removals confirmed across multiple fetches — sending alert.")
+                    for c in removed:
+                        print(f"  REMOVED — {c['owner']} at ({c['cx']},{c['cz']})")
             else:
-                print(f"Baseline from {snapshot_time}: {len(snapshot)} claims")
-                print(f"Changes — removed: {len(removed)}, added: {len(added)}")
                 for c in removed:
                     print(f"  REMOVED — {c['owner']} at ({c['cx']},{c['cz']})")
                 for c in added:
