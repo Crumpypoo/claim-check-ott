@@ -1,4 +1,16 @@
 
+## 2026-05-28 01:53 UTC
+Total claims: 15184 | Removed: 1 | Added: 2
+
+### Removed
+**ItzNori** — 1 claim(s), 980 blocks total
+  - (15797,-15616) → (15825,-15581) center (15811,-15599) size 28×35
+
+### Added
+**_PriyanshuG11** — 2 claim(s), 12,374 blocks total
+  - (2858,-20902) → (2952,-20849) center (2905,-20876) size 94×53
+  - (2858,-20849) → (2954,-20772) center (2906,-20811) size 96×77
+
 ## 2026-05-28 01:20 UTC
 Total claims: 15183 | Removed: 0 | Added: 0
 
