@@ -1,4 +1,15 @@
 
+## 2026-05-28 03:15 UTC
+Total claims: 15187 | Removed: 1 | Added: 1
+
+### Removed
+**_Foo4798** — 1 claim(s), 126 blocks total
+  - (-2426,-20560) → (-2408,-20553) center (-2417,-20557) size 18×7
+
+### Added
+**OceanicFlames** — 1 claim(s), 110 blocks total
+  - (20534,-10517) → (20544,-10506) center (20539,-10512) size 10×11
+
 ## 2026-05-28 02:39 UTC
 Total claims: 15187 | Removed: 1 | Added: 3
 
