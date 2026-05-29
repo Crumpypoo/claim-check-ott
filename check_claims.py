@@ -6,7 +6,7 @@ SNAPSHOT_FILE = "data/snapshot.json"
 LOG_FILE = "data/changes.md"
 WATCHLIST_FILE = "watchlist.txt"
 DISCORD_WEBHOOK = os.environ.get("DISCORD_WEBHOOK")
-REMOVAL_THRESHOLD = 150  # if more than this many claims are removed, verify before alerting
+REMOVAL_THRESHOLD = 150
 
 os.makedirs("data", exist_ok=True)
 
@@ -78,6 +78,31 @@ def group_by_player(claims):
     return dict(sorted(grouped.items(), key=lambda x: len(x[1]), reverse=True))
 
 
+def overlaps(c, other):
+    """Returns True if two claims overlap at all."""
+    return (c["x1"] < other["x2"] and c["x2"] > other["x1"] and
+            c["z1"] < other["z2"] and c["z2"] > other["z1"])
+
+
+def filter_reclaimed(removed, added):
+    """
+    Filter out removed claims whose area is covered by a new claim.
+    These are just players readjusting their borders, not real removals.
+    """
+    truly_removed = []
+    skipped = 0
+    for r in removed:
+        covered = any(overlaps(r, a) for a in added)
+        if covered:
+            print(f"  SKIPPED (area reclaimed) — {r['owner']} at ({r['cx']},{r['cz']})")
+            skipped += 1
+        else:
+            truly_removed.append(r)
+    if skipped:
+        print(f"  Filtered out {skipped} reclaimed removals, {len(truly_removed)} genuine removals remain.")
+    return truly_removed
+
+
 def post_discord(content):
     payload = {"content": content}
     print(f"Sending Discord message ({len(content)} chars)...")
@@ -90,7 +115,6 @@ def post_discord(content):
 
 def verify_removals(snapshot, removed, retries=2, delay=30):
     """Re-fetch the map to confirm large removals are real and not a glitch."""
-    snapshot_keys = {claim_key(c) for c in snapshot}
     removed_keys = {claim_key(c) for c in removed}
 
     for attempt in range(1, retries + 1):
@@ -103,7 +127,6 @@ def verify_removals(snapshot, removed, retries=2, delay=30):
             fresh = parse_claims(data)
             fresh_keys = {claim_key(c) for c in fresh}
 
-            # Check how many of the "removed" claims are still gone in the fresh fetch
             still_gone = removed_keys - fresh_keys
             came_back = removed_keys & fresh_keys
 
@@ -111,7 +134,6 @@ def verify_removals(snapshot, removed, retries=2, delay=30):
 
             if len(came_back) > len(still_gone):
                 print(f"  Most claims came back — this looks like a map glitch. Skipping notification.")
-                # Return the fresh claims as the new current so snapshot updates correctly
                 return False, fresh
             else:
                 print(f"  Claims still gone after re-fetch — looks real.")
@@ -176,14 +198,14 @@ def send_discord(removed, total, watchlist):
     post_discord("\n".join(lines))
 
 
-def append_log(removed, added, now_str, total):
+def append_log(removed, added, skipped, now_str, total):
     lines = []
     if os.path.exists(LOG_FILE):
         with open(LOG_FILE) as f:
             lines = f.readlines()
 
     entry = [f"\n## {now_str}\n"]
-    entry.append(f"Total claims: {total} | Removed: {len(removed)} | Added: {len(added)}\n\n")
+    entry.append(f"Total claims: {total} | Removed: {len(removed)} | Added: {len(added)} | Skipped (reclaimed): {skipped}\n\n")
 
     if removed:
         entry.append("### Removed\n")
@@ -244,22 +266,22 @@ def main():
             added   = [c for c in current  if claim_key(c) not in snapshot_keys]
 
             print(f"Baseline from {snapshot_time}: {len(snapshot)} claims")
-            print(f"Changes — removed: {len(removed)}, added: {len(added)}")
+            print(f"Raw changes — removed: {len(removed)}, added: {len(added)}")
 
             # If removals exceed threshold, verify before alerting
             if len(removed) > REMOVAL_THRESHOLD:
                 confirmed, fresh_claims = verify_removals(snapshot, removed)
                 if not confirmed:
                     print("Removals not confirmed — treating as map glitch, resetting baseline.")
-                    # Use the fresh fetch as the new current if we got one
                     if fresh_claims:
                         current = fresh_claims
                     removed, added = [], []
                 else:
-                    print(f"Removals confirmed across multiple fetches — sending alert.")
-                    for c in removed:
-                        print(f"  REMOVED — {c['owner']} at ({c['cx']},{c['cz']})")
+                    print(f"Removals confirmed — filtering reclaimed areas...")
+                    removed = filter_reclaimed(removed, added)
             else:
+                # Filter out reclaimed areas for normal runs too
+                removed = filter_reclaimed(removed, added)
                 for c in removed:
                     print(f"  REMOVED — {c['owner']} at ({c['cx']},{c['cz']})")
                 for c in added:
@@ -267,7 +289,10 @@ def main():
     else:
         print("No snapshot found — saving initial baseline.")
 
-    append_log(removed, added, now_str, len(current))
+    skipped_count = len([c for c in (saved.get("claims", []) if os.path.exists(SNAPSHOT_FILE) else [])
+                         if claim_key(c) not in current_keys and c not in removed]) if os.path.exists(SNAPSHOT_FILE) else 0
+
+    append_log(removed, added, skipped_count, now_str, len(current))
     send_discord(removed, len(current), watchlist)
 
     with open(SNAPSHOT_FILE, "w") as f:
