@@ -1,4 +1,23 @@
 
+## 2026-06-01 23:20 UTC
+Total claims: 15245 | Removed: 3 | Added: 3 | Skipped (reclaimed): 1
+
+### Removed
+**pumpkintheorange** — 1 claim(s), 140 blocks total
+  - (-21070,-3749) → (-21060,-3735) center (-21065,-3742) size 10×14
+**LordMoritz15** — 1 claim(s), 121 blocks total
+  - (-22391,-21613) → (-22380,-21602) center (-22386,-21608) size 11×11
+**flurbs** — 1 claim(s), 1,209 blocks total
+  - (-20832,14568) → (-20793,14599) center (-20813,14583) size 39×31
+
+### Added
+**CatsuKurry** — 1 claim(s), 1,088 blocks total
+  - (-18229,21100) → (-18197,21134) center (-18213,21117) size 32×34
+**_BlueCopperr** — 1 claim(s), 17,098 blocks total
+  - (-24868,-22496) → (-24765,-22330) center (-24817,-22413) size 103×166
+**Moonlitknight83** — 1 claim(s), 3,111 blocks total
+  - (-15724,22565) → (-15673,22626) center (-15699,22595) size 51×61
+
 ## 2026-06-01 20:09 UTC
 Total claims: 15246 | Removed: 5 | Added: 21 | Skipped (reclaimed): 5
 
