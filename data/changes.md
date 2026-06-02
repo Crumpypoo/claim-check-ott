@@ -1,4 +1,32 @@
 
+## 2026-06-02 02:33 UTC
+Total claims: 15245 | Removed: 4 | Added: 7 | Skipped (reclaimed): 3
+
+### Removed
+**XianLaoZu** — 2 claim(s), 633 blocks total
+  - (-10714,-11793) → (-10706,-11778) center (-10710,-11786) size 8×15
+  - (-10725,-11832) → (-10706,-11805) center (-10716,-11819) size 19×27
+**Fir_Bot** — 1 claim(s), 231 blocks total
+  - (21408,-13343) → (21429,-13332) center (21418,-13338) size 21×11
+**Destroy3r113** — 1 claim(s), 3,888 blocks total
+  - (-21711,9918) → (-21639,9972) center (-21675,9945) size 72×54
+
+### Added
+**DuffyGaming** — 1 claim(s), 117,376 blocks total
+  - (13471,-17933) → (13695,-17409) center (13583,-17671) size 224×524
+**JBcraft2** — 1 claim(s), 104 blocks total
+  - (10128,-20676) → (10141,-20668) center (10134,-20672) size 13×8
+**joaqui1214** — 1 claim(s), 1,276 blocks total
+  - (-17129,-15190) → (-17085,-15161) center (-17107,-15176) size 44×29
+**Tigerlily86427** — 1 claim(s), 286 blocks total
+  - (-19224,-20757) → (-19202,-20744) center (-19213,-20751) size 22×13
+**Adela503** — 1 claim(s), 289 blocks total
+  - (15078,22881) → (15095,22898) center (15086,22889) size 17×17
+**Lilylu22** — 1 claim(s), 44,748 blocks total
+  - (-14479,-21381) → (-14253,-21183) center (-14366,-21282) size 226×198
+**osaaki** — 1 claim(s), 199,920 blocks total
+  - (1985,15584) → (2495,15976) center (2240,15780) size 510×392
+
 ## 2026-06-01 23:20 UTC
 Total claims: 15245 | Removed: 3 | Added: 3 | Skipped (reclaimed): 1
 
