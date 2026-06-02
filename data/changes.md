@@ -1,4 +1,44 @@
 
+## 2026-06-02 20:49 UTC
+Total claims: 15276 | Removed: 3 | Added: 17 | Skipped (reclaimed): 3
+
+### Removed
+**67__________** — 1 claim(s), 500 blocks total
+  - (-1840,10126) → (-1815,10146) center (-1828,10136) size 25×20
+**JBcraft2** — 1 claim(s), 104 blocks total
+  - (10128,-20676) → (10141,-20668) center (10134,-20672) size 13×8
+**shirazaliviC** — 1 claim(s), 1,089 blocks total
+  - (-2629,-23054) → (-2596,-23021) center (-2613,-23038) size 33×33
+
+### Added
+**ProGamer5B** — 3 claim(s), 1,060 blocks total
+  - (-11044,23006) → (-11021,23029) center (-11033,23017) size 23×23
+  - (-11008,23020) → (-10999,23035) center (-11004,23027) size 9×15
+  - (-3324,-21820) → (-3302,-21802) center (-3313,-21811) size 22×18
+**_KawaiiPotato415** — 3 claim(s), 3,529 blocks total
+  - (-16728,10674) → (-16695,10706) center (-16712,10690) size 33×32
+  - (-16667,10421) → (-16624,10464) center (-16646,10442) size 43×43
+  - (-16886,10691) → (-16860,10715) center (-16873,10703) size 26×24
+**SCHRYZ0** — 3 claim(s), 1,362 blocks total
+  - (9838,22201) → (9867,22213) center (9852,22207) size 29×12
+  - (9799,22213) → (9838,22227) center (9818,22220) size 39×14
+  - (9799,22201) → (9838,22213) center (9818,22207) size 39×12
+**AwesomesauceIII** — 2 claim(s), 6,246 blocks total
+  - (9881,16124) → (9935,16218) center (9908,16171) size 54×94
+  - (9935,16140) → (9950,16218) center (9942,16179) size 15×78
+**JBcraft2** — 1 claim(s), 220 blocks total
+  - (10144,-20710) → (10154,-20688) center (10149,-20699) size 10×22
+**Phantom_Bandit** — 1 claim(s), 575 blocks total
+  - (-14854,-21537) → (-14831,-21512) center (-14843,-21525) size 23×25
+**Walesyyy** — 1 claim(s), 682 blocks total
+  - (22226,4718) → (22248,4749) center (22237,4733) size 22×31
+**WhatHealthBar** — 1 claim(s), 246 blocks total
+  - (-21148,12778) → (-21107,12784) center (-21128,12781) size 41×6
+**jeryak1** — 1 claim(s), 156 blocks total
+  - (20787,-12568) → (20800,-12556) center (20793,-12562) size 13×12
+**Puppersnifs** — 1 claim(s), 1,050 blocks total
+  - (-21365,-5170) → (-21330,-5140) center (-21348,-5155) size 35×30
+
 ## 2026-06-02 17:59 UTC
 Total claims: 15265 | Removed: 0 | Added: 28 | Skipped (reclaimed): 15
 
