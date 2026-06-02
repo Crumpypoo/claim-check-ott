@@ -1,4 +1,25 @@
 
+## 2026-06-02 13:46 UTC
+Total claims: 15252 | Removed: 2 | Added: 7 | Skipped (reclaimed): 3
+
+### Removed
+**bobrrik** — 1 claim(s), 104 blocks total
+  - (-16685,669) → (-16672,677) center (-16679,673) size 13×8
+**excaliberpro** — 1 claim(s), 364 blocks total
+  - (-21671,-18886) → (-21645,-18872) center (-21658,-18879) size 26×14
+
+### Added
+**_SuetySpoon2947** — 4 claim(s), 804 blocks total
+  - (-20589,1208) → (-20579,1234) center (-20584,1221) size 10×26
+  - (-20579,1196) → (-20568,1209) center (-20574,1202) size 11×13
+  - (-20567,1182) → (-20542,1191) center (-20555,1186) size 25×9
+  - (-20542,1182) → (-20531,1198) center (-20537,1190) size 11×16
+**CielaOriel** — 2 claim(s), 178,687 blocks total
+  - (1881,16849) → (2272,17222) center (2076,17035) size 391×373
+  - (1715,16203) → (1919,16364) center (1817,16283) size 204×161
+**Pufferficsh** — 1 claim(s), 1,124,508 blocks total
+  - (-24023,-3101) → (-22806,-2177) center (-23415,-2639) size 1217×924
+
 ## 2026-06-02 08:19 UTC
 Total claims: 15250 | Removed: 2 | Added: 18 | Skipped (reclaimed): 11
 
