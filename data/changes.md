@@ -1,4 +1,38 @@
 
+## 2026-06-02 23:26 UTC
+Total claims: 15278 | Removed: 6 | Added: 10 | Skipped (reclaimed): 2
+
+### Removed
+**shadowstorm45** — 3 claim(s), 1,291 blocks total
+  - (-21554,21042) → (-21540,21052) center (-21547,21047) size 14×10
+  - (-21580,21000) → (-21562,21017) center (-21571,21008) size 18×17
+  - (-21598,21018) → (-21533,21031) center (-21566,21024) size 65×13
+**_Itz_Lunaa26** — 1 claim(s), 312 blocks total
+  - (3855,22716) → (3867,22742) center (3861,22729) size 12×26
+**MunchkinCeli** — 1 claim(s), 495 blocks total
+  - (-22837,15065) → (-22804,15080) center (-22821,15072) size 33×15
+**AveryHasAura** — 1 claim(s), 494 blocks total
+  - (-22061,19481) → (-22035,19500) center (-22048,19490) size 26×19
+
+### Added
+**BriannaNicole50** — 3 claim(s), 496 blocks total
+  - (20765,-8025) → (20779,-8016) center (20772,-8021) size 14×9
+  - (20779,-8016) → (20797,-8003) center (20788,-8010) size 18×13
+  - (20762,-8016) → (20770,-7999) center (20766,-8008) size 8×17
+**GullyIsSilly** — 2 claim(s), 1,381 blocks total
+  - (-23117,-11157) → (-23106,-11142) center (-23112,-11150) size 11×15
+  - (-23214,-11208) → (-23176,-11176) center (-23195,-11192) size 38×32
+**_SofiTheTrex** — 1 claim(s), 3,105 blocks total
+  - (-23076,-4964) → (-23031,-4895) center (-23054,-4930) size 45×69
+**shadowstorm45** — 1 claim(s), 1,850 blocks total
+  - (-9362,21379) → (-9325,21429) center (-9344,21404) size 37×50
+**Farchelman69** — 1 claim(s), 2,592 blocks total
+  - (-22191,-10134) → (-22143,-10080) center (-22167,-10107) size 48×54
+**LoTREMOR** — 1 claim(s), 858 blocks total
+  - (-15815,-23156) → (-15782,-23130) center (-15799,-23143) size 33×26
+**_QueenGoldy10** — 1 claim(s), 121 blocks total
+  - (-2135,10198) → (-2124,10209) center (-2130,10203) size 11×11
+
 ## 2026-06-02 20:49 UTC
 Total claims: 15276 | Removed: 3 | Added: 17 | Skipped (reclaimed): 3
 
