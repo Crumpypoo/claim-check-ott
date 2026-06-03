@@ -1,4 +1,29 @@
 
+## 2026-06-03 02:40 UTC
+Total claims: 15282 | Removed: 1 | Added: 8 | Skipped (reclaimed): 3
+
+### Removed
+**Kaihodestyn** — 1 claim(s), 49,056 blocks total
+  - (-21064,14482) → (-20840,14701) center (-20952,14591) size 224×219
+
+### Added
+**Juliettas** — 1 claim(s), 988 blocks total
+  - (-21055,21286) → (-21017,21312) center (-21036,21299) size 38×26
+**Bonkadin** — 1 claim(s), 1,672 blocks total
+  - (-21494,-16213) → (-21456,-16169) center (-21475,-16191) size 38×44
+**Dakota08NOX** — 1 claim(s), 920 blocks total
+  - (-22989,12295) → (-22966,12335) center (-22978,12315) size 23×40
+**IcedxSync** — 1 claim(s), 10,368 blocks total
+  - (-2713,2493) → (-2551,2557) center (-2632,2525) size 162×64
+**tylertheepik1724** — 1 claim(s), 570 blocks total
+  - (-12590,-21964) → (-12560,-21945) center (-12575,-21955) size 30×19
+**Chinatsu_Kairi** — 1 claim(s), 192 blocks total
+  - (-20140,-22581) → (-20128,-22565) center (-20134,-22573) size 12×16
+**AirShorky** — 1 claim(s), 237,762 blocks total
+  - (1254,-14720) → (1772,-14261) center (1513,-14491) size 518×459
+**PeakRose** — 1 claim(s), 111,930 blocks total
+  - (21636,-4131) → (21923,-3741) center (21779,-3936) size 287×390
+
 ## 2026-06-02 23:26 UTC
 Total claims: 15278 | Removed: 6 | Added: 10 | Skipped (reclaimed): 2
 
