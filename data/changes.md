@@ -1,4 +1,37 @@
 
+## 2026-06-03 14:20 UTC
+Total claims: 15285 | Removed: 8 | Added: 6 | Skipped (reclaimed): 2
+
+### Removed
+**DaniTheDummyBear** — 2 claim(s), 240 blocks total
+  - (-20805,-16249) → (-20797,-16234) center (-20801,-16242) size 8×15
+  - (-20798,-16233) → (-20793,-16209) center (-20796,-16221) size 5×24
+**BDTlme** — 1 claim(s), 416 blocks total
+  - (19722,21800) → (19735,21832) center (19728,21816) size 13×32
+**_Mirokuu_** — 1 claim(s), 588 blocks total
+  - (-17493,21924) → (-17472,21952) center (-17483,21938) size 21×28
+**_Nath04227** — 1 claim(s), 121 blocks total
+  - (-23380,-322) → (-23369,-311) center (-23375,-317) size 11×11
+**On_Fire13** — 1 claim(s), 121 blocks total
+  - (-2561,-21906) → (-2550,-21895) center (-2556,-21901) size 11×11
+**Thorntree** — 1 claim(s), 1,680 blocks total
+  - (-1903,-21851) → (-1863,-21809) center (-1883,-21830) size 40×42
+**HAMPTER77** — 1 claim(s), 580 blocks total
+  - (-20861,-5575) → (-20841,-5546) center (-20851,-5561) size 20×29
+
+### Added
+**_Maraaaat01** — 2 claim(s), 655 blocks total
+  - (-2807,22424) → (-2796,22469) center (-2802,22446) size 11×45
+  - (-2788,22467) → (-2772,22477) center (-2780,22472) size 16×10
+**_QuickRex7255** — 1 claim(s), 108 blocks total
+  - (23329,4847) → (23341,4856) center (23335,4851) size 12×9
+**ShootingTree** — 1 claim(s), 672 blocks total
+  - (-14321,-21654) → (-14293,-21630) center (-14307,-21642) size 28×24
+**DelinyaGamingNL** — 1 claim(s), 2,166 blocks total
+  - (20507,-15287) → (20564,-15249) center (20535,-15268) size 57×38
+**NULL10232** — 1 claim(s), 270 blocks total
+  - (-16053,-3846) → (-16035,-3831) center (-16044,-3839) size 18×15
+
 ## 2026-06-03 08:46 UTC
 Total claims: 15289 | Removed: 2 | Added: 14 | Skipped (reclaimed): 5
 
