@@ -1,4 +1,26 @@
 
+## 2026-06-04 12:37 UTC
+Total claims: 15313 | Removed: 3 | Added: 5 | Skipped (reclaimed): 3
+
+### Removed
+**toxicsk** — 2 claim(s), 541 blocks total
+  - (13221,22785) → (13229,22802) center (13225,22793) size 8×17
+  - (13097,22767) → (13124,22782) center (13110,22774) size 27×15
+**Theosh19** — 1 claim(s), 110 blocks total
+  - (-22093,1152) → (-22082,1162) center (-22088,1157) size 11×10
+
+### Added
+**ProtoShark** — 1 claim(s), 783 blocks total
+  - (-4314,21915) → (-4287,21944) center (-4301,21929) size 27×29
+**_mrbobberig** — 1 claim(s), 650 blocks total
+  - (-7436,23257) → (-7410,23282) center (-7423,23269) size 26×25
+**_toyoda_wrath** — 1 claim(s), 672 blocks total
+  - (-1821,21869) → (-1789,21890) center (-1805,21879) size 32×21
+**SoldierOfAstris** — 1 claim(s), 111,600 blocks total
+  - (-20647,23869) → (-20407,24334) center (-20527,24101) size 240×465
+**The_Orange_Sage** — 1 claim(s), 40,764 blocks total
+  - (9884,21957) → (10056,22194) center (9970,22075) size 172×237
+
 ## 2026-06-04 08:11 UTC
 Total claims: 15314 | Removed: 5 | Added: 7 | Skipped (reclaimed): 3
 
