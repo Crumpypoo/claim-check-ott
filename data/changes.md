@@ -1,4 +1,23 @@
 
+## 2026-06-04 23:00 UTC
+Total claims: 15337 | Removed: 2 | Added: 4 | Skipped (reclaimed): 1
+
+### Removed
+**WolfyTB_** — 1 claim(s), 533 blocks total
+  - (-21516,4372) → (-21503,4413) center (-21510,4392) size 13×41
+**offeredword1469** — 1 claim(s), 150 blocks total
+  - (-22609,-21272) → (-22594,-21262) center (-22602,-21267) size 15×10
+
+### Added
+**YourlocalVii** — 1 claim(s), 272 blocks total
+  - (-3452,-16071) → (-3435,-16055) center (-3444,-16063) size 17×16
+**terrornight3174** — 1 claim(s), 176 blocks total
+  - (424,-22033) → (435,-22017) center (429,-22025) size 11×16
+**BratsDaddy** — 1 claim(s), 1,242 blocks total
+  - (-22869,20490) → (-22823,20517) center (-22846,20503) size 46×27
+**ChocolateChippy_** — 1 claim(s), 17,688 blocks total
+  - (-23370,-6024) → (-23238,-5890) center (-23304,-5957) size 132×134
+
 ## 2026-06-04 21:22 UTC
 Total claims: 15336 | Removed: 1 | Added: 8 | Skipped (reclaimed): 4
 
