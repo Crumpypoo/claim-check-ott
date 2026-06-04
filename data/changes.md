@@ -1,4 +1,27 @@
 
+## 2026-06-04 21:22 UTC
+Total claims: 15336 | Removed: 1 | Added: 8 | Skipped (reclaimed): 4
+
+### Removed
+**_Y77hhed** — 1 claim(s), 288 blocks total
+  - (38,21201) → (56,21217) center (47,21209) size 18×16
+
+### Added
+**KennaIsBliss** — 2 claim(s), 151,934 blocks total
+  - (-21440,-6024) → (-20901,-5750) center (-21171,-5887) size 539×274
+  - (20364,-838) → (20423,-766) center (20393,-802) size 59×72
+**AlexanderGranger** — 2 claim(s), 166,068 blocks total
+  - (22030,23823) → (22074,23845) center (22052,23834) size 44×22
+  - (18188,24652) → (18696,24977) center (18442,24814) size 508×325
+**Dark213124** — 1 claim(s), 121 blocks total
+  - (-21312,2374) → (-21301,2385) center (-21307,2379) size 11×11
+**SheikahSoap** — 1 claim(s), 440 blocks total
+  - (2453,23424) → (2473,23446) center (2463,23435) size 20×22
+**Divzer** — 1 claim(s), 930 blocks total
+  - (-10463,21711) → (-10432,21741) center (-10448,21726) size 31×30
+**hazy777** — 1 claim(s), 180 blocks total
+  - (6515,21271) → (6535,21280) center (6525,21275) size 20×9
+
 ## 2026-06-04 19:53 UTC
 Total claims: 15333 | Removed: 3 | Added: 8 | Skipped (reclaimed): 2
 
