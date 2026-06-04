@@ -1,4 +1,30 @@
 
+## 2026-06-04 19:53 UTC
+Total claims: 15333 | Removed: 3 | Added: 8 | Skipped (reclaimed): 2
+
+### Removed
+**_TunefulFoil1031** — 3 claim(s), 1,500 blocks total
+  - (-22346,-10784) → (-22328,-10762) center (-22337,-10773) size 18×22
+  - (-22102,-10924) → (-22097,-10880) center (-22100,-10902) size 5×44
+  - (-22263,-10907) → (-22211,-10890) center (-22237,-10899) size 52×17
+
+### Added
+**AwesomesauceIII** — 2 claim(s), 6,432 blocks total
+  - (9859,16124) → (9882,16136) center (9870,16130) size 23×12
+  - (9859,16146) → (9935,16227) center (9897,16186) size 76×81
+**Strikertig** — 1 claim(s), 1,160 blocks total
+  - (7624,-21410) → (7653,-21370) center (7638,-21390) size 29×40
+**_noobgod1231261** — 1 claim(s), 121 blocks total
+  - (9519,-21685) → (9530,-21674) center (9524,-21680) size 11×11
+**xmiorxYT** — 1 claim(s), 1,000 blocks total
+  - (-22266,-17763) → (-22226,-17738) center (-22246,-17751) size 40×25
+**FrostyTF_** — 1 claim(s), 2,401 blocks total
+  - (-21820,23056) → (-21771,23105) center (-21796,23080) size 49×49
+**Hyper_pog** — 1 claim(s), 4,420 blocks total
+  - (23533,20738) → (23601,20803) center (23567,20770) size 68×65
+**CatsuKurry** — 1 claim(s), 2,400 blocks total
+  - (-18247,21090) → (-18197,21138) center (-18222,21114) size 50×48
+
 ## 2026-06-04 16:42 UTC
 Total claims: 15330 | Removed: 1 | Added: 22 | Skipped (reclaimed): 4
 
