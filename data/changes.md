@@ -1,4 +1,51 @@
 
+## 2026-06-04 16:42 UTC
+Total claims: 15330 | Removed: 1 | Added: 22 | Skipped (reclaimed): 4
+
+### Removed
+**ec1warc1** — 1 claim(s), 1,197 blocks total
+  - (-362,476) → (-341,533) center (-352,504) size 21×57
+
+### Added
+**AsterPerthos** — 5 claim(s), 868 blocks total
+  - (22418,-14822) → (22445,-14815) center (22431,-14819) size 27×7
+  - (22412,-14843) → (22419,-14825) center (22415,-14834) size 7×18
+  - (22401,-14845) → (22412,-14834) center (22406,-14840) size 11×11
+  - (-8194,-19071) → (-8182,-19051) center (-8188,-19061) size 12×20
+  - (-8186,-19050) → (-8170,-19038) center (-8178,-19044) size 16×12
+**jackistaken** — 2 claim(s), 3,370 blocks total
+  - (12599,16449) → (12610,16460) center (12604,16454) size 11×11
+  - (11586,19091) → (11643,19148) center (11614,19119) size 57×57
+**JcSyncc** — 2 claim(s), 181,083 blocks total
+  - (-22196,1448) → (-21794,1849) center (-21995,1648) size 402×401
+  - (-22347,1720) → (-22206,1861) center (-22277,1790) size 141×141
+**Puppersnifs** — 1 claim(s), 5,700 blocks total
+  - (-21406,-5215) → (-21330,-5140) center (-21368,-5178) size 76×75
+**marcdeark** — 1 claim(s), 120 blocks total
+  - (21521,17580) → (21531,17592) center (21526,17586) size 10×12
+**Mai_Two** — 1 claim(s), 165 blocks total
+  - (4972,21323) → (4987,21334) center (4979,21328) size 15×11
+**Andrew_B1225** — 1 claim(s), 1,131 blocks total
+  - (23184,-12495) → (23223,-12466) center (23203,-12481) size 39×29
+**Aspen_Max** — 1 claim(s), 2,744 blocks total
+  - (-2571,23795) → (-2515,23844) center (-2543,23819) size 56×49
+**vipor4523_** — 1 claim(s), 286 blocks total
+  - (22527,4003) → (22549,4016) center (22538,4009) size 22×13
+**EncryptedKoala23** — 1 claim(s), 1,892 blocks total
+  - (23147,23400) → (23190,23444) center (23168,23422) size 43×44
+**Isette** — 1 claim(s), 945 blocks total
+  - (20836,20932) → (20857,20977) center (20846,20954) size 21×45
+**chesserr9b** — 1 claim(s), 117 blocks total
+  - (-9400,-22037) → (-9387,-22028) center (-9394,-22033) size 13×9
+**XkittensparklesX** — 1 claim(s), 3,075 blocks total
+  - (-20771,-4057) → (-20696,-4016) center (-20734,-4037) size 75×41
+**darthmarega** — 1 claim(s), 690 blocks total
+  - (-16282,22239) → (-16236,22254) center (-16259,22246) size 46×15
+**q_jojo_p2000** — 1 claim(s), 357 blocks total
+  - (8072,-23179) → (8093,-23162) center (8082,-23171) size 21×17
+**SecretlyTimDrake** — 1 claim(s), 8,772 blocks total
+  - (-13451,22222) → (-13365,22324) center (-13408,22273) size 86×102
+
 ## 2026-06-04 12:37 UTC
 Total claims: 15313 | Removed: 3 | Added: 5 | Skipped (reclaimed): 3
 
