@@ -1,4 +1,41 @@
 
+## 2026-06-04 02:35 UTC
+Total claims: 15315 | Removed: 2 | Added: 15 | Skipped (reclaimed): 6
+
+### Removed
+**ShrimGang_** — 1 claim(s), 169 blocks total
+  - (22188,-199) → (22201,-186) center (22194,-193) size 13×13
+**logan92574** — 1 claim(s), 551 blocks total
+  - (21969,-5871) → (21998,-5852) center (21983,-5862) size 29×19
+
+### Added
+**DangerPaws** — 5 claim(s), 85,574 blocks total
+  - (11379,22233) → (11509,22423) center (11444,22328) size 130×190
+  - (11509,22233) → (11580,22422) center (11544,22327) size 71×189
+  - (11531,22422) → (11703,22523) center (11617,22472) size 172×101
+  - (11379,22423) → (11531,22523) center (11455,22473) size 152×100
+  - (11580,22301) → (11703,22422) center (11641,22361) size 123×121
+**odetoearth** — 1 claim(s), 10,197 blocks total
+  - (-21749,614) → (-21646,713) center (-21698,663) size 103×99
+**IcyyyyBoiiii** — 1 claim(s), 438,680 blocks total
+  - (-537,-23319) → (460,-22879) center (-39,-23099) size 997×440
+**Puppersnifs** — 1 claim(s), 4,104 blocks total
+  - (-21406,-5194) → (-21330,-5140) center (-21368,-5167) size 76×54
+**joshuaparker23** — 1 claim(s), 121 blocks total
+  - (-20546,-3359) → (-20535,-3348) center (-20541,-3354) size 11×11
+**_AlienCarton3630** — 1 claim(s), 3,212 blocks total
+  - (1980,20953) → (2024,21026) center (2002,20989) size 44×73
+**_SofiTheTrex** — 1 claim(s), 15,022 blocks total
+  - (-23077,-4975) → (-22874,-4901) center (-22976,-4938) size 203×74
+**toetagpat13** — 1 claim(s), 117 blocks total
+  - (16438,7578) → (16447,7591) center (16442,7584) size 9×13
+**_Numeral** — 1 claim(s), 273 blocks total
+  - (3313,-21766) → (3326,-21745) center (3319,-21756) size 13×21
+**BRUHbelike** — 1 claim(s), 7,310 blocks total
+  - (20995,14359) → (21080,14445) center (21037,14402) size 85×86
+**Sourdiese42** — 1 claim(s), 154 blocks total
+  - (-9445,-23112) → (-9431,-23101) center (-9438,-23107) size 14×11
+
 ## 2026-06-03 22:22 UTC
 Total claims: 15308 | Removed: 2 | Added: 3374 | Skipped (reclaimed): 6
 
