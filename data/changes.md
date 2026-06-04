@@ -1,4 +1,33 @@
 
+## 2026-06-04 08:11 UTC
+Total claims: 15314 | Removed: 5 | Added: 7 | Skipped (reclaimed): 3
+
+### Removed
+**Fredy1401** — 2 claim(s), 520 blocks total
+  - (-15883,-15364) → (-15873,-15353) center (-15878,-15359) size 10×11
+  - (-15939,-15342) → (-15898,-15332) center (-15919,-15337) size 41×10
+**_P4RM3NEU** — 1 claim(s), 992 blocks total
+  - (22195,-6307) → (22226,-6275) center (22210,-6291) size 31×32
+**ToxiccOzzy** — 1 claim(s), 580 blocks total
+  - (23093,-7449) → (23122,-7429) center (23107,-7439) size 29×20
+**LoulasA** — 1 claim(s), 440 blocks total
+  - (-3619,-21347) → (-3597,-21327) center (-3608,-21337) size 22×20
+
+### Added
+**_AlienCarton3630** — 2 claim(s), 12,769 blocks total
+  - (1980,20953) → (2095,20972) center (2037,20962) size 115×19
+  - (1956,20972) → (2103,21044) center (2029,21008) size 147×72
+**Mxdimoo** — 1 claim(s), 2,541 blocks total
+  - (22576,-11150) → (22609,-11073) center (22592,-11112) size 33×77
+**lennykat** — 1 claim(s), 121 blocks total
+  - (-22592,-21276) → (-22581,-21265) center (-22587,-21271) size 11×11
+**SUUNYSYDEUP** — 1 claim(s), 8,300 blocks total
+  - (-14548,-21609) → (-14448,-21526) center (-14498,-21568) size 100×83
+**CluelessCamilla** — 1 claim(s), 1,938 blocks total
+  - (-22634,-21573) → (-22583,-21535) center (-22609,-21554) size 51×38
+**inexactknight** — 1 claim(s), 1,974 blocks total
+  - (-22605,-21506) → (-22563,-21459) center (-22584,-21483) size 42×47
+
 ## 2026-06-04 02:35 UTC
 Total claims: 15315 | Removed: 2 | Added: 15 | Skipped (reclaimed): 6
 
