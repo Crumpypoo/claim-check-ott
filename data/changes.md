@@ -1,4 +1,23 @@
 
+## 2026-06-05 14:22 UTC
+Total claims: 15355 | Removed: 2 | Added: 4 | Skipped (reclaimed): 0
+
+### Removed
+**_WildBreadeater8** — 1 claim(s), 368 blocks total
+  - (-21367,-16892) → (-21351,-16869) center (-21359,-16881) size 16×23
+**Maccoy31** — 1 claim(s), 114 blocks total
+  - (-21488,-23520) → (-21469,-23514) center (-21479,-23517) size 19×6
+
+### Added
+**Next_tommorow** — 1 claim(s), 594 blocks total
+  - (11090,-22122) → (11117,-22100) center (11103,-22111) size 27×22
+**AriLuxury** — 1 claim(s), 1,512 blocks total
+  - (21055,12232) → (21091,12274) center (21073,12253) size 36×42
+**Wilsons101** — 1 claim(s), 625 blocks total
+  - (6549,-22888) → (6574,-22863) center (6561,-22876) size 25×25
+**Noxxyss** — 1 claim(s), 168 blocks total
+  - (18473,22286) → (18487,22298) center (18480,22292) size 14×12
+
 ## 2026-06-05 11:28 UTC
 Total claims: 15353 | Removed: 0 | Added: 0 | Skipped (reclaimed): 1042
 
