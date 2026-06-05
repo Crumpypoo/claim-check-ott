@@ -1,4 +1,48 @@
 
+## 2026-06-05 17:46 UTC
+Total claims: 15368 | Removed: 2 | Added: 19 | Skipped (reclaimed): 4
+
+### Removed
+**Jaebee0** — 1 claim(s), 110 blocks total
+  - (23044,23111) → (23055,23121) center (23049,23116) size 11×10
+**PippaWelly05** — 1 claim(s), 400 blocks total
+  - (-23268,13763) → (-23252,13788) center (-23260,13775) size 16×25
+
+### Added
+**jarijillas2k** — 2 claim(s), 436 blocks total
+  - (8891,-21000) → (8905,-20976) center (8898,-20988) size 14×24
+  - (8837,-21000) → (8847,-20990) center (8842,-20995) size 10×10
+**Twhx** — 2 claim(s), 10,322 blocks total
+  - (-11076,-20337) → (-10975,-20236) center (-11026,-20287) size 101×101
+  - (-3158,-23093) → (-3147,-23082) center (-3153,-23088) size 11×11
+**chaos8788** — 2 claim(s), 285 blocks total
+  - (4106,-15442) → (4111,-15421) center (4108,-15432) size 5×21
+  - (4088,-15449) → (4100,-15434) center (4094,-15442) size 12×15
+**Ace_Card_01** — 2 claim(s), 138,685 blocks total
+  - (22992,22939) → (22999,22954) center (22995,22946) size 7×15
+  - (22491,22528) → (22901,22866) center (22696,22697) size 410×338
+**_crimson65040** — 2 claim(s), 560 blocks total
+  - (23596,-10682) → (23604,-10634) center (23600,-10658) size 8×48
+  - (23588,-10677) → (23596,-10655) center (23592,-10666) size 8×22
+**Kxynta** — 1 claim(s), 187 blocks total
+  - (21740,-13859) → (21751,-13842) center (21745,-13851) size 11×17
+**_Emmie_Wemmie_** — 1 claim(s), 1,290 blocks total
+  - (-21938,23603) → (-21908,23646) center (-21923,23624) size 30×43
+**Next_tommorow** — 1 claim(s), 121 blocks total
+  - (-8593,23572) → (-8582,23583) center (-8588,23577) size 11×11
+**_HardChalk390779** — 1 claim(s), 121 blocks total
+  - (22452,8525) → (22463,8536) center (22457,8530) size 11×11
+**waffelsthe1rst** — 1 claim(s), 840 blocks total
+  - (-20973,23389) → (-20945,23419) center (-20959,23404) size 28×30
+**B4Z00K4_** — 1 claim(s), 897 blocks total
+  - (-21719,23614) → (-21680,23637) center (-21700,23625) size 39×23
+**_Leobeekingyt** — 1 claim(s), 1,173 blocks total
+  - (23606,-10682) → (23629,-10631) center (23617,-10657) size 23×51
+**Im_Xto** — 1 claim(s), 4,422 blocks total
+  - (-20322,-21857) → (-20255,-21791) center (-20289,-21824) size 67×66
+**Sharpie066** — 1 claim(s), 106,793 blocks total
+  - (-21585,4449) → (-21188,4718) center (-21387,4583) size 397×269
+
 ## 2026-06-05 14:22 UTC
 Total claims: 15355 | Removed: 2 | Added: 4 | Skipped (reclaimed): 0
 
