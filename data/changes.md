@@ -1,4 +1,23 @@
 
+## 2026-06-05 22:57 UTC
+Total claims: 15377 | Removed: 0 | Added: 8 | Skipped (reclaimed): 2
+
+
+### Added
+**Zalmatic** — 3 claim(s), 1,070 blocks total
+  - (20445,-3520) → (20471,-3507) center (20458,-3514) size 26×13
+  - (20433,-3498) → (20461,-3479) center (20447,-3489) size 28×19
+  - (20438,-3506) → (20463,-3498) center (20450,-3502) size 25×8
+**_Dj_CHEET4H** — 2 claim(s), 642 blocks total
+  - (-525,1340) → (-507,1369) center (-516,1354) size 18×29
+  - (-541,1346) → (-526,1354) center (-534,1350) size 15×8
+**Snorlax0920** — 1 claim(s), 1,457 blocks total
+  - (-5632,-21775) → (-5585,-21744) center (-5609,-21760) size 47×31
+**Bonkadin** — 1 claim(s), 5,400 blocks total
+  - (-21494,-16223) → (-21422,-16148) center (-21458,-16186) size 72×75
+**Maeve_Vandiir** — 1 claim(s), 258,015 blocks total
+  - (-22627,23944) → (-22126,24459) center (-22377,24201) size 501×515
+
 ## 2026-06-05 21:15 UTC
 Total claims: 15371 | Removed: 0 | Added: 0 | Skipped (reclaimed): 3156
 
