@@ -1,4 +1,37 @@
 
+## 2026-06-05 02:10 UTC
+Total claims: 15340 | Removed: 3 | Added: 11 | Skipped (reclaimed): 5
+
+### Removed
+**l_Psyche_l** — 2 claim(s), 667 blocks total
+  - (-21065,21419) → (-21037,21438) center (-21051,21428) size 28×19
+  - (-21083,21410) → (-21068,21419) center (-21076,21414) size 15×9
+**Remixifiedd** — 1 claim(s), 3,481 blocks total
+  - (3806,12137) → (3865,12196) center (3835,12166) size 59×59
+
+### Added
+**Luxavva** — 2 claim(s), 3,074,959 blocks total
+  - (-23677,8369) → (-22513,9519) center (-23095,8944) size 1164×1150
+  - (-24840,8026) → (-23677,9519) center (-24259,8772) size 1163×1493
+**waitinggg** — 1 claim(s), 85,511 blocks total
+  - (-4667,-18888) → (-4434,-18521) center (-4551,-18705) size 233×367
+**Bonkadin** — 1 claim(s), 1,824 blocks total
+  - (-21494,-16213) → (-21456,-16165) center (-21475,-16189) size 38×48
+**_Emmie_Wemmie_** — 1 claim(s), 756 blocks total
+  - (-21939,23603) → (-21911,23630) center (-21925,23616) size 28×27
+**KagomeJean** — 1 claim(s), 1,080 blocks total
+  - (22128,22957) → (22155,22997) center (22141,22977) size 27×40
+**galaxystar___23** — 1 claim(s), 522 blocks total
+  - (-2516,23857) → (-2498,23886) center (-2507,23871) size 18×29
+**_NovTheStar_** — 1 claim(s), 952 blocks total
+  - (-2626,23734) → (-2592,23762) center (-2609,23748) size 34×28
+**eldestructor300p** — 1 claim(s), 144 blocks total
+  - (-5084,-21383) → (-5076,-21365) center (-5080,-21374) size 8×18
+**LilBrat94** — 1 claim(s), 3,900 blocks total
+  - (-19381,21343) → (-19316,21403) center (-19349,21373) size 65×60
+**_Gabersale** — 1 claim(s), 4,608 blocks total
+  - (20363,21166) → (20435,21230) center (20399,21198) size 72×64
+
 ## 2026-06-04 23:00 UTC
 Total claims: 15337 | Removed: 2 | Added: 4 | Skipped (reclaimed): 1
 
