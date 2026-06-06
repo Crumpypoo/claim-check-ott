@@ -1,4 +1,30 @@
 
+## 2026-06-06 19:03 UTC
+Total claims: 15331 | Removed: 3 | Added: 7 | Skipped (reclaimed): 1
+
+### Removed
+**LTZSean** — 2 claim(s), 1,164 blocks total
+  - (-6447,22722) → (-6423,22762) center (-6435,22742) size 24×40
+  - (-6429,22766) → (-6417,22783) center (-6423,22774) size 12×17
+**Anthony_SR** — 1 claim(s), 175 blocks total
+  - (17469,2365) → (17494,2372) center (17481,2368) size 25×7
+
+### Added
+**l0stsp00n** — 1 claim(s), 4,347 blocks total
+  - (-23256,-15877) → (-23193,-15808) center (-23225,-15843) size 63×69
+**tinker_z** — 1 claim(s), 500 blocks total
+  - (-3284,-22021) → (-3264,-21996) center (-3274,-22009) size 20×25
+**jovin19** — 1 claim(s), 665 blocks total
+  - (10192,-23274) → (10227,-23255) center (10209,-23265) size 35×19
+**DerSantaClaus** — 1 claim(s), 153 blocks total
+  - (22479,-12807) → (22488,-12790) center (22483,-12799) size 9×17
+**shroomstone** — 1 claim(s), 2,352 blocks total
+  - (19743,-2746) → (19792,-2698) center (19767,-2722) size 49×48
+**plsdontkillme123** — 1 claim(s), 152 blocks total
+  - (-15226,24686) → (-15207,24694) center (-15217,24690) size 19×8
+**naylazer** — 1 claim(s), 121 blocks total
+  - (-23365,-6601) → (-23354,-6590) center (-23360,-6596) size 11×11
+
 ## 2026-06-06 16:57 UTC
 Total claims: 15328 | Removed: 2 | Added: 1 | Skipped (reclaimed): 1
 
