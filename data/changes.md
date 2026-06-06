@@ -1,4 +1,23 @@
 
+## 2026-06-06 13:05 UTC
+Total claims: 15326 | Removed: 2 | Added: 4 | Skipped (reclaimed): 1
+
+### Removed
+**Lippyxoxo** — 1 claim(s), 1,127 blocks total
+  - (-10138,-23495) → (-10115,-23446) center (-10127,-23471) size 23×49
+**Blood_Raptor** — 1 claim(s), 1,190 blocks total
+  - (21972,18310) → (22006,18345) center (21989,18327) size 34×35
+
+### Added
+**SecretlyTimDrake** — 1 claim(s), 558 blocks total
+  - (-13238,22496) → (-13207,22514) center (-13223,22505) size 31×18
+**mania7128** — 1 claim(s), 2,378 blocks total
+  - (-22224,10118) → (-22183,10176) center (-22204,10147) size 41×58
+**galaxystar___23** — 1 claim(s), 744 blocks total
+  - (-2635,23943) → (-2611,23974) center (-2623,23958) size 24×31
+**jarijillas2k** — 1 claim(s), 240 blocks total
+  - (8768,-20996) → (8783,-20980) center (8775,-20988) size 15×16
+
 ## 2026-06-06 11:15 UTC
 Total claims: 15325 | Removed: 0 | Added: 3 | Skipped (reclaimed): 0
 
