@@ -1,4 +1,36 @@
 
+## 2026-06-06 09:52 UTC
+Total claims: 15322 | Removed: 5 | Added: 9 | Skipped (reclaimed): 3
+
+### Removed
+**I_am_Gooose** — 2 claim(s), 2,990 blocks total
+  - (3633,-9876) → (3691,-9857) center (3662,-9867) size 58×19
+  - (1347,1637) → (1379,1696) center (1363,1666) size 32×59
+**kukidarno** — 2 claim(s), 680 blocks total
+  - (-4677,-21157) → (-4657,-21146) center (-4667,-21152) size 20×11
+  - (-4654,-21166) → (-4634,-21143) center (-4644,-21155) size 20×23
+**Lilac347** — 1 claim(s), 121 blocks total
+  - (-22564,-9788) → (-22553,-9777) center (-22559,-9783) size 11×11
+
+### Added
+**Thing_6** — 2 claim(s), 2,020 blocks total
+  - (9313,-15048) → (9340,-15004) center (9326,-15026) size 27×44
+  - (-15816,12840) → (-15784,12866) center (-15800,12853) size 32×26
+**man_billys123** — 1 claim(s), 1,292 blocks total
+  - (-16890,-4395) → (-16852,-4361) center (-16871,-4378) size 38×34
+**Becknish** — 1 claim(s), 810 blocks total
+  - (-21105,-1632) → (-21078,-1602) center (-21092,-1617) size 27×30
+**thatOneGuyMark17** — 1 claim(s), 510 blocks total
+  - (-22222,-7802) → (-22192,-7785) center (-22207,-7794) size 30×17
+**_xiakcia** — 1 claim(s), 1,360 blocks total
+  - (21363,-7885) → (21403,-7851) center (21383,-7868) size 40×34
+**_Dj_CHEET4H** — 1 claim(s), 627 blocks total
+  - (-507,1348) → (-488,1381) center (-498,1364) size 19×33
+**Next_tommorow** — 1 claim(s), 273 blocks total
+  - (-8598,23572) → (-8577,23585) center (-8588,23578) size 21×13
+**Blast2544** — 1 claim(s), 961 blocks total
+  - (-21373,4756) → (-21342,4787) center (-21358,4771) size 31×31
+
 ## 2026-06-06 06:45 UTC
 Total claims: 15321 | Removed: 66 | Added: 18 | Skipped (reclaimed): 6
 
