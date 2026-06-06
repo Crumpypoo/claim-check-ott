@@ -1,4 +1,16 @@
 
+## 2026-06-06 16:57 UTC
+Total claims: 15328 | Removed: 2 | Added: 1 | Skipped (reclaimed): 1
+
+### Removed
+**StockTake** — 2 claim(s), 1,455 blocks total
+  - (-15568,23706) → (-15541,23755) center (-15555,23730) size 27×49
+  - (-15567,23757) → (-15545,23763) center (-15556,23760) size 22×6
+
+### Added
+**shroomstone** — 1 claim(s), 3,456 blocks total
+  - (19804,-2842) → (19858,-2778) center (19831,-2810) size 54×64
+
 ## 2026-06-06 15:04 UTC
 Total claims: 15330 | Removed: 1 | Added: 5 | Skipped (reclaimed): 0
 
