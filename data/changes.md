@@ -1,4 +1,40 @@
 
+## 2026-06-06 02:01 UTC
+Total claims: 15375 | Removed: 7 | Added: 11 | Skipped (reclaimed): 6
+
+### Removed
+**Rdiane** — 3 claim(s), 4,030 blocks total
+  - (-23104,12831) → (-23062,12880) center (-23083,12855) size 42×49
+  - (-23050,12869) → (-23016,12915) center (-23033,12892) size 34×46
+  - (21615,4449) → (21639,4466) center (21627,4457) size 24×17
+**chaos8788** — 3 claim(s), 393 blocks total
+  - (4106,-15442) → (4111,-15421) center (4108,-15432) size 5×21
+  - (4090,-15434) → (4099,-15422) center (4094,-15428) size 9×12
+  - (4088,-15449) → (4100,-15434) center (4094,-15442) size 12×15
+**BberryTheCaptain** — 1 claim(s), 1,440 blocks total
+  - (-16548,22018) → (-16516,22063) center (-16532,22040) size 32×45
+
+### Added
+**chaos8788** — 3 claim(s), 31,278 blocks total
+  - (21237,-9806) → (21377,-9718) center (21307,-9762) size 140×88
+  - (21248,-9718) → (21469,-9688) center (21358,-9703) size 221×30
+  - (21379,-9852) → (21471,-9718) center (21425,-9785) size 92×134
+**BluInFruma** — 2 claim(s), 12,501 blocks total
+  - (2313,17346) → (2409,17440) center (2361,17393) size 96×94
+  - (-3944,-19884) → (-3883,-19827) center (-3914,-19856) size 61×57
+**Andrew_B1225** — 1 claim(s), 1,632 blocks total
+  - (23184,-12498) → (23235,-12466) center (23209,-12482) size 51×32
+**Snorlax0920** — 1 claim(s), 2,597 blocks total
+  - (-5632,-21792) → (-5579,-21743) center (-5606,-21768) size 53×49
+**Ace_Card_01** — 1 claim(s), 170,430 blocks total
+  - (22502,22514) → (22996,22859) center (22749,22686) size 494×345
+**_goodboy674725** — 1 claim(s), 357 blocks total
+  - (13746,-21815) → (13763,-21794) center (13754,-21805) size 17×21
+**Pandace8** — 1 claim(s), 945 blocks total
+  - (-23512,-14439) → (-23467,-14418) center (-23490,-14429) size 45×21
+**_Emmie_Wemmie_** — 1 claim(s), 4,224 blocks total
+  - (-21945,23598) → (-21857,23646) center (-21901,23622) size 88×48
+
 ## 2026-06-05 22:57 UTC
 Total claims: 15377 | Removed: 0 | Added: 8 | Skipped (reclaimed): 2
 
