@@ -1,4 +1,16 @@
 
+## 2026-06-06 11:15 UTC
+Total claims: 15325 | Removed: 0 | Added: 3 | Skipped (reclaimed): 0
+
+
+### Added
+**_Dj_CHEET4H** — 1 claim(s), 588 blocks total
+  - (226,2576) → (268,2590) center (247,2583) size 42×14
+**_Thin_air6743** — 1 claim(s), 775 blocks total
+  - (-9259,21003) → (-9234,21034) center (-9247,21018) size 25×31
+**kingkoedex1979** — 1 claim(s), 156 blocks total
+  - (-548,-104) → (-536,-91) center (-542,-98) size 12×13
+
 ## 2026-06-06 09:52 UTC
 Total claims: 15322 | Removed: 5 | Added: 9 | Skipped (reclaimed): 3
 
