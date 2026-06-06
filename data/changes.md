@@ -1,4 +1,22 @@
 
+## 2026-06-06 15:04 UTC
+Total claims: 15330 | Removed: 1 | Added: 5 | Skipped (reclaimed): 0
+
+### Removed
+**galaxystar___23** — 1 claim(s), 522 blocks total
+  - (-2516,23857) → (-2498,23886) center (-2507,23871) size 18×29
+
+### Added
+**_CaughtOx7735** — 2 claim(s), 493 blocks total
+  - (-23173,-10414) → (-23160,-10397) center (-23167,-10406) size 13×17
+  - (-23172,-10430) → (-23155,-10414) center (-23164,-10422) size 17×16
+**_Nehalp3562** — 1 claim(s), 120 blocks total
+  - (-16434,21385) → (-16419,21393) center (-16427,21389) size 15×8
+**Darkcosmos12** — 1 claim(s), 31,648 blocks total
+  - (-23455,-6387) → (-23087,-6301) center (-23271,-6344) size 368×86
+**Hageron3** — 1 claim(s), 140 blocks total
+  - (23304,-14921) → (23314,-14907) center (23309,-14914) size 10×14
+
 ## 2026-06-06 13:05 UTC
 Total claims: 15326 | Removed: 2 | Added: 4 | Skipped (reclaimed): 1
 
