@@ -1,4 +1,30 @@
 
+## 2026-06-07 13:17 UTC
+Total claims: 15373 | Removed: 3 | Added: 8 | Skipped (reclaimed): 2
+
+### Removed
+**_PolarStar** — 1 claim(s), 1,015 blocks total
+  - (21642,-8706) → (21671,-8671) center (21656,-8689) size 29×35
+**thatOneGuyMark17** — 1 claim(s), 510 blocks total
+  - (-22222,-7802) → (-22192,-7785) center (-22207,-7794) size 30×17
+**lilt0phat** — 1 claim(s), 714 blocks total
+  - (7404,-16637) → (7425,-16603) center (7414,-16620) size 21×34
+
+### Added
+**BriannaNicole50** — 3 claim(s), 1,729 blocks total
+  - (20765,-8026) → (20779,-8016) center (20772,-8021) size 14×10
+  - (20785,-8075) → (20797,-8033) center (20791,-8054) size 12×42
+  - (20754,-8068) → (20785,-8033) center (20769,-8051) size 31×35
+**Mr_Humiya** — 2 claim(s), 382 blocks total
+  - (15334,-21142) → (15345,-21128) center (15339,-21135) size 11×14
+  - (15324,-21125) → (15343,-21113) center (15333,-21119) size 19×12
+**kittyluv303** — 1 claim(s), 512 blocks total
+  - (-21906,-16723) → (-21890,-16691) center (-21898,-16707) size 16×32
+**_GladPlayer8419** — 1 claim(s), 255 blocks total
+  - (20562,-8643) → (20577,-8626) center (20569,-8635) size 15×17
+**iamDeniz** — 1 claim(s), 11,176 blocks total
+  - (-12916,1322) → (-12789,1410) center (-12853,1366) size 127×88
+
 ## 2026-06-07 10:20 UTC
 Total claims: 15370 | Removed: 3 | Added: 5 | Skipped (reclaimed): 1
 
