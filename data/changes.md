@@ -1,4 +1,34 @@
 
+## 2026-06-07 22:53 UTC
+Total claims: 15385 | Removed: 2 | Added: 11 | Skipped (reclaimed): 5
+
+### Removed
+**lavabest5462** — 1 claim(s), 539 blocks total
+  - (-22364,-4106) → (-22315,-4095) center (-22340,-4101) size 49×11
+**Th3Racc00nCh1ld** — 1 claim(s), 11,310 blocks total
+  - (-21463,-759) → (-21376,-629) center (-21420,-694) size 87×130
+
+### Added
+**pyrohusky** — 2 claim(s), 205,312 blocks total
+  - (-18256,-6320) → (-18032,-5600) center (-18144,-5960) size 224×720
+  - (-18032,-6112) → (-17968,-5424) center (-18000,-5768) size 64×688
+**DeathReaper2V** — 2 claim(s), 4,348 blocks total
+  - (-13357,-21599) → (-13318,-21525) center (-13338,-21562) size 39×74
+  - (-13318,-21582) → (-13284,-21539) center (-13301,-21561) size 34×43
+**newmoontsu** — 2 claim(s), 1,257 blocks total
+  - (-20767,22325) → (-20725,22346) center (-20746,22335) size 42×21
+  - (-20725,22308) → (-20710,22333) center (-20718,22320) size 15×25
+**1Emica** — 1 claim(s), 1,518 blocks total
+  - (23329,20760) → (23362,20806) center (23345,20783) size 33×46
+**Bonkadin** — 1 claim(s), 8,970 blocks total
+  - (-21512,-16226) → (-21397,-16148) center (-21455,-16187) size 115×78
+**thickkmamaa** — 1 claim(s), 255 blocks total
+  - (4296,-21292) → (4311,-21275) center (4303,-21284) size 15×17
+**Screamplayerz08** — 1 claim(s), 1,485 blocks total
+  - (-12958,-21587) → (-12925,-21542) center (-12942,-21565) size 33×45
+**Tsuny** — 1 claim(s), 338,985 blocks total
+  - (7879,19781) → (8608,20246) center (8243,20013) size 729×465
+
 ## 2026-06-07 20:59 UTC
 Total claims: 15381 | Removed: 0 | Added: 11 | Skipped (reclaimed): 5
 
