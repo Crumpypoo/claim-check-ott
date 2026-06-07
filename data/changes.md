@@ -1,4 +1,29 @@
 
+## 2026-06-07 02:29 UTC
+Total claims: 15350 | Removed: 1 | Added: 8 | Skipped (reclaimed): 2
+
+### Removed
+**NeuTraL_RED** — 1 claim(s), 486 blocks total
+  - (16675,21564) → (16693,21591) center (16684,21577) size 18×27
+
+### Added
+**Bonkadin** — 1 claim(s), 6,375 blocks total
+  - (-21507,-16223) → (-21422,-16148) center (-21465,-16186) size 85×75
+**Alt4mira** — 1 claim(s), 288 blocks total
+  - (22299,7716) → (22315,7734) center (22307,7725) size 16×18
+**_Greg7778284** — 1 claim(s), 143 blocks total
+  - (23076,-6805) → (23087,-6792) center (23081,-6799) size 11×13
+**NatNat6140** — 1 claim(s), 121 blocks total
+  - (-21181,-3600) → (-21170,-3589) center (-21176,-3595) size 11×11
+**kittendragon7** — 1 claim(s), 1,147 blocks total
+  - (21698,-6429) → (21729,-6392) center (21713,-6411) size 31×37
+**themistokleos2** — 1 claim(s), 108 blocks total
+  - (5929,-22881) → (5941,-22872) center (5935,-22877) size 12×9
+**XkittensparklesX** — 1 claim(s), 640 blocks total
+  - (-20730,-4016) → (-20698,-3996) center (-20714,-4006) size 32×20
+**KagomeJean** — 1 claim(s), 13,338 blocks total
+  - (22196,23032) → (22313,23146) center (22254,23089) size 117×114
+
 ## 2026-06-06 22:54 UTC
 Total claims: 15345 | Removed: 1 | Added: 8 | Skipped (reclaimed): 1
 
