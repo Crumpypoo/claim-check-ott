@@ -1,4 +1,23 @@
 
+## 2026-06-07 17:04 UTC
+Total claims: 15366 | Removed: 0 | Added: 7 | Skipped (reclaimed): 1
+
+
+### Added
+**_Felix78894661** — 2 claim(s), 990 blocks total
+  - (22609,-6999) → (22641,-6974) center (22625,-6987) size 32×25
+  - (22583,-6985) → (22593,-6966) center (22588,-6976) size 10×19
+**queengirl123** — 1 claim(s), 121 blocks total
+  - (-13073,650) → (-13062,661) center (-13068,655) size 11×11
+**FoggyArcher4909** — 1 claim(s), 121 blocks total
+  - (-13589,-21867) → (-13578,-21856) center (-13584,-21862) size 11×11
+**BboyHope** — 1 claim(s), 161 blocks total
+  - (-11155,-21204) → (-11148,-21181) center (-11152,-21193) size 7×23
+**iiBubba** — 1 claim(s), 272 blocks total
+  - (-21818,6725) → (-21802,6742) center (-21810,6733) size 16×17
+**LRingz** — 1 claim(s), 29,329 blocks total
+  - (-21795,309) → (-21656,520) center (-21726,414) size 139×211
+
 ## 2026-06-07 15:17 UTC
 Total claims: 15360 | Removed: 20 | Added: 8 | Skipped (reclaimed): 1
 
