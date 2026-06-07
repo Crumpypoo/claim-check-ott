@@ -1,4 +1,29 @@
 
+## 2026-06-07 20:59 UTC
+Total claims: 15381 | Removed: 0 | Added: 11 | Skipped (reclaimed): 5
+
+
+### Added
+**ryangrizzly** — 2 claim(s), 624 blocks total
+  - (-20606,14607) → (-20586,14627) center (-20596,14617) size 20×20
+  - (-21266,-454) → (-21252,-438) center (-21259,-446) size 14×16
+**DrCanni** — 2 claim(s), 466 blocks total
+  - (-8568,-21855) → (-8547,-21839) center (-8558,-21847) size 21×16
+  - (-8562,-21839) → (-8549,-21829) center (-8556,-21834) size 13×10
+**Astrylite** — 2 claim(s), 27,699 blocks total
+  - (22246,13914) → (22325,13999) center (22285,13956) size 79×85
+  - (-13525,16871) → (-13353,16993) center (-13439,16932) size 172×122
+**Wolksy** — 1 claim(s), 2,372,553 blocks total
+  - (-19780,11608) → (-17629,12711) center (-18705,12159) size 2151×1103
+**Eddie2012Gaming** — 1 claim(s), 2,585 blocks total
+  - (-8883,21620) → (-8828,21667) center (-8856,21643) size 55×47
+**ItzChara215** — 1 claim(s), 1,504 blocks total
+  - (-22057,-10274) → (-22025,-10227) center (-22041,-10251) size 32×47
+**OffhandWolf2960** — 1 claim(s), 4,071 blocks total
+  - (10355,22384) → (10424,22443) center (10389,22413) size 69×59
+**Fel350** — 1 claim(s), 56,516 blocks total
+  - (22635,1271) → (22834,1555) center (22734,1413) size 199×284
+
 ## 2026-06-07 19:04 UTC
 Total claims: 15375 | Removed: 1 | Added: 14 | Skipped (reclaimed): 4
 
