@@ -1,4 +1,41 @@
 
+## 2026-06-08 13:57 UTC
+Total claims: 15398 | Removed: 11 | Added: 7 | Skipped (reclaimed): 0
+
+### Removed
+**Asthma_yt** — 7 claim(s), 2,458 blocks total
+  - (19228,20938) → (19239,20950) center (19233,20944) size 11×12
+  - (19236,20900) → (19259,20915) center (19247,20907) size 23×15
+  - (19346,20828) → (19362,20855) center (19354,20841) size 16×27
+  - (19259,20900) → (19278,20909) center (19268,20904) size 19×9
+  - (19245,20806) → (19266,20828) center (19255,20817) size 21×22
+  - (19227,20805) → (19245,20831) center (19236,20818) size 18×26
+  - (19245,20790) → (19273,20806) center (19259,20798) size 28×16
+**kur0Meow** — 1 claim(s), 784 blocks total
+  - (684,-22176) → (712,-22148) center (698,-22162) size 28×28
+**SlipperBear3** — 1 claim(s), 121 blocks total
+  - (-23156,16909) → (-23145,16920) center (-23151,16914) size 11×11
+**megumiMC** — 1 claim(s), 120 blocks total
+  - (22120,15908) → (22140,15914) center (22130,15911) size 20×6
+**solongponyboy** — 1 claim(s), 627 blocks total
+  - (-12186,-22153) → (-12167,-22120) center (-12177,-22137) size 19×33
+
+### Added
+**solongponyboy** — 1 claim(s), 2,108 blocks total
+  - (-12180,-22316) → (-12146,-22254) center (-12163,-22285) size 34×62
+**wastedera** — 1 claim(s), 870 blocks total
+  - (-21975,-19359) → (-21946,-19329) center (-21961,-19344) size 29×30
+**LuxRavens** — 1 claim(s), 1,089 blocks total
+  - (-23827,-22686) → (-23794,-22653) center (-23811,-22670) size 33×33
+**CrystalSeagem26** — 1 claim(s), 336 blocks total
+  - (-8134,21471) → (-8120,21495) center (-8127,21483) size 14×24
+**PawPaw_E** — 1 claim(s), 2,304 blocks total
+  - (4976,21616) → (5024,21664) center (5000,21640) size 48×48
+**NinjaChon** — 1 claim(s), 2,856 blocks total
+  - (-18385,21217) → (-18334,21273) center (-18360,21245) size 51×56
+**DangerPaws** — 1 claim(s), 19,740 blocks total
+  - (-8473,-22457) → (-8333,-22316) center (-8403,-22387) size 140×141
+
 ## 2026-06-08 08:43 UTC
 Total claims: 15402 | Removed: 5 | Added: 26 | Skipped (reclaimed): 4
 
