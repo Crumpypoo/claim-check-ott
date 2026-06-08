@@ -1,4 +1,26 @@
 
+## 2026-06-08 21:50 UTC
+Total claims: 15410 | Removed: 0 | Added: 8 | Skipped (reclaimed): 1
+
+
+### Added
+**wastedera** — 1 claim(s), 2,200 blocks total
+  - (-21973,-19357) → (-21933,-19302) center (-21953,-19330) size 40×55
+**The_samurai420** — 1 claim(s), 638 blocks total
+  - (20908,-6938) → (20930,-6909) center (20919,-6924) size 22×29
+**_TuftedZulu8995** — 1 claim(s), 10,033 blocks total
+  - (19016,23076) → (19143,23155) center (19079,23115) size 127×79
+**XkittensparklesX** — 1 claim(s), 2,668 blocks total
+  - (-20817,-4082) → (-20771,-4024) center (-20794,-4053) size 46×58
+**_manuuuuuuu27** — 1 claim(s), 125 blocks total
+  - (20861,20943) → (20886,20948) center (20873,20945) size 25×5
+**_AltrchyIntrovrt** — 1 claim(s), 1,200 blocks total
+  - (14526,22183) → (14556,22223) center (14541,22203) size 30×40
+**MonkerzMC** — 1 claim(s), 960 blocks total
+  - (-20931,41) → (-20891,65) center (-20911,53) size 40×24
+**t_ek** — 1 claim(s), 132 blocks total
+  - (-9128,22507) → (-9116,22518) center (-9122,22512) size 12×11
+
 ## 2026-06-08 19:59 UTC
 Total claims: 15403 | Removed: 4 | Added: 8 | Skipped (reclaimed): 0
 
