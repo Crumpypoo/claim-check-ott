@@ -1,4 +1,46 @@
 
+## 2026-06-08 02:33 UTC
+Total claims: 15385 | Removed: 8 | Added: 12 | Skipped (reclaimed): 4
+
+### Removed
+**cayirwoski** — 4 claim(s), 546 blocks total
+  - (1378,23231) → (1393,23244) center (1385,23237) size 15×13
+  - (1344,23202) → (1355,23213) center (1349,23207) size 11×11
+  - (1355,23213) → (1366,23223) center (1360,23218) size 11×10
+  - (1366,23222) → (1378,23232) center (1372,23227) size 12×10
+**Th3Racc00nCh1ld** — 2 claim(s), 70,778 blocks total
+  - (-12051,22987) → (-11803,23253) center (-11927,23120) size 248×266
+  - (-12217,24477) → (-12143,24542) center (-12180,24509) size 74×65
+**KTAtrixky** — 1 claim(s), 396 blocks total
+  - (-18490,-21694) → (-18472,-21672) center (-18481,-21683) size 18×22
+**PeakRose** — 1 claim(s), 4,366 blocks total
+  - (-23287,-15951) → (-23228,-15877) center (-23258,-15914) size 59×74
+
+### Added
+**GullyIsSilly** — 2 claim(s), 20,874 blocks total
+  - (-23246,-11240) → (-23117,-11094) center (-23182,-11167) size 129×146
+  - (-23116,-11132) → (-23086,-11064) center (-23101,-11098) size 30×68
+**_Narutofan072** — 1 claim(s), 162 blocks total
+  - (-286,1111) → (-268,1120) center (-277,1115) size 18×9
+**kxylxr** — 1 claim(s), 9,009 blocks total
+  - (2779,1989) → (2870,2088) center (2824,2038) size 91×99
+**AirShorky** — 1 claim(s), 3,306 blocks total
+  - (3796,7790) → (3853,7848) center (3824,7819) size 57×58
+**Ra3Mu** — 1 claim(s), 1,584 blocks total
+  - (-15376,21937) → (-15310,21961) center (-15343,21949) size 66×24
+**smalllllllllllll** — 1 claim(s), 110 blocks total
+  - (-2159,20945) → (-2149,20956) center (-2154,20950) size 10×11
+**Dave_Wesker** — 1 claim(s), 208 blocks total
+  - (-20526,-19678) → (-20513,-19662) center (-20520,-19670) size 13×16
+**NoLifeSpooks** — 1 claim(s), 2,091 blocks total
+  - (22305,-7020) → (22346,-6969) center (22325,-6995) size 41×51
+**exrscm** — 1 claim(s), 456 blocks total
+  - (23249,17671) → (23273,17690) center (23261,17680) size 24×19
+**GoneFly** — 1 claim(s), 3,182 blocks total
+  - (-18041,22964) → (-17998,23038) center (-18020,23001) size 43×74
+**_Samurai_Ace_** — 1 claim(s), 546 blocks total
+  - (13463,-16620) → (13484,-16594) center (13473,-16607) size 21×26
+
 ## 2026-06-07 22:53 UTC
 Total claims: 15385 | Removed: 2 | Added: 11 | Skipped (reclaimed): 5
 
