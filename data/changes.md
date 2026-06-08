@@ -1,4 +1,34 @@
 
+## 2026-06-08 23:06 UTC
+Total claims: 15417 | Removed: 0 | Added: 12 | Skipped (reclaimed): 5
+
+
+### Added
+**Vzer_** — 1 claim(s), 288 blocks total
+  - (11989,22341) → (12007,22357) center (11998,22349) size 18×16
+**wastedera** — 1 claim(s), 1,748 blocks total
+  - (-21975,-19356) → (-21937,-19310) center (-21956,-19333) size 38×46
+**TinyTerror_IsMe** — 1 claim(s), 1,295 blocks total
+  - (-12456,-21908) → (-12421,-21871) center (-12439,-21890) size 35×37
+**_IncensedBongo84** — 1 claim(s), 1,517 blocks total
+  - (-22412,6148) → (-22375,6189) center (-22394,6168) size 37×41
+**SugarxSweet2006** — 1 claim(s), 1,050 blocks total
+  - (711,24161) → (746,24191) center (728,24176) size 35×30
+**ImNikki3997** — 1 claim(s), 100 blocks total
+  - (23177,-1543) → (23187,-1533) center (23182,-1538) size 10×10
+**FormalTacoMunch** — 1 claim(s), 104 blocks total
+  - (23187,-1543) → (23195,-1530) center (23191,-1537) size 8×13
+**xXpoochie15Xx** — 1 claim(s), 121 blocks total
+  - (4952,-22573) → (4963,-22562) center (4957,-22568) size 11×11
+**JackMadix** — 1 claim(s), 52,877 blocks total
+  - (-20521,-2246) → (-20312,-1993) center (-20417,-2120) size 209×253
+**_Crepow** — 1 claim(s), 336 blocks total
+  - (23163,-1593) → (23179,-1572) center (23171,-1583) size 16×21
+**MonkerzMC** — 1 claim(s), 1,148 blocks total
+  - (-20932,39) → (-20891,67) center (-20912,53) size 41×28
+**MrKattana** — 1 claim(s), 13,616 blocks total
+  - (3915,12264) → (4007,12412) center (3961,12338) size 92×148
+
 ## 2026-06-08 21:50 UTC
 Total claims: 15410 | Removed: 0 | Added: 8 | Skipped (reclaimed): 1
 
