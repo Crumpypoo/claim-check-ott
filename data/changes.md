@@ -1,4 +1,33 @@
 
+## 2026-06-08 17:21 UTC
+Total claims: 15399 | Removed: 4 | Added: 9 | Skipped (reclaimed): 4
+
+### Removed
+**xav_999** — 3 claim(s), 635 blocks total
+  - (-19103,-24375) → (-19098,-24336) center (-19101,-24356) size 5×39
+  - (-19116,-24506) → (-19111,-24460) center (-19114,-24483) size 5×46
+  - (-19110,-24439) → (-19105,-24397) center (-19108,-24418) size 5×42
+**queengirl123** — 1 claim(s), 121 blocks total
+  - (-13073,650) → (-13062,661) center (-13068,655) size 11×11
+
+### Added
+**dain_san** — 2 claim(s), 1,711 blocks total
+  - (-4102,22531) → (-4049,22558) center (-4076,22544) size 53×27
+  - (-23090,-17964) → (-23062,-17954) center (-23076,-17959) size 28×10
+**_Crazydonut3943** — 2 claim(s), 319 blocks total
+  - (-8752,21661) → (-8712,21666) center (-8732,21663) size 40×5
+  - (-8752,21638) → (-8735,21645) center (-8744,21641) size 17×7
+**DangerPaws** — 1 claim(s), 22,608 blocks total
+  - (-8473,-22473) → (-8329,-22316) center (-8401,-22395) size 144×157
+**Moonlitknight83** — 1 claim(s), 5,888 blocks total
+  - (-15728,22562) → (-15636,22626) center (-15682,22594) size 92×64
+**queengirl123** — 1 claim(s), 1,053 blocks total
+  - (22235,12332) → (22262,12371) center (22248,12351) size 27×39
+**wastedera** — 1 claim(s), 1,161 blocks total
+  - (-21973,-19357) → (-21930,-19330) center (-21952,-19344) size 43×27
+**Wojtylas_Xd** — 1 claim(s), 9,682 blocks total
+  - (-24762,-11885) → (-24659,-11791) center (-24711,-11838) size 103×94
+
 ## 2026-06-08 13:57 UTC
 Total claims: 15398 | Removed: 11 | Added: 7 | Skipped (reclaimed): 0
 
