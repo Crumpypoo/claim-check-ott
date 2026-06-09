@@ -1,4 +1,20 @@
 
+## 2026-06-09 23:09 UTC
+Total claims: 15434 | Removed: 0 | Added: 5 | Skipped (reclaimed): 4
+
+
+### Added
+**ZaiIsDry** — 1 claim(s), 143 blocks total
+  - (22453,-12843) → (22466,-12832) center (22459,-12838) size 13×11
+**solongponyboy** — 1 claim(s), 2,356 blocks total
+  - (-12184,-22316) → (-12146,-22254) center (-12165,-22285) size 38×62
+**Botkawi** — 1 claim(s), 128 blocks total
+  - (-23016,-20971) → (-23008,-20955) center (-23012,-20963) size 8×16
+**JackMadix** — 1 claim(s), 187,440 blocks total
+  - (-20521,-2285) → (-20081,-1859) center (-20301,-2072) size 440×426
+**MonkerzMC** — 1 claim(s), 1,271 blocks total
+  - (-20932,36) → (-20891,67) center (-20912,51) size 41×31
+
 ## 2026-06-09 21:28 UTC
 Total claims: 15433 | Removed: 1 | Added: 10 | Skipped (reclaimed): 6
 
