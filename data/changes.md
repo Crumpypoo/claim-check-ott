@@ -1,4 +1,32 @@
 
+## 2026-06-09 21:28 UTC
+Total claims: 15433 | Removed: 1 | Added: 10 | Skipped (reclaimed): 6
+
+### Removed
+**Mooch_y** — 1 claim(s), 1,840 blocks total
+  - (-19753,-21745) → (-19713,-21699) center (-19733,-21722) size 40×46
+
+### Added
+**Wisteriaa_6** — 2 claim(s), 1,488 blocks total
+  - (-9589,23487) → (-9565,23539) center (-9577,23513) size 24×52
+  - (-9601,23517) → (-9589,23537) center (-9595,23527) size 12×20
+**odetoearth** — 1 claim(s), 12,573 blocks total
+  - (-21773,614) → (-21646,713) center (-21710,663) size 127×99
+**1Emica** — 1 claim(s), 1,880 blocks total
+  - (23315,20761) → (23362,20801) center (23338,20781) size 47×40
+**notguppy** — 1 claim(s), 8,938 blocks total
+  - (21961,16444) → (22043,16553) center (22002,16498) size 82×109
+**meowtastic00** — 1 claim(s), 168 blocks total
+  - (-10618,-22290) → (-10606,-22276) center (-10612,-22283) size 12×14
+**DangerPaws** — 1 claim(s), 24,492 blocks total
+  - (-8480,-22473) → (-8324,-22316) center (-8402,-22395) size 156×157
+**TompaLegendo** — 1 claim(s), 2,624 blocks total
+  - (23302,20720) → (23366,20761) center (23334,20740) size 64×41
+**Xx_PrimePvP_xX** — 1 claim(s), 112 blocks total
+  - (-2209,21031) → (-2195,21039) center (-2202,21035) size 14×8
+**_AkiraKumo** — 1 claim(s), 154 blocks total
+  - (-16148,-23357) → (-16134,-23346) center (-16141,-23352) size 14×11
+
 ## 2026-06-09 19:54 UTC
 Total claims: 15430 | Removed: 8 | Added: 8 | Skipped (reclaimed): 3
 
