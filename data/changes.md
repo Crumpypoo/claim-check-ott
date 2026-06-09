@@ -1,4 +1,35 @@
 
+## 2026-06-09 17:51 UTC
+Total claims: 15433 | Removed: 2 | Added: 11 | Skipped (reclaimed): 5
+
+### Removed
+**penjiop95** — 1 claim(s), 1,638 blocks total
+  - (-21167,-19400) → (-21128,-19358) center (-21148,-19379) size 39×42
+**barak2O14** — 1 claim(s), 340 blocks total
+  - (22450,12448) → (22470,12465) center (22460,12456) size 20×17
+
+### Added
+**menfaat** — 3 claim(s), 1,950 blocks total
+  - (922,3051) → (959,3093) center (940,3072) size 37×42
+  - (-53,880) → (-39,901) center (-46,890) size 14×21
+  - (-574,-445) → (-557,-439) center (-566,-442) size 17×6
+**BroSilas** — 1 claim(s), 1,624 blocks total
+  - (20869,-9955) → (20927,-9927) center (20898,-9941) size 58×28
+**xXpoochie15Xx** — 1 claim(s), 294 blocks total
+  - (4933,-22594) → (4947,-22573) center (4940,-22584) size 14×21
+**_Nabhyabhai** — 1 claim(s), 231 blocks total
+  - (-22931,17649) → (-22920,17670) center (-22926,17659) size 11×21
+**KagomeJean** — 1 claim(s), 21,168 blocks total
+  - (22199,23028) → (22346,23172) center (22272,23100) size 147×144
+**DanTheMan2slam** — 1 claim(s), 378 blocks total
+  - (-16799,23110) → (-16778,23128) center (-16789,23119) size 21×18
+**Im_Xto** — 1 claim(s), 4,914 blocks total
+  - (-14207,22247) → (-14144,22325) center (-14176,22286) size 63×78
+**Vauis** — 1 claim(s), 100 blocks total
+  - (-12094,22595) → (-12084,22605) center (-12089,22600) size 10×10
+**_AltrchyIntrovrt** — 1 claim(s), 1,763 blocks total
+  - (14525,22182) → (14568,22223) center (14546,22202) size 43×41
+
 ## 2026-06-09 14:19 UTC
 Total claims: 15429 | Removed: 0 | Added: 0 | Skipped (reclaimed): 3144
 

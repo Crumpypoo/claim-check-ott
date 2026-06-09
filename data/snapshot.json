@@ -35075,19 +35075,6 @@
       "area": 290
     },
     {
-      "owner": "penjiop95",
-      "trusted": "",
-      "x1": -21167,
-      "z1": -19400,
-      "x2": -21128,
-      "z2": -19358,
-      "cx": -21148,
-      "cz": -19379,
-      "width": 39,
-      "height": 42,
-      "area": 1638
-    },
-    {
       "owner": "AbuseMyThighs",
       "trusted": "",
       "x1": -1045,
@@ -36505,6 +36492,32 @@
       "area": 3477
     },
     {
+      "owner": "BroSilas",
+      "trusted": "",
+      "x1": 20869,
+      "z1": -9955,
+      "x2": 20927,
+      "z2": -9927,
+      "cx": 20898,
+      "cz": -9941,
+      "width": 58,
+      "height": 28,
+      "area": 1624
+    },
+    {
+      "owner": "xXpoochie15Xx",
+      "trusted": "",
+      "x1": 4933,
+      "z1": -22594,
+      "x2": 4947,
+      "z2": -22573,
+      "cx": 4940,
+      "cz": -22584,
+      "width": 14,
+      "height": 21,
+      "area": 294
+    },
+    {
       "owner": "Reekydragoon",
       "trusted": "",
       "x1": 10066,
@@ -36568,6 +36581,19 @@
       "width": 16,
       "height": 64,
       "area": 1024
+    },
+    {
+      "owner": "_Nabhyabhai",
+      "trusted": "",
+      "x1": -22931,
+      "z1": 17649,
+      "x2": -22920,
+      "z2": 17670,
+      "cx": -22926,
+      "cz": 17659,
+      "width": 11,
+      "height": 21,
+      "area": 231
     },
     {
       "owner": "GeforceGee",
@@ -53329,15 +53355,15 @@
     {
       "owner": "KagomeJean",
       "trusted": "",
-      "x1": 22196,
-      "z1": 23032,
-      "x2": 22313,
-      "z2": 23146,
-      "cx": 22254,
-      "cz": 23089,
-      "width": 117,
-      "height": 114,
-      "area": 13338
+      "x1": 22199,
+      "z1": 23028,
+      "x2": 22346,
+      "z2": 23172,
+      "cx": 22272,
+      "cz": 23100,
+      "width": 147,
+      "height": 144,
+      "area": 21168
     },
     {
       "owner": "pinkcelery",
@@ -153440,7 +153466,7 @@
       "area": 1290
     },
     {
-      "owner": "Xeine",
+      "owner": "menfaat",
       "trusted": "",
       "x1": 922,
       "z1": 3051,
@@ -166297,8 +166323,8 @@
       "area": 5548
     },
     {
-      "owner": "Xeine",
-      "trusted": "Xeine",
+      "owner": "menfaat",
+      "trusted": "menfaat",
       "x1": -53,
       "z1": 880,
       "x2": -39,
@@ -173395,19 +173421,6 @@
       "area": 608
     },
     {
-      "owner": "barak2O14",
-      "trusted": "",
-      "x1": 22450,
-      "z1": 12448,
-      "x2": 22470,
-      "z2": 12465,
-      "cx": 22460,
-      "cz": 12456,
-      "width": 20,
-      "height": 17,
-      "area": 340
-    },
-    {
       "owner": "SnazzyTheGoat99",
       "trusted": "",
       "x1": 14542,
@@ -178348,6 +178361,19 @@
       "area": 38915
     },
     {
+      "owner": "DanTheMan2slam",
+      "trusted": "",
+      "x1": -16799,
+      "z1": 23110,
+      "x2": -16778,
+      "z2": 23128,
+      "cx": -16789,
+      "cz": 23119,
+      "width": 21,
+      "height": 18,
+      "area": 378
+    },
+    {
       "owner": "Kandykong0854",
       "trusted": "",
       "x1": -1897,
@@ -178372,6 +178398,19 @@
       "width": 20,
       "height": 22,
       "area": 440
+    },
+    {
+      "owner": "Im_Xto",
+      "trusted": "",
+      "x1": -14207,
+      "z1": 22247,
+      "x2": -14144,
+      "z2": 22325,
+      "cx": -14176,
+      "cz": 22286,
+      "width": 63,
+      "height": 78,
+      "area": 4914
     },
     {
       "owner": "Mvthical",
@@ -178437,6 +178476,19 @@
       "width": 38,
       "height": 16,
       "area": 608
+    },
+    {
+      "owner": "Vauis",
+      "trusted": "",
+      "x1": -12094,
+      "z1": 22595,
+      "x2": -12084,
+      "z2": 22605,
+      "cx": -12089,
+      "cz": 22600,
+      "width": 10,
+      "height": 10,
+      "area": 100
     },
     {
       "owner": "yungj1t",
@@ -178660,8 +178712,8 @@
       "area": 780
     },
     {
-      "owner": "Xeine",
-      "trusted": "Xeine",
+      "owner": "menfaat",
+      "trusted": "menfaat",
       "x1": -574,
       "z1": -445,
       "x2": -557,
@@ -181719,13 +181771,13 @@
       "trusted": "",
       "x1": 14525,
       "z1": 22182,
-      "x2": 14556,
+      "x2": 14568,
       "z2": 22223,
-      "cx": 14540,
+      "cx": 14546,
       "cz": 22202,
-      "width": 31,
+      "width": 43,
       "height": 41,
-      "area": 1271
+      "area": 1763
     },
     {
       "owner": "_Plague182600",
@@ -200578,5 +200630,5 @@
       "area": 1482
     }
   ],
-  "time": "2026-06-09 14:19 UTC"
+  "time": "2026-06-09 17:51 UTC"
 }
