@@ -1,4 +1,36 @@
 
+## 2026-06-09 19:54 UTC
+Total claims: 15430 | Removed: 8 | Added: 8 | Skipped (reclaimed): 3
+
+### Removed
+**OGfrom1962** — 6 claim(s), 856 blocks total
+  - (-21562,9550) → (-21550,9559) center (-21556,9554) size 12×9
+  - (-20788,18065) → (-20777,18076) center (-20783,18070) size 11×11
+  - (-21598,9548) → (-21587,9564) center (-21593,9556) size 11×16
+  - (-21586,9547) → (-21572,9562) center (-21579,9554) size 14×15
+  - (-21622,9577) → (-21614,9592) center (-21618,9584) size 8×15
+  - (-21620,9629) → (-21609,9640) center (-21615,9634) size 11×11
+**_eltarion1991** — 1 claim(s), 121 blocks total
+  - (-2521,-21167) → (-2510,-21156) center (-2516,-21162) size 11×11
+**l00eyballoon** — 1 claim(s), 121 blocks total
+  - (11581,-20725) → (11592,-20714) center (11586,-20720) size 11×11
+
+### Added
+**cannabisjvnkie** — 3 claim(s), 756 blocks total
+  - (5080,23577) → (5099,23596) center (5089,23586) size 19×19
+  - (5064,23590) → (5077,23601) center (5070,23595) size 13×11
+  - (5038,23607) → (5080,23613) center (5059,23610) size 42×6
+**LeonKennedy01** — 1 claim(s), 216 blocks total
+  - (-20947,-16387) → (-20939,-16360) center (-20943,-16374) size 8×27
+**Ruvi2010** — 1 claim(s), 784 blocks total
+  - (15487,22741) → (15515,22769) center (15501,22755) size 28×28
+**GullyIsSilly** — 1 claim(s), 23,068 blocks total
+  - (-23275,-11240) → (-23117,-11094) center (-23196,-11167) size 158×146
+**LadyxRen** — 1 claim(s), 1,332,884 blocks total
+  - (23683,-9732) → (24950,-8680) center (24316,-9206) size 1267×1052
+**MarshyMint** — 1 claim(s), 64,370 blocks total
+  - (22301,-12755) → (22506,-12441) center (22403,-12598) size 205×314
+
 ## 2026-06-09 17:51 UTC
 Total claims: 15433 | Removed: 2 | Added: 11 | Skipped (reclaimed): 5
 
