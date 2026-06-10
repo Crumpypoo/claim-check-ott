@@ -1,4 +1,33 @@
 
+## 2026-06-10 14:50 UTC
+Total claims: 15454 | Removed: 3 | Added: 11 | Skipped (reclaimed): 5
+
+### Removed
+**WolfWildFlower1** — 2 claim(s), 357 blocks total
+  - (17896,1326) → (17904,1356) center (17900,1341) size 8×30
+  - (17904,1333) → (17913,1346) center (17908,1339) size 9×13
+**GDPman** — 1 claim(s), 1,147 blocks total
+  - (10764,-23209) → (10801,-23178) center (10782,-23194) size 37×31
+
+### Added
+**_P4alad1N** — 3 claim(s), 871 blocks total
+  - (-22800,10441) → (-22707,10446) center (-22754,10443) size 93×5
+  - (8874,-21915) → (8887,-21906) center (8880,-21911) size 13×9
+  - (-21736,-1014) → (-21719,-997) center (-21728,-1006) size 17×17
+**DangerPaws** — 3 claim(s), 40,989 blocks total
+  - (11606,22284) → (11703,22295) center (11654,22289) size 97×11
+  - (11379,22233) → (11509,22422) center (11444,22327) size 130×189
+  - (11379,22422) → (11531,22523) center (11455,22472) size 152×101
+**_xoxocxtie** — 2 claim(s), 5,545 blocks total
+  - (11991,-21018) → (12012,-20993) center (12001,-21006) size 21×25
+  - (11981,-21492) → (11991,-20990) center (11986,-21241) size 10×502
+**Sharky_DEV** — 1 claim(s), 132 blocks total
+  - (-22689,-20104) → (-22678,-20092) center (-22684,-20098) size 11×12
+**Post_Mortal** — 1 claim(s), 1,860 blocks total
+  - (10219,23352) → (10279,23383) center (10249,23367) size 60×31
+**OTTORAKULES44** — 1 claim(s), 4,080 blocks total
+  - (-13868,21893) → (-13800,21953) center (-13834,21923) size 68×60
+
 ## 2026-06-10 11:38 UTC
 Total claims: 15451 | Removed: 0 | Added: 0 | Skipped (reclaimed): 9959
 
