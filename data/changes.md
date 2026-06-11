@@ -1,4 +1,50 @@
 
+## 2026-06-11 17:31 UTC
+Total claims: 15496 | Removed: 5 | Added: 17 | Skipped (reclaimed): 3
+
+### Removed
+**_silverknigh5** — 2 claim(s), 1,170 blocks total
+  - (-16426,-23157) → (-16396,-23134) center (-16411,-23146) size 30×23
+  - (-16396,-23157) → (-16380,-23127) center (-16388,-23142) size 16×30
+**_SwiftArcher1720** — 1 claim(s), 1,568 blocks total
+  - (-6282,-20013) → (-6233,-19981) center (-6258,-19997) size 49×32
+**lancerarchive** — 1 claim(s), 2,448 blocks total
+  - (20933,-13133) → (20981,-13082) center (20957,-13108) size 48×51
+**miguel3497esh38** — 1 claim(s), 143 blocks total
+  - (-18265,-23201) → (-18254,-23188) center (-18260,-23195) size 11×13
+
+### Added
+**Psyukio** — 5 claim(s), 1,808 blocks total
+  - (23129,23209) → (23149,23224) center (23139,23216) size 20×15
+  - (23030,23248) → (23064,23277) center (23047,23262) size 34×29
+  - (23110,23224) → (23128,23238) center (23119,23231) size 18×14
+  - (23128,23224) → (23138,23236) center (23133,23230) size 10×12
+  - (23128,23237) → (23138,23252) center (23133,23244) size 10×15
+**_xoxocxtie** — 1 claim(s), 5,180 blocks total
+  - (11948,-21036) → (12018,-20962) center (11983,-20999) size 70×74
+**notguppy** — 1 claim(s), 14,820 blocks total
+  - (21929,16444) → (22043,16574) center (21986,16509) size 114×130
+**_KaspaRafis** — 1 claim(s), 657 blocks total
+  - (20727,-15487) → (20736,-15414) center (20731,-15451) size 9×73
+**man_billys123** — 1 claim(s), 4,255 blocks total
+  - (-16852,-4395) → (-16737,-4358) center (-16795,-4377) size 115×37
+**_Noddles7520** — 1 claim(s), 140 blocks total
+  - (-12780,-21301) → (-12770,-21287) center (-12775,-21294) size 10×14
+**kuriizu** — 1 claim(s), 5,456 blocks total
+  - (22105,19227) → (22193,19289) center (22149,19258) size 88×62
+**wackiewizard** — 1 claim(s), 837 blocks total
+  - (19116,-4267) → (19143,-4236) center (19129,-4252) size 27×31
+**_Yo_soy_tu3919** — 1 claim(s), 121 blocks total
+  - (-23308,12980) → (-23297,12991) center (-23303,12985) size 11×11
+**Mini_Kaktus** — 1 claim(s), 1,900 blocks total
+  - (-8917,22079) → (-8841,22104) center (-8879,22091) size 76×25
+**kingkoedex1979** — 1 claim(s), 1,640 blocks total
+  - (12566,23784) → (12607,23824) center (12586,23804) size 41×40
+**Bros1316** — 1 claim(s), 224 blocks total
+  - (22038,23308) → (22052,23324) center (22045,23316) size 14×16
+**DrachenlordLove** — 1 claim(s), 150 blocks total
+  - (-20986,8092) → (-20971,8102) center (-20979,8097) size 15×10
+
 ## 2026-06-11 13:50 UTC
 Total claims: 15487 | Removed: 5 | Added: 11 | Skipped (reclaimed): 5
 
