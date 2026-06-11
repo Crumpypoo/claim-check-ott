@@ -1,4 +1,37 @@
 
+## 2026-06-11 20:08 UTC
+Total claims: 15500 | Removed: 1 | Added: 15 | Skipped (reclaimed): 10
+
+### Removed
+**xBlueMoon** — 1 claim(s), 345 blocks total
+  - (-3308,-21457) → (-3285,-21442) center (-3297,-21450) size 23×15
+
+### Added
+**irrealidade** — 4 claim(s), 27,128 blocks total
+  - (-8072,2464) → (-8061,2475) center (-8067,2469) size 11×11
+  - (935,-10480) → (1037,-10355) center (986,-10418) size 102×125
+  - (-8150,2478) → (-8029,2595) center (-8090,2536) size 121×117
+  - (-792,-1641) → (-782,-1631) center (-787,-1636) size 10×10
+**OhHelloItsAugust** — 2 claim(s), 61,394 blocks total
+  - (22814,16562) → (22876,16677) center (22845,16619) size 62×115
+  - (22877,16068) → (22953,16782) center (22915,16425) size 76×714
+**Psyukio** — 2 claim(s), 2,027 blocks total
+  - (23006,23232) → (23029,23276) center (23017,23254) size 23×44
+  - (23029,23248) → (23064,23277) center (23046,23262) size 35×29
+**Ruvi2010** — 2 claim(s), 378 blocks total
+  - (15515,22741) → (15524,22767) center (15519,22754) size 9×26
+  - (15515,22768) → (15524,22784) center (15519,22776) size 9×16
+**Mini_Kaktus** — 1 claim(s), 2,106 blocks total
+  - (-8918,22078) → (-8840,22105) center (-8879,22091) size 78×27
+**GhostGamerDK** — 1 claim(s), 750 blocks total
+  - (-22299,11460) → (-22269,11485) center (-22284,11472) size 30×25
+**imcasp** — 1 claim(s), 121 blocks total
+  - (-23179,18848) → (-23168,18859) center (-23174,18853) size 11×11
+**melonenLuca44** — 1 claim(s), 756 blocks total
+  - (7474,-21430) → (7501,-21402) center (7487,-21416) size 27×28
+**Desstiiny** — 1 claim(s), 16,490 blocks total
+  - (-18470,20912) → (-18300,21009) center (-18385,20960) size 170×97
+
 ## 2026-06-11 17:31 UTC
 Total claims: 15496 | Removed: 5 | Added: 17 | Skipped (reclaimed): 3
 
