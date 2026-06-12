@@ -1,4 +1,41 @@
 
+## 2026-06-12 02:28 UTC
+Total claims: 15504 | Removed: 3 | Added: 13 | Skipped (reclaimed): 5
+
+### Removed
+**Popel1215** — 1 claim(s), 693 blocks total
+  - (-3222,-21565) → (-3145,-21556) center (-3184,-21561) size 77×9
+**Davidlezz** — 1 claim(s), 100 blocks total
+  - (-3495,-21629) → (-3475,-21624) center (-3485,-21627) size 20×5
+**ChicknFingas** — 1 claim(s), 360 blocks total
+  - (-20801,7065) → (-20771,7077) center (-20786,7071) size 30×12
+
+### Added
+**Toostrange4u** — 2 claim(s), 982 blocks total
+  - (22916,-12453) → (22921,-12424) center (22918,-12439) size 5×29
+  - (22875,-12451) → (22906,-12424) center (22890,-12438) size 31×27
+**TelleGizmo** — 2 claim(s), 24,460 blocks total
+  - (-22733,5627) → (-22723,5637) center (-22728,5632) size 10×10
+  - (-22734,14207) → (-22589,14375) center (-22662,14291) size 145×168
+**notguppy** — 1 claim(s), 13,536 blocks total
+  - (21929,16433) → (22025,16574) center (21977,16503) size 96×141
+**Girlives** — 1 claim(s), 1,120 blocks total
+  - (21353,-6580) → (21381,-6540) center (21367,-6560) size 28×40
+**CharmanderRose** — 1 claim(s), 472,386 blocks total
+  - (21452,-7612) → (22053,-6826) center (21752,-7219) size 601×786
+**angelicfawniie** — 1 claim(s), 1,353 blocks total
+  - (7362,-23109) → (7403,-23076) center (7382,-23093) size 41×33
+**monk3lover** — 1 claim(s), 165 blocks total
+  - (23196,-1442) → (23207,-1427) center (23201,-1435) size 11×15
+**BuggyLuvxx** — 1 claim(s), 506 blocks total
+  - (-21268,16718) → (-21245,16740) center (-21257,16729) size 23×22
+**AirShorky** — 1 claim(s), 6,225 blocks total
+  - (5055,6830) → (5138,6905) center (5096,6867) size 83×75
+**SugarxSweet2006** — 1 claim(s), 2,401 blocks total
+  - (706,24153) → (755,24202) center (730,24177) size 49×49
+**biazij** — 1 claim(s), 1,566 blocks total
+  - (-308,1293) → (-279,1347) center (-294,1320) size 29×54
+
 ## 2026-06-11 23:12 UTC
 Total claims: 15499 | Removed: 4 | Added: 9 | Skipped (reclaimed): 6
 
