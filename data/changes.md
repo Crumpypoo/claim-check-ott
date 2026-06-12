@@ -1,4 +1,46 @@
 
+## 2026-06-12 12:48 UTC
+Total claims: 15513 | Removed: 3 | Added: 15 | Skipped (reclaimed): 7
+
+### Removed
+**_aaviaavi** — 1 claim(s), 924 blocks total
+  - (15697,22934) → (15718,22978) center (15707,22956) size 21×44
+**BuggyLuvxx** — 1 claim(s), 506 blocks total
+  - (-21268,16718) → (-21245,16740) center (-21257,16729) size 23×22
+**Distant_girl_21** — 1 claim(s), 1,120 blocks total
+  - (-20688,9584) → (-20660,9624) center (-20674,9604) size 28×40
+
+### Added
+**EmotionlDamage** — 2 claim(s), 848 blocks total
+  - (-12810,-22045) → (-12790,-22025) center (-12800,-22035) size 20×20
+  - (-12927,-22037) → (-12899,-22021) center (-12913,-22029) size 28×16
+**mania7128** — 1 claim(s), 18,486 blocks total
+  - (-22328,10117) → (-22170,10234) center (-22249,10175) size 158×117
+**notguppy** — 1 claim(s), 19,080 blocks total
+  - (21929,16415) → (22049,16574) center (21989,16494) size 120×159
+**rengokugameing** — 1 claim(s), 3,604 blocks total
+  - (-8485,-22640) → (-8417,-22587) center (-8451,-22614) size 68×53
+**wastedera** — 1 claim(s), 11,155 blocks total
+  - (-21989,-19361) → (-21892,-19246) center (-21941,-19304) size 97×115
+**AdhdModeOn** — 1 claim(s), 55,284 blocks total
+  - (3502,-21368) → (3706,-21097) center (3604,-21233) size 204×271
+**soulgeeked** — 1 claim(s), 342 blocks total
+  - (17819,9010) → (17837,9029) center (17828,9019) size 18×19
+**UmbraSen** — 1 claim(s), 1,258 blocks total
+  - (21457,20973) → (21491,21010) center (21474,20991) size 34×37
+**gooseberry404** — 1 claim(s), 1,890 blocks total
+  - (20051,23299) → (20096,23341) center (20073,23320) size 45×42
+**Ethanmepro** — 1 claim(s), 255 blocks total
+  - (23145,12844) → (23160,12861) center (23152,12852) size 15×17
+**_suukhibhindi** — 1 claim(s), 621 blocks total
+  - (-8489,-21177) → (-8466,-21150) center (-8478,-21164) size 23×27
+**boutiq_** — 1 claim(s), 100 blocks total
+  - (-20596,15266) → (-20586,15276) center (-20591,15271) size 10×10
+**BuggyLuvxx** — 1 claim(s), 13,456 blocks total
+  - (-21063,16622) → (-20947,16738) center (-21005,16680) size 116×116
+**UNOcraftsTV** — 1 claim(s), 25,800 blocks total
+  - (21346,22630) → (21466,22845) center (21406,22737) size 120×215
+
 ## 2026-06-12 08:15 UTC
 Total claims: 15508 | Removed: 3 | Added: 10 | Skipped (reclaimed): 3
 
