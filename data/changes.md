@@ -1,4 +1,49 @@
 
+## 2026-06-12 19:50 UTC
+Total claims: 15528 | Removed: 3 | Added: 18 | Skipped (reclaimed): 6
+
+### Removed
+**queengirl123** — 2 claim(s), 6,768 blocks total
+  - (22245,12321) → (22269,12342) center (22257,12331) size 24×21
+  - (22210,12342) → (22297,12414) center (22253,12378) size 87×72
+**Guuis** — 1 claim(s), 324 blocks total
+  - (-20163,19947) → (-20145,19965) center (-20154,19956) size 18×18
+
+### Added
+**_Smokey9998113** — 3 claim(s), 2,926 blocks total
+  - (641,22136) → (679,22157) center (660,22146) size 38×21
+  - (685,22094) → (710,22137) center (697,22115) size 25×43
+  - (641,22109) → (680,22136) center (660,22122) size 39×27
+**Eltiaguin18** — 2 claim(s), 478 blocks total
+  - (-16701,11105) → (-16685,11128) center (-16693,11116) size 16×23
+  - (22555,6288) → (22566,6298) center (22560,6293) size 11×10
+**Giaan_** — 1 claim(s), 324 blocks total
+  - (12173,22681) → (12191,22699) center (12182,22690) size 18×18
+**LuxRavens** — 1 claim(s), 6,402 blocks total
+  - (-23891,-22687) → (-23794,-22621) center (-23843,-22654) size 97×66
+**EnzoLegion** — 1 claim(s), 70,422 blocks total
+  - (-16231,-23149) → (-15989,-22858) center (-16110,-23004) size 242×291
+**_RebelBull732813** — 1 claim(s), 112 blocks total
+  - (-16441,-22271) → (-16433,-22257) center (-16437,-22264) size 8×14
+**_kieran1098** — 1 claim(s), 420 blocks total
+  - (14498,21240) → (14519,21260) center (14508,21250) size 21×20
+**JetsSpaghetts** — 1 claim(s), 1,178 blocks total
+  - (-21232,5924) → (-21201,5962) center (-21217,5943) size 31×38
+**xkaleighx** — 1 claim(s), 143,856 blocks total
+  - (-2812,23783) → (-2368,24107) center (-2590,23945) size 444×324
+**Tyron1465** — 1 claim(s), 192 blocks total
+  - (-19431,-21063) → (-19419,-21047) center (-19425,-21055) size 12×16
+**JBcraft2** — 1 claim(s), 110 blocks total
+  - (10131,-20663) → (10141,-20652) center (10136,-20658) size 10×11
+**karmicrain55419** — 1 claim(s), 1,089 blocks total
+  - (-12789,20613) → (-12756,20646) center (-12773,20629) size 33×33
+**_HannibalsGambit** — 1 claim(s), 140 blocks total
+  - (-12736,20655) → (-12722,20665) center (-12729,20660) size 14×10
+**_deathsparrow676** — 1 claim(s), 621 blocks total
+  - (14371,21241) → (14440,21250) center (14405,21245) size 69×9
+**Mini_Kaktus** — 1 claim(s), 2,465 blocks total
+  - (-8924,22076) → (-8839,22105) center (-8882,22090) size 85×29
+
 ## 2026-06-12 16:37 UTC
 Total claims: 15519 | Removed: 6 | Added: 22 | Skipped (reclaimed): 10
 
