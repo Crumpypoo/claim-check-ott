@@ -30488,15 +30488,15 @@
     {
       "owner": "tinker_z",
       "trusted": "",
-      "x1": -3284,
-      "z1": -22023,
-      "x2": -3254,
-      "z2": -21996,
-      "cx": -3269,
+      "x1": -3321,
+      "z1": -22033,
+      "x2": -3230,
+      "z2": -21986,
+      "cx": -3276,
       "cz": -22010,
-      "width": 30,
-      "height": 27,
-      "area": 810
+      "width": 91,
+      "height": 47,
+      "area": 4277
     },
     {
       "owner": "jovin19",
@@ -30616,7 +30616,7 @@
       "area": 420
     },
     {
-      "owner": "Dr_MD_house",
+      "owner": "Ancient_Ivory",
       "trusted": "",
       "x1": 21286,
       "z1": 19274,
@@ -32709,7 +32709,7 @@
       "area": 192
     },
     {
-      "owner": "Dr_MD_house",
+      "owner": "Ancient_Ivory",
       "trusted": "",
       "x1": 21355,
       "z1": 19819,
@@ -34269,7 +34269,7 @@
       "area": 672
     },
     {
-      "owner": "Dr_MD_house",
+      "owner": "Ancient_Ivory",
       "trusted": "",
       "x1": 21325,
       "z1": 20121,
@@ -41666,19 +41666,6 @@
       "area": 117
     },
     {
-      "owner": "cadnd",
-      "trusted": "",
-      "x1": -20921,
-      "z1": 6731,
-      "x2": -20905,
-      "z2": 6741,
-      "cx": -20913,
-      "cz": 6736,
-      "width": 16,
-      "height": 10,
-      "area": 160
-    },
-    {
       "owner": "Nordicprintsess",
       "trusted": "",
       "x1": 15441,
@@ -42002,19 +41989,6 @@
       "width": 123,
       "height": 69,
       "area": 8487
-    },
-    {
-      "owner": "Dr_MD_house",
-      "trusted": "",
-      "x1": 22345,
-      "z1": 19258,
-      "x2": 22423,
-      "z2": 19319,
-      "cx": 22384,
-      "cz": 19288,
-      "width": 78,
-      "height": 61,
-      "area": 4758
     },
     {
       "owner": "ThePurpleThings",
@@ -44994,7 +44968,7 @@
       "area": 3116
     },
     {
-      "owner": "Dr_MD_house",
+      "owner": "Ancient_Ivory",
       "trusted": "",
       "x1": 21376,
       "z1": 19470,
@@ -51702,7 +51676,7 @@
       "area": 968
     },
     {
-      "owner": "Dr_MD_house",
+      "owner": "Ancient_Ivory",
       "trusted": "",
       "x1": 21368,
       "z1": 19352,
@@ -123644,19 +123618,6 @@
       "area": 60794
     },
     {
-      "owner": "_EerierEmu8314",
-      "trusted": "",
-      "x1": 22198,
-      "z1": 12118,
-      "x2": 22216,
-      "z2": 12134,
-      "cx": 22207,
-      "cz": 12126,
-      "width": 18,
-      "height": 16,
-      "area": 288
-    },
-    {
       "owner": "AshyK",
       "trusted": "",
       "x1": 3991,
@@ -123696,6 +123657,45 @@
       "area": 18318
     },
     {
+      "owner": "o_OzomBBoy",
+      "trusted": "",
+      "x1": 8299,
+      "z1": -22066,
+      "x2": 8321,
+      "z2": -22032,
+      "cx": 8310,
+      "cz": -22049,
+      "width": 22,
+      "height": 34,
+      "area": 748
+    },
+    {
+      "owner": "_EerierEmu8314",
+      "trusted": "",
+      "x1": 22188,
+      "z1": 12109,
+      "x2": 22220,
+      "z2": 12145,
+      "cx": 22204,
+      "cz": 12127,
+      "width": 32,
+      "height": 36,
+      "area": 1152
+    },
+    {
+      "owner": "EncryptedKoala23",
+      "trusted": "",
+      "x1": 6075,
+      "z1": -22243,
+      "x2": 6112,
+      "z2": -22215,
+      "cx": 6093,
+      "cz": -22229,
+      "width": 37,
+      "height": 28,
+      "area": 1036
+    },
+    {
       "owner": "Skyz32",
       "trusted": "",
       "x1": 11462,
@@ -123722,6 +123722,19 @@
       "area": 11124
     },
     {
+      "owner": "AppleButCool",
+      "trusted": "",
+      "x1": 18588,
+      "z1": 6210,
+      "x2": 20629,
+      "z2": 7681,
+      "cx": 19608,
+      "cz": 6945,
+      "width": 2041,
+      "height": 1471,
+      "area": 3002311
+    },
+    {
       "owner": "Laggy23",
       "trusted": "",
       "x1": 2998,
@@ -123735,6 +123748,19 @@
       "area": 9976
     },
     {
+      "owner": "NeLa7061",
+      "trusted": "",
+      "x1": 6086,
+      "z1": -22199,
+      "x2": 6097,
+      "z2": -22188,
+      "cx": 6091,
+      "cz": -22194,
+      "width": 11,
+      "height": 11,
+      "area": 121
+    },
+    {
       "owner": "Bounced13",
       "trusted": "",
       "x1": -169,
@@ -123746,6 +123772,19 @@
       "width": 17,
       "height": 28,
       "area": 476
+    },
+    {
+      "owner": "AronBaron2011",
+      "trusted": "",
+      "x1": 3805,
+      "z1": 22239,
+      "x2": 3837,
+      "z2": 22250,
+      "cx": 3821,
+      "cz": 22244,
+      "width": 32,
+      "height": 11,
+      "area": 352
     },
     {
       "owner": "BethStar",
@@ -123811,6 +123850,19 @@
       "width": 40,
       "height": 30,
       "area": 1200
+    },
+    {
+      "owner": "qwizlv",
+      "trusted": "",
+      "x1": -20865,
+      "z1": -6725,
+      "x2": -20834,
+      "z2": -6697,
+      "cx": -20850,
+      "cz": -6711,
+      "width": 31,
+      "height": 28,
+      "area": 868
     },
     {
       "owner": "Covenns",
@@ -124570,14 +124622,14 @@
       "owner": "KandyKoi",
       "trusted": "",
       "x1": -3643,
-      "z1": 22784,
-      "x2": -3624,
+      "z1": 22771,
+      "x2": -3598,
       "z2": 22800,
-      "cx": -3634,
-      "cz": 22792,
-      "width": 19,
-      "height": 16,
-      "area": 304
+      "cx": -3621,
+      "cz": 22785,
+      "width": 45,
+      "height": 29,
+      "area": 1305
     },
     {
       "owner": "SilverMotus",
@@ -167597,19 +167649,6 @@
       "area": 625
     },
     {
-      "owner": "_BlueShepard12",
-      "trusted": "",
-      "x1": -8489,
-      "z1": 23202,
-      "x2": -8443,
-      "z2": 23207,
-      "cx": -8466,
-      "cz": 23204,
-      "width": 46,
-      "height": 5,
-      "area": 230
-    },
-    {
       "owner": "charlye19",
       "trusted": "",
       "x1": -1440,
@@ -183808,7 +183847,7 @@
       "area": 207
     },
     {
-      "owner": "Dr_MD_house",
+      "owner": "Ancient_Ivory",
       "trusted": "",
       "x1": 21299,
       "z1": 21125,
@@ -185550,7 +185589,7 @@
       "area": 928
     },
     {
-      "owner": "Dr_MD_house",
+      "owner": "Ancient_Ivory",
       "trusted": "",
       "x1": 21495,
       "z1": 19751,
@@ -202060,5 +202099,5 @@
       "area": 1482
     }
   ],
-  "time": "2026-06-13 21:00 UTC"
+  "time": "2026-06-13 22:52 UTC"
 }
