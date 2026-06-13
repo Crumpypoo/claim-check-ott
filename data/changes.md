@@ -1,4 +1,33 @@
 
+## 2026-06-13 17:09 UTC
+Total claims: 15540 | Removed: 2 | Added: 11 | Skipped (reclaimed): 1
+
+### Removed
+**_smallman1604** — 1 claim(s), 1,440 blocks total
+  - (-22789,-8267) → (-22749,-8231) center (-22769,-8249) size 40×36
+**TankoFleur** — 1 claim(s), 540 blocks total
+  - (5339,21230) → (5366,21250) center (5352,21240) size 27×20
+
+### Added
+**xxXmartenXxxfor** — 3 claim(s), 795 blocks total
+  - (23837,13219) → (23850,13234) center (23843,13226) size 13×15
+  - (23716,13118) → (23726,13130) center (23721,13124) size 10×12
+  - (23727,13118) → (23759,13133) center (23743,13125) size 32×15
+**ohio_oscar** — 2 claim(s), 719 blocks total
+  - (-7483,22192) → (-7462,22221) center (-7473,22206) size 21×29
+  - (-7470,22113) → (-7460,22124) center (-7465,22118) size 10×11
+**BriannaNicole50** — 2 claim(s), 727 blocks total
+  - (20816,-8064) → (20827,-8024) center (20821,-8044) size 11×40
+  - (20789,-8023) → (20830,-8016) center (20809,-8020) size 41×7
+**LocalBookNerd** — 1 claim(s), 2,448 blocks total
+  - (6523,-22888) → (6574,-22840) center (6548,-22864) size 51×48
+**_EerierEmu8314** — 1 claim(s), 288 blocks total
+  - (22198,12118) → (22216,12134) center (22207,12126) size 18×16
+**AshyK** — 1 claim(s), 1,600 blocks total
+  - (3991,22900) → (4031,22940) center (4011,22920) size 40×40
+**_EchoBlade3836** — 1 claim(s), 209 blocks total
+  - (-20807,-14302) → (-20796,-14283) center (-20802,-14293) size 11×19
+
 ## 2026-06-13 15:24 UTC
 Total claims: 15532 | Removed: 3 | Added: 12 | Skipped (reclaimed): 6
 
