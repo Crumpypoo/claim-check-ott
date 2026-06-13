@@ -1,4 +1,39 @@
 
+## 2026-06-13 15:24 UTC
+Total claims: 15532 | Removed: 3 | Added: 12 | Skipped (reclaimed): 6
+
+### Removed
+**jovin19** — 1 claim(s), 480 blocks total
+  - (10192,-23255) → (10222,-23239) center (10207,-23247) size 30×16
+**Ineffable_sirio** — 1 claim(s), 121 blocks total
+  - (-23002,12795) → (-22991,12806) center (-22997,12800) size 11×11
+**HydrangeaHymn** — 1 claim(s), 414 blocks total
+  - (-7717,16896) → (-7699,16919) center (-7708,16907) size 18×23
+
+### Added
+**jovin19** — 3 claim(s), 1,372 blocks total
+  - (-10898,-21380) → (-10873,-21361) center (-10886,-21371) size 25×19
+  - (-10888,-21361) → (-10873,-21346) center (-10881,-21354) size 15×15
+  - (-10912,-21404) → (-10884,-21380) center (-10898,-21392) size 28×24
+**LuxRavens** — 1 claim(s), 11,154 blocks total
+  - (-23891,-22687) → (-23722,-22621) center (-23807,-22654) size 169×66
+**GullyIsSilly** — 1 claim(s), 32,706 blocks total
+  - (-23275,-11301) → (-23117,-11094) center (-23196,-11198) size 158×207
+**ChaoticPrincess_** — 1 claim(s), 111,930 blocks total
+  - (21636,-4131) → (21923,-3741) center (21779,-3936) size 287×390
+**UNOcraftsTV** — 1 claim(s), 31,416 blocks total
+  - (9052,-20073) → (9256,-19919) center (9154,-19996) size 204×154
+**kknt19** — 1 claim(s), 156 blocks total
+  - (-20678,-19040) → (-20665,-19028) center (-20672,-19034) size 13×12
+**_smallman1604** — 1 claim(s), 1,440 blocks total
+  - (-22789,-8267) → (-22749,-8231) center (-22769,-8249) size 40×36
+**Ineffable_sirio** — 1 claim(s), 121 blocks total
+  - (-21206,7995) → (-21195,8006) center (-21201,8000) size 11×11
+**thatrandoplayer4** — 1 claim(s), 3,180 blocks total
+  - (-6882,21261) → (-6829,21321) center (-6856,21291) size 53×60
+**JBcraft2** — 1 claim(s), 210 blocks total
+  - (10165,-20691) → (10179,-20676) center (10172,-20684) size 14×15
+
 ## 2026-06-13 13:22 UTC
 Total claims: 15529 | Removed: 7 | Added: 5 | Skipped (reclaimed): 0
 
