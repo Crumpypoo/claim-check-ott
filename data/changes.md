@@ -1,4 +1,30 @@
 
+## 2026-06-13 13:22 UTC
+Total claims: 15529 | Removed: 7 | Added: 5 | Skipped (reclaimed): 0
+
+### Removed
+**jinniela** — 4 claim(s), 1,255 blocks total
+  - (21538,-9308) → (21547,-9240) center (21542,-9274) size 9×68
+  - (7980,-21210) → (7990,-21197) center (7985,-21204) size 10×13
+  - (7957,-21210) → (7974,-21193) center (7965,-21202) size 17×17
+  - (7977,-21196) → (7991,-21180) center (7984,-21188) size 14×16
+**_Gailzy3099** — 2 claim(s), 451 blocks total
+  - (-8866,20616) → (-8844,20631) center (-8855,20623) size 22×15
+  - (-8869,20597) → (-8858,20608) center (-8864,20602) size 11×11
+**quinsanity2815** — 1 claim(s), 325 blocks total
+  - (21557,5677) → (21570,5702) center (21563,5689) size 13×25
+
+### Added
+**sashaistcool** — 2 claim(s), 1,954 blocks total
+  - (15432,-21707) → (15467,-21672) center (15449,-21690) size 35×35
+  - (-23211,-21514) → (-23184,-21487) center (-23198,-21501) size 27×27
+**Ciupa94** — 1 claim(s), 1,720 blocks total
+  - (1300,22789) → (1340,22832) center (1320,22810) size 40×43
+**FE4R1NG** — 1 claim(s), 882 blocks total
+  - (21626,-1293) → (21647,-1251) center (21636,-1272) size 21×42
+**Ineffable_sirio** — 1 claim(s), 121 blocks total
+  - (-23002,12795) → (-22991,12806) center (-22997,12800) size 11×11
+
 ## 2026-06-13 10:20 UTC
 Total claims: 15531 | Removed: 7 | Added: 11 | Skipped (reclaimed): 5
 
