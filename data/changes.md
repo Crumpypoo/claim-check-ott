@@ -1,4 +1,28 @@
 
+## 2026-06-13 21:00 UTC
+Total claims: 15543 | Removed: 4 | Added: 5 | Skipped (reclaimed): 2
+
+### Removed
+**_V1nc3ntAlan** — 1 claim(s), 990 blocks total
+  - (21918,4398) → (21948,4431) center (21933,4414) size 30×33
+**0x530ft** — 1 claim(s), 1,000 blocks total
+  - (12165,21619) → (12190,21659) center (12177,21639) size 25×40
+**a_loafofbread** — 1 claim(s), 1,156 blocks total
+  - (9983,-17428) → (10017,-17394) center (10000,-17411) size 34×34
+**Dusk_0_o_** — 1 claim(s), 2,520 blocks total
+  - (23202,-5434) → (23244,-5374) center (23223,-5404) size 42×60
+
+### Added
+**ASmodeus686** — 2 claim(s), 738 blocks total
+  - (17429,4011) → (17456,4034) center (17442,4022) size 27×23
+  - (17420,4021) → (17429,4034) center (17424,4027) size 9×13
+**kenny265** — 1 claim(s), 1,824 blocks total
+  - (6375,-20370) → (6423,-20332) center (6399,-20351) size 48×38
+**Ineffable_sirio** — 1 claim(s), 1,200 blocks total
+  - (-21212,7992) → (-21172,8022) center (-21192,8007) size 40×30
+**_DarkRedRose** — 1 claim(s), 27,560 blocks total
+  - (2483,5780) → (2613,5992) center (2548,5886) size 130×212
+
 ## 2026-06-13 19:06 UTC
 Total claims: 15544 | Removed: 2 | Added: 11 | Skipped (reclaimed): 5
 
