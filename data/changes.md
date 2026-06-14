@@ -1,4 +1,27 @@
 
+## 2026-06-14 13:25 UTC
+Total claims: 15563 | Removed: 3 | Added: 5 | Skipped (reclaimed): 2
+
+### Removed
+**saural** — 1 claim(s), 756 blocks total
+  - (16284,6622) → (16312,6649) center (16298,6635) size 28×27
+**_Lorian1812** — 1 claim(s), 256 blocks total
+  - (-189,21145) → (-173,21161) center (-181,21153) size 16×16
+**Qiyian1004** — 1 claim(s), 475 blocks total
+  - (-21053,-18567) → (-21034,-18542) center (-21044,-18555) size 19×25
+
+### Added
+**Windytp** — 1 claim(s), 43,433 blocks total
+  - (-2836,21266) → (-2667,21523) center (-2752,21394) size 169×257
+**Chopper** — 1 claim(s), 3,819,128 blocks total
+  - (-25001,2798) → (-21645,3936) center (-23323,3367) size 3356×1138
+**DemonCalledYuni** — 1 claim(s), 1,890 blocks total
+  - (17347,22672) → (17392,22714) center (17369,22693) size 45×42
+**Nick_Builds_** — 1 claim(s), 121 blocks total
+  - (-22154,-15347) → (-22143,-15336) center (-22149,-15342) size 11×11
+**Noxxyss** — 1 claim(s), 100 blocks total
+  - (18453,22283) → (18473,22288) center (18463,22285) size 20×5
+
 ## 2026-06-14 11:48 UTC
 Total claims: 15563 | Removed: 1 | Added: 9 | Skipped (reclaimed): 3
 
