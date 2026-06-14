@@ -65443,7 +65443,7 @@
       "area": 8284
     },
     {
-      "owner": "PlugWalkNea",
+      "owner": "Itzblisss",
       "trusted": "",
       "x1": 7387,
       "z1": -16080,
@@ -73449,19 +73449,6 @@
       "width": 7,
       "height": 45,
       "area": 315
-    },
-    {
-      "owner": "Dz5x9",
-      "trusted": "",
-      "x1": 5885,
-      "z1": -17107,
-      "x2": 5909,
-      "z2": -17085,
-      "cx": 5897,
-      "cz": -17096,
-      "width": 24,
-      "height": 22,
-      "area": 528
     },
     {
       "owner": "BRB_PACMAN",
@@ -122916,6 +122903,19 @@
       "area": 6560
     },
     {
+      "owner": "TT_12aM",
+      "trusted": "",
+      "x1": 22596,
+      "z1": 8404,
+      "x2": 22625,
+      "z2": 8431,
+      "cx": 22610,
+      "cz": 8417,
+      "width": 29,
+      "height": 27,
+      "area": 783
+    },
+    {
       "owner": "SwitchBlade482",
       "trusted": "",
       "x1": -10000,
@@ -122927,6 +122927,32 @@
       "width": 457,
       "height": 526,
       "area": 240382
+    },
+    {
+      "owner": "0h3lyat",
+      "trusted": "",
+      "x1": 19239,
+      "z1": 20801,
+      "x2": 19270,
+      "z2": 20830,
+      "cx": 19254,
+      "cz": 20815,
+      "width": 31,
+      "height": 29,
+      "area": 899
+    },
+    {
+      "owner": "smetarvid",
+      "trusted": "",
+      "x1": -23234,
+      "z1": 787,
+      "x2": -23223,
+      "z2": 801,
+      "cx": -23229,
+      "cz": 794,
+      "width": 11,
+      "height": 14,
+      "area": 154
     },
     {
       "owner": "Alexyproazo",
@@ -122955,6 +122981,19 @@
       "area": 102
     },
     {
+      "owner": "SecretlyTimDrake",
+      "trusted": "",
+      "x1": 22665,
+      "z1": 17337,
+      "x2": 22686,
+      "z2": 17369,
+      "cx": 22675,
+      "cz": 17353,
+      "width": 21,
+      "height": 32,
+      "area": 672
+    },
+    {
       "owner": "Sombra162",
       "trusted": "",
       "x1": -4639,
@@ -122966,6 +123005,19 @@
       "width": 86,
       "height": 10,
       "area": 860
+    },
+    {
+      "owner": "SecretlyTimDrake",
+      "trusted": "",
+      "x1": 22539,
+      "z1": 17360,
+      "x2": 22655,
+      "z2": 17464,
+      "cx": 22597,
+      "cz": 17412,
+      "width": 116,
+      "height": 104,
+      "area": 12064
     },
     {
       "owner": "papyrus621",
@@ -202372,5 +202424,5 @@
       "area": 1482
     }
   ],
-  "time": "2026-06-14 15:41 UTC"
+  "time": "2026-06-14 17:07 UTC"
 }
