@@ -1,4 +1,38 @@
 
+## 2026-06-14 02:32 UTC
+Total claims: 15552 | Removed: 3 | Added: 11 | Skipped (reclaimed): 2
+
+### Removed
+**J_Tenebris_D** — 2 claim(s), 900 blocks total
+  - (-21719,11264) → (-21704,11279) center (-21712,11271) size 15×15
+  - (15415,20834) → (15442,20859) center (15428,20846) size 27×25
+**Tyron1465** — 1 claim(s), 192 blocks total
+  - (-19431,-21063) → (-19419,-21047) center (-19425,-21055) size 12×16
+
+### Added
+**Deadscened** — 1 claim(s), 25,132 blocks total
+  - (17452,21149) → (17555,21393) center (17503,21271) size 103×244
+**EvaConly** — 1 claim(s), 268,370 blocks total
+  - (21182,12108) → (21753,12578) center (21467,12343) size 571×470
+**EnderGhost_64** — 1 claim(s), 1,364 blocks total
+  - (-21120,6272) → (-21076,6303) center (-21098,6287) size 44×31
+**LayneRainbow** — 1 claim(s), 532 blocks total
+  - (9015,-21453) → (9034,-21425) center (9024,-21439) size 19×28
+**thatrandoplayer4** — 1 claim(s), 3,233 blocks total
+  - (-23298,15888) → (-23237,15941) center (-23268,15914) size 61×53
+**6sLastStand** — 1 claim(s), 168 blocks total
+  - (24047,9428) → (24061,9440) center (24054,9434) size 14×12
+**Aspen_Max** — 1 claim(s), 3,784 blocks total
+  - (19765,20389) → (19853,20432) center (19809,20410) size 88×43
+**T_to_the_Tate** — 1 claim(s), 1,073 blocks total
+  - (20700,19250) → (20729,19287) center (20714,19268) size 29×37
+**ProtagPigeon** — 1 claim(s), 1,430 blocks total
+  - (-21837,-2104) → (-21782,-2078) center (-21810,-2091) size 55×26
+**EmirRedd4** — 1 claim(s), 1,015 blocks total
+  - (13643,21241) → (13672,21276) center (13657,21258) size 29×35
+**_Pupstar2012** — 1 claim(s), 100 blocks total
+  - (-21477,443) → (-21467,453) center (-21472,448) size 10×10
+
 ## 2026-06-13 22:52 UTC
 Total claims: 15546 | Removed: 3 | Added: 16 | Skipped (reclaimed): 10
 
