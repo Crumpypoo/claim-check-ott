@@ -1,4 +1,30 @@
 
+## 2026-06-14 15:41 UTC
+Total claims: 15567 | Removed: 2 | Added: 8 | Skipped (reclaimed): 2
+
+### Removed
+**cinoo11** — 1 claim(s), 228 blocks total
+  - (6479,-23452) → (6491,-23433) center (6485,-23443) size 12×19
+**feedmelatinas** — 1 claim(s), 216 blocks total
+  - (15613,-16642) → (15649,-16636) center (15631,-16639) size 36×6
+
+### Added
+**777Mango777** — 2 claim(s), 67,744 blocks total
+  - (-18283,-23401) → (-18078,-23369) center (-18181,-23385) size 205×32
+  - (-18298,-23658) → (-18059,-23402) center (-18179,-23530) size 239×256
+**wastedera** — 1 claim(s), 18,720 blocks total
+  - (-21988,-19441) → (-21892,-19246) center (-21940,-19344) size 96×195
+**GullyIsSilly** — 1 claim(s), 35,432 blocks total
+  - (-23289,-11300) → (-23117,-11094) center (-23203,-11197) size 172×206
+**Alexyproazo** — 1 claim(s), 2,709 blocks total
+  - (21673,-6538) → (21716,-6475) center (21694,-6507) size 43×63
+**_Jerome8272** — 1 claim(s), 104 blocks total
+  - (20707,14127) → (20715,14140) center (20711,14133) size 8×13
+**Noxxyss** — 1 claim(s), 529 blocks total
+  - (18404,22213) → (18427,22236) center (18415,22224) size 23×23
+**Bamboosss** — 1 claim(s), 49,729 blocks total
+  - (-24312,-19305) → (-24089,-19082) center (-24201,-19194) size 223×223
+
 ## 2026-06-14 13:25 UTC
 Total claims: 15563 | Removed: 3 | Added: 5 | Skipped (reclaimed): 2
 
