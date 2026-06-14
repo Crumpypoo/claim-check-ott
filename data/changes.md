@@ -1,4 +1,27 @@
 
+## 2026-06-14 20:58 UTC
+Total claims: 15570 | Removed: 6 | Added: 4 | Skipped (reclaimed): 2
+
+### Removed
+**thatrandoplayer4** — 5 claim(s), 33,057 blocks total
+  - (-4244,-23264) → (-4170,-23241) center (-4207,-23253) size 74×23
+  - (-4328,-23241) → (-4113,-23110) center (-4221,-23176) size 215×131
+  - (-4341,-23122) → (-4328,-23110) center (-4335,-23116) size 13×12
+  - (-4235,-23280) → (-4124,-23264) center (-4180,-23272) size 111×16
+  - (-4383,-23192) → (-4349,-23155) center (-4366,-23174) size 34×37
+**skyixp** — 1 claim(s), 988 blocks total
+  - (21844,-11487) → (21882,-11461) center (21863,-11474) size 38×26
+
+### Added
+**JLMH1209** — 1 claim(s), 110 blocks total
+  - (-22485,20069) → (-22475,20080) center (-22480,20074) size 10×11
+**EmpressEclipse** — 1 claim(s), 9,900 blocks total
+  - (10796,23350) → (10906,23440) center (10851,23395) size 110×90
+**wastedera** — 1 claim(s), 408 blocks total
+  - (-22179,-18955) → (-22155,-18938) center (-22167,-18947) size 24×17
+**BitterNix** — 1 claim(s), 142,728 blocks total
+  - (9751,-6109) → (9979,-5483) center (9865,-5796) size 228×626
+
 ## 2026-06-14 19:06 UTC
 Total claims: 15574 | Removed: 1 | Added: 7 | Skipped (reclaimed): 3
 
