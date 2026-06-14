@@ -1,4 +1,30 @@
 
+## 2026-06-14 11:48 UTC
+Total claims: 15563 | Removed: 1 | Added: 9 | Skipped (reclaimed): 3
+
+### Removed
+**Ash_karim4270** — 1 claim(s), 110 blocks total
+  - (-12314,21261) → (-12304,21272) center (-12309,21266) size 10×11
+
+### Added
+**Lucigohthei** — 2 claim(s), 1,500 blocks total
+  - (-8220,21495) → (-8203,21507) center (-8212,21501) size 17×12
+  - (14766,23108) → (14802,23144) center (14784,23126) size 36×36
+**solongponyboy** — 1 claim(s), 15,029 blocks total
+  - (-12212,-22327) → (-12099,-22194) center (-12156,-22261) size 113×133
+**AdhdModeOn** — 1 claim(s), 106,176 blocks total
+  - (3390,-21433) → (3706,-21097) center (3548,-21265) size 316×336
+**kknt19** — 1 claim(s), 208 blocks total
+  - (-20678,-19044) → (-20665,-19028) center (-20672,-19036) size 13×16
+**pattyesaid69** — 1 claim(s), 629 blocks total
+  - (-20986,18873) → (-20969,18910) center (-20978,18891) size 17×37
+**_K0byThe0G** — 1 claim(s), 680 blocks total
+  - (-21610,14998) → (-21570,15015) center (-21590,15006) size 40×17
+**VizoZizo** — 1 claim(s), 247 blocks total
+  - (-22983,-15144) → (-22970,-15125) center (-22977,-15135) size 13×19
+**_Dragonblood1504** — 1 claim(s), 1,449 blocks total
+  - (10531,-22841) → (10594,-22818) center (10562,-22830) size 63×23
+
 ## 2026-06-14 08:06 UTC
 Total claims: 15558 | Removed: 4 | Added: 16 | Skipped (reclaimed): 6
 
