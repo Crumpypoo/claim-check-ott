@@ -1,4 +1,46 @@
 
+## 2026-06-14 08:06 UTC
+Total claims: 15558 | Removed: 4 | Added: 16 | Skipped (reclaimed): 6
+
+### Removed
+**Nicholasgamez** — 2 claim(s), 2,416 blocks total
+  - (3155,22739) → (3165,22755) center (3160,22747) size 10×16
+  - (3219,22708) → (3267,22755) center (3243,22731) size 48×47
+**IMRATTT** — 1 claim(s), 1,152 blocks total
+  - (-18104,20895) → (-18068,20927) center (-18086,20911) size 36×32
+**Carton_of_milk_** — 1 claim(s), 460 blocks total
+  - (21030,16690) → (21053,16710) center (21041,16700) size 23×20
+
+### Added
+**The_Orange_Sage** — 3 claim(s), 95,356 blocks total
+  - (9889,21652) → (10056,22194) center (9972,21923) size 167×542
+  - (9750,21727) → (9835,21777) center (9792,21752) size 85×50
+  - (9843,21782) → (9859,21819) center (9851,21800) size 16×37
+**Nauman007** — 3 claim(s), 368 blocks total
+  - (680,23274) → (692,23283) center (686,23278) size 12×9
+  - (676,23222) → (686,23236) center (681,23229) size 10×14
+  - (656,23283) → (680,23288) center (668,23285) size 24×5
+**Izumi_Catcactus** — 1 claim(s), 11,700 blocks total
+  - (1473,21194) → (1590,21294) center (1531,21244) size 117×100
+**Sry7873** — 1 claim(s), 986 blocks total
+  - (-1134,23139) → (-1100,23168) center (-1117,23153) size 34×29
+**bilmemnem** — 1 claim(s), 2,132 blocks total
+  - (21226,11997) → (21278,12038) center (21252,12017) size 52×41
+**Beebo_the_Bee** — 1 claim(s), 5,328 blocks total
+  - (-8453,-817) → (-8379,-745) center (-8416,-781) size 74×72
+**banditdog5** — 1 claim(s), 392 blocks total
+  - (22355,17947) → (22369,17975) center (22362,17961) size 14×28
+**BlueMatsuoka** — 1 claim(s), 121 blocks total
+  - (23868,10474) → (23879,10485) center (23873,10479) size 11×11
+**EmpressEclipse** — 1 claim(s), 1,920 blocks total
+  - (10796,23374) → (10836,23422) center (10816,23398) size 40×48
+**Surtle779** — 1 claim(s), 1,155 blocks total
+  - (12709,21410) → (12742,21445) center (12725,21427) size 33×35
+**FE4R1NG** — 1 claim(s), 4,788 blocks total
+  - (21626,-1293) → (21740,-1251) center (21683,-1272) size 114×42
+**6sLastStand** — 1 claim(s), 134,300 blocks total
+  - (24610,9371) → (25005,9711) center (24807,9541) size 395×340
+
 ## 2026-06-14 02:32 UTC
 Total claims: 15552 | Removed: 3 | Added: 11 | Skipped (reclaimed): 2
 
