@@ -1,4 +1,38 @@
 
+## 2026-06-15 02:37 UTC
+Total claims: 15588 | Removed: 5 | Added: 9 | Skipped (reclaimed): 0
+
+### Removed
+**_Freezefrags7871** — 2 claim(s), 489 blocks total
+  - (-14522,22358) → (-14513,22384) center (-14518,22371) size 9×26
+  - (-14469,22391) → (-14454,22408) center (-14462,22399) size 15×17
+**AirShorky** — 1 claim(s), 365,030 blocks total
+  - (23925,8846) → (24790,9268) center (24357,9057) size 865×422
+**gooseberry404** — 1 claim(s), 2,340 blocks total
+  - (20044,23299) → (20096,23344) center (20070,23321) size 52×45
+**CozyyLantern** — 1 claim(s), 1,156 blocks total
+  - (-23097,15843) → (-23063,15877) center (-23080,15860) size 34×34
+
+### Added
+**thatrandoplayer4** — 1 claim(s), 2,989 blocks total
+  - (-4443,-23245) → (-4382,-23196) center (-4413,-23221) size 61×49
+**wastedera** — 1 claim(s), 4,340 blocks total
+  - (-24999,-19712) → (-24929,-19650) center (-24964,-19681) size 70×62
+**MrsAnnie** — 1 claim(s), 6,400 blocks total
+  - (14816,-20880) → (14896,-20800) center (14856,-20840) size 80×80
+**Eltiaguin18** — 1 claim(s), 1,505 blocks total
+  - (21578,5086) → (21621,5121) center (21599,5103) size 43×35
+**AirShorky** — 1 claim(s), 202,905 blocks total
+  - (-24782,-7617) → (-24281,-7212) center (-24532,-7415) size 501×405
+**_TheSmartCupcake** — 1 claim(s), 754 blocks total
+  - (11562,-20679) → (11591,-20653) center (11576,-20666) size 29×26
+**otter_e** — 1 claim(s), 7,740 blocks total
+  - (24857,8158) → (24943,8248) center (24900,8203) size 86×90
+**_FluFFB0y_** — 1 claim(s), 1,365 blocks total
+  - (21220,-9688) → (21259,-9653) center (21239,-9671) size 39×35
+**FlewfiBun** — 1 claim(s), 1,014 blocks total
+  - (21982,18499) → (22008,18538) center (21995,18518) size 26×39
+
 ## 2026-06-14 22:58 UTC
 Total claims: 15584 | Removed: 6 | Added: 24 | Skipped (reclaimed): 4
 
