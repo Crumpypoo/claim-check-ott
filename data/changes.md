@@ -1,4 +1,44 @@
 
+## 2026-06-16 02:39 UTC
+Total claims: 15622 | Removed: 6 | Added: 12 | Skipped (reclaimed): 4
+
+### Removed
+**PikminCrew** — 3 claim(s), 5,837 blocks total
+  - (-21650,-18057) → (-21634,-18040) center (-21642,-18049) size 16×17
+  - (-20974,-4109) → (-20959,-4098) center (-20967,-4104) size 15×11
+  - (7669,22634) → (7741,22709) center (7705,22671) size 72×75
+**planktons_gf65** — 1 claim(s), 216 blocks total
+  - (22946,22913) → (22964,22925) center (22955,22919) size 18×12
+**lossefalme_** — 1 claim(s), 840 blocks total
+  - (-21496,-9919) → (-21476,-9877) center (-21486,-9898) size 20×42
+**mawsii** — 1 claim(s), 1,023 blocks total
+  - (-21691,19400) → (-21660,19433) center (-21676,19416) size 31×33
+
+### Added
+**SteaMC** — 2 claim(s), 420 blocks total
+  - (21399,-2914) → (21404,-2894) center (21401,-2904) size 5×20
+  - (21382,-2914) → (21398,-2894) center (21390,-2904) size 16×20
+**Moonlitknight83** — 1 claim(s), 12,322 blocks total
+  - (-15728,22543) → (-15627,22665) center (-15678,22604) size 101×122
+**Windytp** — 1 claim(s), 9,898 blocks total
+  - (-2737,21114) → (-2636,21212) center (-2687,21163) size 101×98
+**Teddy_BD** — 1 claim(s), 22,946 blocks total
+  - (20037,-14485) → (20186,-14331) center (20111,-14408) size 149×154
+**crazeisvalid** — 1 claim(s), 840 blocks total
+  - (-15500,-23034) → (-15476,-22999) center (-15488,-23017) size 24×35
+**LuxRavens** — 1 claim(s), 4,539 blocks total
+  - (7412,24699) → (7501,24750) center (7456,24724) size 89×51
+**_LosBull67** — 1 claim(s), 160 blocks total
+  - (20608,14405) → (20618,14421) center (20613,14413) size 10×16
+**King_Tomy** — 1 claim(s), 121 blocks total
+  - (-20108,19089) → (-20097,19100) center (-20103,19094) size 11×11
+**ChaoticPrincess_** — 1 claim(s), 18,432 blocks total
+  - (21792,-2320) → (21936,-2192) center (21864,-2256) size 144×128
+**Blank_canva** — 1 claim(s), 16,384 blocks total
+  - (6976,-6208) → (7104,-6080) center (7040,-6144) size 128×128
+**Beth_The_Wolf** — 1 claim(s), 3,224 blocks total
+  - (-12201,-21983) → (-12149,-21921) center (-12175,-21952) size 52×62
+
 ## 2026-06-15 22:09 UTC
 Total claims: 15620 | Removed: 0 | Added: 16 | Skipped (reclaimed): 4
 
