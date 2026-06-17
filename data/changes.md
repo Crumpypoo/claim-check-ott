@@ -1,4 +1,20 @@
 
+## 2026-06-17 23:16 UTC
+Total claims: 15673 | Removed: 0 | Added: 5 | Skipped (reclaimed): 3
+
+
+### Added
+**Girlives** — 1 claim(s), 2,700 blocks total
+  - (21353,-6590) → (21407,-6540) center (21380,-6565) size 54×50
+**jaybspazzin** — 1 claim(s), 4,032 blocks total
+  - (1045,-22628) → (1117,-22572) center (1081,-22600) size 72×56
+**TelleGizmo** — 1 claim(s), 108,750 blocks total
+  - (-23285,14273) → (-22910,14563) center (-23098,14418) size 375×290
+**IDKFRIZ** — 1 claim(s), 1,184 blocks total
+  - (-20955,-836) → (-20881,-820) center (-20918,-828) size 74×16
+**DangerPaws** — 1 claim(s), 5,929 blocks total
+  - (11766,21839) → (11843,21916) center (11804,21877) size 77×77
+
 ## 2026-06-17 21:55 UTC
 Total claims: 15671 | Removed: 1 | Added: 4 | Skipped (reclaimed): 0
 
