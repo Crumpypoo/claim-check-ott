@@ -1,4 +1,38 @@
 
+## 2026-06-17 16:50 UTC
+Total claims: 15673 | Removed: 1 | Added: 15 | Skipped (reclaimed): 2
+
+### Removed
+**ShaneEdits** — 1 claim(s), 132 blocks total
+  - (-22663,-18672) → (-22651,-18661) center (-22657,-18667) size 12×11
+
+### Added
+**777Mango777** — 3 claim(s), 5,408 blocks total
+  - (-18059,-23517) → (-18053,-23402) center (-18056,-23460) size 6×115
+  - (-18060,-23402) → (-17986,-23383) center (-18023,-23393) size 74×19
+  - (-18078,-23383) → (-17986,-23347) center (-18032,-23365) size 92×36
+**Aykizz** — 2 claim(s), 1,438 blocks total
+  - (20303,23475) → (20382,23485) center (20342,23480) size 79×10
+  - (20330,23463) → (20402,23472) center (20366,23467) size 72×9
+**Forgetful_Knight** — 2 claim(s), 2,089 blocks total
+  - (-12306,22373) → (-12267,22420) center (-12287,22396) size 39×47
+  - (9952,-24016) → (9968,-24000) center (9960,-24008) size 16×16
+**ArisuBey** — 2 claim(s), 653 blocks total
+  - (-5361,-21877) → (-5333,-21858) center (-5347,-21868) size 28×19
+  - (10951,22116) → (10962,22127) center (10956,22121) size 11×11
+**tabeya** — 1 claim(s), 210 blocks total
+  - (-14858,-21430) → (-14844,-21415) center (-14851,-21423) size 14×15
+**Woofster13** — 1 claim(s), 5,236 blocks total
+  - (-23094,-15184) → (-23017,-15116) center (-23056,-15150) size 77×68
+**_ILovePancake524** — 1 claim(s), 462 blocks total
+  - (-21988,7433) → (-21967,7455) center (-21978,7444) size 21×22
+**TT_12aM** — 1 claim(s), 260 blocks total
+  - (22608,8433) → (22628,8446) center (22618,8439) size 20×13
+**FormulaAxis** — 1 claim(s), 1,480 blocks total
+  - (-22328,21824) → (-22288,21861) center (-22308,21842) size 40×37
+**Lukai13** — 1 claim(s), 25,728 blocks total
+  - (-1660,-5119) → (-1468,-4985) center (-1564,-5052) size 192×134
+
 ## 2026-06-17 13:35 UTC
 Total claims: 15661 | Removed: 5 | Added: 13 | Skipped (reclaimed): 6
 
