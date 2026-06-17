@@ -1,4 +1,19 @@
 
+## 2026-06-17 21:55 UTC
+Total claims: 15671 | Removed: 1 | Added: 4 | Skipped (reclaimed): 0
+
+### Removed
+**Sunetnh** — 1 claim(s), 476 blocks total
+  - (11959,21846) → (11987,21863) center (11973,21854) size 28×17
+
+### Added
+**Nicholasgamez** — 2 claim(s), 230 blocks total
+  - (21444,4786) → (21454,4798) center (21449,4792) size 10×12
+  - (-12557,21463) → (-12546,21473) center (-12552,21468) size 11×10
+**DangerPaws** — 2 claim(s), 17,066 blocks total
+  - (-20888,-1748) → (-20780,-1640) center (-20834,-1694) size 108×108
+  - (11581,23881) → (11655,23954) center (11618,23917) size 74×73
+
 ## 2026-06-17 19:57 UTC
 Total claims: 15668 | Removed: 5 | Added: 15 | Skipped (reclaimed): 15
 
