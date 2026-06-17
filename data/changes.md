@@ -1,4 +1,45 @@
 
+## 2026-06-17 13:35 UTC
+Total claims: 15661 | Removed: 5 | Added: 13 | Skipped (reclaimed): 6
+
+### Removed
+**sigmasheep9885** — 1 claim(s), 121 blocks total
+  - (22054,4336) → (22065,4347) center (22059,4341) size 11×11
+**Nicholasgamez** — 1 claim(s), 51,294 blocks total
+  - (20629,6788) → (20835,7037) center (20732,6912) size 206×249
+**ProjectSnowie** — 1 claim(s), 168 blocks total
+  - (175,-22326) → (187,-22312) center (181,-22319) size 12×14
+**_jayantrathee2** — 1 claim(s), 1,376 blocks total
+  - (-22811,21528) → (-22768,21560) center (-22790,21544) size 43×32
+**Troldis** — 1 claim(s), 121 blocks total
+  - (21478,14400) → (21489,14411) center (21483,14405) size 11×11
+
+### Added
+**_tauben** — 2 claim(s), 5,487 blocks total
+  - (734,10868) → (765,10889) center (749,10878) size 31×21
+  - (-11625,-1939) → (-11573,-1846) center (-11599,-1893) size 52×93
+**_QueenHel13** — 2 claim(s), 498 blocks total
+  - (7715,-21607) → (7737,-21598) center (7726,-21603) size 22×9
+  - (7717,-21617) → (7747,-21607) center (7732,-21612) size 30×10
+**solongponyboy** — 1 claim(s), 27,650 blocks total
+  - (-12218,-22335) → (-12060,-22160) center (-12139,-22248) size 158×175
+**DemonCalledYuni** — 1 claim(s), 4,264 blocks total
+  - (17310,22672) → (17392,22724) center (17351,22698) size 82×52
+**Forgetful_Knight** — 1 claim(s), 986 blocks total
+  - (-12305,22369) → (-12276,22403) center (-12291,22386) size 29×34
+**xKaspax** — 1 claim(s), 110 blocks total
+  - (-7145,-21887) → (-7135,-21876) center (-7140,-21882) size 10×11
+**_Jadgamerinf** — 1 claim(s), 989 blocks total
+  - (4031,-22269) → (4074,-22246) center (4052,-22258) size 43×23
+**Katiahereeee** — 1 claim(s), 252 blocks total
+  - (-23105,9927) → (-23096,9955) center (-23101,9941) size 9×28
+**WoktekSigma6** — 1 claim(s), 121 blocks total
+  - (-13677,-20910) → (-13666,-20899) center (-13672,-20905) size 11×11
+**UNOcraftsTV** — 1 claim(s), 7,900 blocks total
+  - (-16618,22973) → (-16539,23073) center (-16579,23023) size 79×100
+**IcedCamellia** — 1 claim(s), 14,148 blocks total
+  - (22242,7346) → (22350,7477) center (22296,7411) size 108×131
+
 ## 2026-06-17 08:52 UTC
 Total claims: 15659 | Removed: 3 | Added: 12 | Skipped (reclaimed): 4
 
