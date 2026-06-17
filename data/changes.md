@@ -1,4 +1,38 @@
 
+## 2026-06-17 08:52 UTC
+Total claims: 15659 | Removed: 3 | Added: 12 | Skipped (reclaimed): 4
+
+### Removed
+**____Franky____** — 1 claim(s), 450 blocks total
+  - (-21723,19830) → (-21698,19848) center (-21711,19839) size 25×18
+**BlossomSoulz_** — 1 claim(s), 4,266 blocks total
+  - (-18991,-2900) → (-18912,-2846) center (-18952,-2873) size 79×54
+**UNOcraftsTV** — 1 claim(s), 25,800 blocks total
+  - (21346,22630) → (21466,22845) center (21406,22737) size 120×215
+
+### Added
+**Rose_Natsu018** — 2 claim(s), 1,810 blocks total
+  - (-21474,-20705) → (-21443,-20650) center (-21459,-20678) size 31×55
+  - (-21488,-20688) → (-21481,-20673) center (-21485,-20681) size 7×15
+**B3aune** — 2 claim(s), 878 blocks total
+  - (396,296) → (425,318) center (410,307) size 29×22
+  - (381,297) → (396,313) center (388,305) size 15×16
+**IcedCamellia** — 2 claim(s), 10,833 blocks total
+  - (22302,7307) → (22365,7352) center (22333,7329) size 63×45
+  - (22240,7311) → (22302,7440) center (22271,7375) size 62×129
+**C1RC3S** — 1 claim(s), 125,780 blocks total
+  - (-15503,23892) → (-15172,24272) center (-15338,24082) size 331×380
+**Syaranad** — 1 claim(s), 599,186 blocks total
+  - (12172,-1967) → (12846,-1078) center (12509,-1523) size 674×889
+**_FastThrone1083** — 1 claim(s), 165 blocks total
+  - (21505,14847) → (21516,14862) center (21510,14854) size 11×15
+**Coolcatzz** — 1 claim(s), 121 blocks total
+  - (-20912,15936) → (-20901,15947) center (-20907,15941) size 11×11
+**_Averythemayo00** — 1 claim(s), 280 blocks total
+  - (21856,21646) → (21870,21666) center (21863,21656) size 14×20
+**TheSilentCorner** — 1 claim(s), 2,156 blocks total
+  - (14865,21841) → (14909,21890) center (14887,21865) size 44×49
+
 ## 2026-06-17 02:36 UTC
 Total claims: 15654 | Removed: 7 | Added: 17 | Skipped (reclaimed): 6
 
