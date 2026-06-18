@@ -1,4 +1,37 @@
 
+## 2026-06-18 12:44 UTC
+Total claims: 15680 | Removed: 5 | Added: 9 | Skipped (reclaimed): 3
+
+### Removed
+**_Malia2298** — 1 claim(s), 121 blocks total
+  - (-21950,19591) → (-21939,19602) center (-21945,19596) size 11×11
+**_Pine_Leif** — 1 claim(s), 495 blocks total
+  - (23098,11556) → (23131,11571) center (23114,11563) size 33×15
+**mumplin** — 1 claim(s), 899 blocks total
+  - (-11852,22850) → (-11823,22881) center (-11838,22865) size 29×31
+**TribeCalledAJR** — 1 claim(s), 441 blocks total
+  - (12304,22760) → (12325,22781) center (12314,22770) size 21×21
+**IwannhsMetaxas** — 1 claim(s), 200 blocks total
+  - (-17045,20561) → (-17035,20581) center (-17040,20571) size 10×20
+
+### Added
+**Luxavva** — 2 claim(s), 3,581,187 blocks total
+  - (-25177,8369) → (-22513,9519) center (-23845,8944) size 2664×1150
+  - (-25000,8026) → (-23491,8369) center (-24246,8197) size 1509×343
+**_maze464837** — 2 claim(s), 332 blocks total
+  - (-720,1543) → (-714,1581) center (-717,1562) size 6×38
+  - (-737,1550) → (-724,1558) center (-731,1554) size 13×8
+**solongponyboy** — 1 claim(s), 29,356 blocks total
+  - (-12218,-22339) → (-12054,-22160) center (-12136,-22250) size 164×179
+**b0mb0cl6t_01** — 1 claim(s), 114 blocks total
+  - (3727,21305) → (3733,21324) center (3730,21314) size 6×19
+**TechTrips** — 1 claim(s), 4,514 blocks total
+  - (-21108,-17297) → (-21034,-17236) center (-21071,-17267) size 74×61
+**hiccupps_** — 1 claim(s), 1,247 blocks total
+  - (-21842,2292) → (-21813,2335) center (-21828,2313) size 29×43
+**_Nocticgaming** — 1 claim(s), 1,330 blocks total
+  - (22175,13681) → (22210,13719) center (22192,13700) size 35×38
+
 ## 2026-06-18 08:29 UTC
 Total claims: 15679 | Removed: 3 | Added: 13 | Skipped (reclaimed): 5
 
