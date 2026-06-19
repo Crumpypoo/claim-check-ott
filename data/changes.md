@@ -1,4 +1,22 @@
 
+## 2026-06-19 20:59 UTC
+Total claims: 15732 | Removed: 1 | Added: 5 | Skipped (reclaimed): 6
+
+### Removed
+**GamerSupplement** — 1 claim(s), 121 blocks total
+  - (-23407,5360) → (-23396,5371) center (-23402,5365) size 11×11
+
+### Added
+**XkittensparklesX** — 2 claim(s), 12,338 blocks total
+  - (-20704,-3976) → (-20666,-3963) center (-20685,-3970) size 38×13
+  - (-20805,-4061) → (-20664,-3977) center (-20735,-4019) size 141×84
+**Okiama** — 1 claim(s), 285,532 blocks total
+  - (6088,22840) → (6734,23282) center (6411,23061) size 646×442
+**l0v3_02** — 1 claim(s), 121 blocks total
+  - (-19312,-21182) → (-19301,-21171) center (-19307,-21177) size 11×11
+**HoneybeanHails28** — 1 claim(s), 1,224 blocks total
+  - (22040,18243) → (22074,18279) center (22057,18261) size 34×36
+
 ## 2026-06-19 19:23 UTC
 Total claims: 15734 | Removed: 2 | Added: 20 | Skipped (reclaimed): 5
 
