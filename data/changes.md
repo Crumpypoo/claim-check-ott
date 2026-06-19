@@ -1,4 +1,51 @@
 
+## 2026-06-19 02:50 UTC
+Total claims: 15707 | Removed: 5 | Added: 19 | Skipped (reclaimed): 9
+
+### Removed
+**PremiumIceCube** — 2 claim(s), 456 blocks total
+  - (-7241,20984) → (-7225,21005) center (-7233,20994) size 16×21
+  - (-7225,20990) → (-7217,21005) center (-7221,20997) size 8×15
+**Z0EF** — 1 claim(s), 462 blocks total
+  - (-9788,-22947) → (-9766,-22926) center (-9777,-22937) size 22×21
+**pizza2400** — 1 claim(s), 176 blocks total
+  - (8326,20619) → (8342,20630) center (8334,20624) size 16×11
+**_octopus8010** — 1 claim(s), 400 blocks total
+  - (22910,8493) → (22930,8513) center (22920,8503) size 20×20
+
+### Added
+**Maze135** — 3 claim(s), 1,419 blocks total
+  - (-21356,16436) → (-21325,16454) center (-21341,16445) size 31×18
+  - (-21363,16398) → (-21356,16436) center (-21360,16417) size 7×38
+  - (-21351,16398) → (-21334,16433) center (-21343,16415) size 17×35
+**FormalTacoMunch** — 3 claim(s), 1,610 blocks total
+  - (23107,-1542) → (23121,-1489) center (23114,-1516) size 14×53
+  - (23124,-1492) → (23149,-1476) center (23136,-1484) size 25×16
+  - (23121,-1542) → (23147,-1524) center (23134,-1533) size 26×18
+**B3aune** — 3 claim(s), 1,155 blocks total
+  - (375,275) → (396,296) center (385,285) size 21×21
+  - (366,297) → (380,318) center (373,307) size 14×21
+  - (373,319) → (393,340) center (383,329) size 20×21
+**PrismaKnight** — 2 claim(s), 167,694 blocks total
+  - (-8654,9901) → (-8214,9941) center (-8434,9921) size 440×40
+  - (-8214,9826) → (-7717,10128) center (-7966,9977) size 497×302
+**helloimhann** — 1 claim(s), 2,124 blocks total
+  - (-3057,-22203) → (-3021,-22144) center (-3039,-22174) size 36×59
+**PapaTot** — 1 claim(s), 1,073 blocks total
+  - (20700,19250) → (20729,19287) center (20714,19268) size 29×37
+**PlayerUsername** — 1 claim(s), 121 blocks total
+  - (-23085,-15576) → (-23074,-15565) center (-23080,-15571) size 11×11
+**MagicJada12** — 1 claim(s), 1,560 blocks total
+  - (-10896,-21516) → (-10857,-21476) center (-10877,-21496) size 39×40
+**C0LMNITE** — 1 claim(s), 15,000 blocks total
+  - (-23530,-19608) → (-23405,-19488) center (-23468,-19548) size 125×120
+**BLSElizabeth** — 1 claim(s), 396 blocks total
+  - (-20164,22127) → (-20146,22149) center (-20155,22138) size 18×22
+**plaingoose** — 1 claim(s), 121 blocks total
+  - (11111,-23126) → (11122,-23115) center (11116,-23121) size 11×11
+**_VexingDrop99953** — 1 claim(s), 260 blocks total
+  - (-525,22388) → (-512,22408) center (-519,22398) size 13×20
+
 ## 2026-06-18 23:27 UTC
 Total claims: 15702 | Removed: 0 | Added: 14 | Skipped (reclaimed): 3
 
