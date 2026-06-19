@@ -1,4 +1,47 @@
 
+## 2026-06-19 16:27 UTC
+Total claims: 15721 | Removed: 7 | Added: 15 | Skipped (reclaimed): 4
+
+### Removed
+**_CUTIE_SKULLS** — 4 claim(s), 1,603 blocks total
+  - (-14237,-22800) → (-14170,-22795) center (-14204,-22798) size 67×5
+  - (-14276,-22817) → (-14256,-22802) center (-14266,-22810) size 20×15
+  - (-14277,-22802) → (-14253,-22778) center (-14265,-22790) size 24×24
+  - (-14166,-22804) → (-14117,-22796) center (-14142,-22800) size 49×8
+**TEXTURE_GONE** — 2 claim(s), 864 blocks total
+  - (13864,23137) → (13895,23161) center (13879,23149) size 31×24
+  - (22456,645) → (22476,651) center (22466,648) size 20×6
+**2Packet** — 1 claim(s), 483 blocks total
+  - (21958,6088) → (21981,6109) center (21969,6098) size 23×21
+
+### Added
+**JackMadix** — 4 claim(s), 411,386 blocks total
+  - (-20824,-2550) → (-20656,-2235) center (-20740,-2393) size 168×315
+  - (-20656,-2550) → (-20441,-2448) center (-20549,-2499) size 215×102
+  - (-20441,-2550) → (-20401,-2384) center (-20421,-2467) size 40×166
+  - (-20575,-2384) → (-20027,-1782) center (-20301,-2083) size 548×602
+**_Mystical0senpai** — 2 claim(s), 1,135 blocks total
+  - (-22955,20099) → (-22924,20129) center (-22940,20114) size 31×30
+  - (-23072,20097) → (-23067,20138) center (-23070,20117) size 5×41
+**MRFERERO** — 1 claim(s), 224 blocks total
+  - (5722,-21346) → (5736,-21330) center (5729,-21338) size 14×16
+**Gabi_kuz123** — 1 claim(s), 9,256 blocks total
+  - (23052,21725) → (23156,21814) center (23104,21769) size 104×89
+**KR155Y** — 1 claim(s), 6,975 blocks total
+  - (-22523,-14329) → (-22448,-14236) center (-22486,-14283) size 75×93
+**CloudyBlocks** — 1 claim(s), 168 blocks total
+  - (22605,-496) → (22619,-484) center (22612,-490) size 14×12
+**Reggie_05** — 1 claim(s), 1,120 blocks total
+  - (22841,15511) → (22876,15543) center (22858,15527) size 35×32
+**The_Woo_** — 1 claim(s), 441 blocks total
+  - (-15749,-20695) → (-15728,-20674) center (-15739,-20685) size 21×21
+**pawpayas** — 1 claim(s), 1,880 blocks total
+  - (20669,-6368) → (20709,-6321) center (20689,-6345) size 40×47
+**Wakavocat** — 1 claim(s), 114 blocks total
+  - (7549,-21064) → (7568,-21058) center (7558,-21061) size 19×6
+**Kitten_750** — 1 claim(s), 104 blocks total
+  - (-1673,23166) → (-1660,23174) center (-1667,23170) size 13×8
+
 ## 2026-06-19 13:26 UTC
 Total claims: 15717 | Removed: 0 | Added: 0 | Skipped (reclaimed): 543
 
