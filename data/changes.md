@@ -1,4 +1,21 @@
 
+## 2026-06-20 13:24 UTC
+Total claims: 15733 | Removed: 2 | Added: 3 | Skipped (reclaimed): 0
+
+### Removed
+**Z17Ignitus** — 1 claim(s), 140 blocks total
+  - (-10271,21473) → (-10261,21487) center (-10266,21480) size 10×14
+**Sachungibol4** — 1 claim(s), 1,505 blocks total
+  - (3402,-22669) → (3437,-22626) center (3419,-22648) size 35×43
+
+### Added
+**Asstrael** — 1 claim(s), 2,646 blocks total
+  - (436,-22066) → (490,-22017) center (463,-22042) size 54×49
+**chihuahuasrule** — 1 claim(s), 1,156 blocks total
+  - (-15971,-17429) → (-15937,-17395) center (-15954,-17412) size 34×34
+**_Noahpro2969** — 1 claim(s), 161 blocks total
+  - (-21743,713) → (-21736,736) center (-21740,724) size 7×23
+
 ## 2026-06-20 10:24 UTC
 Total claims: 15732 | Removed: 2 | Added: 14 | Skipped (reclaimed): 5
 
