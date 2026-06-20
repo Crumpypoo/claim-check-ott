@@ -1,4 +1,20 @@
 
+## 2026-06-20 21:02 UTC
+Total claims: 15746 | Removed: 1 | Added: 5 | Skipped (reclaimed): 0
+
+### Removed
+**neko44514** — 1 claim(s), 414 blocks total
+  - (18080,22795) → (18098,22818) center (18089,22806) size 18×23
+
+### Added
+**Snarkness** — 4 claim(s), 1,966 blocks total
+  - (23250,-10806) → (23296,-10782) center (23273,-10794) size 46×24
+  - (23300,-10823) → (23309,-10793) center (23304,-10808) size 9×30
+  - (23310,-10822) → (23334,-10810) center (23322,-10816) size 24×12
+  - (23320,-10802) → (23339,-10786) center (23329,-10794) size 19×16
+**xZury** — 1 claim(s), 2,484 blocks total
+  - (5892,-21041) → (5938,-20987) center (5915,-21014) size 46×54
+
 ## 2026-06-20 19:07 UTC
 Total claims: 15742 | Removed: 0 | Added: 0 | Skipped (reclaimed): 12522
 
