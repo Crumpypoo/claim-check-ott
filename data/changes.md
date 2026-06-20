@@ -1,4 +1,37 @@
 
+## 2026-06-20 17:14 UTC
+Total claims: 15740 | Removed: 2 | Added: 14 | Skipped (reclaimed): 2
+
+### Removed
+**FosterTheCherry** — 1 claim(s), 26,549 blocks total
+  - (6676,11752) → (6815,11943) center (6745,11847) size 139×191
+**Ltuke** — 1 claim(s), 130 blocks total
+  - (214,20755) → (224,20768) center (219,20761) size 10×13
+
+### Added
+**xzizzy** — 6 claim(s), 4,180 blocks total
+  - (-23257,-15893) → (-23193,-15877) center (-23225,-15885) size 64×16
+  - (-23278,-15781) → (-23193,-15776) center (-23236,-15779) size 85×5
+  - (-23257,-15808) → (-23193,-15781) center (-23225,-15795) size 64×27
+  - (-23285,-15854) → (-23278,-15781) center (-23282,-15818) size 7×73
+  - (-23278,-15886) → (-23266,-15854) center (-23272,-15870) size 12×32
+  - (-23267,-15898) → (-23258,-15886) center (-23263,-15892) size 9×12
+**Vote2kick** — 2 claim(s), 685 blocks total
+  - (-23182,-14901) → (-23165,-14872) center (-23174,-14887) size 17×29
+  - (-23135,-14884) → (-23119,-14872) center (-23127,-14878) size 16×12
+**FosterTheCherry** — 1 claim(s), 140,800 blocks total
+  - (-7873,-15163) → (-7473,-14811) center (-7673,-14987) size 400×352
+**YTendercreeper** — 1 claim(s), 2,310 blocks total
+  - (23556,-10558) → (23591,-10492) center (23573,-10525) size 35×66
+**Battrivett** — 1 claim(s), 152 blocks total
+  - (20887,-5359) → (20906,-5351) center (20896,-5355) size 19×8
+**Cero130** — 1 claim(s), 460 blocks total
+  - (22308,18031) → (22328,18054) center (22318,18042) size 20×23
+**Twipply** — 1 claim(s), 180 blocks total
+  - (-21476,23162) → (-21464,23177) center (-21470,23169) size 12×15
+**finnandjakefan** — 1 claim(s), 480 blocks total
+  - (-20736,13762) → (-20724,13802) center (-20730,13782) size 12×40
+
 ## 2026-06-20 15:27 UTC
 Total claims: 15730 | Removed: 6 | Added: 5 | Skipped (reclaimed): 2
 
