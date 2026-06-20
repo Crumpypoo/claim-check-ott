@@ -1,4 +1,28 @@
 
+## 2026-06-20 15:27 UTC
+Total claims: 15730 | Removed: 6 | Added: 5 | Skipped (reclaimed): 2
+
+### Removed
+**Hellbred** — 5 claim(s), 947 blocks total
+  - (-18281,-21916) → (-18268,-21907) center (-18275,-21912) size 13×9
+  - (-18288,-21900) → (-18268,-21888) center (-18278,-21894) size 20×12
+  - (-18191,-21942) → (-18179,-21926) center (-18185,-21934) size 12×16
+  - (-18210,-21916) → (-18199,-21906) center (-18205,-21911) size 11×10
+  - (23258,22704) → (23276,22720) center (23267,22712) size 18×16
+**queengirl123** — 1 claim(s), 1,332 blocks total
+  - (-21340,-15122) → (-21303,-15086) center (-21322,-15104) size 37×36
+
+### Added
+**Flamefragsxd_13** — 2 claim(s), 3,810 blocks total
+  - (-2957,-21734) → (-2927,-21724) center (-2942,-21729) size 30×10
+  - (-3021,-21742) → (-2967,-21677) center (-2994,-21710) size 54×65
+**_kieran1098** — 1 claim(s), 23,166 blocks total
+  - (14441,21219) → (14584,21381) center (14512,21300) size 143×162
+**Asstrael** — 1 claim(s), 5,246 blocks total
+  - (436,-22074) → (522,-22013) center (479,-22044) size 86×61
+**Ltuke** — 1 claim(s), 10,240 blocks total
+  - (-21616,-2320) → (-21488,-2240) center (-21552,-2280) size 128×80
+
 ## 2026-06-20 13:24 UTC
 Total claims: 15733 | Removed: 2 | Added: 3 | Skipped (reclaimed): 0
 
