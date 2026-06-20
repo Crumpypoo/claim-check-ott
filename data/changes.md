@@ -1,4 +1,34 @@
 
+## 2026-06-20 22:57 UTC
+Total claims: 15754 | Removed: 2 | Added: 12 | Skipped (reclaimed): 2
+
+### Removed
+**GraveWalker1216** — 2 claim(s), 454 blocks total
+  - (22137,22977) → (22150,22985) center (22143,22981) size 13×8
+  - (22112,22964) → (22137,22978) center (22124,22971) size 25×14
+
+### Added
+**KetsyMWAH** — 2 claim(s), 10,368 blocks total
+  - (-16508,-383) → (-16491,-275) center (-16500,-329) size 17×108
+  - (-16587,-383) → (-16508,-275) center (-16548,-329) size 79×108
+**_Rainbowgirl3815** — 2 claim(s), 1,514 blocks total
+  - (6951,-17192) → (6986,-17157) center (6968,-17175) size 35×35
+  - (-2111,-22261) → (-2094,-22244) center (-2103,-22253) size 17×17
+**ShwibleDibleBop** — 2 claim(s), 331 blocks total
+  - (-20934,19670) → (-20923,19681) center (-20929,19675) size 11×11
+  - (-20553,-3647) → (-20538,-3633) center (-20546,-3640) size 15×14
+**ayeeperla56** — 2 claim(s), 253 blocks total
+  - (-23314,-19481) → (-23302,-19470) center (-23308,-19476) size 12×11
+  - (-23316,-19470) → (-23305,-19459) center (-23311,-19465) size 11×11
+**The_Woo_** — 1 claim(s), 2,754 blocks total
+  - (-15764,-20706) → (-15713,-20652) center (-15739,-20679) size 51×54
+**Demonic_Secrets** — 1 claim(s), 1,520 blocks total
+  - (21692,17472) → (21732,17510) center (21712,17491) size 40×38
+**GraveWalker1216** — 1 claim(s), 4,355 blocks total
+  - (22091,23123) → (22158,23188) center (22124,23155) size 67×65
+**vadoxe** — 1 claim(s), 672 blocks total
+  - (-21086,12554) → (-21070,12596) center (-21078,12575) size 16×42
+
 ## 2026-06-20 21:02 UTC
 Total claims: 15746 | Removed: 1 | Added: 5 | Skipped (reclaimed): 0
 
