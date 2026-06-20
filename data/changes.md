@@ -1,4 +1,42 @@
 
+## 2026-06-20 07:41 UTC
+Total claims: 15725 | Removed: 8 | Added: 9 | Skipped (reclaimed): 3
+
+### Removed
+**Beckootsh** — 3 claim(s), 982 blocks total
+  - (-22447,-22430) → (-22433,-22413) center (-22440,-22422) size 14×17
+  - (-21771,-4677) → (-21745,-4659) center (-21758,-4668) size 26×18
+  - (-21782,-4689) → (-21759,-4677) center (-21771,-4683) size 23×12
+**zoey161** — 2 claim(s), 5,810 blocks total
+  - (-15878,-2278) → (-15824,-2233) center (-15851,-2256) size 54×45
+  - (7013,-2444) → (7065,-2379) center (7039,-2412) size 52×65
+**Lunaar_Dust** — 1 claim(s), 456 blocks total
+  - (-23477,14099) → (-23453,14118) center (-23465,14108) size 24×19
+**Cowenfetti** — 1 claim(s), 468 blocks total
+  - (-7750,21199) → (-7724,21217) center (-7737,21208) size 26×18
+**MarinaFirefly** — 1 claim(s), 1,320 blocks total
+  - (-21405,-5283) → (-21361,-5253) center (-21383,-5268) size 44×30
+
+### Added
+**Millalgi** — 1 claim(s), 80,384 blocks total
+  - (-130,-312) → (126,2) center (-2,-155) size 256×314
+**mighty_walrus1** — 1 claim(s), 714 blocks total
+  - (13851,-21633) → (13872,-21599) center (13861,-21616) size 21×34
+**HorHog** — 1 claim(s), 12,642 blocks total
+  - (23184,5608) → (23282,5737) center (23233,5672) size 98×129
+**MarinaFirefly** — 1 claim(s), 12,065 blocks total
+  - (-11721,23469) → (-11594,23564) center (-11658,23516) size 127×95
+**minhy2345** — 1 claim(s), 357 blocks total
+  - (12072,20638) → (12093,20655) center (12082,20646) size 21×17
+**Enkeir** — 1 claim(s), 121 blocks total
+  - (436,20640) → (447,20651) center (441,20645) size 11×11
+**jdice98** — 1 claim(s), 130 blocks total
+  - (24158,8444) → (24171,8454) center (24164,8449) size 13×10
+**_Dj_CHEET4H** — 1 claim(s), 260 blocks total
+  - (-21206,-8512) → (-21193,-8492) center (-21200,-8502) size 13×20
+**Tinyhqlo** — 1 claim(s), 6,930 blocks total
+  - (23137,-6521) → (23236,-6451) center (23186,-6486) size 99×70
+
 ## 2026-06-20 02:11 UTC
 Total claims: 15727 | Removed: 5 | Added: 13 | Skipped (reclaimed): 1
 
