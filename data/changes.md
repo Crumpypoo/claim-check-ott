@@ -1,4 +1,29 @@
 
+## 2026-06-21 19:12 UTC
+Total claims: 15785 | Removed: 1 | Added: 8 | Skipped (reclaimed): 0
+
+### Removed
+**Snarkness** — 1 claim(s), 792 blocks total
+  - (23250,-10806) → (23294,-10788) center (23272,-10797) size 44×18
+
+### Added
+**infectedbysculk** — 1 claim(s), 784 blocks total
+  - (-22205,6319) → (-22177,6347) center (-22191,6333) size 28×28
+**Blomi3** — 1 claim(s), 648 blocks total
+  - (-13926,12675) → (-13899,12699) center (-13913,12687) size 27×24
+**BopulMC** — 1 claim(s), 156 blocks total
+  - (21724,-131) → (21737,-119) center (21730,-125) size 13×12
+**RaFaTheGamer43** — 1 claim(s), 304 blocks total
+  - (-19906,20658) → (-19887,20674) center (-19897,20666) size 19×16
+**thatrandoplayer4** — 1 claim(s), 162 blocks total
+  - (2072,-15767) → (2081,-15749) center (2076,-15758) size 9×18
+**Zark3343** — 1 claim(s), 25,821 blocks total
+  - (-23707,-19513) → (-23556,-19342) center (-23632,-19428) size 151×171
+**Hschorr24** — 1 claim(s), 966 blocks total
+  - (15115,23385) → (15157,23408) center (15136,23396) size 42×23
+**bug_mortuary** — 1 claim(s), 425 blocks total
+  - (-23195,8337) → (-23178,8362) center (-23187,8349) size 17×25
+
 ## 2026-06-21 17:16 UTC
 Total claims: 15778 | Removed: 0 | Added: 0 | Skipped (reclaimed): 8126
 
