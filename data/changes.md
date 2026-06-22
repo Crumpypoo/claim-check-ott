@@ -1,4 +1,35 @@
 
+## 2026-06-22 21:54 UTC
+Total claims: 15822 | Removed: 1 | Added: 13 | Skipped (reclaimed): 2
+
+### Removed
+**dinofrye** — 1 claim(s), 121 blocks total
+  - (587,20541) → (598,20552) center (592,20546) size 11×11
+
+### Added
+**baatastic** — 2 claim(s), 312 blocks total
+  - (18927,21577) → (18940,21589) center (18933,21583) size 13×12
+  - (18910,21562) → (18923,21574) center (18916,21568) size 13×12
+**DarkMheher** — 2 claim(s), 425 blocks total
+  - (-21961,-2787) → (-21944,-2771) center (-21953,-2779) size 17×16
+  - (23131,730) → (23148,739) center (23139,734) size 17×9
+**TheCheeseGames** — 2 claim(s), 8,181 blocks total
+  - (2301,-23072) → (2396,-22991) center (2348,-23032) size 95×81
+  - (2412,-22986) → (2439,-22968) center (2425,-22977) size 27×18
+**Positivxbxll** — 2 claim(s), 698 blocks total
+  - (7501,22981) → (7527,22994) center (7514,22987) size 26×13
+  - (7478,22985) → (7498,23003) center (7488,22994) size 20×18
+**Pengu_Kio** — 1 claim(s), 2,100 blocks total
+  - (23500,16380) → (23542,16430) center (23521,16405) size 42×50
+**Wh1t0** — 1 claim(s), 132 blocks total
+  - (-20951,2915) → (-20939,2926) center (-20945,2920) size 12×11
+**CadenzaBugz** — 1 claim(s), 208 blocks total
+  - (17548,22042) → (17561,22058) center (17554,22050) size 13×16
+**sampokoskiswife** — 1 claim(s), 117 blocks total
+  - (17568,21955) → (17581,21964) center (17574,21959) size 13×9
+**M_V_P_12** — 1 claim(s), 119 blocks total
+  - (-13919,-23592) → (-13912,-23575) center (-13916,-23584) size 7×17
+
 ## 2026-06-22 19:17 UTC
 Total claims: 15812 | Removed: 7 | Added: 14 | Skipped (reclaimed): 2
 
