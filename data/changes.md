@@ -1,4 +1,25 @@
 
+## 2026-06-22 23:10 UTC
+Total claims: 15823 | Removed: 0 | Added: 8 | Skipped (reclaimed): 7
+
+
+### Added
+**M_V_P_12** — 2 claim(s), 16,282 blocks total
+  - (-23012,16076) → (-22879,16190) center (-22946,16133) size 133×114
+  - (7676,-21468) → (7708,-21433) center (7692,-21451) size 32×35
+**LRingz** — 1 claim(s), 56,337 blocks total
+  - (-21795,309) → (-21528,520) center (-21662,414) size 267×211
+**Blank_canva** — 1 claim(s), 19,388 blocks total
+  - (22125,-2636) → (22273,-2505) center (22199,-2571) size 148×131
+**thatrandoplayer4** — 1 claim(s), 189 blocks total
+  - (21966,-4890) → (21993,-4883) center (21979,-4887) size 27×7
+**Aykizz** — 1 claim(s), 1,380 blocks total
+  - (20332,23463) → (20392,23486) center (20362,23474) size 60×23
+**vague_hiraeth** — 1 claim(s), 28,208 blocks total
+  - (12556,22642) → (12642,22970) center (12599,22806) size 86×328
+**PrizePopple** — 1 claim(s), 7,360 blocks total
+  - (21367,-13454) → (21447,-13362) center (21407,-13408) size 80×92
+
 ## 2026-06-22 21:54 UTC
 Total claims: 15822 | Removed: 1 | Added: 13 | Skipped (reclaimed): 2
 
