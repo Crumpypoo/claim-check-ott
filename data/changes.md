@@ -1,4 +1,45 @@
 
+## 2026-06-22 02:39 UTC
+Total claims: 15798 | Removed: 5 | Added: 14 | Skipped (reclaimed): 5
+
+### Removed
+**RAGHAV231** — 2 claim(s), 1,514 blocks total
+  - (22135,-14893) → (22183,-14865) center (22159,-14879) size 48×28
+  - (22184,-14896) → (22201,-14886) center (22192,-14891) size 17×10
+**oArei** — 1 claim(s), 506 blocks total
+  - (-22308,12864) → (-22286,12887) center (-22297,12875) size 22×23
+**tweekokingo** — 1 claim(s), 110 blocks total
+  - (8678,-22087) → (8688,-22076) center (8683,-22082) size 10×11
+**LeviMiron** — 1 claim(s), 119 blocks total
+  - (-12862,-22104) → (-12855,-22087) center (-12859,-22096) size 7×17
+
+### Added
+**ottersmp** — 2 claim(s), 124,016 blocks total
+  - (9296,8540) → (9589,8935) center (9442,8737) size 293×395
+  - (-10999,-6841) → (-10908,-6750) center (-10954,-6796) size 91×91
+**DemonIsFine** — 2 claim(s), 1,719 blocks total
+  - (21801,15557) → (21835,15604) center (21818,15580) size 34×47
+  - (21838,15554) → (21849,15565) center (21843,15559) size 11×11
+**LightningLegendB** — 2 claim(s), 1,548 blocks total
+  - (-19437,-4580) → (-19407,-4544) center (-19422,-4562) size 30×36
+  - (-19450,-4580) → (-19437,-4544) center (-19444,-4562) size 13×36
+**chromiass** — 1 claim(s), 110 blocks total
+  - (-15627,21899) → (-15617,21910) center (-15622,21904) size 10×11
+**_MarciMonster** — 1 claim(s), 16,564 blocks total
+  - (22229,21196) → (22330,21360) center (22279,21278) size 101×164
+**Robenl00** — 1 claim(s), 264 blocks total
+  - (14376,22748) → (14388,22770) center (14382,22759) size 12×22
+**wrku66** — 1 claim(s), 1,054 blocks total
+  - (-23931,-1371) → (-23900,-1337) center (-23916,-1354) size 31×34
+**Zamacona** — 1 claim(s), 1,332 blocks total
+  - (14615,22001) → (14651,22038) center (14633,22019) size 36×37
+**Nicolass** — 1 claim(s), 675 blocks total
+  - (-23290,-21341) → (-23265,-21314) center (-23278,-21328) size 25×27
+**AlphaJoker20** — 1 claim(s), 2,790 blocks total
+  - (-21778,-409) → (-21716,-364) center (-21747,-387) size 62×45
+**CrashBSD** — 1 claim(s), 1,024 blocks total
+  - (22256,12688) → (22288,12720) center (22272,12704) size 32×32
+
 ## 2026-06-21 22:58 UTC
 Total claims: 15794 | Removed: 0 | Added: 0 | Skipped (reclaimed): 10039
 
