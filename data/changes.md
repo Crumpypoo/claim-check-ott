@@ -1,4 +1,48 @@
 
+## 2026-06-22 15:12 UTC
+Total claims: 15807 | Removed: 15 | Added: 11 | Skipped (reclaimed): 3
+
+### Removed
+**_Foxsolid1234** — 6 claim(s), 1,027 blocks total
+  - (1263,544) → (1276,552) center (1269,548) size 13×8
+  - (1275,553) → (1324,558) center (1299,555) size 49×5
+  - (1262,593) → (1277,614) center (1269,603) size 15×21
+  - (1264,526) → (1275,537) center (1269,531) size 11×11
+  - (1277,538) → (1288,549) center (1282,543) size 11×11
+  - (1277,513) → (1288,524) center (1282,518) size 11×11
+**PGLGLLG** — 4 claim(s), 951 blocks total
+  - (12281,21538) → (12289,21554) center (12285,21546) size 8×16
+  - (-22007,-1866) → (-21997,-1851) center (-22002,-1859) size 10×15
+  - (12286,21554) → (12337,21565) center (12311,21559) size 51×11
+  - (-21233,-9172) → (-21217,-9165) center (-21225,-9169) size 16×7
+**Kayl1920** — 3 claim(s), 1,432 blocks total
+  - (-879,-20985) → (-860,-20974) center (-870,-20980) size 19×11
+  - (-885,-20991) → (-860,-20985) center (-873,-20988) size 25×6
+  - (20704,-9644) → (20741,-9615) center (20722,-9630) size 37×29
+**_Kingsoufles** — 2 claim(s), 1,446 blocks total
+  - (-12662,-21216) → (-12637,-21163) center (-12650,-21190) size 25×53
+  - (-12670,-21142) → (-12659,-21131) center (-12665,-21137) size 11×11
+
+### Added
+**TinyTBug** — 4 claim(s), 3,179 blocks total
+  - (1262,23750) → (1290,23761) center (1276,23755) size 28×11
+  - (1290,23750) → (1301,23761) center (1295,23755) size 11×11
+  - (1236,23761) → (1300,23781) center (1268,23771) size 64×20
+  - (1252,23720) → (1301,23750) center (1276,23735) size 49×30
+**jony115112** — 2 claim(s), 2,567,736 blocks total
+  - (4431,19167) → (6303,20420) center (5367,19793) size 1872×1253
+  - (4090,18514) → (4450,19131) center (4270,18822) size 360×617
+**LuxRavens** — 1 claim(s), 10,290 blocks total
+  - (7408,24660) → (7506,24765) center (7457,24712) size 98×105
+**DemonCalledYuni** — 1 claim(s), 6,150 blocks total
+  - (17310,22672) → (17392,22747) center (17351,22709) size 82×75
+**ShootingTree** — 1 claim(s), 3,404 blocks total
+  - (-14210,-21628) → (-14136,-21582) center (-14173,-21605) size 74×46
+**_ReddyFizki2** — 1 claim(s), 132 blocks total
+  - (21823,864) → (21835,875) center (21829,869) size 12×11
+**XSakura_DemonX** — 1 claim(s), 5,451 blocks total
+  - (-12092,-22678) → (-12023,-22599) center (-12058,-22639) size 69×79
+
 ## 2026-06-22 09:37 UTC
 Total claims: 15814 | Removed: 6 | Added: 29 | Skipped (reclaimed): 7
 
