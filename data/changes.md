@@ -1,4 +1,46 @@
 
+## 2026-06-22 19:17 UTC
+Total claims: 15812 | Removed: 7 | Added: 14 | Skipped (reclaimed): 2
+
+### Removed
+**M0nsterman8** — 5 claim(s), 1,354 blocks total
+  - (-20224,-10869) → (-20201,-10860) center (-20213,-10865) size 23×9
+  - (-20203,-10860) → (-20195,-10847) center (-20199,-10854) size 8×13
+  - (-20228,-10860) → (-20208,-10855) center (-20218,-10858) size 20×5
+  - (-20237,-10855) → (-20208,-10828) center (-20223,-10842) size 29×27
+  - (-20208,-10860) → (-20203,-10828) center (-20206,-10844) size 5×32
+**Witokz** — 1 claim(s), 2,226 blocks total
+  - (806,21515) → (859,21557) center (832,21536) size 53×42
+**Rayo34** — 1 claim(s), 140 blocks total
+  - (-23444,-14804) → (-23434,-14790) center (-23439,-14797) size 10×14
+
+### Added
+**baatastic** — 2 claim(s), 225 blocks total
+  - (18909,21563) → (18922,21571) center (18915,21567) size 13×8
+  - (18912,21573) → (18923,21584) center (18917,21578) size 11×11
+**Aykizz** — 2 claim(s), 1,940 blocks total
+  - (22135,-2540) → (22239,-2534) center (22187,-2537) size 104×6
+  - (22105,-2531) → (22199,-2517) center (22152,-2524) size 94×14
+**DemonIsFine** — 2 claim(s), 3,048 blocks total
+  - (21899,15624) → (21935,15696) center (21917,15660) size 36×72
+  - (21861,15613) → (21899,15625) center (21880,15619) size 38×12
+**Captain_R_Thorn** — 1 claim(s), 1,517 blocks total
+  - (20794,20696) → (20835,20733) center (20814,20714) size 41×37
+**AmaraDevil** — 1 claim(s), 280 blocks total
+  - (-21853,-5382) → (-21839,-5362) center (-21846,-5372) size 14×20
+**mumtheminer** — 1 claim(s), 170 blocks total
+  - (22835,-1601) → (22852,-1591) center (22843,-1596) size 17×10
+**saintnicho** — 1 claim(s), 255 blocks total
+  - (-20520,-18752) → (-20505,-18735) center (-20513,-18744) size 15×17
+**BonelessYTs1950** — 1 claim(s), 972 blocks total
+  - (-21844,8509) → (-21808,8536) center (-21826,8522) size 36×27
+**Ayliataaii11** — 1 claim(s), 273 blocks total
+  - (22833,-1590) → (22854,-1577) center (22843,-1584) size 21×13
+**SassierTexas427** — 1 claim(s), 13,832 blocks total
+  - (24677,-629) → (24810,-525) center (24743,-577) size 133×104
+**Snarkness** — 1 claim(s), 931 blocks total
+  - (23320,-10810) → (23339,-10761) center (23329,-10786) size 19×49
+
 ## 2026-06-22 15:12 UTC
 Total claims: 15807 | Removed: 15 | Added: 11 | Skipped (reclaimed): 3
 
