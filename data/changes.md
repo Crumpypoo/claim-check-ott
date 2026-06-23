@@ -1,4 +1,14 @@
 
+## 2026-06-23 21:22 UTC
+Total claims: 15840 | Removed: 0 | Added: 2 | Skipped (reclaimed): 0
+
+
+### Added
+**_CrimsonMicah** — 1 claim(s), 728 blocks total
+  - (10785,-21964) → (10813,-21938) center (10799,-21951) size 28×26
+**thatrandoplayer4** — 1 claim(s), 660 blocks total
+  - (-4425,-23196) → (-4403,-23166) center (-4414,-23181) size 22×30
+
 ## 2026-06-23 19:48 UTC
 Total claims: 15838 | Removed: 0 | Added: 0 | Skipped (reclaimed): 3872
 
