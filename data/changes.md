@@ -1,4 +1,40 @@
 
+## 2026-06-23 02:05 UTC
+Total claims: 15827 | Removed: 3 | Added: 14 | Skipped (reclaimed): 7
+
+### Removed
+**heartz4andi** — 2 claim(s), 1,705 blocks total
+  - (-18106,-21230) → (-18095,-21219) center (-18101,-21225) size 11×11
+  - (21900,5823) → (21944,5859) center (21922,5841) size 44×36
+**Krazy_Alien2022** — 1 claim(s), 156 blocks total
+  - (-16009,21157) → (-15997,21170) center (-16003,21163) size 12×13
+
+### Added
+**Sdhup** — 5 claim(s), 787 blocks total
+  - (20924,-3097) → (20933,-3084) center (20928,-3091) size 9×13
+  - (-21375,12218) → (-21364,12229) center (-21370,12223) size 11×11
+  - (20908,-3081) → (20917,-3061) center (20912,-3071) size 9×20
+  - (20919,-3096) → (20924,-3060) center (20921,-3078) size 5×36
+  - (20926,-3084) → (20933,-3057) center (20929,-3071) size 7×27
+**M_V_P_12** — 1 claim(s), 12,321 blocks total
+  - (-21233,-314) → (-21122,-203) center (-21178,-259) size 111×111
+**OhHelloItsAugust** — 1 claim(s), 58,188 blocks total
+  - (22877,16036) → (22955,16782) center (22916,16409) size 78×746
+**Dourain** — 1 claim(s), 1,012 blocks total
+  - (-21156,16348) → (-21133,16392) center (-21145,16370) size 23×44
+**itz_sleepyyy** — 1 claim(s), 247 blocks total
+  - (22379,-1163) → (22398,-1150) center (22388,-1157) size 19×13
+**Divzer** — 1 claim(s), 347,988 blocks total
+  - (3173,-24874) → (3790,-24310) center (3481,-24592) size 617×564
+**Krazy_Alien2022** — 1 claim(s), 350 blocks total
+  - (-5180,-22989) → (-5155,-22975) center (-5168,-22982) size 25×14
+**Blank_canva** — 1 claim(s), 38,916 blocks total
+  - (22125,-2636) → (22332,-2448) center (22228,-2542) size 207×188
+**danzo950** — 1 claim(s), 510,616 blocks total
+  - (-15765,20311) → (-15433,21849) center (-15599,21080) size 332×1538
+**ayeeperla56** — 1 claim(s), 154 blocks total
+  - (-23316,-19470) → (-23302,-19459) center (-23309,-19465) size 14×11
+
 ## 2026-06-22 23:10 UTC
 Total claims: 15823 | Removed: 0 | Added: 8 | Skipped (reclaimed): 7
 
