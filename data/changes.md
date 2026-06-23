@@ -1,4 +1,25 @@
 
+## 2026-06-23 14:23 UTC
+Total claims: 15836 | Removed: 2 | Added: 5 | Skipped (reclaimed): 3
+
+### Removed
+**Cauchemarr** — 1 claim(s), 102 blocks total
+  - (-22324,-14143) → (-22307,-14137) center (-22316,-14140) size 17×6
+**ChesterQuillbus** — 1 claim(s), 1,350 blocks total
+  - (-23512,-18744) → (-23467,-18714) center (-23490,-18729) size 45×30
+
+### Added
+**Millalgi** — 1 claim(s), 35,150 blocks total
+  - (-315,-312) → (-130,-122) center (-223,-217) size 185×190
+**_MunozChiong242** — 1 claim(s), 180 blocks total
+  - (-3005,4126) → (-2990,4138) center (-2998,4132) size 15×12
+**MochiLnnt_MY** — 1 claim(s), 460 blocks total
+  - (21862,6816) → (21885,6836) center (21873,6826) size 23×20
+**Somuchoregano** — 1 claim(s), 48,929 blocks total
+  - (-5466,-21801) → (-5353,-21368) center (-5410,-21585) size 113×433
+**PrizePopple** — 1 claim(s), 15,410 blocks total
+  - (21332,-13496) → (21447,-13362) center (21389,-13429) size 115×134
+
 ## 2026-06-23 10:52 UTC
 Total claims: 15836 | Removed: 4 | Added: 16 | Skipped (reclaimed): 2
 
