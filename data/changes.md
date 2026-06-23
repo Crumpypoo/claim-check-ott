@@ -1,4 +1,45 @@
 
+## 2026-06-23 22:58 UTC
+Total claims: 15845 | Removed: 1 | Added: 20 | Skipped (reclaimed): 14
+
+### Removed
+**jstnnLolz** — 1 claim(s), 136 blocks total
+  - (-9800,17416) → (-9783,17424) center (-9792,17420) size 17×8
+
+### Added
+**ottersmp** — 9 claim(s), 1,179,141 blocks total
+  - (2672,7003) → (2687,7018) center (2679,7010) size 15×15
+  - (-1349,-12543) → (-1170,-12352) center (-1260,-12448) size 179×191
+  - (3587,7218) → (3611,7229) center (3599,7223) size 24×11
+  - (9642,8906) → (9726,8977) center (9684,8941) size 84×71
+  - (7049,-19438) → (8111,-18472) center (7580,-18955) size 1062×966
+  - (-11501,-7117) → (-11400,-7006) center (-11451,-7062) size 101×111
+  - (-7036,-22526) → (-6725,-22215) center (-6881,-22371) size 311×311
+  - (2878,6842) → (2924,6941) center (2901,6891) size 46×99
+  - (2698,6984) → (2709,6995) center (2703,6989) size 11×11
+**ProjectFlamingo** — 1 claim(s), 126,300 blocks total
+  - (-22182,15523) → (-21882,15944) center (-22032,15733) size 300×421
+**_toyoda_wrath** — 1 claim(s), 2,009 blocks total
+  - (-1828,21859) → (-1779,21900) center (-1804,21879) size 49×41
+**TompaLegendo** — 1 claim(s), 2,970 blocks total
+  - (23303,20707) → (23358,20761) center (23330,20734) size 55×54
+**SassierTexas427** — 1 claim(s), 22,152 blocks total
+  - (24597,-629) → (24810,-525) center (24703,-577) size 213×104
+**_jalenrektt** — 1 claim(s), 168 blocks total
+  - (-4425,-23166) → (-4419,-23138) center (-4422,-23152) size 6×28
+**CaptChonke** — 1 claim(s), 5,670 blocks total
+  - (17277,1913) → (17322,2039) center (17299,1976) size 45×126
+**BeeFastFeast** — 1 claim(s), 105,228 blocks total
+  - (4520,22529) → (4836,22862) center (4678,22695) size 316×333
+**thatrandoplayer4** — 1 claim(s), 2,295 blocks total
+  - (-4452,-23196) → (-4425,-23111) center (-4439,-23154) size 27×85
+**7otallyNotMuffy** — 1 claim(s), 121 blocks total
+  - (-20802,23482) → (-20791,23493) center (-20797,23487) size 11×11
+**SpamtonG_Spamton** — 1 claim(s), 870 blocks total
+  - (-23269,-19747) → (-23259,-19660) center (-23264,-19704) size 10×87
+**LovelyChubs** — 1 claim(s), 546 blocks total
+  - (20659,-10443) → (20685,-10422) center (20672,-10433) size 26×21
+
 ## 2026-06-23 21:22 UTC
 Total claims: 15840 | Removed: 0 | Added: 2 | Skipped (reclaimed): 0
 
