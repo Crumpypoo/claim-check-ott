@@ -1,4 +1,45 @@
 
+## 2026-06-23 10:52 UTC
+Total claims: 15836 | Removed: 4 | Added: 16 | Skipped (reclaimed): 2
+
+### Removed
+**_efeata9911** — 2 claim(s), 775 blocks total
+  - (21481,-12023) → (21505,-12003) center (21493,-12013) size 24×20
+  - (21524,-12032) → (21529,-11973) center (21526,-12003) size 5×59
+**Aiden34719** — 1 claim(s), 210 blocks total
+  - (-22729,16331) → (-22708,16341) center (-22719,16336) size 21×10
+**zezabe** — 1 claim(s), 168 blocks total
+  - (1602,17502) → (1614,17516) center (1608,17509) size 12×14
+
+### Added
+**Kadoridino** — 4 claim(s), 1,139 blocks total
+  - (20825,-8304) → (20835,-8259) center (20830,-8282) size 10×45
+  - (20851,-8260) → (20858,-8239) center (20854,-8250) size 7×21
+  - (20825,-8251) → (20838,-8233) center (20831,-8242) size 13×18
+  - (20838,-8268) → (20845,-8224) center (20841,-8246) size 7×44
+**MarinaFirefly** — 2 claim(s), 27,418 blocks total
+  - (-11531,23525) → (-11515,23535) center (-11523,23530) size 16×10
+  - (-11720,23451) → (-11543,23605) center (-11632,23528) size 177×154
+**mrcakeeater1234** — 2 claim(s), 889 blocks total
+  - (-20221,-8286) → (-20210,-8257) center (-20216,-8272) size 11×29
+  - (-20227,-8345) → (-20208,-8315) center (-20218,-8330) size 19×30
+**BoredJoel** — 1 claim(s), 2,352 blocks total
+  - (-20988,5856) → (-20939,5904) center (-20964,5880) size 49×48
+**CreepYw** — 1 claim(s), 1,521 blocks total
+  - (-21879,-14807) → (-21840,-14768) center (-21860,-14788) size 39×39
+**_SHADOW76605** — 1 claim(s), 121 blocks total
+  - (15847,-21791) → (15858,-21780) center (15852,-21786) size 11×11
+**brianv94** — 1 claim(s), 6,144 blocks total
+  - (20455,13961) → (20519,14057) center (20487,14009) size 64×96
+**perpellif** — 1 claim(s), 143 blocks total
+  - (15139,-21377) → (15150,-21364) center (15144,-21371) size 11×13
+**roccia_spaziale** — 1 claim(s), 200 blocks total
+  - (-21696,-2405) → (-21688,-2380) center (-21692,-2393) size 8×25
+**suddenemptiness** — 1 claim(s), 324 blocks total
+  - (9535,-21553) → (9553,-21535) center (9544,-21544) size 18×18
+**_Sophiecug** — 1 claim(s), 345 blocks total
+  - (-17302,23796) → (-17287,23819) center (-17295,23807) size 15×23
+
 ## 2026-06-23 07:37 UTC
 Total claims: 15826 | Removed: 8 | Added: 14 | Skipped (reclaimed): 7
 
