@@ -1,4 +1,34 @@
 
+## 2026-06-24 13:57 UTC
+Total claims: 15848 | Removed: 4 | Added: 8 | Skipped (reclaimed): 2
+
+### Removed
+**Pixelated_VOID** — 2 claim(s), 8,515 blocks total
+  - (9474,8221) → (9568,8304) center (9521,8262) size 94×83
+  - (557,-658) → (588,-635) center (572,-647) size 31×23
+**2019afredlermein** — 1 claim(s), 510 blocks total
+  - (22022,19640) → (22073,19650) center (22047,19645) size 51×10
+**Averilll** — 1 claim(s), 768 blocks total
+  - (-22445,14865) → (-22413,14889) center (-22429,14877) size 32×24
+
+### Added
+**twinanthidium** — 1 claim(s), 147,840 blocks total
+  - (665,-23030) → (1017,-22610) center (841,-22820) size 352×420
+**evolve03** — 1 claim(s), 300 blocks total
+  - (-8917,-21128) → (-8897,-21113) center (-8907,-21121) size 20×15
+**Luna_lykke** — 1 claim(s), 2,064 blocks total
+  - (-1670,22677) → (-1627,22725) center (-1649,22701) size 43×48
+**JcSyncc** — 1 claim(s), 6,561 blocks total
+  - (21476,-14711) → (21557,-14630) center (21516,-14671) size 81×81
+**_DottyChalk5819** — 1 claim(s), 462 blocks total
+  - (-21607,5973) → (-21585,5994) center (-21596,5983) size 22×21
+**Tuff_Emperor** — 1 claim(s), 544 blocks total
+  - (-20941,5905) → (-20924,5937) center (-20933,5921) size 17×32
+**PercefiedX** — 1 claim(s), 105 blocks total
+  - (-20884,11520) → (-20877,11535) center (-20881,11527) size 7×15
+**VibrantAmethyst** — 1 claim(s), 9,021 blocks total
+  - (22506,-14328) → (22599,-14231) center (22552,-14280) size 93×97
+
 ## 2026-06-24 08:48 UTC
 Total claims: 15846 | Removed: 3 | Added: 41 | Skipped (reclaimed): 38
 
