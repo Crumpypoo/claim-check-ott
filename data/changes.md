@@ -1,4 +1,32 @@
 
+## 2026-06-24 02:07 UTC
+Total claims: 15845 | Removed: 4 | Added: 7 | Skipped (reclaimed): 3
+
+### Removed
+**BangerMario** — 1 claim(s), 925 blocks total
+  - (21866,6864) → (21891,6901) center (21878,6882) size 25×37
+**Pandabunz** — 1 claim(s), 10,220 blocks total
+  - (108,18012) → (181,18152) center (144,18082) size 73×140
+**Gaspar_Zinh0** — 1 claim(s), 782 blocks total
+  - (3753,2562) → (3787,2585) center (3770,2573) size 34×23
+**_jalenrektt** — 1 claim(s), 168 blocks total
+  - (-4425,-23166) → (-4419,-23138) center (-4422,-23152) size 6×28
+
+### Added
+**Flungert** — 2 claim(s), 1,702 blocks total
+  - (-22758,-1609) → (-22707,-1578) center (-22733,-1594) size 51×31
+  - (8605,20821) → (8616,20832) center (8610,20826) size 11×11
+**ProjectFlamingo** — 1 claim(s), 138,788 blocks total
+  - (-22196,15523) → (-21882,15965) center (-22039,15744) size 314×442
+**PrismaKnight** — 1 claim(s), 29,568 blocks total
+  - (-22225,7201) → (-22071,7393) center (-22148,7297) size 154×192
+**_jalenrektt** — 1 claim(s), 2,891 blocks total
+  - (-4530,-23105) → (-4481,-23046) center (-4506,-23076) size 49×59
+**Pandabunz** — 1 claim(s), 12,610 blocks total
+  - (7892,11462) → (8022,11559) center (7957,11510) size 130×97
+**Agent_AO** — 1 claim(s), 256 blocks total
+  - (-2624,22848) → (-2608,22864) center (-2616,22856) size 16×16
+
 ## 2026-06-23 22:58 UTC
 Total claims: 15845 | Removed: 1 | Added: 20 | Skipped (reclaimed): 14
 
