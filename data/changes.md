@@ -1,4 +1,14 @@
 
+## 2026-06-24 02:20 UTC
+Total claims: 15846 | Removed: 0 | Added: 2 | Skipped (reclaimed): 1
+
+
+### Added
+**ProjectFlamingo** — 1 claim(s), 162,790 blocks total
+  - (-22196,15523) → (-21831,15969) center (-22014,15746) size 365×446
+**life_is_good** — 1 claim(s), 140 blocks total
+  - (21401,9883) → (21415,9893) center (21408,9888) size 14×10
+
 ## 2026-06-24 02:07 UTC
 Total claims: 15845 | Removed: 4 | Added: 7 | Skipped (reclaimed): 3
 
