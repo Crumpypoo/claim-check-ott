@@ -1,4 +1,32 @@
 
+## 2026-06-27 13:01 UTC
+Total claims: 15947 | Removed: 5 | Added: 6 | Skipped (reclaimed): 0
+
+### Removed
+**MLGkiller129** — 1 claim(s), 108 blocks total
+  - (21014,-9213) → (21026,-9204) center (21020,-9209) size 12×9
+**_abunchalilgirls** — 1 claim(s), 870 blocks total
+  - (19675,-23057) → (19704,-23027) center (19689,-23042) size 29×30
+**ImMac** — 1 claim(s), 1,599 blocks total
+  - (18644,21265) → (18685,21304) center (18664,21284) size 41×39
+**_Cheesyontop** — 1 claim(s), 319 blocks total
+  - (21945,14842) → (21974,14853) center (21959,14847) size 29×11
+**ZED_RE** — 1 claim(s), 378 blocks total
+  - (-22886,13083) → (-22859,13097) center (-22873,13090) size 27×14
+
+### Added
+**maliiii_** — 2 claim(s), 1,249 blocks total
+  - (21179,18913) → (21196,18954) center (21187,18933) size 17×41
+  - (21165,18884) → (21188,18908) center (21176,18896) size 23×24
+**OmarIscold2011** — 1 claim(s), 121 blocks total
+  - (-22588,18930) → (-22577,18941) center (-22583,18935) size 11×11
+**_FairerClaw8024** — 1 claim(s), 960 blocks total
+  - (23509,13010) → (23569,13026) center (23539,13018) size 60×16
+**C2RSE** — 1 claim(s), 121 blocks total
+  - (-22049,-16364) → (-22038,-16353) center (-22044,-16359) size 11×11
+**mlijekoo** — 1 claim(s), 1,624 blocks total
+  - (4798,21456) → (4827,21512) center (4812,21484) size 29×56
+
 ## 2026-06-27 08:21 UTC
 Total claims: 15946 | Removed: 3 | Added: 20 | Skipped (reclaimed): 8
 
