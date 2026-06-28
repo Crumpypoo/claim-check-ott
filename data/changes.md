@@ -1,4 +1,29 @@
 
+## 2026-06-28 13:06 UTC
+Total claims: 15973 | Removed: 2 | Added: 7 | Skipped (reclaimed): 2
+
+### Removed
+**gysen** — 1 claim(s), 121 blocks total
+  - (-21292,-3659) → (-21281,-3648) center (-21287,-3654) size 11×11
+**STAY_Nimiyaa** — 1 claim(s), 814 blocks total
+  - (15941,-21484) → (15963,-21447) center (15952,-21466) size 22×37
+
+### Added
+**_toyoda_wrath** — 1 claim(s), 729 blocks total
+  - (-1826,21915) → (-1799,21942) center (-1813,21928) size 27×27
+**gysen** — 1 claim(s), 1,976 blocks total
+  - (-19898,-20721) → (-19822,-20695) center (-19860,-20708) size 76×26
+**whyyam** — 1 claim(s), 858 blocks total
+  - (22984,5446) → (23017,5472) center (23000,5459) size 33×26
+**otter_e** — 1 claim(s), 6,345 blocks total
+  - (24632,7613) → (24773,7658) center (24702,7635) size 141×45
+**xGrowly** — 1 claim(s), 572 blocks total
+  - (-21601,888) → (-21579,914) center (-21590,901) size 22×26
+**DqrkFlqme** — 1 claim(s), 486 blocks total
+  - (-11010,-20825) → (-10983,-20807) center (-10997,-20816) size 27×18
+**Mini_Kaktus** — 1 claim(s), 2,666 blocks total
+  - (-8925,22075) → (-8839,22106) center (-8882,22090) size 86×31
+
 ## 2026-06-28 08:36 UTC
 Total claims: 15970 | Removed: 0 | Added: 0 | Skipped (reclaimed): 347
 
