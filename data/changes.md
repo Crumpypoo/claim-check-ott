@@ -1,4 +1,33 @@
 
+## 2026-06-29 15:22 UTC
+Total claims: 16020 | Removed: 3 | Added: 9 | Skipped (reclaimed): 4
+
+### Removed
+**P__89** — 2 claim(s), 1,939 blocks total
+  - (-20623,18113) → (-20601,18121) center (-20612,18117) size 22×8
+  - (22104,8563) → (22147,8604) center (22125,8583) size 43×41
+**ashy_Vi0** — 1 claim(s), 143 blocks total
+  - (-21128,14890) → (-21115,14901) center (-21122,14895) size 13×11
+
+### Added
+**P__89** — 2 claim(s), 11,387 blocks total
+  - (20916,-1927) → (21077,-1857) center (20996,-1892) size 161×70
+  - (-19124,20717) → (-19111,20726) center (-19118,20721) size 13×9
+**GhostBun45** — 1 claim(s), 2,009 blocks total
+  - (-14796,22393) → (-14747,22434) center (-14772,22413) size 49×41
+**Drizzymad** — 1 claim(s), 12,348 blocks total
+  - (17408,22297) → (17506,22423) center (17457,22360) size 98×126
+**EliseyPro333** — 1 claim(s), 484 blocks total
+  - (-5798,-23009) → (-5776,-22987) center (-5787,-22998) size 22×22
+**APYG** — 1 claim(s), 364 blocks total
+  - (-78,1126) → (-65,1154) center (-72,1140) size 13×28
+**Happy_Angel22** — 1 claim(s), 375 blocks total
+  - (10314,22216) → (10339,22231) center (10326,22223) size 25×15
+**luffypiece54** — 1 claim(s), 810 blocks total
+  - (22562,22476) → (22589,22506) center (22575,22491) size 27×30
+**ToxicVnm** — 1 claim(s), 6,106 blocks total
+  - (-22038,362) → (-21967,448) center (-22003,405) size 71×86
+
 ## 2026-06-29 10:14 UTC
 Total claims: 16018 | Removed: 4 | Added: 30 | Skipped (reclaimed): 9
 
