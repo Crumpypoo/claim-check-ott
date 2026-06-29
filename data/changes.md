@@ -1,4 +1,33 @@
 
+## 2026-06-29 19:28 UTC
+Total claims: 16024 | Removed: 1 | Added: 10 | Skipped (reclaimed): 5
+
+### Removed
+**DqrkFlqme** — 1 claim(s), 486 blocks total
+  - (-11010,-20825) → (-10983,-20807) center (-10997,-20816) size 27×18
+
+### Added
+**Maeve_Vandiir** — 1 claim(s), 243,810 blocks total
+  - (-12764,23282) → (-12359,23884) center (-12562,23583) size 405×602
+**BubbleXxx** — 1 claim(s), 117 blocks total
+  - (8482,20675) → (8491,20688) center (8486,20681) size 9×13
+**JEZKLAA** — 1 claim(s), 189 blocks total
+  - (-21638,19528) → (-21629,19549) center (-21634,19538) size 9×21
+**GGiovanniDL** — 1 claim(s), 288 blocks total
+  - (22973,7906) → (22989,7924) center (22981,7915) size 16×18
+**_DesiNguyn** — 1 claim(s), 1,332 blocks total
+  - (-6387,-22110) → (-6350,-22074) center (-6369,-22092) size 37×36
+**_Zorrax4487** — 1 claim(s), 121 blocks total
+  - (127,1425) → (138,1436) center (132,1430) size 11×11
+**DqrkFlqme** — 1 claim(s), 1,824 blocks total
+  - (-10998,-20895) → (-10950,-20857) center (-10974,-20876) size 48×38
+**shadowwuzhereXD** — 1 claim(s), 3,520 blocks total
+  - (-18100,22625) → (-18036,22680) center (-18068,22652) size 64×55
+**ToxicVnm** — 1 claim(s), 7,084 blocks total
+  - (-22044,356) → (-21967,448) center (-22006,402) size 77×92
+**SnowMonkey2028** — 1 claim(s), 1,440,575 blocks total
+  - (1138,-25000) → (3125,-24275) center (2131,-24638) size 1987×725
+
 ## 2026-06-29 15:22 UTC
 Total claims: 16020 | Removed: 3 | Added: 9 | Skipped (reclaimed): 4
 
