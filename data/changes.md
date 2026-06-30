@@ -1,4 +1,35 @@
 
+## 2026-06-30 13:47 UTC
+Total claims: 16045 | Removed: 2 | Added: 12 | Skipped (reclaimed): 5
+
+### Removed
+**VoidAbuser** — 1 claim(s), 1,100 blocks total
+  - (-2887,22331) → (-2843,22356) center (-2865,22343) size 44×25
+**Sky21__** — 1 claim(s), 1,170 blocks total
+  - (-22217,-21665) → (-22178,-21635) center (-22198,-21650) size 39×30
+
+### Added
+**_Eyem1ru** — 3 claim(s), 5,207 blocks total
+  - (-129,1296) → (-102,1308) center (-116,1302) size 27×12
+  - (-138,1179) → (-97,1286) center (-118,1232) size 41×107
+  - (-96,1247) → (-80,1278) center (-88,1262) size 16×31
+**_MythicBlade7134** — 3 claim(s), 738 blocks total
+  - (-2601,22576) → (-2574,22581) center (-2588,22578) size 27×5
+  - (-2629,22586) → (-2610,22595) center (-2620,22590) size 19×9
+  - (-2647,22594) → (-2629,22618) center (-2638,22606) size 18×24
+**_Auroryx300** — 1 claim(s), 4,582 blocks total
+  - (-4320,22634) → (-4241,22692) center (-4281,22663) size 79×58
+**Duckie_puddles** — 1 claim(s), 3,080 blocks total
+  - (20408,19819) → (20452,19889) center (20430,19854) size 44×70
+**SanityPotionz** — 1 claim(s), 6,014 blocks total
+  - (21960,23363) → (22057,23425) center (22008,23394) size 97×62
+**MichaelBLN** — 1 claim(s), 315 blocks total
+  - (-17017,21097) → (-16996,21112) center (-17007,21104) size 21×15
+**piatus12** — 1 claim(s), 714 blocks total
+  - (23277,6613) → (23294,6655) center (23285,6634) size 17×42
+**Agent_AO** — 1 claim(s), 3,072 blocks total
+  - (-2656,22832) → (-2592,22880) center (-2624,22856) size 64×48
+
 ## 2026-06-30 08:50 UTC
 Total claims: 16040 | Removed: 9 | Added: 15 | Skipped (reclaimed): 3
 
