@@ -1,4 +1,23 @@
 
+## 2026-07-01 13:58 UTC
+Total claims: 16070 | Removed: 4 | Added: 3 | Skipped (reclaimed): 2
+
+### Removed
+**jxrun** — 3 claim(s), 474 blocks total
+  - (-11292,17649) → (-11281,17666) center (-11287,17657) size 11×17
+  - (-15934,-22924) → (-15922,-22912) center (-15928,-22918) size 12×12
+  - (-13938,-17427) → (-13927,-17414) center (-13933,-17421) size 11×13
+**dmddddddddddd** — 1 claim(s), 228 blocks total
+  - (-14528,-17395) → (-14509,-17383) center (-14519,-17389) size 19×12
+
+### Added
+**kittyluv303** — 1 claim(s), 924 blocks total
+  - (-21918,-16723) → (-21890,-16690) center (-21904,-16707) size 28×33
+**ei8teen8_** — 1 claim(s), 1,184 blocks total
+  - (9402,-20860) → (9439,-20828) center (9420,-20844) size 37×32
+**Gabi_kuz123** — 1 claim(s), 243,122 blocks total
+  - (22992,21573) → (23465,22087) center (23228,21830) size 473×514
+
 ## 2026-07-01 09:23 UTC
 Total claims: 16073 | Removed: 8 | Added: 10 | Skipped (reclaimed): 3
 
