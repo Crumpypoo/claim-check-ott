@@ -1,4 +1,29 @@
 
+## 2026-07-04 18:47 UTC
+Total claims: 16138 | Removed: 0 | Added: 10 | Skipped (reclaimed): 3
+
+
+### Added
+**Kaki2903** — 2 claim(s), 2,205 blocks total
+  - (-10937,-20861) → (-10904,-20813) center (-10921,-20837) size 33×48
+  - (-11014,-20828) → (-10987,-20805) center (-11001,-20817) size 27×23
+**AngelicPresence** — 1 claim(s), 3,388 blocks total
+  - (-21585,-15963) → (-21541,-15886) center (-21563,-15925) size 44×77
+**slurqzy** — 1 claim(s), 990 blocks total
+  - (7702,-23000) → (7735,-22970) center (7718,-22985) size 33×30
+**FLOWENT** — 1 claim(s), 660 blocks total
+  - (19308,21269) → (19320,21324) center (19314,21296) size 12×55
+**_iRonick101** — 1 claim(s), 121 blocks total
+  - (-9559,-23077) → (-9548,-23066) center (-9554,-23072) size 11×11
+**reeceflash01** — 1 claim(s), 836 blocks total
+  - (3876,22831) → (3898,22869) center (3887,22850) size 22×38
+**ei8teen8_** — 1 claim(s), 22,236 blocks total
+  - (9385,-20996) → (9487,-20778) center (9436,-20887) size 102×218
+**LuxRavens** — 1 claim(s), 5,481 blocks total
+  - (7431,24937) → (7518,25000) center (7474,24968) size 87×63
+**DangerPaws** — 1 claim(s), 17,613 blocks total
+  - (-10755,-22204) → (-10652,-22033) center (-10704,-22119) size 103×171
+
 ## 2026-07-04 12:52 UTC
 Total claims: 16131 | Removed: 7 | Added: 5 | Skipped (reclaimed): 0
 
