@@ -1,4 +1,32 @@
 
+## 2026-07-04 12:52 UTC
+Total claims: 16131 | Removed: 7 | Added: 5 | Skipped (reclaimed): 0
+
+### Removed
+**OchacoActor** — 3 claim(s), 730 blocks total
+  - (22195,-6027) → (22206,-6016) center (22200,-6022) size 11×11
+  - (21917,-6097) → (21956,-6084) center (21936,-6091) size 39×13
+  - (21957,-6103) → (21974,-6097) center (21965,-6100) size 17×6
+**florisgus** — 2 claim(s), 1,200 blocks total
+  - (21489,-6499) → (21510,-6478) center (21499,-6489) size 21×21
+  - (-9818,22396) → (-9785,22419) center (-9802,22407) size 33×23
+**Idlebox37** — 1 claim(s), 110 blocks total
+  - (-5583,22419) → (-5572,22429) center (-5578,22424) size 11×10
+**bownow** — 1 claim(s), 256 blocks total
+  - (-20783,-496) → (-20767,-480) center (-20775,-488) size 16×16
+
+### Added
+**_Jet_Afton2323** — 1 claim(s), 221 blocks total
+  - (-21143,16876) → (-21126,16889) center (-21135,16882) size 17×13
+**Linky_45** — 1 claim(s), 170 blocks total
+  - (20421,21256) → (20431,21273) center (20426,21264) size 10×17
+**provenmoss8779** — 1 claim(s), 140 blocks total
+  - (20753,795) → (20763,809) center (20758,802) size 10×14
+**bownow** — 1 claim(s), 2,538 blocks total
+  - (-1910,-21856) → (-1856,-21809) center (-1883,-21833) size 54×47
+**ancestorDragon** — 1 claim(s), 576 blocks total
+  - (15004,22585) → (15028,22609) center (15016,22597) size 24×24
+
 ## 2026-07-04 08:15 UTC
 Total claims: 16133 | Removed: 5 | Added: 21 | Skipped (reclaimed): 11
 
