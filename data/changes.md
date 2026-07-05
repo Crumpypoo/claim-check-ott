@@ -1,4 +1,46 @@
 
+## 2026-07-05 18:53 UTC
+Total claims: 16160 | Removed: 6 | Added: 13 | Skipped (reclaimed): 5
+
+### Removed
+**renrenbabyyy1** — 3 claim(s), 650 blocks total
+  - (-21498,-16596) → (-21484,-16575) center (-21491,-16586) size 14×21
+  - (-21503,-16575) → (-21484,-16563) center (-21494,-16569) size 19×12
+  - (-21519,-16571) → (-21503,-16563) center (-21511,-16567) size 16×8
+**Abbee48** — 1 claim(s), 170 blocks total
+  - (23030,5114) → (23040,5131) center (23035,5122) size 10×17
+**Decdec2010** — 1 claim(s), 896 blocks total
+  - (12681,22866) → (12709,22898) center (12695,22882) size 28×32
+**_SnackThief24** — 1 claim(s), 1,848 blocks total
+  - (-17640,21518) → (-17596,21560) center (-17618,21539) size 44×42
+
+### Added
+**SnuggleDude** — 2 claim(s), 911 blocks total
+  - (21647,-14440) → (21674,-14413) center (21660,-14427) size 27×27
+  - (-2296,-21990) → (-2283,-21976) center (-2290,-21983) size 13×14
+**NonoBOB55** — 1 claim(s), 2,295 blocks total
+  - (-21231,-10512) → (-21180,-10467) center (-21206,-10490) size 51×45
+**tacotron2424** — 1 claim(s), 770 blocks total
+  - (-22859,12556) → (-22837,12591) center (-22848,12573) size 22×35
+**provenmoss8779** — 1 claim(s), 121 blocks total
+  - (21038,18034) → (21049,18045) center (21043,18039) size 11×11
+**SpectrrMC** — 1 claim(s), 480 blocks total
+  - (22869,-11171) → (22893,-11151) center (22881,-11161) size 24×20
+**lachofi232** — 1 claim(s), 256 blocks total
+  - (-23024,-14008) → (-23008,-13992) center (-23016,-14000) size 16×16
+**PELICAN2010** — 1 claim(s), 121 blocks total
+  - (2038,21862) → (2049,21873) center (2043,21867) size 11×11
+**OtheLV** — 1 claim(s), 782 blocks total
+  - (-8093,-16906) → (-8070,-16872) center (-8082,-16889) size 23×34
+**deathtoworlds** — 1 claim(s), 1,426 blocks total
+  - (7920,-21756) → (7951,-21710) center (7935,-21733) size 31×46
+**bownow** — 1 claim(s), 14,600 blocks total
+  - (-1956,-21955) → (-1856,-21809) center (-1906,-21882) size 100×146
+**Millalgi** — 1 claim(s), 40,885 blocks total
+  - (-315,-343) → (-130,-122) center (-223,-233) size 185×221
+**BreadTheifK3** — 1 claim(s), 133,000 blocks total
+  - (21787,18856) → (22262,19136) center (22024,18996) size 475×280
+
 ## 2026-07-05 12:59 UTC
 Total claims: 16158 | Removed: 1 | Added: 8 | Skipped (reclaimed): 1
 
