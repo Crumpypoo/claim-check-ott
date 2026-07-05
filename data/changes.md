@@ -1,4 +1,43 @@
 
+## 2026-07-05 08:34 UTC
+Total claims: 16152 | Removed: 7 | Added: 12 | Skipped (reclaimed): 2
+
+### Removed
+**GwarGwarGura** — 3 claim(s), 407 blocks total
+  - (5270,-21450) → (5279,-21438) center (5274,-21444) size 9×12
+  - (5257,-21468) → (5268,-21455) center (5262,-21462) size 11×13
+  - (5244,-21468) → (5257,-21456) center (5250,-21462) size 13×12
+**pismis_ordek** — 1 claim(s), 713 blocks total
+  - (-10423,20789) → (-10392,20812) center (-10408,20800) size 31×23
+**williamnigel** — 1 claim(s), 900 blocks total
+  - (22336,-5860) → (22356,-5815) center (22346,-5838) size 20×45
+**flip365** — 1 claim(s), 437 blocks total
+  - (4871,-20690) → (4890,-20667) center (4880,-20679) size 19×23
+**Catorpillor** — 1 claim(s), 1,155 blocks total
+  - (23461,-13158) → (23496,-13125) center (23478,-13142) size 35×33
+
+### Added
+**DrExplo** — 5 claim(s), 605 blocks total
+  - (-21431,18636) → (-21420,18647) center (-21426,18641) size 11×11
+  - (-21445,18648) → (-21434,18659) center (-21440,18653) size 11×11
+  - (-21431,18621) → (-21420,18632) center (-21426,18626) size 11×11
+  - (-21445,18614) → (-21434,18625) center (-21440,18619) size 11×11
+  - (-21444,18634) → (-21433,18645) center (-21439,18639) size 11×11
+**Kit690** — 1 claim(s), 5,460 blocks total
+  - (-11071,19000) → (-11011,19091) center (-11041,19045) size 60×91
+**SleepingMage** — 1 claim(s), 1,540 blocks total
+  - (-21794,-16939) → (-21759,-16895) center (-21777,-16917) size 35×44
+**megachar208** — 1 claim(s), 2,120 blocks total
+  - (21836,-1244) → (21876,-1191) center (21856,-1218) size 40×53
+**Izumi_Catcactus** — 1 claim(s), 140 blocks total
+  - (-11011,19037) → (-10997,19047) center (-11004,19042) size 14×10
+**XkittensparklesX** — 1 claim(s), 270 blocks total
+  - (-20752,-3977) → (-20737,-3959) center (-20745,-3968) size 15×18
+**NOTMYTEA928** — 1 claim(s), 41,580 blocks total
+  - (23352,7301) → (23532,7532) center (23442,7416) size 180×231
+**Agent_AO** — 1 claim(s), 4,608 blocks total
+  - (-2656,22832) → (-2560,22880) center (-2608,22856) size 96×48
+
 ## 2026-07-05 01:30 UTC
 Total claims: 16149 | Removed: 7 | Added: 23 | Skipped (reclaimed): 5
 
