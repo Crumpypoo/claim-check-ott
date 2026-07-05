@@ -1,4 +1,27 @@
 
+## 2026-07-05 12:59 UTC
+Total claims: 16158 | Removed: 1 | Added: 8 | Skipped (reclaimed): 1
+
+### Removed
+**HistoryNerd00** — 1 claim(s), 506 blocks total
+  - (-22698,-6914) → (-22676,-6891) center (-22687,-6903) size 22×23
+
+### Added
+**PoTetoAndSam** — 3 claim(s), 72,388 blocks total
+  - (15000,3355) → (15119,3665) center (15059,3510) size 119×310
+  - (14977,3355) → (14999,3626) center (14988,3490) size 22×271
+  - (14769,3410) → (14977,3552) center (14873,3481) size 208×142
+**Lupiter1** — 1 claim(s), 182 blocks total
+  - (-20737,-5565) → (-20724,-5551) center (-20731,-5558) size 13×14
+**KMFDM85** — 1 claim(s), 110 blocks total
+  - (-20583,13513) → (-20573,13524) center (-20578,13518) size 10×11
+**NonoBOB55** — 1 claim(s), 810 blocks total
+  - (-21226,-10512) → (-21196,-10485) center (-21211,-10499) size 30×27
+**system1825** — 1 claim(s), 345 blocks total
+  - (20662,-10095) → (20677,-10072) center (20669,-10084) size 15×23
+**Abbee48** — 1 claim(s), 170 blocks total
+  - (23030,5114) → (23040,5131) center (23035,5122) size 10×17
+
 ## 2026-07-05 08:34 UTC
 Total claims: 16152 | Removed: 7 | Added: 12 | Skipped (reclaimed): 2
 
