@@ -1,4 +1,47 @@
 
+## 2026-07-06 14:48 UTC
+Total claims: 16197 | Removed: 5 | Added: 14 | Skipped (reclaimed): 4
+
+### Removed
+**_KiljoyMcCoy** — 2 claim(s), 1,659 blocks total
+  - (-20886,11996) → (-20871,12003) center (-20879,11999) size 15×7
+  - (-20931,11977) → (-20889,12014) center (-20910,11995) size 42×37
+**Aaronfla61814** — 1 claim(s), 430 blocks total
+  - (-23518,-7814) → (-23475,-7804) center (-23497,-7809) size 43×10
+**PYROLEO** — 1 claim(s), 156 blocks total
+  - (-13516,20632) → (-13503,20644) center (-13510,20638) size 13×12
+**yLucasBr** — 1 claim(s), 100 blocks total
+  - (21437,-7156) → (21447,-7146) center (21442,-7151) size 10×10
+
+### Added
+**SnuggleDude** — 2 claim(s), 499 blocks total
+  - (21674,-14440) → (21693,-14424) center (21683,-14432) size 19×16
+  - (21632,-14426) → (21647,-14413) center (21639,-14420) size 15×13
+**JNB217** — 1 claim(s), 60,515 blocks total
+  - (10851,2542) → (11096,2789) center (10973,2665) size 245×247
+**cacikiboraki** — 1 claim(s), 150 blocks total
+  - (-22148,2213) → (-22143,2243) center (-22146,2228) size 5×30
+**zeropercentsugar** — 1 claim(s), 4,608 blocks total
+  - (-2787,-22421) → (-2715,-22357) center (-2751,-22389) size 72×64
+**lloydium** — 1 claim(s), 255 blocks total
+  - (-22458,-2850) → (-22443,-2833) center (-22451,-2842) size 15×17
+**Schobert88** — 1 claim(s), 143 blocks total
+  - (-23065,-17280) → (-23052,-17269) center (-23059,-17275) size 13×11
+**chickn_nugs** — 1 claim(s), 384 blocks total
+  - (-22539,-5550) → (-22523,-5526) center (-22531,-5538) size 16×24
+**OGxavans2** — 1 claim(s), 1,014 blocks total
+  - (-22795,19774) → (-22756,19800) center (-22776,19787) size 39×26
+**Vholley** — 1 claim(s), 160 blocks total
+  - (-16626,-5133) → (-16616,-5117) center (-16621,-5125) size 10×16
+**lpo_** — 1 claim(s), 1,804 blocks total
+  - (19857,21937) → (19898,21981) center (19877,21959) size 41×44
+**L3VI_V3** — 1 claim(s), 152 blocks total
+  - (-21092,9756) → (-21073,9764) center (-21083,9760) size 19×8
+**PoTetoAndSam** — 1 claim(s), 67,156 blocks total
+  - (15000,3355) → (15206,3681) center (15103,3518) size 206×326
+**ei8teen8_** — 1 claim(s), 24,766 blocks total
+  - (9385,-20996) → (9507,-20793) center (9446,-20895) size 122×203
+
 ## 2026-07-06 09:47 UTC
 Total claims: 16192 | Removed: 4 | Added: 15 | Skipped (reclaimed): 1
 
