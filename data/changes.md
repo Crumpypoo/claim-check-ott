@@ -1,4 +1,44 @@
 
+## 2026-07-06 09:47 UTC
+Total claims: 16192 | Removed: 4 | Added: 15 | Skipped (reclaimed): 1
+
+### Removed
+**Harrison8228** — 1 claim(s), 506 blocks total
+  - (-22682,-11792) → (-22659,-11770) center (-22671,-11781) size 23×22
+**megachar208** — 1 claim(s), 4,088 blocks total
+  - (21844,-1236) → (21900,-1163) center (21872,-1200) size 56×73
+**Nyakua** — 1 claim(s), 4,664 blocks total
+  - (-22561,20444) → (-22473,20497) center (-22517,20470) size 88×53
+**HANNUTA2456** — 1 claim(s), 140 blocks total
+  - (22877,1807) → (22882,1835) center (22879,1821) size 5×28
+
+### Added
+**tukkoo1** — 5 claim(s), 1,133 blocks total
+  - (13496,21477) → (13501,21508) center (13498,21492) size 5×31
+  - (13516,21497) → (13526,21507) center (13521,21502) size 10×10
+  - (13506,21505) → (13516,21517) center (13511,21511) size 10×12
+  - (13501,21484) → (13514,21500) center (13507,21492) size 13×16
+  - (13503,21461) → (13528,21483) center (13515,21472) size 25×22
+**Notsobentobox** — 2 claim(s), 2,571 blocks total
+  - (-21346,-5290) → (-21297,-5240) center (-21322,-5265) size 49×50
+  - (-21322,-5401) → (-21311,-5390) center (-21317,-5396) size 11×11
+**Zebi67420** — 1 claim(s), 594 blocks total
+  - (13871,-21952) → (13893,-21925) center (13882,-21939) size 22×27
+**_Macaroni2015** — 1 claim(s), 480 blocks total
+  - (-10199,21264) → (-10179,21288) center (-10189,21276) size 20×24
+**Nyakua** — 1 claim(s), 14,098 blocks total
+  - (-14767,22578) → (-14661,22711) center (-14714,22644) size 106×133
+**clone7759** — 1 claim(s), 460 blocks total
+  - (-21740,-16022) → (-21720,-15999) center (-21730,-16011) size 20×23
+**Ryleesadie** — 1 claim(s), 224 blocks total
+  - (23174,-10663) → (23190,-10649) center (23182,-10656) size 16×14
+**Mr_Aaron_Snoop** — 1 claim(s), 1,760 blocks total
+  - (-21289,-3806) → (-21249,-3762) center (-21269,-3784) size 40×44
+**NinjaWika** — 1 claim(s), 925 blocks total
+  - (22251,-7384) → (22276,-7347) center (22263,-7366) size 25×37
+**MushroomPuff** — 1 claim(s), 25,519 blocks total
+  - (20830,18428) → (20981,18597) center (20905,18512) size 151×169
+
 ## 2026-07-06 01:44 UTC
 Total claims: 16182 | Removed: 6 | Added: 34 | Skipped (reclaimed): 6
 
