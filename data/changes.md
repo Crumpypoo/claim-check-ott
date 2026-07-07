@@ -1,4 +1,36 @@
 
+## 2026-07-07 08:59 UTC
+Total claims: 16231 | Removed: 0 | Added: 14 | Skipped (reclaimed): 1
+
+
+### Added
+**GalacticKitsune** — 2 claim(s), 122,745 blocks total
+  - (22879,-12830) → (22885,-12802) center (22882,-12816) size 6×28
+  - (23833,-14413) → (24282,-14140) center (24057,-14277) size 449×273
+**bIueeeeee** — 2 claim(s), 2,415 blocks total
+  - (-21136,-18317) → (-21122,-18212) center (-21129,-18265) size 14×105
+  - (-21217,-18293) → (-21202,-18230) center (-21210,-18262) size 15×63
+**345RANES** — 1 claim(s), 2,233 blocks total
+  - (-22207,-15431) → (-22178,-15354) center (-22193,-15393) size 29×77
+**jordynsaidno** — 1 claim(s), 1,548 blocks total
+  - (-13848,20796) → (-13805,20832) center (-13827,20814) size 43×36
+**Alpha_tobi** — 1 claim(s), 1,360 blocks total
+  - (-21774,1069) → (-21740,1109) center (-21757,1089) size 34×40
+**CarneRage** — 1 claim(s), 144 blocks total
+  - (21772,-739) → (21784,-727) center (21778,-733) size 12×12
+**Endo_Chill** — 1 claim(s), 192 blocks total
+  - (-8407,21770) → (-8399,21794) center (-8403,21782) size 8×24
+**aPancakeGodMC** — 1 claim(s), 1,512 blocks total
+  - (-19349,21213) → (-19325,21276) center (-19337,21244) size 24×63
+**kaioleopoldo** — 1 claim(s), 625 blocks total
+  - (-11199,22881) → (-11174,22906) center (-11187,22893) size 25×25
+**XSakura_DemonX** — 1 claim(s), 3,445 blocks total
+  - (-21350,9298) → (-21285,9351) center (-21318,9324) size 65×53
+**Kise_2198** — 1 claim(s), 975 blocks total
+  - (-14360,-21683) → (-14335,-21644) center (-14348,-21664) size 25×39
+**Maeve_Vandiir** — 1 claim(s), 511,210 blocks total
+  - (-22647,23944) → (-21977,24707) center (-22312,24325) size 670×763
+
 ## 2026-07-07 01:42 UTC
 Total claims: 16218 | Removed: 8 | Added: 23 | Skipped (reclaimed): 20
 
