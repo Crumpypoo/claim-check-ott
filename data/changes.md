@@ -1,4 +1,19 @@
 
+## 2026-07-07 13:58 UTC
+Total claims: 16229 | Removed: 3 | Added: 1 | Skipped (reclaimed): 0
+
+### Removed
+**moodywinemom** — 1 claim(s), 130 blocks total
+  - (-5174,-21489) → (-5161,-21479) center (-5168,-21484) size 13×10
+**stonx___** — 1 claim(s), 1,152 blocks total
+  - (12061,21097) → (12097,21129) center (12079,21113) size 36×32
+**Razrorellik** — 1 claim(s), 204 blocks total
+  - (22533,-11957) → (22550,-11945) center (22541,-11951) size 17×12
+
+### Added
+**greenshirtbluguy** — 1 claim(s), 6,080 blocks total
+  - (-12029,-21993) → (-11949,-21917) center (-11989,-21955) size 80×76
+
 ## 2026-07-07 08:59 UTC
 Total claims: 16231 | Removed: 0 | Added: 14 | Skipped (reclaimed): 1
 
