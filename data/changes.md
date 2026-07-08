@@ -1,4 +1,40 @@
 
+## 2026-07-08 13:20 UTC
+Total claims: 16280 | Removed: 2 | Added: 15 | Skipped (reclaimed): 8
+
+### Removed
+**PrimeSentorV2** — 1 claim(s), 1,058 blocks total
+  - (-2202,-20780) → (-2179,-20734) center (-2191,-20757) size 23×46
+**DangerPaws** — 1 claim(s), 5,340 blocks total
+  - (24235,10350) → (24295,10439) center (24265,10394) size 60×89
+
+### Added
+**T1zzyy_** — 5 claim(s), 2,387 blocks total
+  - (-6076,13394) → (-6062,13409) center (-6069,13401) size 14×15
+  - (-6134,13362) → (-6097,13367) center (-6116,13364) size 37×5
+  - (-6060,13368) → (-6039,13375) center (-6050,13371) size 21×7
+  - (-6096,13354) → (-6060,13394) center (-6078,13374) size 36×40
+  - (-6111,13367) → (-6096,13394) center (-6104,13380) size 15×27
+**MoonNight76** — 2 claim(s), 316 blocks total
+  - (-22988,-17964) → (-22972,-17954) center (-22980,-17959) size 16×10
+  - (-22985,-17976) → (-22972,-17964) center (-22979,-17970) size 13×12
+**Schnygglo** — 1 claim(s), 441 blocks total
+  - (21181,-352) → (21202,-331) center (21191,-342) size 21×21
+**IDY2026** — 1 claim(s), 552 blocks total
+  - (-21974,-19724) → (-21950,-19701) center (-21962,-19713) size 24×23
+**NinjaWika** — 1 claim(s), 7,225 blocks total
+  - (22221,-7422) → (22306,-7337) center (22263,-7380) size 85×85
+**Shiamori** — 1 claim(s), 1,457 blocks total
+  - (-21815,-4950) → (-21768,-4919) center (-21792,-4935) size 47×31
+**Lemon1501** — 1 claim(s), 121 blocks total
+  - (4797,21656) → (4808,21667) center (4802,21661) size 11×11
+**etlem** — 1 claim(s), 315 blocks total
+  - (-23207,-14102) → (-23192,-14081) center (-23200,-14092) size 15×21
+**Abbee48** — 1 claim(s), 5,016 blocks total
+  - (18004,22158) → (18048,22272) center (18026,22215) size 44×114
+**MushroomPuff** — 1 claim(s), 32,680 blocks total
+  - (20830,18407) → (21002,18597) center (20916,18502) size 172×190
+
 ## 2026-07-08 08:02 UTC
 Total claims: 16275 | Removed: 2 | Added: 21 | Skipped (reclaimed): 7
 
