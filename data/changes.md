@@ -1,4 +1,50 @@
 
+## 2026-07-09 08:58 UTC
+Total claims: 16319 | Removed: 4 | Added: 18 | Skipped (reclaimed): 8
+
+### Removed
+**FlameFrags_6776** — 3 claim(s), 1,095 blocks total
+  - (23548,16047) → (23555,16062) center (23551,16054) size 7×15
+  - (23438,16284) → (23456,16291) center (23447,16287) size 18×7
+  - (23456,16261) → (23488,16288) center (23472,16274) size 32×27
+**SavageStrike** — 1 claim(s), 131,080 blocks total
+  - (14710,3652) → (15000,4104) center (14855,3878) size 290×452
+
+### Added
+**MoonNight76** — 2 claim(s), 776 blocks total
+  - (-23047,-17864) → (-23025,-17844) center (-23036,-17854) size 22×20
+  - (-22981,-17656) → (-22967,-17632) center (-22974,-17644) size 14×24
+**Dragonslayer8800** — 2 claim(s), 472 blocks total
+  - (21724,17552) → (21736,17575) center (21730,17563) size 12×23
+  - (-21954,816) → (-21940,830) center (-21947,823) size 14×14
+**deathtoworlds** — 2 claim(s), 2,898 blocks total
+  - (7962,-21832) → (7977,-21813) center (7969,-21823) size 15×19
+  - (7912,-21777) → (7951,-21710) center (7931,-21744) size 39×67
+**cupid_colite** — 1 claim(s), 10,878 blocks total
+  - (1038,17797) → (1149,17895) center (1093,17846) size 111×98
+**XSakura_DemonX** — 1 claim(s), 28,829 blocks total
+  - (-23014,-9478) → (-22787,-9351) center (-22901,-9415) size 227×127
+**Im_Xto** — 1 claim(s), 7,392 blocks total
+  - (-19312,-21768) → (-19224,-21684) center (-19268,-21726) size 88×84
+**Ticci_TobyXD** — 1 claim(s), 8,004 blocks total
+  - (-22141,13904) → (-22054,13996) center (-22098,13950) size 87×92
+**N_gs** — 1 claim(s), 2,304 blocks total
+  - (-21344,-19968) → (-21296,-19920) center (-21320,-19944) size 48×48
+**TheFallenFurret** — 1 claim(s), 2,303 blocks total
+  - (21174,-1987) → (21221,-1938) center (21197,-1963) size 47×49
+**Rompepitas** — 1 claim(s), 102 blocks total
+  - (23323,17479) → (23340,17485) center (23331,17482) size 17×6
+**_BlueCopperr** — 1 claim(s), 29,682 blocks total
+  - (-22877,-24999) → (-22724,-24805) center (-22801,-24902) size 153×194
+**GalacticKitsune** — 1 claim(s), 3,500 blocks total
+  - (22889,-12820) → (22939,-12750) center (22914,-12785) size 50×70
+**PH03N1X_G4M3R** — 1 claim(s), 1,702 blocks total
+  - (-22451,14794) → (-22405,14831) center (-22428,14812) size 46×37
+**WinnieDePooh** — 1 claim(s), 40,736 blocks total
+  - (8276,-21620) → (8544,-21468) center (8410,-21544) size 268×152
+**Jodan_Antioch** — 1 claim(s), 19,908 blocks total
+  - (-2611,-22353) → (-2453,-22227) center (-2532,-22290) size 158×126
+
 ## 2026-07-09 01:24 UTC
 Total claims: 16313 | Removed: 7 | Added: 37 | Skipped (reclaimed): 7
 
