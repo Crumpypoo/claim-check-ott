@@ -1,4 +1,33 @@
 
+## 2026-07-09 14:21 UTC
+Total claims: 16322 | Removed: 2 | Added: 9 | Skipped (reclaimed): 4
+
+### Removed
+**Tsuki_no_ko** — 1 claim(s), 403 blocks total
+  - (-234,594) → (-221,625) center (-228,609) size 13×31
+**Bros1316** — 1 claim(s), 224 blocks total
+  - (22038,23308) → (22052,23324) center (22045,23316) size 14×16
+
+### Added
+**_FlyTomato7621** — 1 claim(s), 112 blocks total
+  - (21045,-14783) → (21059,-14775) center (21052,-14779) size 14×8
+**SnagTrash** — 1 claim(s), 2,805 blocks total
+  - (-23858,24384) → (-23807,24439) center (-23833,24411) size 51×55
+**Starsmin** — 1 claim(s), 121 blocks total
+  - (3509,-22877) → (3520,-22866) center (3514,-22872) size 11×11
+**_Wattsonmain6813** — 1 claim(s), 260 blocks total
+  - (-21100,17176) → (-21080,17189) center (-21090,17182) size 20×13
+**Tsuki_no_ko** — 1 claim(s), 1,064 blocks total
+  - (-305,583) → (-277,621) center (-291,602) size 28×38
+**TheFallenFurret** — 1 claim(s), 2,499 blocks total
+  - (21172,-1987) → (21221,-1936) center (21196,-1962) size 49×51
+**romancenovel** — 1 claim(s), 121 blocks total
+  - (-4004,7828) → (-3993,7839) center (-3999,7833) size 11×11
+**Blazurai** — 1 claim(s), 1,692 blocks total
+  - (-1829,21862) → (-1782,21898) center (-1806,21880) size 47×36
+**SanityPotionz** — 1 claim(s), 17,069 blocks total
+  - (21943,23335) → (22112,23436) center (22027,23385) size 169×101
+
 ## 2026-07-09 08:58 UTC
 Total claims: 16319 | Removed: 4 | Added: 18 | Skipped (reclaimed): 8
 
