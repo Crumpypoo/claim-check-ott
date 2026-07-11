@@ -1,4 +1,48 @@
 
+## 2026-07-11 07:27 UTC
+Total claims: 16360 | Removed: 11 | Added: 10 | Skipped (reclaimed): 5
+
+### Removed
+**Ironstead** — 4 claim(s), 3,575 blocks total
+  - (11837,-20619) → (11847,-20598) center (11842,-20609) size 10×21
+  - (11769,-20646) → (11811,-20622) center (11790,-20634) size 42×24
+  - (11782,-20594) → (11811,-20561) center (11796,-20578) size 29×33
+  - (11785,-20622) → (11835,-20594) center (11810,-20608) size 50×28
+**wavybryce3461** — 2 claim(s), 1,082 blocks total
+  - (21838,-12983) → (21872,-12957) center (21855,-12970) size 34×26
+  - (-21652,-5697) → (-21643,-5675) center (-21648,-5686) size 9×22
+**CreatorBot** — 1 claim(s), 1,521 blocks total
+  - (-9884,22650) → (-9845,22689) center (-9865,22669) size 39×39
+**mattymilk100** — 1 claim(s), 144 blocks total
+  - (-12650,-22659) → (-12638,-22647) center (-12644,-22653) size 12×12
+**kairakann** — 1 claim(s), 121 blocks total
+  - (10100,22346) → (10111,22357) center (10105,22351) size 11×11
+**Beebo_The_Dude** — 1 claim(s), 731 blocks total
+  - (1170,21278) → (1187,21321) center (1178,21299) size 17×43
+**Krephon** — 1 claim(s), 672 blocks total
+  - (-12711,22461) → (-12683,22485) center (-12697,22473) size 28×24
+
+### Added
+**EntityXoXo** — 2 claim(s), 242 blocks total
+  - (8050,20534) → (8061,20545) center (8055,20539) size 11×11
+  - (-6234,-21985) → (-6223,-21974) center (-6229,-21980) size 11×11
+**NachtaraGecko** — 1 claim(s), 196 blocks total
+  - (-13226,-21884) → (-13212,-21870) center (-13219,-21877) size 14×14
+**SnagTrash** — 1 claim(s), 9,405 blocks total
+  - (-23877,24365) → (-23782,24464) center (-23830,24414) size 95×99
+**Rawr0699** — 1 claim(s), 484 blocks total
+  - (9186,-21410) → (9208,-21388) center (9197,-21399) size 22×22
+**Dreamisfake** — 1 claim(s), 336 blocks total
+  - (-22440,8780) → (-22426,8804) center (-22433,8792) size 14×24
+**BitterNix** — 1 claim(s), 22,184 blocks total
+  - (9750,-6253) → (9938,-6135) center (9844,-6194) size 188×118
+**BreadTheifK3** — 1 claim(s), 215,518 blocks total
+  - (21715,18742) → (22262,19136) center (21988,18939) size 547×394
+**Limebug** — 1 claim(s), 60,228 blocks total
+  - (11488,23001) → (11727,23253) center (11607,23127) size 239×252
+**JJolly_Moonlight** — 1 claim(s), 529 blocks total
+  - (-9716,21042) → (-9693,21065) center (-9705,21053) size 23×23
+
 ## 2026-07-11 01:15 UTC
 Total claims: 16366 | Removed: 11 | Added: 15 | Skipped (reclaimed): 7
 
