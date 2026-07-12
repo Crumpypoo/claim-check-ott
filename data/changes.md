@@ -1,4 +1,33 @@
 
+## 2026-07-12 18:43 UTC
+Total claims: 16386 | Removed: 4 | Added: 8 | Skipped (reclaimed): 2
+
+### Removed
+**reinopel** — 1 claim(s), 210 blocks total
+  - (-20616,12596) → (-20602,12611) center (-20609,12603) size 14×15
+**Zackipoo15** — 1 claim(s), 620 blocks total
+  - (-17734,21053) → (-17714,21084) center (-17724,21068) size 20×31
+**Maante** — 1 claim(s), 1,020 blocks total
+  - (-22376,706) → (-22342,736) center (-22359,721) size 34×30
+**ceciliemulle** — 1 claim(s), 114 blocks total
+  - (3242,-15778) → (3248,-15759) center (3245,-15769) size 6×19
+
+### Added
+**shadowwuzhereXD** — 2 claim(s), 40,350 blocks total
+  - (-18228,23132) → (-18103,23264) center (-18166,23198) size 125×132
+  - (-18364,23282) → (-18214,23441) center (-18289,23361) size 150×159
+**_Beanzyy025** — 2 claim(s), 1,066 blocks total
+  - (-22636,-17414) → (-22625,-17400) center (-22631,-17407) size 11×14
+  - (-22625,-17401) → (-22587,-17377) center (-22606,-17389) size 38×24
+**lowkrenzo** — 1 claim(s), 1,530 blocks total
+  - (22055,16611) → (22100,16645) center (22077,16628) size 45×34
+**deathtoworlds** — 1 claim(s), 4,095 blocks total
+  - (22754,8610) → (22819,8673) center (22786,8641) size 65×63
+**Teralithis** — 1 claim(s), 33,790 blocks total
+  - (-18908,15730) → (-18690,15885) center (-18799,15807) size 218×155
+**PrizePopple** — 1 claim(s), 165,466 blocks total
+  - (12666,-20528) → (13037,-20082) center (12851,-20305) size 371×446
+
 ## 2026-07-12 12:44 UTC
 Total claims: 16384 | Removed: 1 | Added: 2 | Skipped (reclaimed): 0
 
