@@ -1,4 +1,17 @@
 
+## 2026-07-12 12:44 UTC
+Total claims: 16384 | Removed: 1 | Added: 2 | Skipped (reclaimed): 0
+
+### Removed
+**Rayo201** — 1 claim(s), 126 blocks total
+  - (-2273,21306) → (-2264,21320) center (-2269,21313) size 9×14
+
+### Added
+**ff7mako** — 1 claim(s), 120 blocks total
+  - (-21169,-10949) → (-21159,-10937) center (-21164,-10943) size 10×12
+**Scp_Foundation_** — 1 claim(s), 352 blocks total
+  - (-23087,-17671) → (-23071,-17649) center (-23079,-17660) size 16×22
+
 ## 2026-07-12 07:52 UTC
 Total claims: 16383 | Removed: 6 | Added: 12 | Skipped (reclaimed): 3
 
