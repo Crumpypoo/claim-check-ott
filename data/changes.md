@@ -1,4 +1,49 @@
 
+## 2026-07-13 19:07 UTC
+Total claims: 16407 | Removed: 8 | Added: 13 | Skipped (reclaimed): 10
+
+### Removed
+**_Rajput184435** — 3 claim(s), 914 blocks total
+  - (-4368,-23138) → (-4354,-23119) center (-4361,-23129) size 14×19
+  - (-4354,-23132) → (-4328,-23127) center (-4341,-23130) size 26×5
+  - (-4404,-23133) → (-4390,-23096) center (-4397,-23115) size 14×37
+**_HiddenQueen5578** — 2 claim(s), 3,721 blocks total
+  - (-16905,-6234) → (-16894,-6223) center (-16900,-6229) size 11×11
+  - (-16944,-6334) → (-16904,-6244) center (-16924,-6289) size 40×90
+**_Tomato4509** — 1 claim(s), 775 blocks total
+  - (21378,-6993) → (21409,-6968) center (21393,-6981) size 31×25
+**romancenovel** — 1 claim(s), 121 blocks total
+  - (-4004,7828) → (-3993,7839) center (-3999,7833) size 11×11
+**Giantpro453** — 1 claim(s), 594 blocks total
+  - (3850,201) → (3877,223) center (3863,212) size 27×22
+
+### Added
+**chey2004** — 2 claim(s), 1,847 blocks total
+  - (22182,6277) → (22206,6302) center (22194,6289) size 24×25
+  - (22155,6237) → (22198,6266) center (22176,6251) size 43×29
+**e1even1_** — 1 claim(s), 123,670 blocks total
+  - (-3992,7422) → (-3694,7837) center (-3843,7629) size 298×415
+**KILLED_BY_PANDAS** — 1 claim(s), 46,762 blocks total
+  - (16327,23642) → (16533,23869) center (16430,23755) size 206×227
+**shadowwuzhereXD** — 1 claim(s), 58,642 blocks total
+  - (-18364,23264) → (-18095,23482) center (-18230,23373) size 269×218
+**CutestBabyMoon** — 1 claim(s), 612 blocks total
+  - (-10828,-21712) → (-10794,-21694) center (-10811,-21703) size 34×18
+**Teralithis** — 1 claim(s), 1,394 blocks total
+  - (-1988,-3769) → (-1947,-3735) center (-1968,-3752) size 41×34
+**Coko12** — 1 claim(s), 238 blocks total
+  - (-23307,-8261) → (-23293,-8244) center (-23300,-8253) size 14×17
+**Lilly_250** — 1 claim(s), 1,023 blocks total
+  - (21154,22754) → (21185,22787) center (21169,22770) size 31×33
+**zerohq123** — 1 claim(s), 840 blocks total
+  - (-21297,811) → (-21269,841) center (-21283,826) size 28×30
+**iiCosmic** — 1 claim(s), 8,502 blocks total
+  - (-9456,-12115) → (-9347,-12037) center (-9402,-12076) size 109×78
+**BaldingChicken** — 1 claim(s), 247,950 blocks total
+  - (-16878,-6544) → (-16443,-5974) center (-16661,-6259) size 435×570
+**PerfectElemental** — 1 claim(s), 29,820 blocks total
+  - (9385,-20996) → (9527,-20786) center (9456,-20891) size 142×210
+
 ## 2026-07-13 13:52 UTC
 Total claims: 16412 | Removed: 1 | Added: 4 | Skipped (reclaimed): 1
 
