@@ -1,4 +1,21 @@
 
+## 2026-07-13 13:52 UTC
+Total claims: 16412 | Removed: 1 | Added: 4 | Skipped (reclaimed): 1
+
+### Removed
+**dragonblock2** — 1 claim(s), 646 blocks total
+  - (17338,21965) → (17372,21984) center (17355,21974) size 34×19
+
+### Added
+**GhostBun45** — 1 claim(s), 3,072 blocks total
+  - (-14811,22388) → (-14747,22436) center (-14779,22412) size 64×48
+**_ChisaTwT** — 1 claim(s), 121 blocks total
+  - (-23314,17803) → (-23303,17814) center (-23309,17808) size 11×11
+**kuruoze** — 1 claim(s), 68,121 blocks total
+  - (21949,-11203) → (22210,-10942) center (22079,-11073) size 261×261
+**romancenovel** — 1 claim(s), 10,925 blocks total
+  - (-3858,7353) → (-3743,7448) center (-3801,7400) size 115×95
+
 ## 2026-07-13 08:38 UTC
 Total claims: 16410 | Removed: 4 | Added: 16 | Skipped (reclaimed): 6
 
