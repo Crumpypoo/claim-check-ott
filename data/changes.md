@@ -1,4 +1,75 @@
 
+## 2026-07-15 01:05 UTC
+Total claims: 16420 | Removed: 15 | Added: 26 | Skipped (reclaimed): 8
+
+### Removed
+**BigBosMoM** — 8 claim(s), 1,836 blocks total
+  - (-15960,16446) → (-15941,16457) center (-15951,16451) size 19×11
+  - (-16032,16457) → (-15951,16462) center (-15992,16459) size 81×5
+  - (-17185,23284) → (-17171,23294) center (-17178,23289) size 14×10
+  - (22050,18479) → (22061,18490) center (22055,18484) size 11×11
+  - (-21415,-5033) → (-21404,-5022) center (-21410,-5028) size 11×11
+  - (-15854,16798) → (-15828,16815) center (-15841,16806) size 26×17
+  - (-15790,16763) → (-15781,16777) center (-15786,16770) size 9×14
+  - (8044,-16171) → (8060,-16154) center (8052,-16163) size 16×17
+**_Tamonodus** — 4 claim(s), 1,183 blocks total
+  - (-14101,23117) → (-14092,23131) center (-14097,23124) size 9×14
+  - (-14092,23087) → (-14074,23126) center (-14083,23106) size 18×39
+  - (-14120,23058) → (-14110,23068) center (-14115,23063) size 10×10
+  - (-14110,23101) → (-14093,23116) center (-14102,23108) size 17×15
+**chzman80** — 2 claim(s), 448 blocks total
+  - (-23486,-13721) → (-23472,-13701) center (-23479,-13711) size 14×20
+  - (-23496,-13725) → (-23490,-13697) center (-23493,-13711) size 6×28
+**Laonce10** — 1 claim(s), 224 blocks total
+  - (23446,8297) → (23462,8311) center (23454,8304) size 16×14
+
+### Added
+**bandomboylolal** — 4 claim(s), 5,219 blocks total
+  - (22456,-9996) → (22491,-9973) center (22473,-9985) size 35×23
+  - (22438,-9973) → (22483,-9923) center (22460,-9948) size 45×50
+  - (22456,-10040) → (22491,-9996) center (22473,-10018) size 35×44
+  - (22465,-10064) → (22491,-10040) center (22478,-10052) size 26×24
+**geoDeod** — 3 claim(s), 5,132 blocks total
+  - (-22809,-4257) → (-22782,-4238) center (-22796,-4248) size 27×19
+  - (-22736,-4142) → (-22697,-4111) center (-22717,-4127) size 39×31
+  - (-22805,-4173) → (-22750,-4111) center (-22778,-4142) size 55×62
+**appletav** — 2 claim(s), 8,516 blocks total
+  - (21091,-13540) → (21173,-13457) center (21132,-13499) size 82×83
+  - (23003,20988) → (23041,21033) center (23022,21010) size 38×45
+**Dixonx77** — 2 claim(s), 512 blocks total
+  - (-22053,1000) → (-22030,1007) center (-22042,1003) size 23×7
+  - (-22066,1002) → (-22053,1029) center (-22060,1015) size 13×27
+**LOJOSTO** — 1 claim(s), 1,466,472 blocks total
+  - (-6051,-20295) → (-3944,-19599) center (-4998,-19947) size 2107×696
+**VoidedR4ven** — 1 claim(s), 1,188 blocks total
+  - (-22250,-2738) → (-22206,-2711) center (-22228,-2725) size 44×27
+**Theyluvzeze** — 1 claim(s), 1,305 blocks total
+  - (3496,-21555) → (3541,-21526) center (3518,-21541) size 45×29
+**Z6Z3RX** — 1 claim(s), 1,305 blocks total
+  - (3496,-21585) → (3541,-21556) center (3518,-21571) size 45×29
+**bobYT2** — 1 claim(s), 475 blocks total
+  - (-3508,20500) → (-3489,20525) center (-3499,20512) size 19×25
+**TToaste** — 1 claim(s), 580 blocks total
+  - (-21024,20415) → (-20995,20435) center (-21010,20425) size 29×20
+**Goat98l** — 1 claim(s), 1,287 blocks total
+  - (-17176,21487) → (-17143,21526) center (-17160,21506) size 33×39
+**Swuashbuckler** — 1 claim(s), 240 blocks total
+  - (21432,18134) → (21452,18146) center (21442,18140) size 20×12
+**swag4evr** — 1 claim(s), 17,374 blocks total
+  - (23533,-3060) → (23679,-2941) center (23606,-3001) size 146×119
+**PolarBearCute1** — 1 claim(s), 32,218 blocks total
+  - (3696,12573) → (3877,12751) center (3786,12662) size 181×178
+**kittyluv303** — 1 claim(s), 441 blocks total
+  - (-21273,18174) → (-21224,18183) center (-21249,18178) size 49×9
+**ff7mako** — 1 claim(s), 1,968 blocks total
+  - (-22456,-13548) → (-22432,-13466) center (-22444,-13507) size 24×82
+**awinterzolstice** — 1 claim(s), 38,532 blocks total
+  - (3877,12523) → (4046,12751) center (3961,12637) size 169×228
+**pumpkingod1** — 1 claim(s), 234 blocks total
+  - (-21678,-446) → (-21665,-428) center (-21672,-437) size 13×18
+**VoidRuler01** — 1 claim(s), 127,986 blocks total
+  - (10336,15195) → (10834,15452) center (10585,15323) size 498×257
+
 ## 2026-07-14 18:55 UTC
 Total claims: 16417 | Removed: 2 | Added: 24 | Skipped (reclaimed): 15
 
