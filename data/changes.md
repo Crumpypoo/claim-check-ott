@@ -1,4 +1,35 @@
 
+## 2026-07-15 13:01 UTC
+Total claims: 16437 | Removed: 2 | Added: 11 | Skipped (reclaimed): 6
+
+### Removed
+**BeekingUnlimited** — 1 claim(s), 121 blocks total
+  - (-5742,-22982) → (-5731,-22971) center (-5737,-22977) size 11×11
+**_HunterBcV2716** — 1 claim(s), 248 blocks total
+  - (20726,19661) → (20734,19692) center (20730,19676) size 8×31
+
+### Added
+**_cookieq2j21166** — 2 claim(s), 581 blocks total
+  - (21519,12954) → (21538,12973) center (21528,12963) size 19×19
+  - (21538,12961) → (21582,12966) center (21560,12963) size 44×5
+**_CagierPlot72122** — 2 claim(s), 132,629 blocks total
+  - (14534,16534) → (14865,16765) center (14699,16649) size 331×231
+  - (13822,16138) → (14235,16274) center (14028,16206) size 413×136
+**Allisone42** — 1 claim(s), 384 blocks total
+  - (-22544,5532) → (-22528,5556) center (-22536,5544) size 16×24
+**Tamiciu01** — 1 claim(s), 957 blocks total
+  - (-7035,22154) → (-7006,22187) center (-7021,22170) size 29×33
+**SamsSide** — 1 claim(s), 100 blocks total
+  - (-20591,-7045) → (-20581,-7035) center (-20586,-7040) size 10×10
+**VoidedR4ven** — 1 claim(s), 5,264 blocks total
+  - (-22318,-2738) → (-22206,-2691) center (-22262,-2715) size 112×47
+**TheFallenFurret** — 1 claim(s), 11,011 blocks total
+  - (21118,-2011) → (21261,-1934) center (21189,-1973) size 143×77
+**VirtuaBun** — 1 claim(s), 16,768 blocks total
+  - (-22148,-21940) → (-22017,-21812) center (-22083,-21876) size 131×128
+**PrizePopple** — 1 claim(s), 154,026 blocks total
+  - (12639,-20469) → (13037,-20082) center (12838,-20276) size 398×387
+
 ## 2026-07-15 07:44 UTC
 Total claims: 16434 | Removed: 5 | Added: 25 | Skipped (reclaimed): 6
 
