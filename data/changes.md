@@ -1,4 +1,37 @@
 
+## 2026-07-16 13:09 UTC
+Total claims: 16466 | Removed: 3 | Added: 10 | Skipped (reclaimed): 6
+
+### Removed
+**DIOMONDCREEPERLH** — 1 claim(s), 8,256 blocks total
+  - (-16130,-7328) → (-15872,-7296) center (-16001,-7312) size 258×32
+**haysweee** — 1 claim(s), 131,400 blocks total
+  - (-4986,-23772) → (-4626,-23407) center (-4806,-23590) size 360×365
+**Kyo_xyz** — 1 claim(s), 600 blocks total
+  - (22873,-52) → (22893,-22) center (22883,-37) size 20×30
+
+### Added
+**PrizePopple** — 1 claim(s), 17,018 blocks total
+  - (12730,-20678) → (12864,-20551) center (12797,-20615) size 134×127
+**aerwix** — 1 claim(s), 11,514 blocks total
+  - (-12242,21799) → (-12141,21913) center (-12192,21856) size 101×114
+**Rip_Fluffy** — 1 claim(s), 7,448 blocks total
+  - (18900,20540) → (19033,20596) center (18966,20568) size 133×56
+**Akiixx** — 1 claim(s), 7,200 blocks total
+  - (-21251,-885) → (-21171,-795) center (-21211,-840) size 80×90
+**_Lizardcatdude** — 1 claim(s), 918 blocks total
+  - (-12342,-22187) → (-12315,-22153) center (-12329,-22170) size 27×34
+**AlphaRapt00r** — 1 claim(s), 2,485 blocks total
+  - (1206,-21837) → (1241,-21766) center (1223,-21802) size 35×71
+**bownow** — 1 claim(s), 1,254 blocks total
+  - (-22052,5156) → (-22019,5194) center (-22036,5175) size 33×38
+**ToxicVnm** — 1 claim(s), 80,316 blocks total
+  - (-22178,265) → (-21887,541) center (-22033,403) size 291×276
+**Agent_AO** — 1 claim(s), 7,680 blocks total
+  - (-2656,22832) → (-2560,22912) center (-2608,22872) size 96×80
+**DIOMONDCREEPERLH** — 1 claim(s), 473,712 blocks total
+  - (-16304,-7745) → (-15168,-7328) center (-15736,-7537) size 1136×417
+
 ## 2026-07-16 07:49 UTC
 Total claims: 16465 | Removed: 7 | Added: 18 | Skipped (reclaimed): 4
 
