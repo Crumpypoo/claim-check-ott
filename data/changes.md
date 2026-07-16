@@ -1,4 +1,40 @@
 
+## 2026-07-16 01:14 UTC
+Total claims: 16458 | Removed: 0 | Added: 15 | Skipped (reclaimed): 4
+
+
+### Added
+**Demi_is_cool** — 1 claim(s), 4,608 blocks total
+  - (7392,22160) → (7488,22208) center (7440,22184) size 96×48
+**PrizePopple** — 1 claim(s), 15,488 blocks total
+  - (12736,-20672) → (12864,-20551) center (12800,-20612) size 128×121
+**MidSkydiver640** — 1 claim(s), 121 blocks total
+  - (-20731,-16333) → (-20720,-16322) center (-20726,-16328) size 11×11
+**mildlycoolguy** — 1 claim(s), 195 blocks total
+  - (10195,21531) → (10234,21536) center (10214,21533) size 39×5
+**feralix** — 1 claim(s), 1,176 blocks total
+  - (-14549,20512) → (-14507,20540) center (-14528,20526) size 42×28
+**Kocic2137** — 1 claim(s), 19,000 blocks total
+  - (-22513,-21534) → (-22361,-21409) center (-22437,-21472) size 152×125
+**Rip_Fluffy** — 1 claim(s), 2,993 blocks total
+  - (18935,20551) → (19008,20592) center (18971,20571) size 73×41
+**Dreamtwerks** — 1 claim(s), 5,476 blocks total
+  - (23360,-11744) → (23434,-11670) center (23397,-11707) size 74×74
+**_DJMelo7805** — 1 claim(s), 605 blocks total
+  - (20532,18568) → (20543,18623) center (20537,18595) size 11×55
+**Wolf112106** — 1 claim(s), 121 blocks total
+  - (-18451,21245) → (-18440,21256) center (-18446,21250) size 11×11
+**WaZe0508** — 1 claim(s), 190 blocks total
+  - (3804,-23144) → (3842,-23139) center (3823,-23142) size 38×5
+**aerwix** — 1 claim(s), 816 blocks total
+  - (15939,-10547) → (15963,-10513) center (15951,-10530) size 24×34
+**Hierophamt** — 1 claim(s), 1,209 blocks total
+  - (15094,-20802) → (15125,-20763) center (15109,-20783) size 31×39
+**TacoFae** — 1 claim(s), 142,967 blocks total
+  - (24683,11771) → (25000,12222) center (24841,11996) size 317×451
+**Driszy** — 1 claim(s), 10,584 blocks total
+  - (6652,20538) → (6715,20706) center (6683,20622) size 63×168
+
 ## 2026-07-15 18:49 UTC
 Total claims: 16447 | Removed: 1 | Added: 14 | Skipped (reclaimed): 3
 
