@@ -1,4 +1,33 @@
 
+## 2026-07-17 12:53 UTC
+Total claims: 16635 | Removed: 3 | Added: 8 | Skipped (reclaimed): 3
+
+### Removed
+**_soleus_** — 1 claim(s), 567 blocks total
+  - (-21753,-16926) → (-21726,-16905) center (-21740,-16916) size 27×21
+**Notevilatall** — 1 claim(s), 100 blocks total
+  - (9027,23148) → (9037,23158) center (9032,23153) size 10×10
+**Nobaragelle** — 1 claim(s), 192 blocks total
+  - (1715,21244) → (1731,21256) center (1723,21250) size 16×12
+
+### Added
+**Allisone42** — 1 claim(s), 182 blocks total
+  - (-16324,22628) → (-16310,22641) center (-16317,22634) size 14×13
+**_Lizardcatdude** — 1 claim(s), 29,127 blocks total
+  - (21928,4471) → (22061,4690) center (21994,4580) size 133×219
+**Scp_Foundation_** — 1 claim(s), 22,576 blocks total
+  - (-23163,-17803) → (-23027,-17637) center (-23095,-17720) size 136×166
+**TaliOfGaming** — 1 claim(s), 2,322 blocks total
+  - (-10967,-22062) → (-10924,-22008) center (-10946,-22035) size 43×54
+**Tykoliko** — 1 claim(s), 1,827 blocks total
+  - (23243,-7432) → (23306,-7403) center (23274,-7418) size 63×29
+**ItsSimplyJoe** — 1 claim(s), 2,451 blocks total
+  - (-4608,-22856) → (-4565,-22799) center (-4587,-22828) size 43×57
+**bluxman** — 1 claim(s), 380 blocks total
+  - (-9286,21126) → (-9266,21145) center (-9276,21135) size 20×19
+**Otterhacker24** — 1 claim(s), 504 blocks total
+  - (23020,-11920) → (23038,-11892) center (23029,-11906) size 18×28
+
 ## 2026-07-17 07:47 UTC
 Total claims: 16633 | Removed: 5 | Added: 20 | Skipped (reclaimed): 13
 
