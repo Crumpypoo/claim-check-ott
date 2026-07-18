@@ -1,4 +1,51 @@
 
+## 2026-07-18 12:41 UTC
+Total claims: 16660 | Removed: 1 | Added: 21 | Skipped (reclaimed): 7
+
+### Removed
+**_NeatherBeast296** — 1 claim(s), 624 blocks total
+  - (-22691,7441) → (-22665,7465) center (-22678,7453) size 26×24
+
+### Added
+**Haruto_ittoki** — 3 claim(s), 1,267 blocks total
+  - (21978,18324) → (21987,18339) center (21982,18331) size 9×15
+  - (21998,18329) → (22019,18373) center (22008,18351) size 21×44
+  - (21987,18314) → (22003,18327) center (21995,18320) size 16×13
+**chillicharliesig** — 2 claim(s), 2,047 blocks total
+  - (-20842,-5983) → (-20815,-5960) center (-20829,-5972) size 27×23
+  - (-5697,22931) → (-5651,22962) center (-5674,22946) size 46×31
+**BYTS_Superplayer** — 2 claim(s), 265 blocks total
+  - (22091,-4986) → (22098,-4966) center (22094,-4976) size 7×20
+  - (22077,-4980) → (22082,-4955) center (22079,-4968) size 5×25
+**_Lizardcatdude** — 1 claim(s), 52,962 blocks total
+  - (21916,4424) → (22098,4715) center (22007,4569) size 182×291
+**Mohsenhp** — 1 claim(s), 288 blocks total
+  - (22137,20235) → (22153,20253) center (22145,20244) size 16×18
+**PuddinYuki** — 1 claim(s), 238 blocks total
+  - (-22155,-5448) → (-22121,-5441) center (-22138,-5445) size 34×7
+**NekonuShadow** — 1 claim(s), 20,764 blocks total
+  - (-1570,205) → (-1391,321) center (-1481,263) size 179×116
+**dipantito** — 1 claim(s), 1,652 blocks total
+  - (22272,12386) → (22300,12445) center (22286,12415) size 28×59
+**fawnpire** — 1 claim(s), 51,385 blocks total
+  - (18098,22526) → (18313,22765) center (18205,22645) size 215×239
+**COLDCHIPSS** — 1 claim(s), 540 blocks total
+  - (-8054,-20598) → (-8034,-20571) center (-8044,-20585) size 20×27
+**bownow** — 1 claim(s), 16,470 blocks total
+  - (24517,21323) → (24639,21458) center (24578,21390) size 122×135
+**ScaryBoonana** — 1 claim(s), 1,184 blocks total
+  - (21954,-14420) → (21986,-14383) center (21970,-14402) size 32×37
+**ItsSimplyJoe** — 1 claim(s), 8,742 blocks total
+  - (-4607,-22841) → (-4514,-22747) center (-4561,-22794) size 93×94
+**delta3019** — 1 claim(s), 10,201 blocks total
+  - (-19882,-21146) → (-19781,-21045) center (-19832,-21096) size 101×101
+**finnidy_** — 1 claim(s), 1,600 blocks total
+  - (-5086,23052) → (-5046,23092) center (-5066,23072) size 40×40
+**Rezcopsko_** — 1 claim(s), 4,484 blocks total
+  - (22436,7175) → (22512,7234) center (22474,7204) size 76×59
+**osaaki** — 1 claim(s), 602,980 blocks total
+  - (1905,14964) → (2495,15986) center (2200,15475) size 590×1022
+
 ## 2026-07-18 07:21 UTC
 Total claims: 16647 | Removed: 5 | Added: 4 | Skipped (reclaimed): 2
 
