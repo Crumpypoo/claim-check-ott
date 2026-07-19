@@ -1,4 +1,29 @@
 
+## 2026-07-19 07:52 UTC
+Total claims: 16684 | Removed: 1 | Added: 8 | Skipped (reclaimed): 2
+
+### Removed
+**PlainSweet** — 1 claim(s), 1,536 blocks total
+  - (-10544,-23200) → (-10496,-23168) center (-10520,-23184) size 48×32
+
+### Added
+**Duckky9473** — 1 claim(s), 532 blocks total
+  - (-22767,-17710) → (-22739,-17691) center (-22753,-17701) size 28×19
+**CrossCreator156** — 1 claim(s), 336 blocks total
+  - (21931,13151) → (21952,13167) center (21941,13159) size 21×16
+**_happyhanks3441** — 1 claim(s), 962 blocks total
+  - (-20422,-3434) → (-20396,-3397) center (-20409,-3416) size 26×37
+**ItsNotshroomie** — 1 claim(s), 238 blocks total
+  - (22994,-11742) → (23011,-11728) center (23002,-11735) size 17×14
+**BamBam22747** — 1 claim(s), 682 blocks total
+  - (-20681,20991) → (-20650,21013) center (-20666,21002) size 31×22
+**EvaConly** — 1 claim(s), 440 blocks total
+  - (-8992,-18434) → (-8970,-18414) center (-8981,-18424) size 22×20
+**SSERKAN52** — 1 claim(s), 1,763 blocks total
+  - (-732,-22050) → (-691,-22007) center (-712,-22029) size 41×43
+**CSNMan99** — 1 claim(s), 3,397 blocks total
+  - (-6299,-20954) → (-6220,-20911) center (-6260,-20933) size 79×43
+
 ## 2026-07-19 01:15 UTC
 Total claims: 16679 | Removed: 0 | Added: 15 | Skipped (reclaimed): 7
 
