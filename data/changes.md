@@ -1,4 +1,51 @@
 
+## 2026-07-19 18:43 UTC
+Total claims: 16700 | Removed: 1 | Added: 23 | Skipped (reclaimed): 4
+
+### Removed
+**thelionepar** — 1 claim(s), 3,290 blocks total
+  - (-22004,-4962) → (-21934,-4915) center (-21969,-4939) size 70×47
+
+### Added
+**provenmoss8779** — 6 claim(s), 4,422 blocks total
+  - (20990,18054) → (21009,18066) center (20999,18060) size 19×12
+  - (-22293,-18033) → (-22252,-18009) center (-22273,-18021) size 41×24
+  - (21018,18052) → (21029,18063) center (21023,18057) size 11×11
+  - (20943,18017) → (20983,18040) center (20963,18028) size 40×23
+  - (20949,17989) → (20964,18014) center (20956,18001) size 15×25
+  - (20885,17775) → (20963,17798) center (20924,17786) size 78×23
+**MrDude1777** — 2 claim(s), 264 blocks total
+  - (20986,18077) → (20997,18091) center (20991,18084) size 11×14
+  - (21014,18025) → (21024,18036) center (21019,18030) size 10×11
+**gamer45** — 2 claim(s), 404 blocks total
+  - (14315,21482) → (14332,21498) center (14323,21490) size 17×16
+  - (-15968,-22368) → (-15956,-22357) center (-15962,-22363) size 12×11
+**_Xeendar** — 2 claim(s), 888 blocks total
+  - (-16146,21490) → (-16123,21514) center (-16135,21502) size 23×24
+  - (23275,21361) → (23291,21382) center (23283,21371) size 16×21
+**spokensys** — 1 claim(s), 330 blocks total
+  - (16880,4260) → (16890,4293) center (16885,4276) size 10×33
+**FireWork41** — 1 claim(s), 192 blocks total
+  - (8087,-22102) → (8099,-22086) center (8093,-22094) size 12×16
+**Rip_Fluffy** — 1 claim(s), 171 blocks total
+  - (19024,20710) → (19043,20719) center (19033,20714) size 19×9
+**arlug08** — 1 claim(s), 2,646 blocks total
+  - (17093,5899) → (17156,5941) center (17124,5920) size 63×42
+**_Eli_The_Noob300** — 1 claim(s), 324 blocks total
+  - (-5997,1776) → (-5985,1803) center (-5991,1789) size 12×27
+**thatrandoplayer4** — 1 claim(s), 986 blocks total
+  - (-4170,-23003) → (-4136,-22974) center (-4153,-22989) size 34×29
+**BYTS_Superplayer** — 1 claim(s), 792 blocks total
+  - (22022,-4979) → (22044,-4943) center (22033,-4961) size 22×36
+**fawnpire** — 1 claim(s), 191,022 blocks total
+  - (19389,20693) → (19863,21096) center (19626,20894) size 474×403
+**Snorlax0920** — 1 claim(s), 8,277 blocks total
+  - (-6504,-21128) → (-6411,-21039) center (-6458,-21084) size 93×89
+**Exploring_Wolf** — 1 claim(s), 2,040 blocks total
+  - (11327,-21337) → (11387,-21303) center (11357,-21320) size 60×34
+**ZBugMinecrafter** — 1 claim(s), 8,181 blocks total
+  - (22370,8051) → (22451,8152) center (22410,8101) size 81×101
+
 ## 2026-07-19 12:42 UTC
 Total claims: 16682 | Removed: 0 | Added: 0 | Skipped (reclaimed): 3792
 
