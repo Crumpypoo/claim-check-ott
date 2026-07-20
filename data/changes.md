@@ -1,4 +1,50 @@
 
+## 2026-07-20 19:19 UTC
+Total claims: 16716 | Removed: 3 | Added: 18 | Skipped (reclaimed): 12
+
+### Removed
+**Macarolik** — 1 claim(s), 256 blocks total
+  - (-10292,-22202) → (-10276,-22186) center (-10284,-22194) size 16×16
+**toggutten** — 1 claim(s), 8,512 blocks total
+  - (-8257,9714) → (-8181,9826) center (-8219,9770) size 76×112
+**0llywashere** — 1 claim(s), 336 blocks total
+  - (2476,17777) → (2497,17793) center (2486,17785) size 21×16
+
+### Added
+**gamer45** — 3 claim(s), 430 blocks total
+  - (-15968,-22378) → (-15955,-22368) center (-15962,-22373) size 13×10
+  - (-15955,-22388) → (-15945,-22377) center (-15950,-22383) size 10×11
+  - (-15979,-22374) → (-15969,-22355) center (-15974,-22365) size 10×19
+**PeakRose** — 2 claim(s), 278,055 blocks total
+  - (21636,-4131) → (21923,-3741) center (21779,-3936) size 287×390
+  - (20714,22891) → (21157,23266) center (20935,23078) size 443×375
+**StitchieMilan** — 1 claim(s), 110 blocks total
+  - (-18192,-20823) → (-18181,-20813) center (-18187,-20818) size 11×10
+**Its_Zynife** — 1 claim(s), 840 blocks total
+  - (15701,22808) → (15725,22843) center (15713,22825) size 24×35
+**Kocic2137** — 1 claim(s), 39,852 blocks total
+  - (-22554,-21518) → (-22308,-21356) center (-22431,-21437) size 246×162
+**OutdoorBoy726** — 1 claim(s), 180 blocks total
+  - (-3122,-21480) → (-3107,-21468) center (-3115,-21474) size 15×12
+**FullScroll** — 1 claim(s), 480 blocks total
+  - (16300,23182) → (16320,23206) center (16310,23194) size 20×24
+**delta3019** — 1 claim(s), 130,321 blocks total
+  - (-20011,-21276) → (-19650,-20915) center (-19831,-21096) size 361×361
+**Dabbigumm** — 1 claim(s), 621 blocks total
+  - (-20560,6318) → (-20537,6345) center (-20549,6331) size 23×27
+**dvineve** — 1 claim(s), 103,530 blocks total
+  - (11723,-18741) → (12080,-18451) center (11901,-18596) size 357×290
+**cupid_colite** — 1 claim(s), 12,936 blocks total
+  - (1038,17797) → (1170,17895) center (1104,17846) size 132×98
+**KagomeJean** — 1 claim(s), 92,144 blocks total
+  - (22158,23014) → (22601,23222) center (22379,23118) size 443×208
+**jackistaken** — 1 claim(s), 13,374,008 blocks total
+  - (16166,-22978) → (20322,-19760) center (18244,-21369) size 4156×3218
+**PrizePopple** — 1 claim(s), 239,616 blocks total
+  - (12653,-20706) → (13037,-20082) center (12845,-20394) size 384×624
+**osaaki** — 1 claim(s), 638,380 blocks total
+  - (1905,14964) → (2495,16046) center (2200,15505) size 590×1082
+
 ## 2026-07-20 13:40 UTC
 Total claims: 16713 | Removed: 7 | Added: 8 | Skipped (reclaimed): 1
 
