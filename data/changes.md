@@ -1,4 +1,39 @@
 
+## 2026-07-20 13:40 UTC
+Total claims: 16713 | Removed: 7 | Added: 8 | Skipped (reclaimed): 1
+
+### Removed
+**Its_Zynife** — 3 claim(s), 2,446 blocks total
+  - (6912,-17849) → (6951,-17798) center (6931,-17824) size 39×51
+  - (-6391,13282) → (-6370,13298) center (-6381,13290) size 21×16
+  - (18068,-12884) → (18079,-12873) center (18073,-12879) size 11×11
+**_Datyyoo** — 1 claim(s), 110 blocks total
+  - (798,21849) → (808,21860) center (803,21854) size 10×11
+**Ghostwalkered** — 1 claim(s), 1,320 blocks total
+  - (-21911,18131) → (-21878,18171) center (-21895,18151) size 33×40
+**princessLuna1416** — 1 claim(s), 5,320 blocks total
+  - (22677,5173) → (22753,5243) center (22715,5208) size 76×70
+**Chris_Cross_4U** — 1 claim(s), 110 blocks total
+  - (-161,-10641) → (-150,-10631) center (-156,-10636) size 11×10
+
+### Added
+**TN2013** — 1 claim(s), 441 blocks total
+  - (12418,-21878) → (12439,-21857) center (12428,-21868) size 21×21
+**Its_Zynife** — 1 claim(s), 896 blocks total
+  - (15662,22841) → (15690,22873) center (15676,22857) size 28×32
+**bob4444434** — 1 claim(s), 121 blocks total
+  - (21437,20016) → (21448,20027) center (21442,20021) size 11×11
+**Bloodlustxxx** — 1 claim(s), 441 blocks total
+  - (-23467,-7729) → (-23446,-7708) center (-23457,-7719) size 21×21
+**_IamnotNas** — 1 claim(s), 156 blocks total
+  - (-15172,13681) → (-15159,13693) center (-15166,13687) size 13×12
+**SJANIMATOR1** — 1 claim(s), 8,890 blocks total
+  - (20255,14056) → (20325,14183) center (20290,14119) size 70×127
+**Akiixx** — 1 claim(s), 10,502 blocks total
+  - (9415,-21448) → (9504,-21330) center (9459,-21389) size 89×118
+**dvineve** — 1 claim(s), 97,788 blocks total
+  - (11723,-18732) → (12071,-18451) center (11897,-18592) size 348×281
+
 ## 2026-07-20 08:30 UTC
 Total claims: 16713 | Removed: 0 | Added: 0 | Skipped (reclaimed): 3707
 
