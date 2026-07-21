@@ -1,4 +1,40 @@
 
+## 2026-07-21 08:01 UTC
+Total claims: 16738 | Removed: 3 | Added: 13 | Skipped (reclaimed): 2
+
+### Removed
+**anteoculatia** — 1 claim(s), 960 blocks total
+  - (-9771,-23292) → (-9751,-23244) center (-9761,-23268) size 20×48
+**TntTek** — 1 claim(s), 360 blocks total
+  - (-20989,-21707) → (-20969,-21689) center (-20979,-21698) size 20×18
+**EmberScythe** — 1 claim(s), 121 blocks total
+  - (-18179,10435) → (-18168,10446) center (-18174,10440) size 11×11
+
+### Added
+**Thylawhiskers** — 3 claim(s), 1,373 blocks total
+  - (21032,-9047) → (21043,-9032) center (21037,-9040) size 11×15
+  - (21008,-9071) → (21043,-9047) center (21025,-9059) size 35×24
+  - (21008,-9047) → (21031,-9031) center (21019,-9039) size 23×16
+**BGL** — 2 claim(s), 25,830 blocks total
+  - (-23522,511) → (-23464,700) center (-23493,605) size 58×189
+  - (-23434,427) → (-23257,511) center (-23346,469) size 177×84
+**HUMANITYS_END** — 1 claim(s), 10,403 blocks total
+  - (23427,7094) → (23530,7195) center (23478,7144) size 103×101
+**_Babyninja3908** — 1 claim(s), 624 blocks total
+  - (-3123,22279) → (-3117,22383) center (-3120,22331) size 6×104
+**Tinytonns** — 1 claim(s), 165 blocks total
+  - (23308,11532) → (23323,11543) center (23315,11537) size 15×11
+**BreadTheifK3** — 1 claim(s), 32,928 blocks total
+  - (22261,19136) → (22408,19360) center (22334,19248) size 147×224
+**Jokerked** — 1 claim(s), 1,813 blocks total
+  - (22992,10720) → (23029,10769) center (23010,10744) size 37×49
+**Hush_Puppy23** — 1 claim(s), 837 blocks total
+  - (22344,15256) → (22375,15283) center (22359,15269) size 31×27
+**ElevenTimesMore** — 1 claim(s), 312 blocks total
+  - (-23416,-18150) → (-23403,-18126) center (-23410,-18138) size 13×24
+**Wepland** — 1 claim(s), 284,284 blocks total
+  - (-18813,-5422) → (-17890,-5114) center (-18352,-5268) size 923×308
+
 ## 2026-07-21 01:15 UTC
 Total claims: 16730 | Removed: 1 | Added: 36 | Skipped (reclaimed): 21
 
