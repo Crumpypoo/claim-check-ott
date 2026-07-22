@@ -1,4 +1,49 @@
 
+## 2026-07-22 18:52 UTC
+Total claims: 16756 | Removed: 1 | Added: 18 | Skipped (reclaimed): 10
+
+### Removed
+**Bobrob16** — 1 claim(s), 176 blocks total
+  - (-22977,-8805) → (-22969,-8783) center (-22973,-8794) size 8×22
+
+### Added
+**provenmoss8779** — 1 claim(s), 9,555 blocks total
+  - (-10475,-22882) → (-10370,-22791) center (-10423,-22837) size 105×91
+**_PoisonNaruto233** — 1 claim(s), 468 blocks total
+  - (-8471,-20990) → (-8432,-20978) center (-8452,-20984) size 39×12
+**Garcell0** — 1 claim(s), 3,410 blocks total
+  - (21116,4372) → (21171,4434) center (21143,4403) size 55×62
+**Hanzguy** — 1 claim(s), 121 blocks total
+  - (10377,21847) → (10388,21858) center (10382,21852) size 11×11
+**_HollowShade6104** — 1 claim(s), 143 blocks total
+  - (23407,-12495) → (23420,-12484) center (23413,-12490) size 13×11
+**im_not_dead_yet_** — 1 claim(s), 2,550 blocks total
+  - (-13144,-21766) → (-13093,-21716) center (-13119,-21741) size 51×50
+**Gud3nas** — 1 claim(s), 1,073 blocks total
+  - (7578,22079) → (7607,22116) center (7592,22097) size 29×37
+**R0ttenLav** — 1 claim(s), 156 blocks total
+  - (-23174,-13818) → (-23162,-13805) center (-23168,-13812) size 12×13
+**EMPTY2257** — 1 claim(s), 1,073 blocks total
+  - (-636,-21863) → (-607,-21826) center (-622,-21845) size 29×37
+**Yiuma** — 1 claim(s), 248,970 blocks total
+  - (7231,-7618) → (7617,-6973) center (7424,-7296) size 386×645
+**ChloeIplayz** — 1 claim(s), 2,795 blocks total
+  - (20578,14193) → (20643,14236) center (20610,14214) size 65×43
+**Scp_Foundation_** — 1 claim(s), 2,450 blocks total
+  - (-23022,-17731) → (-22972,-17682) center (-22997,-17707) size 50×49
+**RabbiZurffy** — 1 claim(s), 117 blocks total
+  - (-22976,-1082) → (-22967,-1069) center (-22972,-1076) size 9×13
+**dvineve** — 1 claim(s), 141,288 blocks total
+  - (11672,-18786) → (12078,-18438) center (11875,-18612) size 406×348
+**Kandykong0854** — 1 claim(s), 740,030 blocks total
+  - (-1242,9590) → (479,10020) center (-382,9805) size 1721×430
+**Moonlitknight83** — 1 claim(s), 18,632 blocks total
+  - (-15728,22529) → (-15592,22666) center (-15660,22597) size 136×137
+**SanityPotionz** — 1 claim(s), 19,448 blocks total
+  - (21930,23332) → (22117,23436) center (22023,23384) size 187×104
+**BreadTheifK3** — 1 claim(s), 330,880 blocks total
+  - (21637,18707) → (22341,19177) center (21989,18942) size 704×470
+
 ## 2026-07-22 13:13 UTC
 Total claims: 16749 | Removed: 2 | Added: 5 | Skipped (reclaimed): 1
 
