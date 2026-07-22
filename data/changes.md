@@ -1,4 +1,25 @@
 
+## 2026-07-22 13:13 UTC
+Total claims: 16749 | Removed: 2 | Added: 5 | Skipped (reclaimed): 1
+
+### Removed
+**An3lix** — 1 claim(s), 1,056 blocks total
+  - (22961,8752) → (22994,8784) center (22977,8768) size 33×32
+**Chuyas_hatWGF** — 1 claim(s), 950 blocks total
+  - (-11549,22069) → (-11524,22107) center (-11537,22088) size 25×38
+
+### Added
+**SJANIMATOR1** — 1 claim(s), 12,700 blocks total
+  - (20255,14056) → (20355,14183) center (20305,14119) size 100×127
+**HUMANITYS_END** — 1 claim(s), 18,655 blocks total
+  - (23374,7198) → (23661,7263) center (23517,7230) size 287×65
+**Garcell0** — 1 claim(s), 2,744 blocks total
+  - (21116,4377) → (21165,4433) center (21140,4405) size 49×56
+**31Maximus13** — 1 claim(s), 121 blocks total
+  - (-19961,-21429) → (-19950,-21418) center (-19956,-21424) size 11×11
+**ItzAddora** — 1 claim(s), 1,452 blocks total
+  - (7925,-21409) → (7958,-21365) center (7941,-21387) size 33×44
+
 ## 2026-07-22 08:02 UTC
 Total claims: 16747 | Removed: 6 | Added: 25 | Skipped (reclaimed): 10
 
