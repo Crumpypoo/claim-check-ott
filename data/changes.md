@@ -1,4 +1,48 @@
 
+## 2026-07-23 08:04 UTC
+Total claims: 16780 | Removed: 3 | Added: 19 | Skipped (reclaimed): 6
+
+### Removed
+**SatinCobra** — 1 claim(s), 1,081 blocks total
+  - (22730,15632) → (22777,15655) center (22753,15643) size 47×23
+**Nexo231747** — 1 claim(s), 1,643 blocks total
+  - (-19745,21527) → (-19714,21580) center (-19730,21553) size 31×53
+**HEHEHE12345** — 1 claim(s), 128 blocks total
+  - (6088,-22093) → (6104,-22085) center (6096,-22089) size 16×8
+
+### Added
+**miketadmire** — 7 claim(s), 1,038 blocks total
+  - (21245,9067) → (21255,9080) center (21250,9073) size 10×13
+  - (21228,9080) → (21244,9096) center (21236,9088) size 16×16
+  - (21207,9110) → (21221,9124) center (21214,9117) size 14×14
+  - (21197,9124) → (21207,9137) center (21202,9130) size 10×13
+  - (21181,9145) → (21191,9156) center (21186,9150) size 10×11
+  - (21160,9161) → (21172,9170) center (21166,9165) size 12×9
+  - (21143,9172) → (21155,9181) center (21149,9176) size 12×9
+**Gangsterpup** — 2 claim(s), 387 blocks total
+  - (21188,-14884) → (21209,-14877) center (21198,-14881) size 21×7
+  - (21189,-14901) → (21205,-14886) center (21197,-14894) size 16×15
+**HUMANITYS_END** — 1 claim(s), 6,705 blocks total
+  - (23538,7340) → (23583,7489) center (23560,7414) size 45×149
+**Sleepy_bells** — 1 claim(s), 572 blocks total
+  - (22160,19192) → (22182,19218) center (22171,19205) size 22×26
+**KagomeJean** — 1 claim(s), 945 blocks total
+  - (22052,23046) → (22087,23073) center (22069,23059) size 35×27
+**HopToTheMax** — 1 claim(s), 495 blocks total
+  - (-7487,-23584) → (-7472,-23551) center (-7480,-23568) size 15×33
+**Thylawhiskers** — 1 claim(s), 15,840 blocks total
+  - (20965,-9124) → (21097,-9004) center (21031,-9064) size 132×120
+**JackAttack0427** — 1 claim(s), 5,073 blocks total
+  - (17794,21996) → (17883,22053) center (17838,22024) size 89×57
+**PixelCraft_101** — 1 claim(s), 340 blocks total
+  - (-11034,-21460) → (-11014,-21443) center (-11024,-21452) size 20×17
+**Aaaamar2** — 1 claim(s), 198 blocks total
+  - (14474,20712) → (14496,20721) center (14485,20716) size 22×9
+**ImFexito** — 1 claim(s), 1,054 blocks total
+  - (-21608,-5906) → (-21574,-5875) center (-21591,-5891) size 34×31
+**Tsuny** — 1 claim(s), 443,025 blocks total
+  - (7729,19781) → (8624,20276) center (8176,20028) size 895×495
+
 ## 2026-07-23 01:21 UTC
 Total claims: 16770 | Removed: 3 | Added: 28 | Skipped (reclaimed): 11
 
