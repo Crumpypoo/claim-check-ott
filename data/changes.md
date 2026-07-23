@@ -1,4 +1,31 @@
 
+## 2026-07-23 13:16 UTC
+Total claims: 16780 | Removed: 2 | Added: 8 | Skipped (reclaimed): 6
+
+### Removed
+**_Dignityyyyy** — 1 claim(s), 2,911 blocks total
+  - (-20968,15796) → (-20897,15837) center (-20933,15816) size 71×41
+**ManBoiSEENEMALL** — 1 claim(s), 870 blocks total
+  - (-902,20) → (-873,50) center (-888,35) size 29×30
+
+### Added
+**Jayy06** — 1 claim(s), 16,324 blocks total
+  - (-23845,-4810) → (-23537,-4757) center (-23691,-4784) size 308×53
+**SJANIMATOR1** — 1 claim(s), 16,510 blocks total
+  - (20255,14056) → (20385,14183) center (20320,14119) size 130×127
+**ChloeIplayz** — 1 claim(s), 10,695 blocks total
+  - (20528,14193) → (20643,14286) center (20585,14239) size 115×93
+**ItsSimplyJoe** — 1 claim(s), 122,248 blocks total
+  - (-4767,-23021) → (-4354,-22725) center (-4561,-22873) size 413×296
+**RabbiZurffy** — 1 claim(s), 770 blocks total
+  - (-23000,-1083) → (-22965,-1061) center (-22983,-1072) size 35×22
+**Sacha_ravageur** — 1 claim(s), 527 blocks total
+  - (-20378,9758) → (-20347,9775) center (-20363,9766) size 31×17
+**Garcell0** — 1 claim(s), 9,135 blocks total
+  - (21114,4312) → (21177,4457) center (21145,4384) size 63×145
+**GamerGirl326804** — 1 claim(s), 221 blocks total
+  - (6973,21662) → (6990,21675) center (6981,21668) size 17×13
+
 ## 2026-07-23 08:04 UTC
 Total claims: 16780 | Removed: 3 | Added: 19 | Skipped (reclaimed): 6
 
