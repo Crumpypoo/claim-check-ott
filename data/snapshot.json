@@ -5112,15 +5112,15 @@
     {
       "owner": "HopToTheMax",
       "trusted": "",
-      "x1": -7487,
+      "x1": -7500,
       "z1": -23584,
-      "x2": -7472,
-      "z2": -23551,
-      "cx": -7480,
-      "cz": -23568,
-      "width": 15,
-      "height": 33,
-      "area": 495
+      "x2": -7454,
+      "z2": -23539,
+      "cx": -7477,
+      "cz": -23562,
+      "width": 46,
+      "height": 45,
+      "area": 2070
     },
     {
       "owner": "_AdahJP2033",
@@ -61038,15 +61038,41 @@
     {
       "owner": "_StarsAliteAngel",
       "trusted": "",
-      "x1": -22540,
+      "x1": -22532,
       "z1": -20719,
-      "x2": -22531,
-      "z2": -20707,
-      "cx": -22536,
-      "cz": -20713,
-      "width": 9,
-      "height": 12,
-      "area": 108
+      "x2": -22519,
+      "z2": -20709,
+      "cx": -22526,
+      "cz": -20714,
+      "width": 13,
+      "height": 10,
+      "area": 130
+    },
+    {
+      "owner": "_Whitepenguin365",
+      "trusted": "",
+      "x1": 18651,
+      "z1": 21283,
+      "x2": 18678,
+      "z2": 21297,
+      "cx": 18664,
+      "cz": 21290,
+      "width": 27,
+      "height": 14,
+      "area": 378
+    },
+    {
+      "owner": "LayneRainbow",
+      "trusted": "",
+      "x1": -14634,
+      "z1": -13008,
+      "x2": -14553,
+      "z2": -12916,
+      "cx": -14594,
+      "cz": -12962,
+      "width": 81,
+      "height": 92,
+      "area": 7452
     },
     {
       "owner": "bloodpanda50",
@@ -61060,6 +61086,19 @@
       "width": 110,
       "height": 112,
       "area": 12320
+    },
+    {
+      "owner": "Dragonslayer8800",
+      "trusted": "",
+      "x1": -18059,
+      "z1": 20837,
+      "x2": -18033,
+      "z2": 20864,
+      "cx": -18046,
+      "cz": 20850,
+      "width": 26,
+      "height": 27,
+      "area": 702
     },
     {
       "owner": "Darth_doffer",
@@ -61102,7 +61141,7 @@
     },
     {
       "owner": "AppleButCool",
-      "trusted": "",
+      "trusted": "XSakura_DemonX",
       "x1": 12753,
       "z1": 858,
       "x2": 14359,
@@ -61112,6 +61151,19 @@
       "width": 1606,
       "height": 1305,
       "area": 2095830
+    },
+    {
+      "owner": "_Whitepenguin365",
+      "trusted": "",
+      "x1": 18669,
+      "z1": 21248,
+      "x2": 18674,
+      "z2": 21269,
+      "cx": 18671,
+      "cz": 21258,
+      "width": 5,
+      "height": 21,
+      "area": 105
     },
     {
       "owner": "ISlimeI",
@@ -61138,6 +61190,19 @@
       "width": 107,
       "height": 55,
       "area": 5885
+    },
+    {
+      "owner": "HUMANITYS_END",
+      "trusted": "",
+      "x1": 21632,
+      "z1": -5862,
+      "x2": 21713,
+      "z2": -5792,
+      "cx": 21672,
+      "cz": -5827,
+      "width": 81,
+      "height": 70,
+      "area": 5670
     },
     {
       "owner": "TheShadowlands",
@@ -62414,6 +62479,32 @@
       "area": 154
     },
     {
+      "owner": "TribalWolff",
+      "trusted": "",
+      "x1": 4299,
+      "z1": -22686,
+      "x2": 4361,
+      "z2": -22552,
+      "cx": 4330,
+      "cz": -22619,
+      "width": 62,
+      "height": 134,
+      "area": 8308
+    },
+    {
+      "owner": "lolipop3293",
+      "trusted": "",
+      "x1": 23070,
+      "z1": 12820,
+      "x2": 23080,
+      "z2": 12831,
+      "cx": 23075,
+      "cz": 12825,
+      "width": 10,
+      "height": 11,
+      "area": 110
+    },
+    {
       "owner": "_BlacklionEt23",
       "trusted": "",
       "x1": -2600,
@@ -62440,6 +62531,19 @@
       "area": 105
     },
     {
+      "owner": "_xZekk",
+      "trusted": "",
+      "x1": -20543,
+      "z1": 1272,
+      "x2": -20531,
+      "z2": 1282,
+      "cx": -20537,
+      "cz": 1277,
+      "width": 12,
+      "height": 10,
+      "area": 120
+    },
+    {
       "owner": "hazel562luis",
       "trusted": "",
       "x1": 345,
@@ -62451,6 +62555,19 @@
       "width": 10,
       "height": 11,
       "area": 110
+    },
+    {
+      "owner": "TribalWolff",
+      "trusted": "",
+      "x1": 4299,
+      "z1": -22700,
+      "x2": 4361,
+      "z2": -22686,
+      "cx": 4330,
+      "cz": -22693,
+      "width": 62,
+      "height": 14,
+      "area": 868
     },
     {
       "owner": "hazel562luis",
@@ -62466,6 +62583,19 @@
       "area": 209
     },
     {
+      "owner": "TribalWolff",
+      "trusted": "",
+      "x1": 4064,
+      "z1": -22714,
+      "x2": 4361,
+      "z2": -22700,
+      "cx": 4212,
+      "cz": -22707,
+      "width": 297,
+      "height": 14,
+      "area": 4158
+    },
+    {
       "owner": "Hype_Ray",
       "trusted": "",
       "x1": 24767,
@@ -62477,6 +62607,19 @@
       "width": 68,
       "height": 67,
       "area": 4556
+    },
+    {
+      "owner": "PixelCraft_101",
+      "trusted": "",
+      "x1": 22708,
+      "z1": -12904,
+      "x2": 22760,
+      "z2": -12807,
+      "cx": 22734,
+      "cz": -12856,
+      "width": 52,
+      "height": 97,
+      "area": 5044
     },
     {
       "owner": "Romeo1905",
@@ -62505,6 +62648,19 @@
       "area": 135
     },
     {
+      "owner": "PixelCraft_101",
+      "trusted": "",
+      "x1": 22654,
+      "z1": -12747,
+      "x2": 22808,
+      "z2": -12735,
+      "cx": 22731,
+      "cz": -12741,
+      "width": 154,
+      "height": 12,
+      "area": 1848
+    },
+    {
       "owner": "Yiuma",
       "trusted": "",
       "x1": -10460,
@@ -62531,6 +62687,19 @@
       "area": 528
     },
     {
+      "owner": "PixelCraft_101",
+      "trusted": "",
+      "x1": 22654,
+      "z1": -12864,
+      "x2": 22708,
+      "z2": -12747,
+      "cx": 22681,
+      "cz": -12806,
+      "width": 54,
+      "height": 117,
+      "area": 6318
+    },
+    {
       "owner": "mmoison",
       "trusted": "",
       "x1": -5354,
@@ -62555,6 +62724,19 @@
       "width": 33,
       "height": 19,
       "area": 627
+    },
+    {
+      "owner": "TribalWolff",
+      "trusted": "",
+      "x1": 4058,
+      "z1": -22700,
+      "x2": 4299,
+      "z2": -22685,
+      "cx": 4178,
+      "cz": -22693,
+      "width": 241,
+      "height": 15,
+      "area": 3615
     },
     {
       "owner": "WildlilDemon",
@@ -62609,6 +62791,32 @@
       "area": 17679
     },
     {
+      "owner": "TribalWolff",
+      "trusted": "",
+      "x1": 4287,
+      "z1": -22551,
+      "x2": 4305,
+      "z2": -22538,
+      "cx": 4296,
+      "cz": -22545,
+      "width": 18,
+      "height": 13,
+      "area": 234
+    },
+    {
+      "owner": "TribalWolff",
+      "trusted": "",
+      "x1": 4305,
+      "z1": -22552,
+      "x2": 4361,
+      "z2": -22424,
+      "cx": 4333,
+      "cz": -22488,
+      "width": 56,
+      "height": 128,
+      "area": 7168
+    },
+    {
       "owner": "Mushroom02",
       "trusted": "",
       "x1": 2723,
@@ -62620,6 +62828,58 @@
       "width": 36,
       "height": 23,
       "area": 828
+    },
+    {
+      "owner": "TribalWolff",
+      "trusted": "",
+      "x1": 4024,
+      "z1": -22421,
+      "x2": 4287,
+      "z2": -22395,
+      "cx": 4155,
+      "cz": -22408,
+      "width": 263,
+      "height": 26,
+      "area": 6838
+    },
+    {
+      "owner": "CarlitosAleF",
+      "trusted": "",
+      "x1": -12619,
+      "z1": -22460,
+      "x2": -12612,
+      "z2": -22385,
+      "cx": -12616,
+      "cz": -22423,
+      "width": 7,
+      "height": 75,
+      "area": 525
+    },
+    {
+      "owner": "CarlitosAleF",
+      "trusted": "",
+      "x1": -12604,
+      "z1": -22450,
+      "x2": -12598,
+      "z2": -22377,
+      "cx": -12601,
+      "cz": -22414,
+      "width": 6,
+      "height": 73,
+      "area": 438
+    },
+    {
+      "owner": "TribalWolff",
+      "trusted": "",
+      "x1": 4287,
+      "z1": -22423,
+      "x2": 4360,
+      "z2": -22395,
+      "cx": 4323,
+      "cz": -22409,
+      "width": 73,
+      "height": 28,
+      "area": 2044
     },
     {
       "owner": "Spore_System",
@@ -108733,7 +108993,7 @@
       "area": 2604
     },
     {
-      "owner": "_NebulaVsAll",
+      "owner": "_ItsMeNebula",
       "trusted": "",
       "x1": -792,
       "z1": -333,
@@ -109563,19 +109823,6 @@
       "width": 33,
       "height": 29,
       "area": 957
-    },
-    {
-      "owner": "popserek",
-      "trusted": "",
-      "x1": -23378,
-      "z1": 12737,
-      "x2": -23348,
-      "z2": 12760,
-      "cx": -23363,
-      "cz": 12748,
-      "width": 30,
-      "height": 23,
-      "area": 690
     },
     {
       "owner": "HosterCoster",
@@ -117144,19 +117391,6 @@
       "area": 45714
     },
     {
-      "owner": "Daisyzzzz1",
-      "trusted": "",
-      "x1": -21632,
-      "z1": 9593,
-      "x2": -21615,
-      "z2": 9610,
-      "cx": -21624,
-      "cz": 9601,
-      "width": 17,
-      "height": 17,
-      "area": 289
-    },
-    {
       "owner": "JcSyncc",
       "trusted": "",
       "x1": 21867,
@@ -120134,19 +120368,6 @@
       "area": 3536
     },
     {
-      "owner": "_Ali_Asim6354",
-      "trusted": "",
-      "x1": -21844,
-      "z1": 1133,
-      "x2": -21821,
-      "z2": 1144,
-      "cx": -21833,
-      "cz": 1138,
-      "width": 23,
-      "height": 11,
-      "area": 253
-    },
-    {
       "owner": "_Beasty415",
       "trusted": "",
       "x1": -17118,
@@ -120236,19 +120457,6 @@
       "width": 42,
       "height": 39,
       "area": 1638
-    },
-    {
-      "owner": "_Ali_Asim6354",
-      "trusted": "",
-      "x1": -21953,
-      "z1": 1155,
-      "x2": -21942,
-      "z2": 1166,
-      "cx": -21948,
-      "cz": 1160,
-      "width": 11,
-      "height": 11,
-      "area": 121
     },
     {
       "owner": "Nix_Studios11",
@@ -120561,19 +120769,6 @@
       "width": 48,
       "height": 26,
       "area": 1248
-    },
-    {
-      "owner": "BigHutsell",
-      "trusted": "",
-      "x1": -21280,
-      "z1": 669,
-      "x2": -21248,
-      "z2": 692,
-      "cx": -21264,
-      "cz": 680,
-      "width": 32,
-      "height": 23,
-      "area": 736
     },
     {
       "owner": "thr1ftyy",
@@ -149801,7 +149996,7 @@
     },
     {
       "owner": "PickSix401",
-      "trusted": "",
+      "trusted": "_OJtheconqueror1, PickSix401",
       "x1": 12920,
       "z1": -8831,
       "x2": 12984,
@@ -157546,19 +157741,6 @@
       "width": 18,
       "height": 20,
       "area": 360
-    },
-    {
-      "owner": "Hampster68",
-      "trusted": "",
-      "x1": -22157,
-      "z1": 582,
-      "x2": -22130,
-      "z2": 618,
-      "cx": -22144,
-      "cz": 600,
-      "width": 27,
-      "height": 36,
-      "area": 972
     },
     {
       "owner": "_WigglyBear3",
@@ -218219,5 +218401,5 @@
       "area": 1482
     }
   ],
-  "time": "2026-07-23 18:54 UTC"
+  "time": "2026-07-24 01:17 UTC"
 }
