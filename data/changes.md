@@ -1,4 +1,28 @@
 
+## 2026-07-26 12:49 UTC
+Total claims: 16898 | Removed: 2 | Added: 8 | Skipped (reclaimed): 2
+
+### Removed
+**ApexVolt** — 2 claim(s), 1,503 blocks total
+  - (-22465,-3902) → (-22431,-3872) center (-22448,-3887) size 34×30
+  - (-22486,-3925) → (-22465,-3902) center (-22476,-3914) size 21×23
+
+### Added
+**KillaKah16** — 2 claim(s), 546 blocks total
+  - (20646,-14738) → (20659,-14720) center (20652,-14729) size 13×18
+  - (-9083,-21356) → (-9059,-21343) center (-9071,-21350) size 24×13
+**_MTB2913** — 2 claim(s), 634 blocks total
+  - (-22221,12194) → (-22194,12213) center (-22208,12203) size 27×19
+  - (-2653,21994) → (-2642,22005) center (-2648,21999) size 11×11
+**_Lizardcatdude** — 1 claim(s), 79,234 blocks total
+  - (21910,4417) → (22139,4763) center (22024,4590) size 229×346
+**silas203456** — 1 claim(s), 2,816 blocks total
+  - (-863,416) → (-819,480) center (-841,448) size 44×64
+**Nvr3at** — 1 claim(s), 140 blocks total
+  - (-3733,-23482) → (-3719,-23472) center (-3726,-23477) size 14×10
+**NekonuShadow** — 1 claim(s), 7,714 blocks total
+  - (-1129,451) → (-863,480) center (-996,465) size 266×29
+
 ## 2026-07-26 08:00 UTC
 Total claims: 16894 | Removed: 4 | Added: 15 | Skipped (reclaimed): 10
 
