@@ -1,4 +1,45 @@
 
+## 2026-07-26 08:00 UTC
+Total claims: 16894 | Removed: 4 | Added: 15 | Skipped (reclaimed): 10
+
+### Removed
+**johnheretv** — 1 claim(s), 962 blocks total
+  - (-13845,12667) → (-13808,12693) center (-13827,12680) size 37×26
+**DrNetherite_The1** — 1 claim(s), 1,102 blocks total
+  - (-653,-23616) → (-615,-23587) center (-634,-23602) size 38×29
+**Vylence1** — 1 claim(s), 3,417 blocks total
+  - (-13217,-20435) → (-13166,-20368) center (-13192,-20402) size 51×67
+**heizer179** — 1 claim(s), 121 blocks total
+  - (-16659,-1660) → (-16648,-1649) center (-16654,-1655) size 11×11
+
+### Added
+**Kaullah** — 5 claim(s), 85,805 blocks total
+  - (9346,-3847) → (9376,-3805) center (9361,-3826) size 30×42
+  - (9376,-3786) → (9393,-3771) center (9384,-3779) size 17×15
+  - (-15000,-3772) → (-14984,-3755) center (-14992,-3764) size 16×17
+  - (4885,17946) → (5176,18234) center (5030,18090) size 291×288
+  - (-3297,1960) → (-3283,1975) center (-3290,1967) size 14×15
+**JackAttack0427** — 1 claim(s), 9,877 blocks total
+  - (17800,21996) → (17883,22115) center (17841,22055) size 83×119
+**Iam_Leaf** — 1 claim(s), 4,484 blocks total
+  - (22436,7175) → (22512,7234) center (22474,7204) size 76×59
+**Sacha_ravageur** — 1 claim(s), 121 blocks total
+  - (10456,23039) → (10467,23050) center (10461,23044) size 11×11
+**CrafteeMan** — 1 claim(s), 1,152 blocks total
+  - (8524,20407) → (8556,20443) center (8540,20425) size 32×36
+**_GameFreak_** — 1 claim(s), 195 blocks total
+  - (-23218,5371) → (-23203,5384) center (-23211,5377) size 15×13
+**Kokolazoo** — 1 claim(s), 1,015 blocks total
+  - (-22902,-18646) → (-22867,-18617) center (-22885,-18632) size 35×29
+**TofuAteMe** — 1 claim(s), 4,620 blocks total
+  - (-10774,22030) → (-10708,22100) center (-10741,22065) size 66×70
+**Shmev35** — 1 claim(s), 156 blocks total
+  - (-22237,160) → (-22225,173) center (-22231,166) size 12×13
+**Lamb_Spidy** — 1 claim(s), 1,308 blocks total
+  - (-14698,13972) → (-14589,13984) center (-14644,13978) size 109×12
+**Sea_Lyng_** — 1 claim(s), 35,532 blocks total
+  - (-4311,23699) → (-4122,23887) center (-4217,23793) size 189×188
+
 ## 2026-07-26 01:20 UTC
 Total claims: 16893 | Removed: 8 | Added: 30 | Skipped (reclaimed): 6
 
