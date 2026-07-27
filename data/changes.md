@@ -1,4 +1,46 @@
 
+## 2026-07-27 09:00 UTC
+Total claims: 16909 | Removed: 6 | Added: 13 | Skipped (reclaimed): 9
+
+### Removed
+**_gold_guy3700** — 2 claim(s), 765 blocks total
+  - (-21673,-2609) → (-21659,-2574) center (-21666,-2592) size 14×35
+  - (-21736,-2511) → (-21681,-2506) center (-21709,-2509) size 55×5
+**1jkr_** — 1 claim(s), 121 blocks total
+  - (-22143,5935) → (-22132,5946) center (-22138,5940) size 11×11
+**super1819fun** — 1 claim(s), 120 blocks total
+  - (11978,-20631) → (11990,-20621) center (11984,-20626) size 12×10
+**fl_0v** — 1 claim(s), 396 blocks total
+  - (-21100,16984) → (-21078,17002) center (-21089,16993) size 22×18
+**_VersedOne5758** — 1 claim(s), 189 blocks total
+  - (7098,-23078) → (7119,-23069) center (7108,-23074) size 21×9
+
+### Added
+**Sacha_ravageur** — 2 claim(s), 480 blocks total
+  - (10471,23034) → (10492,23050) center (10481,23042) size 21×16
+  - (10449,23029) → (10465,23038) center (10457,23033) size 16×9
+**LightningLegendB** — 2 claim(s), 269,823 blocks total
+  - (-19413,-4768) → (-19179,-4421) center (-19296,-4595) size 234×347
+  - (-19788,-4924) → (-19413,-4421) center (-19601,-4673) size 375×503
+**Resign1ng** — 1 claim(s), 62,816 blocks total
+  - (-20914,-9804) → (-20612,-9596) center (-20763,-9700) size 302×208
+**Th3Racc00nCh1ld** — 1 claim(s), 94,731 blocks total
+  - (-13033,21584) → (-12760,21931) center (-12897,21757) size 273×347
+**TrueBearViking** — 1 claim(s), 150 blocks total
+  - (-17270,20815) → (-17260,20830) center (-17265,20822) size 10×15
+**_Phantxm_dre4d_** — 1 claim(s), 720 blocks total
+  - (7747,23054) → (7777,23078) center (7762,23066) size 30×24
+**FISFIRI2** — 1 claim(s), 210 blocks total
+  - (14088,21029) → (14095,21059) center (14091,21044) size 7×30
+**GlitchMaster58** — 1 claim(s), 468 blocks total
+  - (8844,22447) → (8862,22473) center (8853,22460) size 18×26
+**OxiSlxmz** — 1 claim(s), 1,980 blocks total
+  - (-7995,20869) → (-7959,20924) center (-7977,20896) size 36×55
+**GrimassassinX5** — 1 claim(s), 20,805 blocks total
+  - (-21103,8685) → (-21008,8904) center (-21056,8794) size 95×219
+**Moonwize** — 1 claim(s), 169 blocks total
+  - (-22426,17914) → (-22413,17927) center (-22420,17920) size 13×13
+
 ## 2026-07-27 01:25 UTC
 Total claims: 16911 | Removed: 2 | Added: 10 | Skipped (reclaimed): 1
 
