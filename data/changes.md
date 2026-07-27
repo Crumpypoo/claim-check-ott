@@ -1,4 +1,50 @@
 
+## 2026-07-27 19:05 UTC
+Total claims: 16920 | Removed: 8 | Added: 13 | Skipped (reclaimed): 5
+
+### Removed
+**kubsoj** — 2 claim(s), 955 blocks total
+  - (-1140,-21674) → (-1116,-21664) center (-1128,-21669) size 24×10
+  - (4177,21399) → (4232,21412) center (4204,21405) size 55×13
+**estersteaparty** — 1 claim(s), 266 blocks total
+  - (-21910,18520) → (-21896,18539) center (-21903,18529) size 14×19
+**qiPoh** — 1 claim(s), 18,832 blocks total
+  - (16335,-4674) → (16511,-4567) center (16423,-4621) size 176×107
+**D3rpyJason** — 1 claim(s), 4,816 blocks total
+  - (8733,-8116) → (8819,-8060) center (8776,-8088) size 86×56
+**Nubsito19** — 1 claim(s), 1,800 blocks total
+  - (2399,17635) → (2439,17680) center (2419,17657) size 40×45
+**flowerfox1000** — 1 claim(s), 143 blocks total
+  - (-2117,-21732) → (-2104,-21721) center (-2111,-21727) size 13×11
+**Doom_slayer_22** — 1 claim(s), 1,650 blocks total
+  - (15811,-4279) → (15861,-4246) center (15836,-4263) size 50×33
+
+### Added
+**LightningLegendB** — 2 claim(s), 52,341 blocks total
+  - (-20402,-4171) → (-20221,-4103) center (-20312,-4137) size 181×68
+  - (-20472,-4472) → (-20339,-4171) center (-20406,-4322) size 133×301
+**Brzboy2014** — 2 claim(s), 10,642 blocks total
+  - (-358,-23525) → (-257,-23424) center (-308,-23475) size 101×101
+  - (-256,-23456) → (-235,-23435) center (-246,-23446) size 21×21
+**DangerPaws** — 1 claim(s), 2,000 blocks total
+  - (-4236,23659) → (-4186,23699) center (-4211,23679) size 50×40
+**_Eli_The_Noob300** — 1 claim(s), 420 blocks total
+  - (-5997,1776) → (-5982,1804) center (-5990,1790) size 15×28
+**samistrying_** — 1 claim(s), 4,560 blocks total
+  - (-3035,-21927) → (-2955,-21870) center (-2995,-21899) size 80×57
+**SHADOW965317** — 1 claim(s), 176 blocks total
+  - (-16879,-12686) → (-16863,-12675) center (-16871,-12681) size 16×11
+**Plasmy621** — 1 claim(s), 3,213 blocks total
+  - (-20947,11125) → (-20896,11188) center (-20922,11156) size 51×63
+**akaChritter** — 1 claim(s), 528 blocks total
+  - (6290,-23217) → (6314,-23195) center (6302,-23206) size 24×22
+**estersteaparty** — 1 claim(s), 5,810 blocks total
+  - (-5688,-20020) → (-5618,-19937) center (-5653,-19979) size 70×83
+**Astral58** — 1 claim(s), 700 blocks total
+  - (-22945,5601) → (-22920,5629) center (-22933,5615) size 25×28
+**PiratexLulu** — 1 claim(s), 272 blocks total
+  - (10480,23063) → (10497,23079) center (10488,23071) size 17×16
+
 ## 2026-07-27 14:02 UTC
 Total claims: 16920 | Removed: 1 | Added: 16 | Skipped (reclaimed): 4
 
