@@ -1,4 +1,31 @@
 
+## 2026-07-28 13:22 UTC
+Total claims: 16928 | Removed: 0 | Added: 11 | Skipped (reclaimed): 16
+
+
+### Added
+**Frankiepank** — 2 claim(s), 6,446 blocks total
+  - (21669,4260) → (21716,4348) center (21692,4304) size 47×88
+  - (21639,4260) → (21669,4337) center (21654,4298) size 30×77
+**IcyyyyBoiiii** — 1 claim(s), 515,680 blocks total
+  - (-712,-23319) → (460,-22879) center (-126,-23099) size 1172×440
+**ItsSimplyJoe** — 1 claim(s), 158,064 blocks total
+  - (-4835,-23021) → (-4301,-22725) center (-4568,-22873) size 534×296
+**NekoGoddess_** — 1 claim(s), 4,416 blocks total
+  - (-905,-2821) → (-767,-2789) center (-836,-2805) size 138×32
+**_FifSivaFifi** — 1 claim(s), 61,752 blocks total
+  - (-21588,-182) → (-21339,66) center (-21464,-58) size 249×248
+**akaChritter** — 1 claim(s), 2,832 blocks total
+  - (6255,-23243) → (6314,-23195) center (6284,-23219) size 59×48
+**RipeleZ** — 1 claim(s), 399 blocks total
+  - (-17878,23165) → (-17857,23184) center (-17868,23174) size 21×19
+**Plasmy621** — 1 claim(s), 1,000 blocks total
+  - (-21008,11153) → (-20968,11178) center (-20988,11165) size 40×25
+**jackistaken** — 1 claim(s), 33,669,718 blocks total
+  - (20322,-25006) → (24049,-15972) center (22185,-20489) size 3727×9034
+**Iemiko** — 1 claim(s), 2,296 blocks total
+  - (-17345,-23613) → (-17289,-23572) center (-17317,-23593) size 56×41
+
 ## 2026-07-28 08:08 UTC
 Total claims: 16933 | Removed: 7 | Added: 21 | Skipped (reclaimed): 3
 
