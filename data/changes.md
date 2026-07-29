@@ -1,4 +1,34 @@
 
+## 2026-07-29 18:45 UTC
+Total claims: 16941 | Removed: 1 | Added: 11 | Skipped (reclaimed): 6
+
+### Removed
+**_waterfrag6014** — 1 claim(s), 138 blocks total
+  - (21649,-5203) → (21672,-5197) center (21660,-5200) size 23×6
+
+### Added
+**RayzaVu0G** — 2 claim(s), 9,850 blocks total
+  - (3295,22817) → (3405,22887) center (3350,22852) size 110×70
+  - (-13651,-21624) → (-13608,-21574) center (-13630,-21599) size 43×50
+**_Eli_The_Noob300** — 1 claim(s), 2,255 blocks total
+  - (-6012,1770) → (-5957,1811) center (-5985,1790) size 55×41
+**e1even1_** — 1 claim(s), 244,770 blocks total
+  - (-3992,7252) → (-3594,7867) center (-3793,7559) size 398×615
+**Joblessness** — 1 claim(s), 784 blocks total
+  - (-21286,1143) → (-21258,1171) center (-21272,1157) size 28×28
+**bunnytiger** — 1 claim(s), 704 blocks total
+  - (-22287,-14165) → (-22271,-14121) center (-22279,-14143) size 16×44
+**Brzboy2014** — 1 claim(s), 3,760 blocks total
+  - (17208,4243) → (17288,4290) center (17248,4266) size 80×47
+**WilohStorm** — 1 claim(s), 121 blocks total
+  - (21043,-1386) → (21054,-1375) center (21048,-1381) size 11×11
+**Hierophamt** — 1 claim(s), 4,992 blocks total
+  - (-21892,-16524) → (-21840,-16428) center (-21866,-16476) size 52×96
+**GuyMoon** — 1 claim(s), 3,216 blocks total
+  - (24187,17212) → (24254,17260) center (24220,17236) size 67×48
+**Exploring_Wolf** — 1 claim(s), 2,706 blocks total
+  - (11321,-21337) → (11387,-21296) center (11354,-21317) size 66×41
+
 ## 2026-07-29 13:29 UTC
 Total claims: 16937 | Removed: 0 | Added: 0 | Skipped (reclaimed): 4972
 
