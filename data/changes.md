@@ -1,4 +1,35 @@
 
+## 2026-07-30 08:00 UTC
+Total claims: 16951 | Removed: 5 | Added: 8 | Skipped (reclaimed): 1
+
+### Removed
+**Tomo_PlayZz** — 2 claim(s), 213 blocks total
+  - (-14509,-17122) → (-14504,-17101) center (-14507,-17112) size 5×21
+  - (-14509,-17137) → (-14500,-17125) center (-14505,-17131) size 9×12
+**toprakzyx** — 1 claim(s), 810 blocks total
+  - (22284,-989) → (22311,-959) center (22297,-974) size 27×30
+**Sc00by_W00by** — 1 claim(s), 820 blocks total
+  - (-22688,12973) → (-22668,13014) center (-22678,12993) size 20×41
+**Toasted_Bud** — 1 claim(s), 441 blocks total
+  - (21104,10220) → (21125,10241) center (21114,10230) size 21×21
+
+### Added
+**TheStrut** — 2 claim(s), 2,544 blocks total
+  - (-21317,-9774) → (-21279,-9734) center (-21298,-9754) size 38×40
+  - (-21259,-9759) → (-21227,-9727) center (-21243,-9743) size 32×32
+**kiznick** — 1 claim(s), 100 blocks total
+  - (-11875,20781) → (-11865,20791) center (-11870,20786) size 10×10
+**eyber1212** — 1 claim(s), 1,935 blocks total
+  - (4698,-21349) → (4741,-21304) center (4719,-21327) size 43×45
+**Fallen1010** — 1 claim(s), 121 blocks total
+  - (-20001,-8770) → (-19990,-8759) center (-19996,-8765) size 11×11
+**_Camvv1** — 1 claim(s), 1,462 blocks total
+  - (21706,-14282) → (21749,-14248) center (21727,-14265) size 43×34
+**LostHollowYT** — 1 claim(s), 2,304 blocks total
+  - (9664,22848) → (9712,22896) center (9688,22872) size 48×48
+**AirShorky** — 1 claim(s), 21,240 blocks total
+  - (4981,6805) → (5158,6925) center (5069,6865) size 177×120
+
 ## 2026-07-30 01:08 UTC
 Total claims: 16949 | Removed: 8 | Added: 31 | Skipped (reclaimed): 15
 
