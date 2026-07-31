@@ -1,4 +1,46 @@
 
+## 2026-07-31 19:00 UTC
+Total claims: 16954 | Removed: 4 | Added: 14 | Skipped (reclaimed): 3
+
+### Removed
+**Pumpkinpatchee** — 1 claim(s), 1,232 blocks total
+  - (23311,10373) → (23355,10401) center (23333,10387) size 44×28
+**_monkeman4278** — 1 claim(s), 299 blocks total
+  - (-23493,4276) → (-23480,4299) center (-23487,4287) size 13×23
+**angelverdict** — 1 claim(s), 1,224 blocks total
+  - (-14555,23619) → (-14519,23653) center (-14537,23636) size 36×34
+**jxj073** — 1 claim(s), 323 blocks total
+  - (20677,7626) → (20696,7643) center (20686,7634) size 19×17
+
+### Added
+**sigmastevenboi** — 2 claim(s), 217 blocks total
+  - (-468,23022) → (-458,23032) center (-463,23027) size 10×10
+  - (14077,-21384) → (14090,-21375) center (14083,-21380) size 13×9
+**_Lizardcatdude** — 1 claim(s), 92,378 blocks total
+  - (21896,4401) → (22143,4775) center (22019,4588) size 247×374
+**grossly** — 1 claim(s), 180 blocks total
+  - (-534,-18396) → (-516,-18386) center (-525,-18391) size 18×10
+**egd2015** — 1 claim(s), 110 blocks total
+  - (17013,21034) → (17023,21045) center (17018,21039) size 10×11
+**Aceiscool618** — 1 claim(s), 324 blocks total
+  - (16689,23241) → (16707,23259) center (16698,23250) size 18×18
+**VoidBlade2681** — 1 claim(s), 1,680 blocks total
+  - (-17031,23042) → (-16991,23084) center (-17011,23063) size 40×42
+**provenmoss8779** — 1 claim(s), 110 blocks total
+  - (-14875,-8392) → (-14865,-8381) center (-14870,-8387) size 10×11
+**Red_fishy** — 1 claim(s), 169 blocks total
+  - (-12995,22193) → (-12982,22206) center (-12989,22199) size 13×13
+**JarTheMiner_2384** — 1 claim(s), 1,628 blocks total
+  - (-14411,-21051) → (-14374,-21007) center (-14393,-21029) size 37×44
+**Owen_nl13** — 1 claim(s), 156 blocks total
+  - (14077,-21398) → (14089,-21385) center (14083,-21392) size 12×13
+**_PlumWa1k** — 1 claim(s), 135 blocks total
+  - (21564,22786) → (21569,22813) center (21566,22799) size 5×27
+**Fl0oby** — 1 claim(s), 168 blocks total
+  - (3979,-22975) → (3993,-22963) center (3986,-22969) size 14×12
+**VIVIX9335** — 1 claim(s), 864 blocks total
+  - (-5548,-21677) → (-5516,-21650) center (-5532,-21664) size 32×27
+
 ## 2026-07-31 13:22 UTC
 Total claims: 16947 | Removed: 1 | Added: 6 | Skipped (reclaimed): 7
 
