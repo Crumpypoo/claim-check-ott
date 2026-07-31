@@ -1,4 +1,25 @@
 
+## 2026-07-31 13:22 UTC
+Total claims: 16947 | Removed: 1 | Added: 6 | Skipped (reclaimed): 7
+
+### Removed
+**b33l0vesd0gs** — 1 claim(s), 160 blocks total
+  - (-2839,-22283) → (-2819,-22275) center (-2829,-22279) size 20×8
+
+### Added
+**ItsSimplyJoe** — 1 claim(s), 179,352 blocks total
+  - (-4835,-23043) → (-4271,-22725) center (-4553,-22884) size 564×318
+**e1even1_** — 1 claim(s), 304,440 blocks total
+  - (-3992,7242) → (-3520,7887) center (-3756,7564) size 472×645
+**EnderEnderMan** — 1 claim(s), 4,161 blocks total
+  - (1966,-15842) → (2023,-15769) center (1994,-15806) size 57×73
+**whyyam** — 1 claim(s), 9,630 blocks total
+  - (22958,5403) → (23048,5510) center (23003,5456) size 90×107
+**BRUCE_WAYNE53** — 1 claim(s), 29,850 blocks total
+  - (13055,-21949) → (13254,-21799) center (13154,-21874) size 199×150
+**Junhui09** — 1 claim(s), 11,102 blocks total
+  - (-15466,22380) → (-15375,22502) center (-15421,22441) size 91×122
+
 ## 2026-07-31 08:25 UTC
 Total claims: 16949 | Removed: 7 | Added: 13 | Skipped (reclaimed): 4
 
