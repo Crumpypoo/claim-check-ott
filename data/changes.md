@@ -1,4 +1,49 @@
 
+## 2026-08-01 01:22 UTC
+Total claims: 16962 | Removed: 4 | Added: 17 | Skipped (reclaimed): 5
+
+### Removed
+**_Linex8548** — 1 claim(s), 1,080 blocks total
+  - (23092,11475) → (23128,11505) center (23110,11490) size 36×30
+**Blxze03** — 1 claim(s), 209 blocks total
+  - (-2006,22204) → (-1995,22223) center (-2001,22213) size 11×19
+**_TH1STLETH0RN** — 1 claim(s), 1,584 blocks total
+  - (-20528,-1016) → (-20495,-968) center (-20512,-992) size 33×48
+**Dreamaire_64700** — 1 claim(s), 544 blocks total
+  - (21105,15076) → (21137,15093) center (21121,15084) size 32×17
+
+### Added
+**Nicholasgamez** — 3 claim(s), 111,347 blocks total
+  - (-18551,21453) → (-18366,21508) center (-18459,21480) size 185×55
+  - (-17662,23494) → (-17631,23501) center (-17647,23497) size 31×7
+  - (-17688,23163) → (-17383,23494) center (-17536,23328) size 305×331
+**leozinMP06** — 2 claim(s), 615 blocks total
+  - (-2399,-20778) → (-2388,-20767) center (-2394,-20773) size 11×11
+  - (-2353,-20864) → (-2334,-20838) center (-2344,-20851) size 19×26
+**Fisherman0514** — 2 claim(s), 2,583 blocks total
+  - (21829,-9118) → (21868,-9067) center (21848,-9093) size 39×51
+  - (21119,-9362) → (21146,-9340) center (21132,-9351) size 27×22
+**Yumarice** — 1 claim(s), 5,676 blocks total
+  - (-15388,-21380) → (-15302,-21314) center (-15345,-21347) size 86×66
+**GoddessEterna** — 1 claim(s), 4,096 blocks total
+  - (-22976,10208) → (-22912,10272) center (-22944,10240) size 64×64
+**LaineyKay64** — 1 claim(s), 1,554 blocks total
+  - (20972,632) → (21009,674) center (20990,653) size 37×42
+**cxnx** — 1 claim(s), 1,024 blocks total
+  - (22902,5670) → (22934,5702) center (22918,5686) size 32×32
+**_VolcanoRock4237** — 1 claim(s), 117 blocks total
+  - (13604,-17299) → (13613,-17286) center (13608,-17293) size 9×13
+**_HollowShade6104** — 1 claim(s), 6,136 blocks total
+  - (23397,-12585) → (23449,-12467) center (23423,-12526) size 52×118
+**DeltaStudios123b** — 1 claim(s), 576 blocks total
+  - (-20727,7477) → (-20631,7483) center (-20679,7480) size 96×6
+**Zenkaihero** — 1 claim(s), 147 blocks total
+  - (21634,17433) → (21655,17440) center (21644,17436) size 21×7
+**Aceiscool618** — 1 claim(s), 440 blocks total
+  - (16685,23239) → (16707,23259) center (16696,23249) size 22×20
+**Story_Narrator** — 1 claim(s), 37,947 blocks total
+  - (8248,-21415) → (8521,-21276) center (8384,-21346) size 273×139
+
 ## 2026-07-31 19:00 UTC
 Total claims: 16954 | Removed: 4 | Added: 14 | Skipped (reclaimed): 3
 
