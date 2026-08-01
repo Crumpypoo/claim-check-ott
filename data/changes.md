@@ -1,4 +1,39 @@
 
+## 2026-08-01 07:54 UTC
+Total claims: 16960 | Removed: 8 | Added: 8 | Skipped (reclaimed): 2
+
+### Removed
+**_Andersp2018** — 3 claim(s), 809 blocks total
+  - (-16478,23368) → (-16457,23382) center (-16468,23375) size 21×14
+  - (-16449,23360) → (-16444,23391) center (-16447,23375) size 5×31
+  - (-16438,23350) → (-16430,23395) center (-16434,23372) size 8×45
+**LostHollowYT** — 1 claim(s), 2,304 blocks total
+  - (9664,22848) → (9712,22896) center (9688,22872) size 48×48
+**Kenroki** — 1 claim(s), 255 blocks total
+  - (12334,22483) → (12351,22498) center (12342,22490) size 17×15
+**_Darkaphmau90** — 1 claim(s), 121 blocks total
+  - (8888,-21979) → (8899,-21968) center (8893,-21974) size 11×11
+**thatrandumguy456** — 1 claim(s), 504 blocks total
+  - (-23421,12181) → (-23393,12199) center (-23407,12190) size 28×18
+**TDOG7351** — 1 claim(s), 121 blocks total
+  - (-21593,-7949) → (-21582,-7938) center (-21588,-7944) size 11×11
+
+### Added
+**PixelCraft_101** — 2 claim(s), 257 blocks total
+  - (-11034,-21469) → (-11017,-21460) center (-11026,-21465) size 17×9
+  - (-11017,-21473) → (-11009,-21460) center (-11013,-21467) size 8×13
+**Kori979** — 2 claim(s), 535 blocks total
+  - (10502,-23186) → (10513,-23175) center (10507,-23181) size 11×11
+  - (10492,-23175) → (10510,-23152) center (10501,-23164) size 18×23
+**Kocic2137** — 1 claim(s), 3,648 blocks total
+  - (1491,-22881) → (1523,-22767) center (1507,-22824) size 32×114
+**DemonTijer** — 1 claim(s), 121 blocks total
+  - (-15702,-22286) → (-15691,-22275) center (-15697,-22281) size 11×11
+**Im_Xto** — 1 claim(s), 124,925 blocks total
+  - (1627,22029) → (2102,22292) center (1864,22160) size 475×263
+**lncisor** — 1 claim(s), 36,860 blocks total
+  - (7088,-21271) → (7282,-21081) center (7185,-21176) size 194×190
+
 ## 2026-08-01 01:22 UTC
 Total claims: 16962 | Removed: 4 | Added: 17 | Skipped (reclaimed): 5
 
