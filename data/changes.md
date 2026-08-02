@@ -1,4 +1,47 @@
 
+## 2026-08-02 18:46 UTC
+Total claims: 16982 | Removed: 4 | Added: 16 | Skipped (reclaimed): 10
+
+### Removed
+**joaqui1214** — 1 claim(s), 1,276 blocks total
+  - (-17129,-15190) → (-17085,-15161) center (-17107,-15176) size 44×29
+**Mb_tote** — 1 claim(s), 600 blocks total
+  - (10057,21756) → (10082,21780) center (10069,21768) size 25×24
+**Xenshaox** — 1 claim(s), 1,892 blocks total
+  - (-17422,-21574) → (-17378,-21531) center (-17400,-21553) size 44×43
+**JteFly** — 1 claim(s), 112 blocks total
+  - (-22336,-2670) → (-22328,-2656) center (-22332,-2663) size 8×14
+
+### Added
+**_Darkwood1197** — 5 claim(s), 744 blocks total
+  - (-179,789) → (-172,814) center (-176,801) size 7×25
+  - (-160,793) → (-153,813) center (-157,803) size 7×20
+  - (-203,782) → (-172,789) center (-188,785) size 31×7
+  - (-187,798) → (-180,814) center (-184,806) size 7×16
+  - (-171,793) → (-166,813) center (-169,803) size 5×20
+**Angiefz** — 1 claim(s), 812 blocks total
+  - (4716,-23111) → (4744,-23082) center (4730,-23097) size 28×29
+**_Lizardcatdude** — 1 claim(s), 102,108 blocks total
+  - (21893,4385) → (22147,4787) center (22020,4586) size 254×402
+**stewwwyf** — 1 claim(s), 5,100 blocks total
+  - (16981,-7627) → (17032,-7527) center (17006,-7577) size 51×100
+**ItsSimplyJoe** — 1 claim(s), 219,564 blocks total
+  - (-4927,-23046) → (-4243,-22725) center (-4585,-22886) size 684×321
+**samistrying_** — 1 claim(s), 6,232 blocks total
+  - (-3037,-21927) → (-2955,-21851) center (-2996,-21889) size 82×76
+**rulee** — 1 claim(s), 2,944 blocks total
+  - (-20869,-11534) → (-20823,-11470) center (-20846,-11502) size 46×64
+**Suspect1R** — 1 claim(s), 100 blocks total
+  - (5052,20927) → (5062,20937) center (5057,20932) size 10×10
+**provenmoss8779** — 1 claim(s), 121 blocks total
+  - (-16363,-23512) → (-16352,-23501) center (-16358,-23507) size 11×11
+**Fel1xMC** — 1 claim(s), 1,173 blocks total
+  - (22067,13716) → (22090,13767) center (22078,13741) size 23×51
+**tofutrulla** — 1 claim(s), 62,964 blocks total
+  - (-21148,12796) → (-20950,13114) center (-21049,12955) size 198×318
+**mania7128** — 1 claim(s), 48,954 blocks total
+  - (-22343,10034) → (-22097,10233) center (-22220,10133) size 246×199
+
 ## 2026-08-02 12:47 UTC
 Total claims: 16980 | Removed: 3 | Added: 16 | Skipped (reclaimed): 11
 
