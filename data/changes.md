@@ -1,4 +1,36 @@
 
+## 2026-08-02 07:57 UTC
+Total claims: 16978 | Removed: 2 | Added: 12 | Skipped (reclaimed): 2
+
+### Removed
+**mischeifdrawn** — 1 claim(s), 210 blocks total
+  - (-8817,-20964) → (-8802,-20950) center (-8810,-20957) size 15×14
+**Im_Xto** — 1 claim(s), 570 blocks total
+  - (4045,293) → (4075,312) center (4060,302) size 30×19
+
+### Added
+**KingCharles_6** — 2 claim(s), 1,822 blocks total
+  - (-11040,22330) → (-10999,22370) center (-11020,22350) size 41×40
+  - (-10942,22392) → (-10929,22406) center (-10936,22399) size 13×14
+**Chelophyll** — 2 claim(s), 1,134 blocks total
+  - (22004,-12796) → (22049,-12780) center (22026,-12788) size 45×16
+  - (22024,-12780) → (22047,-12762) center (22035,-12771) size 23×18
+**FoxStudios8172** — 2 claim(s), 671 blocks total
+  - (6779,21367) → (6796,21378) center (6787,21372) size 17×11
+  - (6827,21319) → (6849,21341) center (6838,21330) size 22×22
+**FallFeather8978** — 1 claim(s), 952 blocks total
+  - (10433,-21252) → (10467,-21224) center (10450,-21238) size 34×28
+**ChillStok** — 1 claim(s), 140 blocks total
+  - (22002,-13941) → (22016,-13931) center (22009,-13936) size 14×10
+**Scorebeer313** — 1 claim(s), 5,576 blocks total
+  - (-4819,-21400) → (-4751,-21318) center (-4785,-21359) size 68×82
+**MOoMOo1713** — 1 claim(s), 667 blocks total
+  - (21148,-2418) → (21177,-2395) center (21162,-2407) size 29×23
+**C3PO_Player** — 1 claim(s), 402,659 blocks total
+  - (24581,2661) → (25000,3622) center (24790,3141) size 419×961
+**Andy_iUCi** — 1 claim(s), 121 blocks total
+  - (4326,22285) → (4337,22296) center (4331,22290) size 11×11
+
 ## 2026-08-02 01:19 UTC
 Total claims: 16970 | Removed: 4 | Added: 22 | Skipped (reclaimed): 9
 
