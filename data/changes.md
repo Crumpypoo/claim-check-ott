@@ -1,4 +1,37 @@
 
+## 2026-08-03 14:07 UTC
+Total claims: 17004 | Removed: 5 | Added: 10 | Skipped (reclaimed): 1
+
+### Removed
+**Pingui_** — 1 claim(s), 825 blocks total
+  - (-17188,20929) → (-17163,20962) center (-17176,20945) size 25×33
+**kiwipoopfeast** — 1 claim(s), 216 blocks total
+  - (-5370,-20498) → (-5352,-20486) center (-5361,-20492) size 18×12
+**_Numeral** — 1 claim(s), 273 blocks total
+  - (3313,-21766) → (3326,-21745) center (3319,-21756) size 13×21
+**_CedarCast4444** — 1 claim(s), 112 blocks total
+  - (13693,20275) → (13700,20291) center (13696,20283) size 7×16
+**H0LD0N71LLM4Y** — 1 claim(s), 805 blocks total
+  - (22791,16613) → (22814,16648) center (22802,16630) size 23×35
+
+### Added
+**Loung2006** — 4 claim(s), 986 blocks total
+  - (14425,20613) → (14435,20623) center (14430,20618) size 10×10
+  - (14434,20562) → (14439,20613) center (14436,20587) size 5×51
+  - (14262,20699) → (14271,20752) center (14266,20725) size 9×53
+  - (14411,20625) → (14425,20636) center (14418,20630) size 14×11
+**_RoxyWillow16** — 2 claim(s), 1,210 blocks total
+  - (-22320,-15569) → (-22315,-15537) center (-22318,-15553) size 5×32
+  - (-22314,-15573) → (-22284,-15538) center (-22299,-15556) size 30×35
+**StarsnTheSky** — 1 claim(s), 11,832 blocks total
+  - (-4619,-1091) → (-4503,-989) center (-4561,-1040) size 116×102
+**Lil_Sugar** — 1 claim(s), 3,640 blocks total
+  - (-23632,834) → (-23597,938) center (-23615,886) size 35×104
+**Tejinaal** — 1 claim(s), 630 blocks total
+  - (496,-22064) → (510,-22019) center (503,-22042) size 14×45
+**Leafyplays1** — 1 claim(s), 110 blocks total
+  - (-22681,19702) → (-22670,19712) center (-22676,19707) size 11×10
+
 ## 2026-08-03 08:53 UTC
 Total claims: 17000 | Removed: 6 | Added: 15 | Skipped (reclaimed): 5
 
