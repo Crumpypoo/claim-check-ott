@@ -1,4 +1,37 @@
 
+## 2026-08-05 19:07 UTC
+Total claims: 17053 | Removed: 2 | Added: 12 | Skipped (reclaimed): 2
+
+### Removed
+**DefinitelyNope** — 1 claim(s), 324 blocks total
+  - (-14483,-18135) → (-14471,-18108) center (-14477,-18122) size 12×27
+**Brzboy2014** — 1 claim(s), 264 blocks total
+  - (17148,4367) → (17160,4389) center (17154,4378) size 12×22
+
+### Added
+**Don_Kaaklijn** — 2 claim(s), 25,995 blocks total
+  - (17216,4153) → (17400,4288) center (17308,4220) size 184×135
+  - (19084,4306) → (19117,4341) center (19100,4323) size 33×35
+**Gojo_On_Top** — 2 claim(s), 237 blocks total
+  - (-20711,16033) → (-20700,16045) center (-20706,16039) size 11×12
+  - (-20701,16045) → (-20694,16060) center (-20698,16052) size 7×15
+**myraaniii** — 1 claim(s), 3,575 blocks total
+  - (7163,-23169) → (7228,-23114) center (7195,-23142) size 65×55
+**Boxyboo0101** — 1 claim(s), 120 blocks total
+  - (21496,-6587) → (21511,-6579) center (21503,-6583) size 15×8
+**Humanbear** — 1 claim(s), 2,623 blocks total
+  - (-21089,17595) → (-21028,17638) center (-21059,17616) size 61×43
+**kademandoo** — 1 claim(s), 5,328 blocks total
+  - (-20122,-19035) → (-20048,-18963) center (-20085,-18999) size 74×72
+**vxShay** — 1 claim(s), 4,464 blocks total
+  - (-20145,23445) → (-20073,23507) center (-20109,23476) size 72×62
+**foxytilly** — 1 claim(s), 2,310 blocks total
+  - (24965,13910) → (25000,13976) center (24982,13943) size 35×66
+**StarsnTheSky** — 1 claim(s), 9,898 blocks total
+  - (-16299,21709) → (-16198,21807) center (-16249,21758) size 101×98
+**raulv** — 1 claim(s), 72,080 blocks total
+  - (10431,21368) → (10703,21633) center (10567,21500) size 272×265
+
 ## 2026-08-05 13:27 UTC
 Total claims: 17045 | Removed: 1 | Added: 17 | Skipped (reclaimed): 19
 
