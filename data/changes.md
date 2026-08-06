@@ -1,4 +1,38 @@
 
+## 2026-08-06 13:25 UTC
+Total claims: 17067 | Removed: 2 | Added: 14 | Skipped (reclaimed): 2
+
+### Removed
+**mammadialex** — 1 claim(s), 196 blocks total
+  - (9222,22631) → (9236,22645) center (9229,22638) size 14×14
+**_Tekzi_** — 1 claim(s), 62,602 blocks total
+  - (16629,304) → (16906,530) center (16767,417) size 277×226
+
+### Added
+**Tapiro1** — 4 claim(s), 3,386 blocks total
+  - (-22023,-1678) → (-22008,-1650) center (-22016,-1664) size 15×28
+  - (-22045,-1715) → (-22037,-1693) center (-22041,-1704) size 8×22
+  - (-22037,-1743) → (-22027,-1716) center (-22032,-1730) size 10×27
+  - (-22026,-1743) → (-21986,-1680) center (-22006,-1712) size 40×63
+**MimikyuxC** — 3 claim(s), 1,733 blocks total
+  - (-17839,9796) → (-17790,9805) center (-17815,9800) size 49×9
+  - (-17782,9765) → (-17741,9793) center (-17762,9779) size 41×28
+  - (-17800,9785) → (-17782,9793) center (-17791,9789) size 18×8
+**_Tekzi_** — 1 claim(s), 93,148 blocks total
+  - (13287,-8976) → (13606,-8684) center (13446,-8830) size 319×292
+**Boxyboo0101** — 1 claim(s), 255 blocks total
+  - (-16219,21058) → (-16204,21075) center (-16212,21066) size 15×17
+**Oravanpesa** — 1 claim(s), 476 blocks total
+  - (-21281,-15658) → (-21253,-15641) center (-21267,-15650) size 28×17
+**GonzoTheCat** — 1 claim(s), 462 blocks total
+  - (-20924,21730) → (-20891,21744) center (-20908,21737) size 33×14
+**biborists** — 1 claim(s), 1,599 blocks total
+  - (19200,18213) → (19239,18254) center (19219,18233) size 39×41
+**Driszy** — 1 claim(s), 6,960 blocks total
+  - (7008,20032) → (7095,20112) center (7051,20072) size 87×80
+**_WigglyBear3** — 1 claim(s), 1,406 blocks total
+  - (22376,6900) → (22414,6937) center (22395,6918) size 38×37
+
 ## 2026-08-06 08:09 UTC
 Total claims: 17057 | Removed: 12 | Added: 19 | Skipped (reclaimed): 8
 
