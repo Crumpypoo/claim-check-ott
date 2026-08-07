@@ -1,4 +1,32 @@
 
+## 2026-08-07 06:55 UTC
+Total claims: 17077 | Removed: 4 | Added: 8 | Skipped (reclaimed): 1
+
+### Removed
+**Baecos** — 3 claim(s), 1,106 blocks total
+  - (-21643,-21716) → (-21631,-21704) center (-21637,-21710) size 12×12
+  - (-21654,-21715) → (-21643,-21704) center (-21649,-21710) size 11×11
+  - (-10154,22914) → (-10125,22943) center (-10140,22928) size 29×29
+**Renzo_156** — 1 claim(s), 294 blocks total
+  - (1460,20521) → (1502,20528) center (1481,20524) size 42×7
+
+### Added
+**kidd_weooon** — 2 claim(s), 1,165 blocks total
+  - (21848,14180) → (21864,14187) center (21856,14183) size 16×7
+  - (21826,14189) → (21865,14216) center (21845,14202) size 39×27
+**Henry12456** — 1 claim(s), 588 blocks total
+  - (-21024,21124) → (-20996,21145) center (-21010,21134) size 28×21
+**_MooniePie4457** — 1 claim(s), 130 blocks total
+  - (-20880,-4975) → (-20870,-4962) center (-20875,-4969) size 10×13
+**IllisGrimoire** — 1 claim(s), 80,568 blocks total
+  - (5333,-21889) → (5549,-21516) center (5441,-21703) size 216×373
+**XSakura_DemonX** — 1 claim(s), 27,450 blocks total
+  - (15492,18521) → (15614,18746) center (15553,18633) size 122×225
+**Dracalog** — 1 claim(s), 2,560 blocks total
+  - (23208,17412) → (23248,17476) center (23228,17444) size 40×64
+**KingCharles_6** — 1 claim(s), 3,630 blocks total
+  - (-11048,22330) → (-10982,22385) center (-11015,22357) size 66×55
+
 ## 2026-08-07 01:54 UTC
 Total claims: 17074 | Removed: 2 | Added: 8 | Skipped (reclaimed): 4
 
