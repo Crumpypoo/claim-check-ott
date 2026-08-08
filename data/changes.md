@@ -1,4 +1,35 @@
 
+## 2026-08-08 12:18 UTC
+Total claims: 17086 | Removed: 7 | Added: 8 | Skipped (reclaimed): 4
+
+### Removed
+**_SapphireCrafts** — 5 claim(s), 2,687 blocks total
+  - (-15930,-10643) → (-15918,-10631) center (-15924,-10637) size 12×12
+  - (-15892,-10672) → (-15881,-10661) center (-15887,-10667) size 11×11
+  - (-15916,-10656) → (-15879,-10631) center (-15898,-10644) size 37×25
+  - (-15907,-10691) → (-15892,-10656) center (-15900,-10674) size 15×35
+  - (-15943,-10684) → (-15916,-10648) center (-15930,-10666) size 27×36
+**OtterFanGirl** — 1 claim(s), 110 blocks total
+  - (18841,-23381) → (18852,-23371) center (18846,-23376) size 11×10
+**_GladPlayer8419** — 1 claim(s), 255 blocks total
+  - (20562,-8643) → (20577,-8626) center (20569,-8635) size 15×17
+
+### Added
+**_Kannon8245** — 3 claim(s), 602 blocks total
+  - (-5398,-22728) → (-5381,-22722) center (-5390,-22725) size 17×6
+  - (-5402,-22709) → (-5378,-22704) center (-5390,-22707) size 24×5
+  - (-5418,-22721) → (-5380,-22711) center (-5399,-22716) size 38×10
+**Junnoonn** — 1 claim(s), 7,373 blocks total
+  - (4921,21341) → (5022,21414) center (4971,21377) size 101×73
+**Humanbear** — 1 claim(s), 7,935 blocks total
+  - (-2525,21709) → (-2410,21778) center (-2468,21743) size 115×69
+**Radai9296** — 1 claim(s), 1,764 blocks total
+  - (-23247,12435) → (-23205,12477) center (-23226,12456) size 42×42
+**kakash2012** — 1 claim(s), 3,024 blocks total
+  - (20698,-6159) → (20761,-6111) center (20729,-6135) size 63×48
+**_Tekzi_** — 1 claim(s), 151,548 blocks total
+  - (13087,-8976) → (13606,-8684) center (13346,-8830) size 519×292
+
 ## 2026-08-08 06:27 UTC
 Total claims: 17089 | Removed: 7 | Added: 17 | Skipped (reclaimed): 6
 
