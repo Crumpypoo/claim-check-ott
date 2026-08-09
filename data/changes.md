@@ -1,4 +1,42 @@
 
+## 2026-08-09 12:20 UTC
+Total claims: 17115 | Removed: 3 | Added: 15 | Skipped (reclaimed): 4
+
+### Removed
+**otavioDn** — 1 claim(s), 258 blocks total
+  - (-22331,18470) → (-22288,18476) center (-22310,18473) size 43×6
+**denisbyuub** — 1 claim(s), 720 blocks total
+  - (22243,-12534) → (22279,-12514) center (22261,-12524) size 36×20
+**Dave_Wesker** — 1 claim(s), 208 blocks total
+  - (-20526,-19678) → (-20513,-19662) center (-20520,-19670) size 13×16
+
+### Added
+**Frycrafter5544** — 4 claim(s), 1,354 blocks total
+  - (23435,-15138) → (23451,-15124) center (23443,-15131) size 16×14
+  - (23413,-15122) → (23433,-15095) center (23423,-15109) size 20×27
+  - (23377,-15147) → (23390,-15125) center (23383,-15136) size 13×22
+  - (23346,-15172) → (23365,-15156) center (23355,-15164) size 19×16
+**jacobs8388** — 2 claim(s), 378 blocks total
+  - (14512,21150) → (14517,21192) center (14514,21171) size 5×42
+  - (14542,21169) → (14556,21181) center (14549,21175) size 14×12
+**phobibi** — 2 claim(s), 27,967 blocks total
+  - (-11383,22333) → (-11372,22344) center (-11378,22338) size 11×11
+  - (-13560,23269) → (-13378,23422) center (-13469,23345) size 182×153
+**JulianBlade09** — 1 claim(s), 575 blocks total
+  - (7416,22099) → (7441,22122) center (7428,22110) size 25×23
+**Janeana** — 1 claim(s), 3,600 blocks total
+  - (21069,12454) → (21129,12514) center (21099,12484) size 60×60
+**Erfan_Jigar** — 1 claim(s), 110 blocks total
+  - (-19976,-21976) → (-19966,-21965) center (-19971,-21971) size 10×11
+**JonyGamer161** — 1 claim(s), 868 blocks total
+  - (7319,21942) → (7350,21970) center (7334,21956) size 31×28
+**Agent_AO** — 1 claim(s), 256 blocks total
+  - (23456,20672) → (23472,20688) center (23464,20680) size 16×16
+**AllieNya** — 1 claim(s), 550 blocks total
+  - (-22171,-2209) → (-22149,-2184) center (-22160,-2197) size 22×25
+**Dreudur** — 1 claim(s), 275 blocks total
+  - (-21198,6631) → (-21193,6686) center (-21196,6658) size 5×55
+
 ## 2026-08-09 06:32 UTC
 Total claims: 17107 | Removed: 5 | Added: 22 | Skipped (reclaimed): 5
 
