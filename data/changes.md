@@ -1,4 +1,36 @@
 
+## 2026-08-10 12:36 UTC
+Total claims: 17143 | Removed: 2 | Added: 11 | Skipped (reclaimed): 2
+
+### Removed
+**BaldingChicken** — 1 claim(s), 812 blocks total
+  - (-2994,14722) → (-2966,14751) center (-2980,14736) size 28×29
+**aw1shz** — 1 claim(s), 5,504 blocks total
+  - (19975,23360) → (20039,23446) center (20007,23403) size 64×86
+
+### Added
+**_Tekzi_** — 2 claim(s), 20,087 blocks total
+  - (13379,-8805) → (13390,-8794) center (13384,-8800) size 11×11
+  - (13489,-8674) → (13623,-8525) center (13556,-8600) size 134×149
+**StarSteeveMiner** — 1 claim(s), 154 blocks total
+  - (-301,22070) → (-287,22081) center (-294,22075) size 14×11
+**GET_0UT** — 1 claim(s), 299 blocks total
+  - (-22730,-17742) → (-22707,-17729) center (-22719,-17736) size 23×13
+**saniixd** — 1 claim(s), 192 blocks total
+  - (-21823,23490) → (-21807,23502) center (-21815,23496) size 16×12
+**maeo141** — 1 claim(s), 264 blocks total
+  - (21356,10196) → (21368,10218) center (21362,10207) size 12×22
+**_moradan2662** — 1 claim(s), 252 blocks total
+  - (20948,-14743) → (20966,-14729) center (20957,-14736) size 18×14
+**elivxraez** — 1 claim(s), 924 blocks total
+  - (5286,-18294) → (5328,-18272) center (5307,-18283) size 42×22
+**MrCochon64** — 1 claim(s), 306 blocks total
+  - (3915,-23335) → (3932,-23317) center (3923,-23326) size 17×18
+**TheoBanana321** — 1 claim(s), 6,045 blocks total
+  - (-12444,22339) → (-12351,22404) center (-12398,22371) size 93×65
+**vxShay** — 1 claim(s), 9,880 blocks total
+  - (-20145,23445) → (-20050,23549) center (-20098,23497) size 95×104
+
 ## 2026-08-10 07:01 UTC
 Total claims: 17136 | Removed: 7 | Added: 19 | Skipped (reclaimed): 4
 
