@@ -1,4 +1,42 @@
 
+## 2026-08-12 00:47 UTC
+Total claims: 17165 | Removed: 5 | Added: 12 | Skipped (reclaimed): 3
+
+### Removed
+**Grim_Reaper01** — 1 claim(s), 399 blocks total
+  - (3983,202) → (4002,223) center (3992,212) size 19×21
+**_stastoporovskyi** — 1 claim(s), 156 blocks total
+  - (20513,20034) → (20526,20046) center (20519,20040) size 13×12
+**_Kartik9460** — 1 claim(s), 1,064 blocks total
+  - (-12030,-20725) → (-12002,-20687) center (-12016,-20706) size 28×38
+**q_jojo_p2000** — 1 claim(s), 357 blocks total
+  - (8072,-23179) → (8093,-23162) center (8082,-23171) size 21×17
+**skytribe1001** — 1 claim(s), 1,564 blocks total
+  - (20730,4081) → (20764,4127) center (20747,4104) size 34×46
+
+### Added
+**BreadTheifK3** — 4 claim(s), 70,399 blocks total
+  - (21605,19089) → (21626,19108) center (21615,19098) size 21×19
+  - (21571,18597) → (21637,19089) center (21604,18843) size 66×492
+  - (21880,19177) → (22160,19302) center (22020,19239) size 280×125
+  - (21605,19108) → (21637,19187) center (21621,19147) size 32×79
+**Tay0Tay** — 1 claim(s), 180,336 blocks total
+  - (-20934,-9804) → (-20492,-9396) center (-20713,-9600) size 442×408
+**JNB217** — 1 claim(s), 3,548,070 blocks total
+  - (10707,687) → (12253,2982) center (11480,1834) size 1546×2295
+**AceDerpaDerp** — 1 claim(s), 21,708 blocks total
+  - (-16348,-10461) → (-16147,-10353) center (-16248,-10407) size 201×108
+**RENGOKU3659** — 1 claim(s), 8,346 blocks total
+  - (-15847,23752) → (-15740,23830) center (-15794,23791) size 107×78
+**_FoxWithSox6953** — 1 claim(s), 320 blocks total
+  - (-14052,-20236) → (-14032,-20220) center (-14042,-20228) size 20×16
+**skytribe1001** — 1 claim(s), 256 blocks total
+  - (-20701,-5043) → (-20685,-5027) center (-20693,-5035) size 16×16
+**ColorfullyGrey** — 1 claim(s), 567 blocks total
+  - (6551,20713) → (6572,20740) center (6561,20726) size 21×27
+**waitinggg** — 1 claim(s), 91,486 blocks total
+  - (-4741,-18817) → (-4434,-18519) center (-4588,-18668) size 307×298
+
 ## 2026-08-11 18:41 UTC
 Total claims: 17161 | Removed: 4 | Added: 19 | Skipped (reclaimed): 4
 
