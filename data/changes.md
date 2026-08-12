@@ -1,4 +1,32 @@
 
+## 2026-08-12 12:36 UTC
+Total claims: 17168 | Removed: 3 | Added: 8 | Skipped (reclaimed): 1
+
+### Removed
+**UniSaikorn** — 2 claim(s), 879 blocks total
+  - (470,21776) → (483,21784) center (476,21780) size 13×8
+  - (450,21784) → (481,21809) center (465,21796) size 31×25
+**sircupid_** — 1 claim(s), 121 blocks total
+  - (-20975,5176) → (-20964,5187) center (-20970,5181) size 11×11
+
+### Added
+**LifeHP** — 1 claim(s), 180 blocks total
+  - (-19929,20248) → (-19914,20260) center (-19922,20254) size 15×12
+**JordanLad420** — 1 claim(s), 4,331 blocks total
+  - (-3388,1868) → (-3317,1929) center (-3353,1898) size 71×61
+**mc_prosu53** — 1 claim(s), 957 blocks total
+  - (23062,8502) → (23095,8531) center (23078,8516) size 33×29
+**Xuziyy** — 1 claim(s), 1,073 blocks total
+  - (-21564,6700) → (-21527,6729) center (-21546,6714) size 37×29
+**Afa05** — 1 claim(s), 370 blocks total
+  - (-16280,22733) → (-16270,22770) center (-16275,22751) size 10×37
+**Imperial_az** — 1 claim(s), 2,091 blocks total
+  - (7763,22845) → (7804,22896) center (7783,22870) size 41×51
+**_GamerCharles767** — 1 claim(s), 184 blocks total
+  - (14114,-21510) → (14122,-21487) center (14118,-21499) size 8×23
+**ColorfullyGrey** — 1 claim(s), 588 blocks total
+  - (6551,20712) → (6572,20740) center (6561,20726) size 21×28
+
 ## 2026-08-12 07:01 UTC
 Total claims: 17164 | Removed: 10 | Added: 20 | Skipped (reclaimed): 11
 
