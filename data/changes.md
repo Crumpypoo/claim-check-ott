@@ -1,4 +1,42 @@
 
+## 2026-08-13 12:37 UTC
+Total claims: 17193 | Removed: 5 | Added: 12 | Skipped (reclaimed): 3
+
+### Removed
+**MonkerzMC** — 2 claim(s), 2,195 blocks total
+  - (2535,-20789) → (2563,-20756) center (2549,-20773) size 28×33
+  - (-20932,36) → (-20891,67) center (-20912,51) size 41×31
+**_CosmicJelly4856** — 1 claim(s), 340 blocks total
+  - (22736,-7372) → (22753,-7352) center (22744,-7362) size 17×20
+**_QuickRex7255** — 1 claim(s), 108 blocks total
+  - (23329,4847) → (23341,4856) center (23335,4851) size 12×9
+**jacobs8388** — 1 claim(s), 1,886 blocks total
+  - (3116,-20295) → (3157,-20249) center (3136,-20272) size 41×46
+
+### Added
+**_Egebrn9** — 2 claim(s), 751 blocks total
+  - (-23378,2119) → (-23369,2133) center (-23374,2126) size 9×14
+  - (-23377,2138) → (-23352,2163) center (-23365,2150) size 25×25
+**Overflorda** — 2 claim(s), 447 blocks total
+  - (-22257,-20973) → (-22242,-20966) center (-22250,-20970) size 15×7
+  - (-22241,-20991) → (-22222,-20973) center (-22232,-20982) size 19×18
+**XSakura_DemonX** — 1 claim(s), 3,158,222 blocks total
+  - (13859,17623) → (15492,19557) center (14675,18590) size 1633×1934
+**HdogHawk** — 1 claim(s), 121 blocks total
+  - (-18201,3670) → (-18190,3681) center (-18196,3675) size 11×11
+**DorTheFirst** — 1 claim(s), 132 blocks total
+  - (3162,-20256) → (3174,-20245) center (3168,-20251) size 12×11
+**ShootingTree** — 1 claim(s), 1,000 blocks total
+  - (-14235,-21622) → (-14210,-21582) center (-14223,-21602) size 25×40
+**Adaptati0n** — 1 claim(s), 121 blocks total
+  - (21517,-348) → (21528,-337) center (21522,-343) size 11×11
+**Afa05** — 1 claim(s), 4,224 blocks total
+  - (-16368,22741) → (-16280,22789) center (-16324,22765) size 88×48
+**jacobs8388** — 1 claim(s), 2,530 blocks total
+  - (14509,21153) → (14564,21199) center (14536,21176) size 55×46
+**St4rrDream1** — 1 claim(s), 238 blocks total
+  - (18438,23379) → (18455,23393) center (18446,23386) size 17×14
+
 ## 2026-08-13 07:05 UTC
 Total claims: 17189 | Removed: 4 | Added: 10 | Skipped (reclaimed): 5
 
