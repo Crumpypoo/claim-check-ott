@@ -1,4 +1,38 @@
 
+## 2026-08-13 07:05 UTC
+Total claims: 17189 | Removed: 4 | Added: 10 | Skipped (reclaimed): 5
+
+### Removed
+**Markialyz** — 1 claim(s), 598 blocks total
+  - (10209,22276) → (10232,22302) center (10220,22289) size 23×26
+**darthmarega** — 1 claim(s), 690 blocks total
+  - (-16282,22239) → (-16236,22254) center (-16259,22246) size 46×15
+**ANDOR5** — 1 claim(s), 108 blocks total
+  - (-21900,-5149) → (-21891,-5137) center (-21896,-5143) size 9×12
+**wavqs** — 1 claim(s), 1,015 blocks total
+  - (22062,20967) → (22091,21002) center (22076,20984) size 29×35
+
+### Added
+**grossly** — 2 claim(s), 401 blocks total
+  - (-520,-18454) → (-491,-18447) center (-506,-18451) size 29×7
+  - (-534,-18396) → (-516,-18385) center (-525,-18391) size 18×11
+**Tay0Tay** — 1 claim(s), 195,806 blocks total
+  - (-20934,-9804) → (-20492,-9361) center (-20713,-9583) size 442×443
+**_Brandon0189347** — 1 claim(s), 1,140 blocks total
+  - (-1796,-22104) → (-1758,-22074) center (-1777,-22089) size 38×30
+**bunnytiger** — 1 claim(s), 1,924 blocks total
+  - (-22321,-14182) → (-22284,-14130) center (-22303,-14156) size 37×52
+**Flowery_rune** — 1 claim(s), 525 blocks total
+  - (-4185,-22028) → (-4160,-22007) center (-4173,-22018) size 25×21
+**foxytilly** — 1 claim(s), 16,512 blocks total
+  - (24768,12864) → (24896,12993) center (24832,12928) size 128×129
+**WishFlowerPD** — 1 claim(s), 11,845 blocks total
+  - (5980,-22656) → (6095,-22553) center (6037,-22605) size 115×103
+**_HollowShade6104** — 1 claim(s), 57,000 blocks total
+  - (23245,-12836) → (23473,-12586) center (23359,-12711) size 228×250
+**Rosey_21** — 1 claim(s), 168 blocks total
+  - (21616,-5630) → (21630,-5618) center (21623,-5624) size 14×12
+
 ## 2026-08-13 00:49 UTC
 Total claims: 17188 | Removed: 16 | Added: 25 | Skipped (reclaimed): 12
 
