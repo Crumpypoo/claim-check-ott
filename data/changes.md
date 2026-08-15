@@ -1,4 +1,46 @@
 
+## 2026-08-15 12:11 UTC
+Total claims: 17207 | Removed: 6 | Added: 12 | Skipped (reclaimed): 6
+
+### Removed
+**sashaistcool** — 2 claim(s), 1,954 blocks total
+  - (15432,-21707) → (15467,-21672) center (15449,-21690) size 35×35
+  - (-23211,-21514) → (-23184,-21487) center (-23198,-21501) size 27×27
+**Andrew_B1225** — 1 claim(s), 1,632 blocks total
+  - (23184,-12498) → (23235,-12466) center (23209,-12482) size 51×32
+**anaisa54** — 1 claim(s), 490 blocks total
+  - (-13584,23097) → (-13574,23146) center (-13579,23121) size 10×49
+**crazeisvalid** — 1 claim(s), 840 blocks total
+  - (-15500,-23034) → (-15476,-22999) center (-15488,-23017) size 24×35
+**AshyK** — 1 claim(s), 1,600 blocks total
+  - (3991,22900) → (4031,22940) center (4011,22920) size 40×40
+
+### Added
+**DIOMONDCREEPERLH** — 1 claim(s), 300,618 blocks total
+  - (-15326,-4849) → (-14740,-4336) center (-15033,-4593) size 586×513
+**KateLikesFrogs** — 1 claim(s), 121 blocks total
+  - (-11301,22644) → (-11290,22655) center (-11296,22649) size 11×11
+**yoa_imo** — 1 claim(s), 121 blocks total
+  - (-8994,22395) → (-8983,22406) center (-8989,22400) size 11×11
+**BugszieBoo** — 1 claim(s), 650 blocks total
+  - (-6418,23357) → (-6393,23383) center (-6406,23370) size 25×26
+**Gimago** — 1 claim(s), 33,880 blocks total
+  - (23685,23259) → (23825,23501) center (23755,23380) size 140×242
+**_Samratdarsh** — 1 claim(s), 440 blocks total
+  - (23123,-15728) → (23145,-15708) center (23134,-15718) size 22×20
+**fredtheduck83** — 1 claim(s), 1,140 blocks total
+  - (-22425,-22314) → (-22387,-22284) center (-22406,-22299) size 38×30
+**_Gourav_gamer793** — 1 claim(s), 575 blocks total
+  - (20888,18027) → (20911,18052) center (20899,18039) size 23×25
+**SkellyFace** — 1 claim(s), 208 blocks total
+  - (-21833,23127) → (-21820,23143) center (-21827,23135) size 13×16
+**JoJoFight** — 1 claim(s), 8,835 blocks total
+  - (-15432,21436) → (-15337,21529) center (-15385,21482) size 95×93
+**kingdoom190** — 1 claim(s), 1,610 blocks total
+  - (22771,13609) → (22806,13655) center (22788,13632) size 35×46
+**_Ayuma15** — 1 claim(s), 180 blocks total
+  - (20389,21331) → (20401,21346) center (20395,21338) size 12×15
+
 ## 2026-08-15 06:15 UTC
 Total claims: 17207 | Removed: 7 | Added: 14 | Skipped (reclaimed): 5
 
