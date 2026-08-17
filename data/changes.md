@@ -1,4 +1,21 @@
 
+## 2026-08-17 12:15 UTC
+Total claims: 17288 | Removed: 2 | Added: 4 | Skipped (reclaimed): 1
+
+### Removed
+**Walesyyy** — 1 claim(s), 682 blocks total
+  - (22226,4718) → (22248,4749) center (22237,4733) size 22×31
+**VizoZizo** — 1 claim(s), 247 blocks total
+  - (-22983,-15144) → (-22970,-15125) center (-22977,-15135) size 13×19
+
+### Added
+**JoJoFight** — 3 claim(s), 1,618 blocks total
+  - (-15432,21422) → (-15358,21440) center (-15395,21431) size 74×18
+  - (-15357,21438) → (-15344,21447) center (-15351,21442) size 13×9
+  - (-15362,21449) → (-15349,21462) center (-15356,21455) size 13×13
+**ZaistiCata** — 1 claim(s), 456 blocks total
+  - (-2333,22067) → (-2314,22091) center (-2324,22079) size 19×24
+
 ## 2026-08-17 06:25 UTC
 Total claims: 17287 | Removed: 5 | Added: 20 | Skipped (reclaimed): 7
 
