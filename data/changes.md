@@ -1,4 +1,34 @@
 
+## 2026-08-18 12:17 UTC
+Total claims: 17292 | Removed: 7 | Added: 5 | Skipped (reclaimed): 5
+
+### Removed
+**GiddyEmu** — 2 claim(s), 417 blocks total
+  - (-22293,-16610) → (-22258,-16601) center (-22276,-16606) size 35×9
+  - (-22304,-16607) → (-22298,-16590) center (-22301,-16599) size 6×17
+**_ThirdCarp8852** — 1 claim(s), 238 blocks total
+  - (19500,23013) → (19514,23030) center (19507,23021) size 14×17
+**King_Tomy** — 1 claim(s), 121 blocks total
+  - (-20108,19089) → (-20097,19100) center (-20103,19094) size 11×11
+**AlneyGames** — 1 claim(s), 1,258 blocks total
+  - (-22115,-2536) → (-22081,-2499) center (-22098,-2518) size 34×37
+**Katiahereeee** — 1 claim(s), 252 blocks total
+  - (-23105,9927) → (-23096,9955) center (-23101,9941) size 9×28
+**Neluriel** — 1 claim(s), 156 blocks total
+  - (7627,-21457) → (7639,-21444) center (7633,-21451) size 12×13
+
+### Added
+**DIOMONDCREEPERLH** — 1 claim(s), 20,460 blocks total
+  - (-16057,-6189) → (-15925,-6034) center (-15991,-6112) size 132×155
+**FuzzHeadGamer** — 1 claim(s), 520 blocks total
+  - (23258,19053) → (23278,19079) center (23268,19066) size 20×26
+**JoJoFight** — 1 claim(s), 21,648 blocks total
+  - (-15401,21392) → (-15237,21524) center (-15319,21458) size 164×132
+**Sebast_an** — 1 claim(s), 110 blocks total
+  - (5933,-21965) → (5943,-21954) center (5938,-21960) size 10×11
+**bqwetcalling** — 1 claim(s), 121 blocks total
+  - (21315,13676) → (21326,13687) center (21320,13681) size 11×11
+
 ## 2026-08-18 06:19 UTC
 Total claims: 17299 | Removed: 8 | Added: 15 | Skipped (reclaimed): 3
 
