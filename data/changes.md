@@ -1,4 +1,51 @@
 
+## 2026-08-18 06:19 UTC
+Total claims: 17299 | Removed: 8 | Added: 15 | Skipped (reclaimed): 3
+
+### Removed
+**xxXmartenXxxfor** — 3 claim(s), 795 blocks total
+  - (23837,13219) → (23850,13234) center (23843,13226) size 13×15
+  - (23716,13118) → (23726,13130) center (23721,13124) size 10×12
+  - (23727,13118) → (23759,13133) center (23743,13125) size 32×15
+**Adaptati0n** — 1 claim(s), 750 blocks total
+  - (21501,-445) → (21551,-430) center (21526,-438) size 50×15
+**Raryst** — 1 claim(s), 121 blocks total
+  - (-22589,20035) → (-22578,20046) center (-22584,20040) size 11×11
+**caroluli124** — 1 claim(s), 1,482 blocks total
+  - (-23054,12868) → (-23015,12906) center (-23035,12887) size 39×38
+**tianuz** — 1 claim(s), 2,805 blocks total
+  - (23596,2934) → (23647,2989) center (23621,2961) size 51×55
+**DRDIRT007** — 1 claim(s), 1,470 blocks total
+  - (22923,1329) → (22965,1364) center (22944,1346) size 42×35
+
+### Added
+**FlukeyFaun84** — 3 claim(s), 1,282 blocks total
+  - (5943,-22515) → (5972,-22487) center (5957,-22501) size 29×28
+  - (5923,-22486) → (5945,-22478) center (5934,-22482) size 22×8
+  - (5913,-22520) → (5934,-22506) center (5923,-22513) size 21×14
+**xEZx** — 2 claim(s), 10,345 blocks total
+  - (8286,-22541) → (8343,-22430) center (8314,-22486) size 57×111
+  - (8245,-22541) → (8286,-22443) center (8265,-22492) size 41×98
+**Caveman_pickle** — 2 claim(s), 624 blocks total
+  - (13135,21505) → (13155,21511) center (13145,21508) size 20×6
+  - (13229,21627) → (13265,21641) center (13247,21634) size 36×14
+**Tay0Tay** — 1 claim(s), 292,802 blocks total
+  - (-20944,-9804) → (-20382,-9283) center (-20663,-9544) size 562×521
+**Wetnn** — 1 claim(s), 990 blocks total
+  - (22470,-11462) → (22503,-11432) center (22486,-11447) size 33×30
+**Fire_bird_11** — 1 claim(s), 484 blocks total
+  - (21652,21142) → (21674,21164) center (21663,21153) size 22×22
+**Luxavva** — 1 claim(s), 9,300 blocks total
+  - (-19982,24729) → (-19882,24822) center (-19932,24775) size 100×93
+**Flowery_rune** — 1 claim(s), 464 blocks total
+  - (-4153,-22060) → (-4124,-22044) center (-4139,-22052) size 29×16
+**Jishyyy** — 1 claim(s), 154 blocks total
+  - (-20950,2331) → (-20936,2342) center (-20943,2336) size 14×11
+**Recharge7131** — 1 claim(s), 2,544 blocks total
+  - (-22232,13799) → (-22184,13852) center (-22208,13825) size 48×53
+**Nicholasgamez** — 1 claim(s), 121,095 blocks total
+  - (-17728,23143) → (-17383,23494) center (-17556,23318) size 345×351
+
 ## 2026-08-18 00:26 UTC
 Total claims: 17295 | Removed: 8 | Added: 32 | Skipped (reclaimed): 12
 
