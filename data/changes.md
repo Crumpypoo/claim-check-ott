@@ -1,4 +1,37 @@
 
+## 2026-08-19 12:16 UTC
+Total claims: 17291 | Removed: 2 | Added: 11 | Skipped (reclaimed): 2
+
+### Removed
+**_godthunder4647** — 1 claim(s), 360 blocks total
+  - (-13003,-21100) → (-12973,-21088) center (-12988,-21094) size 30×12
+**_KaspaRafis** — 1 claim(s), 657 blocks total
+  - (20727,-15487) → (20736,-15414) center (20731,-15451) size 9×73
+
+### Added
+**SJANIMATOR1** — 1 claim(s), 33,490 blocks total
+  - (20255,14016) → (20425,14213) center (20340,14114) size 170×197
+**Imperial_az** — 1 claim(s), 3,696 blocks total
+  - (7727,22848) → (7804,22896) center (7765,22872) size 77×48
+**Supercrafter_200** — 1 claim(s), 243 blocks total
+  - (-16606,-655) → (-16597,-628) center (-16602,-642) size 9×27
+**DuckhamJR** — 1 claim(s), 1,292 blocks total
+  - (-22800,18486) → (-22766,18524) center (-22783,18505) size 34×38
+**_CoKaiDev** — 1 claim(s), 135 blocks total
+  - (-4965,-21069) → (-4950,-21060) center (-4958,-21065) size 15×9
+**babykingz** — 1 claim(s), 784 blocks total
+  - (21523,-2246) → (21551,-2218) center (21537,-2232) size 28×28
+**Benny2015_3BF** — 1 claim(s), 140 blocks total
+  - (-19944,16673) → (-19934,16687) center (-19939,16680) size 10×14
+**_VanQush_** — 1 claim(s), 121 blocks total
+  - (20980,18710) → (20991,18721) center (20985,18715) size 11×11
+**zytazs** — 1 claim(s), 1,000 blocks total
+  - (-21787,-5135) → (-21762,-5095) center (-21775,-5115) size 25×40
+**WaterDraws** — 1 claim(s), 1,200 blocks total
+  - (21119,12165) → (21144,12213) center (21131,12189) size 25×48
+**iJfox_** — 1 claim(s), 1,610 blocks total
+  - (-8276,-20938) → (-8241,-20892) center (-8259,-20915) size 35×46
+
 ## 2026-08-19 06:20 UTC
 Total claims: 17284 | Removed: 15 | Added: 11 | Skipped (reclaimed): 4
 
