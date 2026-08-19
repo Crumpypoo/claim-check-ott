@@ -1,4 +1,57 @@
 
+## 2026-08-19 06:20 UTC
+Total claims: 17284 | Removed: 15 | Added: 11 | Skipped (reclaimed): 4
+
+### Removed
+**_StaticZeus4285** — 4 claim(s), 1,201 blocks total
+  - (14494,21526) → (14509,21538) center (14501,21532) size 15×12
+  - (14469,21526) → (14484,21541) center (14476,21533) size 15×15
+  - (21658,23068) → (21678,23097) center (21668,23082) size 20×29
+  - (9266,22895) → (9293,22903) center (9279,22899) size 27×8
+**cannabisjvnkie** — 3 claim(s), 756 blocks total
+  - (5080,23577) → (5099,23596) center (5089,23586) size 19×19
+  - (5064,23590) → (5077,23601) center (5070,23595) size 13×11
+  - (5038,23607) → (5080,23613) center (5059,23610) size 42×6
+**Pandace8** — 1 claim(s), 945 blocks total
+  - (-23512,-14439) → (-23467,-14418) center (-23490,-14429) size 45×21
+**_IsthisAgile** — 1 claim(s), 450 blocks total
+  - (4123,-20810) → (4141,-20785) center (4132,-20798) size 18×25
+**diplexmantis98** — 1 claim(s), 117 blocks total
+  - (-2084,-22011) → (-2071,-22002) center (-2078,-22007) size 13×9
+**_RebelBull732813** — 1 claim(s), 112 blocks total
+  - (-16441,-22271) → (-16433,-22257) center (-16437,-22264) size 8×14
+**LostHollowYT** — 1 claim(s), 80,830 blocks total
+  - (22867,-1904) → (23141,-1609) center (23004,-1757) size 274×295
+**Animegirl170201** — 1 claim(s), 210 blocks total
+  - (-2269,-21123) → (-2255,-21108) center (-2262,-21116) size 14×15
+**3mpty_Us3r** — 1 claim(s), 564 blocks total
+  - (-21801,12865) → (-21754,12877) center (-21778,12871) size 47×12
+**Matty_Patty_** — 1 claim(s), 380 blocks total
+  - (20308,-12949) → (20328,-12930) center (20318,-12940) size 20×19
+
+### Added
+**D4Doom** — 2 claim(s), 940 blocks total
+  - (-11210,22091) → (-11199,22111) center (-11205,22101) size 11×20
+  - (-11182,22097) → (-11158,22127) center (-11170,22112) size 24×30
+**LOJOSTO** — 1 claim(s), 2,983,498 blocks total
+  - (5339,23558) → (7408,25000) center (6373,24279) size 2069×1442
+**Ent_NZ** — 1 claim(s), 1,140,760 blocks total
+  - (2891,23119) → (3681,24563) center (3286,23841) size 790×1444
+**XSakura_DemonX** — 1 claim(s), 6,192 blocks total
+  - (20658,24379) → (20744,24451) center (20701,24415) size 86×72
+**bonzaii2093** — 1 claim(s), 420 blocks total
+  - (20561,-6703) → (20582,-6683) center (20571,-6693) size 21×20
+**JesterWizzy** — 1 claim(s), 195 blocks total
+  - (-20032,20990) → (-20019,21005) center (-20026,20997) size 13×15
+**LostHollowYT** — 1 claim(s), 57,096 blocks total
+  - (-13961,-23329) → (-13717,-23095) center (-13839,-23212) size 244×234
+**WaterDraws** — 1 claim(s), 324 blocks total
+  - (-7179,-22113) → (-7161,-22095) center (-7170,-22104) size 18×18
+**Alxx2** — 1 claim(s), 434 blocks total
+  - (9078,-7221) → (9109,-7207) center (9093,-7214) size 31×14
+**Animegirl170201** — 1 claim(s), 2,200 blocks total
+  - (-2309,-21180) → (-2265,-21130) center (-2287,-21155) size 44×50
+
 ## 2026-08-19 00:25 UTC
 Total claims: 17292 | Removed: 12 | Added: 17 | Skipped (reclaimed): 3
 
