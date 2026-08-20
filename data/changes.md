@@ -1,4 +1,33 @@
 
+## 2026-08-20 12:18 UTC
+Total claims: 17309 | Removed: 7 | Added: 7 | Skipped (reclaimed): 1
+
+### Removed
+**Azteck3000** — 3 claim(s), 965 blocks total
+  - (-21166,9819) → (-21161,9853) center (-21164,9836) size 5×34
+  - (-21324,9906) → (-21313,9921) center (-21319,9913) size 11×15
+  - (-21193,9840) → (-21175,9875) center (-21184,9857) size 18×35
+**_StillWater6322** — 2 claim(s), 1,087 blocks total
+  - (-22784,-7828) → (-22754,-7806) center (-22769,-7817) size 30×22
+  - (-22783,-7842) → (-22722,-7835) center (-22753,-7839) size 61×7
+**Planet_Doge** — 1 claim(s), 104 blocks total
+  - (-20933,22479) → (-20920,22487) center (-20927,22483) size 13×8
+**CrazyCathlene** — 1 claim(s), 480 blocks total
+  - (-21409,1304) → (-21385,1324) center (-21397,1314) size 24×20
+
+### Added
+**_KingMine6510** — 4 claim(s), 951 blocks total
+  - (-1445,1436) → (-1425,1459) center (-1435,1447) size 20×23
+  - (-1427,1465) → (-1411,1472) center (-1419,1468) size 16×7
+  - (-1672,1915) → (-1662,1934) center (-1667,1924) size 10×19
+  - (-1656,1869) → (-1647,1890) center (-1652,1879) size 9×21
+**LocalBookNerd** — 1 claim(s), 3,519 blocks total
+  - (6523,-22891) → (6592,-22840) center (6557,-22866) size 69×51
+**Konsti20200** — 1 claim(s), 504 blocks total
+  - (-21827,-18173) → (-21803,-18152) center (-21815,-18163) size 24×21
+**GorjanCar** — 1 claim(s), 108 blocks total
+  - (-17241,-23551) → (-17235,-23533) center (-17238,-23542) size 6×18
+
 ## 2026-08-20 06:20 UTC
 Total claims: 17310 | Removed: 7 | Added: 16 | Skipped (reclaimed): 8
 
