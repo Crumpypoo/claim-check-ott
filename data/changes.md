@@ -1,4 +1,77 @@
 
+## 2026-08-24 00:27 UTC
+Total claims: 17411 | Removed: 8 | Added: 27 | Skipped (reclaimed): 7
+
+### Removed
+**JavaScript_YT** — 1 claim(s), 141,312 blocks total
+  - (3328,-13072) → (3696,-12688) center (3512,-12880) size 368×384
+**Fiithyr** — 1 claim(s), 1,748 blocks total
+  - (-22805,20546) → (-22759,20584) center (-22782,20565) size 46×38
+**DeadB0y2079** — 1 claim(s), 1,722 blocks total
+  - (-7514,20703) → (-7472,20744) center (-7493,20723) size 42×41
+**BonelessYTs1950** — 1 claim(s), 972 blocks total
+  - (-21844,8509) → (-21808,8536) center (-21826,8522) size 36×27
+**_ViewingFox59442** — 1 claim(s), 132 blocks total
+  - (-23356,4170) → (-23344,4181) center (-23350,4175) size 12×11
+**eepyRatt** — 1 claim(s), 100 blocks total
+  - (-22143,-18317) → (-22133,-18307) center (-22138,-18312) size 10×10
+**MagicJada12** — 1 claim(s), 1,833 blocks total
+  - (-10896,-21516) → (-10857,-21469) center (-10877,-21493) size 39×47
+**_Goril1453uga** — 1 claim(s), 300 blocks total
+  - (5698,20720) → (5718,20735) center (5708,20727) size 20×15
+
+### Added
+**Missionski** — 3 claim(s), 1,518,076 blocks total
+  - (-18616,2069) → (-17439,2700) center (-18028,2384) size 1177×631
+  - (-18616,2700) → (-17587,3365) center (-18102,3032) size 1029×665
+  - (-17585,2741) → (-17439,3365) center (-17512,3053) size 146×624
+**caroluli124** — 2 claim(s), 10,546 blocks total
+  - (-22765,12868) → (-22694,12918) center (-22730,12893) size 71×50
+  - (-22761,12942) → (-22695,13048) center (-22728,12995) size 66×106
+**CatfishFishFish** — 2 claim(s), 940 blocks total
+  - (-22564,20639) → (-22559,20767) center (-22562,20703) size 5×128
+  - (-22555,20692) → (-22495,20697) center (-22525,20694) size 60×5
+**PyroMagii** — 1 claim(s), 16,585 blocks total
+  - (21510,-6469) → (21617,-6314) center (21563,-6392) size 107×155
+**Zach25_Hmmmm** — 1 claim(s), 7,695 blocks total
+  - (-23182,-19782) → (-23101,-19687) center (-23142,-19735) size 81×95
+**schmungusmung** — 1 claim(s), 1,551 blocks total
+  - (-6854,19956) → (-6807,19989) center (-6831,19972) size 47×33
+**johnjam51** — 1 claim(s), 540 blocks total
+  - (23335,10261) → (23355,10288) center (23345,10274) size 20×27
+**Blank_canva** — 1 claim(s), 61,899 blocks total
+  - (7508,-5820) → (7649,-5381) center (7578,-5601) size 141×439
+**DeadB0y2079** — 1 claim(s), 1,330 blocks total
+  - (245,21326) → (280,21364) center (262,21345) size 35×38
+**Seuless** — 1 claim(s), 1,161 blocks total
+  - (1052,20009) → (1079,20052) center (1065,20030) size 27×43
+**_SpaceNinja3650** — 1 claim(s), 100 blocks total
+  - (20902,-3640) → (20912,-3630) center (20907,-3635) size 10×10
+**NathanWilly36** — 1 claim(s), 6,097 blocks total
+  - (-10978,-21237) → (-10911,-21146) center (-10945,-21192) size 67×91
+**Tehknetium** — 1 claim(s), 4,641 blocks total
+  - (898,20299) → (949,20390) center (923,20344) size 51×91
+**Roffell** — 1 claim(s), 660 blocks total
+  - (-19687,20864) → (-19654,20884) center (-19671,20874) size 33×20
+**MEWO_00** — 1 claim(s), 1,710 blocks total
+  - (-21349,3160) → (-21311,3205) center (-21330,3182) size 38×45
+**diggydiggyhole1** — 1 claim(s), 6,480 blocks total
+  - (-6864,19994) → (-6792,20084) center (-6828,20039) size 72×90
+**Mistys_Chaos** — 1 claim(s), 578 blocks total
+  - (784,9655) → (818,9672) center (801,9663) size 34×17
+**eepyRatt** — 1 claim(s), 8,772 blocks total
+  - (-22242,-18445) → (-22140,-18359) center (-22191,-18402) size 102×86
+**Hadou_96** — 1 claim(s), 10,752 blocks total
+  - (15944,23147) → (16056,23243) center (16000,23195) size 112×96
+**SenpaIDGAF** — 1 claim(s), 156 blocks total
+  - (-14584,-22332) → (-14578,-22306) center (-14581,-22319) size 6×26
+**worrrmz** — 1 claim(s), 165 blocks total
+  - (11644,21264) → (11655,21279) center (11649,21271) size 11×15
+**_MellysBee** — 1 claim(s), 3,240 blocks total
+  - (-23294,3936) → (-23240,3996) center (-23267,3966) size 54×60
+**Theultimeant** — 1 claim(s), 3,410 blocks total
+  - (-10006,-21517) → (-9944,-21462) center (-9975,-21490) size 62×55
+
 ## 2026-08-23 18:09 UTC
 Total claims: 17399 | Removed: 7 | Added: 27 | Skipped (reclaimed): 5
 
