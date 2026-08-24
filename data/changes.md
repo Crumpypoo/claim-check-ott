@@ -1,4 +1,38 @@
 
+## 2026-08-24 18:19 UTC
+Total claims: 17421 | Removed: 6 | Added: 10 | Skipped (reclaimed): 4
+
+### Removed
+**MRgeil1** — 3 claim(s), 365 blocks total
+  - (-16334,-20625) → (-16324,-20614) center (-16329,-20620) size 10×11
+  - (-16338,-20652) → (-16333,-20625) center (-16336,-20639) size 5×27
+  - (-16325,-20614) → (-16315,-20602) center (-16320,-20608) size 10×12
+**Toostrange4u** — 2 claim(s), 982 blocks total
+  - (22916,-12453) → (22921,-12424) center (22918,-12439) size 5×29
+  - (22875,-12451) → (22906,-12424) center (22890,-12438) size 31×27
+**YourLocalAngela** — 1 claim(s), 400 blocks total
+  - (-7990,21605) → (-7965,21621) center (-7978,21613) size 25×16
+
+### Added
+**_Smokedatgass291** — 3 claim(s), 859 blocks total
+  - (-22652,-17026) → (-22624,-17004) center (-22638,-17015) size 28×22
+  - (-22244,-17077) → (-22237,-17059) center (-22241,-17068) size 7×18
+  - (-22287,-17267) → (-22274,-17258) center (-22281,-17263) size 13×9
+**CharmanderRose** — 1 claim(s), 646,776 blocks total
+  - (21362,-7732) → (22053,-6796) center (21707,-7264) size 691×936
+**Blank_canva** — 1 claim(s), 16,899 blocks total
+  - (6976,-6211) → (7105,-6080) center (7040,-6146) size 129×131
+**Bene2026_3BF** — 1 claim(s), 4,928 blocks total
+  - (23308,22236) → (23364,22324) center (23336,22280) size 56×88
+**Yiuma** — 1 claim(s), 16,384 blocks total
+  - (6848,-6208) → (6976,-6080) center (6912,-6144) size 128×128
+**willowlol12** — 1 claim(s), 2,356 blocks total
+  - (21952,4892) → (21990,4954) center (21971,4923) size 38×62
+**Frankiepank** — 1 claim(s), 462 blocks total
+  - (-20995,3940) → (-20973,3961) center (-20984,3950) size 22×21
+**M5Mjl** — 1 claim(s), 1,836 blocks total
+  - (-22810,19540) → (-22756,19574) center (-22783,19557) size 54×34
+
 ## 2026-08-24 12:18 UTC
 Total claims: 17421 | Removed: 0 | Added: 0 | Skipped (reclaimed): 2628
 
