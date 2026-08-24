@@ -1,4 +1,49 @@
 
+## 2026-08-24 06:29 UTC
+Total claims: 17420 | Removed: 2 | Added: 20 | Skipped (reclaimed): 9
+
+### Removed
+**Blank_canva** — 1 claim(s), 61,899 blocks total
+  - (7508,-5820) → (7649,-5381) center (7578,-5601) size 141×439
+**_Noahpro2969** — 1 claim(s), 161 blocks total
+  - (-21743,713) → (-21736,736) center (-21740,724) size 7×23
+
+### Added
+**StonySoup832115** — 6 claim(s), 726 blocks total
+  - (20806,16445) → (20817,16456) center (20811,16450) size 11×11
+  - (20818,16445) → (20829,16456) center (20823,16450) size 11×11
+  - (20831,16446) → (20842,16457) center (20836,16451) size 11×11
+  - (20835,16460) → (20846,16471) center (20840,16465) size 11×11
+  - (20819,16463) → (20830,16474) center (20824,16468) size 11×11
+  - (20807,16466) → (20818,16477) center (20812,16471) size 11×11
+**kota490** — 2 claim(s), 1,092,871 blocks total
+  - (-17439,1798) → (-16742,3365) center (-17091,2581) size 697×1567
+  - (-16738,3430) → (-16726,3486) center (-16732,3458) size 12×56
+**lncisor** — 1 claim(s), 127,088 blocks total
+  - (-24132,-11149) → (-23794,-10773) center (-23963,-10961) size 338×376
+**Missionski** — 1 claim(s), 92,352 blocks total
+  - (-17587,2741) → (-17439,3365) center (-17513,3053) size 148×624
+**EatYourBroccoli** — 1 claim(s), 360 blocks total
+  - (-827,21515) → (-803,21530) center (-815,21522) size 24×15
+**NottheNorm147** — 1 claim(s), 14,490 blocks total
+  - (11536,21364) → (11662,21479) center (11599,21421) size 126×115
+**WetBill** — 1 claim(s), 3,640 blocks total
+  - (21414,17875) → (21479,17931) center (21446,17903) size 65×56
+**BobaJun** — 1 claim(s), 2,132 blocks total
+  - (-11868,10705) → (-11827,10757) center (-11848,10731) size 41×52
+**Meryseal** — 1 claim(s), 1,271 blocks total
+  - (-21413,1873) → (-21382,1914) center (-21398,1893) size 31×41
+**HamborgerGood** — 1 claim(s), 806 blocks total
+  - (-22432,12888) → (-22406,12919) center (-22419,12903) size 26×31
+**_DiogoUnde6520** — 1 claim(s), 3,068 blocks total
+  - (23125,20883) → (23184,20935) center (23154,20909) size 59×52
+**KyubiKitsu** — 1 claim(s), 40,401 blocks total
+  - (23956,-14733) → (24157,-14532) center (24056,-14633) size 201×201
+**ShrubbyTrash245** — 1 claim(s), 945 blocks total
+  - (6846,21969) → (6873,22004) center (6859,21986) size 27×35
+**CLOUDSofSTEEL** — 1 claim(s), 5,254 blocks total
+  - (-15093,-21279) → (-15019,-21208) center (-15056,-21244) size 74×71
+
 ## 2026-08-24 00:27 UTC
 Total claims: 17411 | Removed: 8 | Added: 27 | Skipped (reclaimed): 7
 
