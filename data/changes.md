@@ -1,4 +1,54 @@
 
+## 2026-08-26 12:21 UTC
+Total claims: 17462 | Removed: 5 | Added: 20 | Skipped (reclaimed): 4
+
+### Removed
+**allbkey** — 1 claim(s), 1,813 blocks total
+  - (23507,-13704) → (23544,-13655) center (23525,-13680) size 37×49
+**znujka** — 1 claim(s), 144 blocks total
+  - (-16729,-21352) → (-16720,-21336) center (-16725,-21344) size 9×16
+**SrFern** — 1 claim(s), 224 blocks total
+  - (12749,23021) → (12765,23035) center (12757,23028) size 16×14
+**HoneybeanHails28** — 1 claim(s), 1,224 blocks total
+  - (22040,18243) → (22074,18279) center (22057,18261) size 34×36
+**mrjakobbuch** — 1 claim(s), 738 blocks total
+  - (-22755,-8820) → (-22737,-8779) center (-22746,-8800) size 18×41
+
+### Added
+**wafflstew** — 5 claim(s), 1,243 blocks total
+  - (9836,21108) → (9850,21118) center (9843,21113) size 14×10
+  - (9806,21112) → (9824,21124) center (9815,21118) size 18×12
+  - (9788,21072) → (9797,21098) center (9792,21085) size 9×26
+  - (9811,21063) → (9845,21075) center (9828,21069) size 34×12
+  - (9829,21089) → (9836,21124) center (9832,21106) size 7×35
+**Corennuel** — 3 claim(s), 2,750 blocks total
+  - (-17191,-18962) → (-17149,-18924) center (-17170,-18943) size 42×38
+  - (-4004,16176) → (-3986,16191) center (-3995,16183) size 18×15
+  - (15507,-13871) → (15533,-13837) center (15520,-13854) size 26×34
+**RavenGrimClde** — 2 claim(s), 1,498 blocks total
+  - (-17161,21082) → (-17147,21105) center (-17154,21093) size 14×23
+  - (9808,21125) → (9850,21153) center (9829,21139) size 42×28
+**Supercrafter_200** — 1 claim(s), 836 blocks total
+  - (-16438,-729) → (-16400,-707) center (-16419,-718) size 38×22
+**_Axdi99** — 1 claim(s), 132 blocks total
+  - (22097,-3738) → (22119,-3732) center (22108,-3735) size 22×6
+**SaMcU7** — 1 claim(s), 121 blocks total
+  - (12196,20878) → (12207,20889) center (12201,20883) size 11×11
+**AbcTest123** — 1 claim(s), 1,860 blocks total
+  - (-23453,10461) → (-23433,10554) center (-23443,10507) size 20×93
+**choco_Rasin** — 1 claim(s), 108 blocks total
+  - (10502,21040) → (10520,21046) center (10511,21043) size 18×6
+**MrVanma** — 1 claim(s), 276 blocks total
+  - (23474,-14960) → (23486,-14937) center (23480,-14949) size 12×23
+**SrFern** — 1 claim(s), 1,520 blocks total
+  - (12808,23117) → (12846,23157) center (12827,23137) size 38×40
+**Harley_Quinn85** — 1 claim(s), 196 blocks total
+  - (17194,21059) → (17222,21066) center (17208,21062) size 28×7
+**xy9000** — 1 claim(s), 208 blocks total
+  - (15475,-21478) → (15483,-21452) center (15479,-21465) size 8×26
+**louis19991** — 1 claim(s), 468 blocks total
+  - (22697,15868) → (22723,15886) center (22710,15877) size 26×18
+
 ## 2026-08-26 06:23 UTC
 Total claims: 17451 | Removed: 6 | Added: 17 | Skipped (reclaimed): 7
 
