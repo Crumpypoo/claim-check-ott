@@ -1,4 +1,47 @@
 
+## 2026-08-26 06:23 UTC
+Total claims: 17451 | Removed: 6 | Added: 17 | Skipped (reclaimed): 7
+
+### Removed
+**deasel28475** — 3 claim(s), 1,208 blocks total
+  - (21560,-1241) → (21591,-1210) center (21575,-1226) size 31×31
+  - (22218,8763) → (22229,8774) center (22223,8768) size 11×11
+  - (6295,-16093) → (6301,-16072) center (6298,-16083) size 6×21
+**HOODBABYTHEO** — 2 claim(s), 512 blocks total
+  - (-23488,-18512) → (-23472,-18496) center (-23480,-18504) size 16×16
+  - (-23488,-18528) → (-23472,-18512) center (-23480,-18520) size 16×16
+**_ThatFrogGuy_** — 1 claim(s), 351 blocks total
+  - (23652,10228) → (23679,10241) center (23665,10234) size 27×13
+
+### Added
+**bonzaii2093** — 6 claim(s), 7,916 blocks total
+  - (20587,-6687) → (20595,-6663) center (20591,-6675) size 8×24
+  - (20544,-6663) → (20597,-6627) center (20570,-6645) size 53×36
+  - (20586,-6726) → (20594,-6704) center (20590,-6715) size 8×22
+  - (20516,-6729) → (20586,-6663) center (20551,-6696) size 70×66
+  - (20591,-6704) → (20601,-6687) center (20596,-6696) size 10×17
+  - (20594,-6738) → (20619,-6704) center (20606,-6721) size 25×34
+**Supercrafter_200** — 2 claim(s), 2,060 blocks total
+  - (-16438,-732) → (-16380,-706) center (-16409,-719) size 58×26
+  - (-16404,-756) → (-16381,-732) center (-16393,-744) size 23×24
+**Bunnyskull14** — 2 claim(s), 263 blocks total
+  - (23331,-10923) → (23343,-10913) center (23337,-10918) size 12×10
+  - (9745,23000) → (9758,23011) center (9751,23005) size 13×11
+**hersusilex** — 1 claim(s), 960 blocks total
+  - (-22212,-2661) → (-22180,-2631) center (-22196,-2646) size 32×30
+**eldritchtheurgy** — 1 claim(s), 1,575 blocks total
+  - (22457,23180) → (22482,23243) center (22469,23211) size 25×63
+**AppleButCool** — 1 claim(s), 1,848 blocks total
+  - (14971,-2023) → (15013,-1979) center (14992,-2001) size 42×44
+**DintyMooore** — 1 claim(s), 1,862 blocks total
+  - (7946,20398) → (7984,20447) center (7965,20422) size 38×49
+**__Columbina__** — 1 claim(s), 5,016 blocks total
+  - (-16187,-20728) → (-16130,-20640) center (-16159,-20684) size 57×88
+**_Valentine__** — 1 claim(s), 1,551 blocks total
+  - (11236,-22058) → (11283,-22025) center (11259,-22042) size 47×33
+**TimoZold_yck** — 1 claim(s), 53,100 blocks total
+  - (23520,-5161) → (23874,-5011) center (23697,-5086) size 354×150
+
 ## 2026-08-26 00:28 UTC
 Total claims: 17447 | Removed: 0 | Added: 0 | Skipped (reclaimed): 4875
 
