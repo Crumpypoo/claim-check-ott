@@ -1,4 +1,77 @@
 
+## 2026-08-29 01:11 UTC
+Total claims: 17477 | Removed: 8 | Added: 29 | Skipped (reclaimed): 7
+
+### Removed
+**_AceTrout9144209** — 3 claim(s), 469 blocks total
+  - (-13690,-21570) → (-13682,-21555) center (-13686,-21563) size 8×15
+  - (-13664,-21564) → (-13659,-21539) center (-13662,-21552) size 5×25
+  - (-13684,-21579) → (-13656,-21571) center (-13670,-21575) size 28×8
+**DarkMheher** — 2 claim(s), 425 blocks total
+  - (-21961,-2787) → (-21944,-2771) center (-21953,-2779) size 17×16
+  - (23131,730) → (23148,739) center (23139,734) size 17×9
+**hazy777** — 1 claim(s), 180 blocks total
+  - (6515,21271) → (6535,21280) center (6525,21275) size 20×9
+**LegendofCBRCJ** — 1 claim(s), 221 blocks total
+  - (17107,21563) → (17124,21576) center (17115,21569) size 17×13
+**FosterTheCherry** — 1 claim(s), 50,880 blocks total
+  - (-13710,-21954) → (-13470,-21742) center (-13590,-21848) size 240×212
+
+### Added
+**CordialIdeals** — 3 claim(s), 29,000 blocks total
+  - (-23203,12741) → (-23192,12752) center (-23198,12746) size 11×11
+  - (-24671,12488) → (-24522,12679) center (-24597,12583) size 149×191
+  - (2366,-9534) → (2386,-9513) center (2376,-9524) size 20×21
+**lunarknight98** — 3 claim(s), 1,976 blocks total
+  - (-20522,17801) → (-20512,17811) center (-20517,17806) size 10×10
+  - (-20540,17800) → (-20526,17817) center (-20533,17808) size 14×17
+  - (15266,20400) → (15305,20442) center (15285,20421) size 39×42
+**__Columbina__** — 2 claim(s), 14,918 blocks total
+  - (-15547,-20451) → (-15512,-20399) center (-15530,-20425) size 35×52
+  - (-15512,-20462) → (-15401,-20344) center (-15457,-20403) size 111×118
+**Girlives** — 1 claim(s), 8,748 blocks total
+  - (21326,-6587) → (21407,-6479) center (21366,-6533) size 81×108
+**digeridooLD** — 1 claim(s), 425 blocks total
+  - (20691,-6640) → (20708,-6615) center (20699,-6628) size 17×25
+**RavenGrimClde** — 1 claim(s), 7,280 blocks total
+  - (22873,8456) → (22953,8547) center (22913,8501) size 80×91
+**egd2015** — 1 claim(s), 324 blocks total
+  - (-13905,-21697) → (-13887,-21679) center (-13896,-21688) size 18×18
+**_AceTrout9144209** — 1 claim(s), 234 blocks total
+  - (-13890,-21721) → (-13877,-21703) center (-13884,-21712) size 13×18
+**Salem4874** — 1 claim(s), 1,720 blocks total
+  - (21029,-9462) → (21072,-9422) center (21050,-9442) size 43×40
+**Jenililili** — 1 claim(s), 3,948 blocks total
+  - (22505,-2087) → (22589,-2040) center (22547,-2064) size 84×47
+**Ent_NZ** — 1 claim(s), 2,147,931 blocks total
+  - (3838,23569) → (5339,25000) center (4588,24284) size 1501×1431
+**CharmanderRose** — 1 claim(s), 777,200 blocks total
+  - (-24956,18352) → (-24231,19424) center (-24594,18888) size 725×1072
+**_FervidJarl19518** — 1 claim(s), 300 blocks total
+  - (-7900,23085) → (-7885,23105) center (-7893,23095) size 15×20
+**AmoRRah** — 1 claim(s), 3,344 blocks total
+  - (17939,-15150) → (18027,-15112) center (17983,-15131) size 88×38
+**V3OD** — 1 claim(s), 4,692 blocks total
+  - (-610,11115) → (-541,11183) center (-576,11149) size 69×68
+**TwelveGnat73710** — 1 claim(s), 1,952 blocks total
+  - (22540,-5991) → (22572,-5930) center (22556,-5961) size 32×61
+**Delicate_Tofu** — 1 claim(s), 14,596 blocks total
+  - (-21975,9154) → (-21886,9318) center (-21931,9236) size 89×164
+**SternalNICK** — 1 claim(s), 8,798 blocks total
+  - (-19673,21307) → (-19590,21413) center (-19632,21360) size 83×106
+**Direachiever938** — 1 claim(s), 1,295 blocks total
+  - (401,20351) → (438,20386) center (419,20368) size 37×35
+**Tha_Nugget22** — 1 claim(s), 121 blocks total
+  - (4760,21080) → (4771,21091) center (4765,21085) size 11×11
+**Jayden_Spades** — 1 claim(s), 121 blocks total
+  - (-22588,-21794) → (-22577,-21783) center (-22583,-21789) size 11×11
+**The_Softie** — 1 claim(s), 960 blocks total
+  - (19804,24141) → (19834,24173) center (19819,24157) size 30×32
+**justemmaaa** — 1 claim(s), 1,548 blocks total
+  - (21517,18313) → (21553,18356) center (21535,18334) size 36×43
+**xHollow_** — 1 claim(s), 129,580 blocks total
+  - (-11457,-20223) → (-11116,-19843) center (-11287,-20033) size 341×380
+
 ## 2026-08-28 17:44 UTC
 Total claims: 17463 | Removed: 26 | Added: 29 | Skipped (reclaimed): 6
 
