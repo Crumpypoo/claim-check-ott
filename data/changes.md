@@ -1,4 +1,32 @@
 
+## 2026-08-30 15:30 UTC
+Total claims: 17517 | Removed: 2 | Added: 12 | Skipped (reclaimed): 7
+
+### Removed
+**Jin_se07** — 1 claim(s), 3,355 blocks total
+  - (-2206,-22351) → (-2151,-22290) center (-2179,-22321) size 55×61
+**Ra1zei_** — 1 claim(s), 1,804 blocks total
+  - (23381,16485) → (23425,16526) center (23403,16505) size 44×41
+
+### Added
+**DangerPaws** — 8 claim(s), 200,558 blocks total
+  - (-10922,-22398) → (-10643,-22204) center (-10783,-22301) size 279×194
+  - (-10643,-22398) → (-10568,-22328) center (-10606,-22363) size 75×70
+  - (-11008,-19335) → (-10637,-19085) center (-10823,-19210) size 371×250
+  - (-11008,-19390) → (-10698,-19335) center (-10853,-19363) size 310×55
+  - (-10730,-19085) → (-10693,-19065) center (-10712,-19075) size 37×20
+  - (-11008,-19451) → (-10804,-19390) center (-10906,-19421) size 204×61
+  - (-10637,-19179) → (-10624,-19105) center (-10631,-19142) size 13×74
+  - (-11008,-19085) → (-10730,-19023) center (-10869,-19054) size 278×62
+**EnzoLegion** — 1 claim(s), 61,440 blocks total
+  - (-16231,-23149) → (-15911,-22957) center (-16071,-23053) size 320×192
+**Philipps42** — 1 claim(s), 105 blocks total
+  - (21810,-5803) → (21815,-5782) center (21812,-5793) size 5×21
+**GracieKatt28** — 1 claim(s), 2,116 blocks total
+  - (22260,8392) → (22306,8438) center (22283,8415) size 46×46
+**GameCatV6** — 1 claim(s), 315 blocks total
+  - (21484,-5675) → (21505,-5660) center (21494,-5668) size 21×15
+
 ## 2026-08-30 10:45 UTC
 Total claims: 17514 | Removed: 17 | Added: 42 | Skipped (reclaimed): 30
 
