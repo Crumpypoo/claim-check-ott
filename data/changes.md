@@ -1,4 +1,45 @@
 
+## 2026-09-01 10:34 UTC
+Total claims: 17538 | Removed: 11 | Added: 7 | Skipped (reclaimed): 4
+
+### Removed
+**_Retroistc** — 2 claim(s), 376 blocks total
+  - (-22862,12162) → (-22854,12176) center (-22858,12169) size 8×14
+  - (-22871,12128) → (-22863,12161) center (-22867,12144) size 8×33
+**HHHakim** — 2 claim(s), 280 blocks total
+  - (-21117,-21340) → (-21109,-21325) center (-21113,-21333) size 8×15
+  - (-21117,-21356) → (-21107,-21340) center (-21112,-21348) size 10×16
+**jam4icak47** — 1 claim(s), 207 blocks total
+  - (-14708,22901) → (-14699,22924) center (-14704,22912) size 9×23
+**_Zorrax4487** — 1 claim(s), 121 blocks total
+  - (127,1425) → (138,1436) center (132,1430) size 11×11
+**Nerdstery** — 1 claim(s), 120 blocks total
+  - (-12024,-20444) → (-12012,-20434) center (-12018,-20439) size 12×10
+**SiamSlothGamer** — 1 claim(s), 130 blocks total
+  - (-5466,-22298) → (-5456,-22285) center (-5461,-22292) size 10×13
+**MonsterMooosh** — 1 claim(s), 490 blocks total
+  - (-15940,-22889) → (-15933,-22819) center (-15937,-22854) size 7×70
+**killazombie4fun** — 1 claim(s), 336 blocks total
+  - (21486,2727) → (21514,2739) center (21500,2733) size 28×12
+**blenderr_** — 1 claim(s), 3,640 blocks total
+  - (-17085,-22473) → (-17015,-22421) center (-17050,-22447) size 70×52
+
+### Added
+**Lamiha** — 1 claim(s), 1,640 blocks total
+  - (15816,-12980) → (15856,-12939) center (15836,-12960) size 40×41
+**SJANIMATOR1** — 1 claim(s), 22,776 blocks total
+  - (4697,-20814) → (4853,-20668) center (4775,-20741) size 156×146
+**SrFern** — 1 claim(s), 7,392 blocks total
+  - (12802,23065) → (12868,23177) center (12835,23121) size 66×112
+**PandaXprress** — 1 claim(s), 1,824 blocks total
+  - (-20982,21711) → (-20944,21759) center (-20963,21735) size 38×48
+**kingdoom190** — 1 claim(s), 616 blocks total
+  - (22974,14351) → (23002,14373) center (22988,14362) size 28×22
+**ItzDeliana** — 1 claim(s), 6,693 blocks total
+  - (-20919,-4912) → (-20850,-4815) center (-20885,-4864) size 69×97
+**LagOwnsMe** — 1 claim(s), 1,472 blocks total
+  - (-21144,8708) → (-21112,8754) center (-21128,8731) size 32×46
+
 ## 2026-09-01 02:09 UTC
 Total claims: 17546 | Removed: 4 | Added: 13 | Skipped (reclaimed): 7
 
