@@ -1,4 +1,38 @@
 
+## 2026-09-01 20:11 UTC
+Total claims: 17541 | Removed: 7 | Added: 9 | Skipped (reclaimed): 6
+
+### Removed
+**nik3tyna** — 2 claim(s), 466 blocks total
+  - (-16214,20862) → (-16201,20872) center (-16208,20867) size 13×10
+  - (-16262,20844) → (-16250,20872) center (-16256,20858) size 12×28
+**LetzHugoog** — 2 claim(s), 914 blocks total
+  - (-22364,-9012) → (-22359,-8992) center (-22362,-9002) size 5×20
+  - (-22350,-8990) → (-22313,-8968) center (-22332,-8979) size 37×22
+**IronwinYT** — 1 claim(s), 110 blocks total
+  - (-22542,10938) → (-22531,10948) center (-22537,10943) size 11×10
+**sskerixx19** — 1 claim(s), 121 blocks total
+  - (21279,-2608) → (21290,-2597) center (21284,-2603) size 11×11
+**katotell** — 1 claim(s), 1,387 blocks total
+  - (-20895,11084) → (-20822,11103) center (-20859,11093) size 73×19
+
+### Added
+**X_Dora_Xx** — 3 claim(s), 5,995 blocks total
+  - (-22791,-3762) → (-22738,-3707) center (-22765,-3735) size 53×55
+  - (-14406,22657) → (-14398,22674) center (-14402,22665) size 8×17
+  - (-22855,-3850) → (-22791,-3804) center (-22823,-3827) size 64×46
+**DVD_Its_TheDream** — 2 claim(s), 5,288 blocks total
+  - (-19908,-20526) → (-19862,-20488) center (-19885,-20507) size 46×38
+  - (21381,-5517) → (21441,-5458) center (21411,-5488) size 60×59
+**Meryseal** — 1 claim(s), 2,800 blocks total
+  - (-21419,1866) → (-21369,1922) center (-21394,1894) size 50×56
+**LT_WiTuLo** — 1 claim(s), 1,326 blocks total
+  - (-8429,22708) → (-8395,22747) center (-8412,22727) size 34×39
+**ItzDeliana** — 1 claim(s), 8,670 blocks total
+  - (-20919,-4917) → (-20834,-4815) center (-20877,-4866) size 85×102
+**TimoZold_yck** — 1 claim(s), 104,434 blocks total
+  - (23356,-5162) → (23873,-4960) center (23614,-5061) size 517×202
+
 ## 2026-09-01 15:36 UTC
 Total claims: 17545 | Removed: 6 | Added: 13 | Skipped (reclaimed): 0
 
