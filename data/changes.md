@@ -1,4 +1,44 @@
 
+## 2026-09-01 02:09 UTC
+Total claims: 17546 | Removed: 4 | Added: 13 | Skipped (reclaimed): 7
+
+### Removed
+**PandaXprress** — 1 claim(s), 351 blocks total
+  - (-9027,-23095) → (-9000,-23082) center (-9014,-23089) size 27×13
+**MEMXXY** — 1 claim(s), 3,120 blocks total
+  - (-8008,-17096) → (-7943,-17048) center (-7976,-17072) size 65×48
+**PearlyinVanille** — 1 claim(s), 304 blocks total
+  - (20507,14292) → (20523,14311) center (20515,14301) size 16×19
+**Onesoldout** — 1 claim(s), 121 blocks total
+  - (-21465,-23130) → (-21454,-23119) center (-21460,-23125) size 11×11
+
+### Added
+**MrDude1777** — 2 claim(s), 205 blocks total
+  - (21004,18020) → (21025,18025) center (21014,18022) size 21×5
+  - (21024,18105) → (21044,18110) center (21034,18107) size 20×5
+**DOGANAYSALGAM** — 1 claim(s), 228 blocks total
+  - (10387,-22324) → (10406,-22312) center (10396,-22318) size 19×12
+**pugking_96** — 1 claim(s), 288 blocks total
+  - (8873,-21783) → (8891,-21767) center (8882,-21775) size 18×16
+**____Ally____** — 1 claim(s), 2,553 blocks total
+  - (-23560,15342) → (-23523,15411) center (-23542,15376) size 37×69
+**Ariskari** — 1 claim(s), 31,584 blocks total
+  - (15650,22064) → (15874,22205) center (15762,22134) size 224×141
+**_ThatFrogGuy_** — 1 claim(s), 288 blocks total
+  - (23643,10184) → (23652,10216) center (23647,10200) size 9×32
+**ProjectFlamingo** — 1 claim(s), 387,000 blocks total
+  - (24332,-3466) → (24977,-2866) center (24654,-3166) size 645×600
+**psychicdragon1** — 1 claim(s), 252 blocks total
+  - (20545,-9530) → (20557,-9509) center (20551,-9520) size 12×21
+**JNB217** — 1 claim(s), 1,025 blocks total
+  - (12351,2740) → (12392,2765) center (12371,2752) size 41×25
+**Tha_Nugget22** — 1 claim(s), 22,244 blocks total
+  - (4024,21120) → (4158,21286) center (4091,21203) size 134×166
+**justemmaaa** — 1 claim(s), 2,016 blocks total
+  - (21505,18313) → (21553,18355) center (21529,18334) size 48×42
+**Nikthepick** — 1 claim(s), 20,608 blocks total
+  - (-3180,4159) → (-3019,4287) center (-3100,4223) size 161×128
+
 ## 2026-08-31 18:14 UTC
 Total claims: 17544 | Removed: 0 | Added: 0 | Skipped (reclaimed): 3966
 
