@@ -1,4 +1,46 @@
 
+## 2026-09-02 01:32 UTC
+Total claims: 17540 | Removed: 8 | Added: 12 | Skipped (reclaimed): 5
+
+### Removed
+**ChedaRat** — 3 claim(s), 824 blocks total
+  - (-5618,-21272) → (-5598,-21251) center (-5608,-21262) size 20×21
+  - (21102,2183) → (21112,2203) center (21107,2193) size 10×20
+  - (-5632,-21250) → (-5620,-21233) center (-5626,-21242) size 12×17
+**MonkeyDLukas** — 2 claim(s), 3,908 blocks total
+  - (22624,-11972) → (22652,-11946) center (22638,-11959) size 28×26
+  - (10659,-22336) → (10712,-22276) center (10685,-22306) size 53×60
+**BoltedSavage** — 1 claim(s), 104 blocks total
+  - (-15251,23261) → (-15243,23274) center (-15247,23267) size 8×13
+**KaLiTlv** — 1 claim(s), 130 blocks total
+  - (20333,23274) → (20343,23287) center (20338,23280) size 10×13
+**mighty_walrus1** — 1 claim(s), 714 blocks total
+  - (13851,-21633) → (13872,-21599) center (13861,-21616) size 21×34
+
+### Added
+**WASD_KING14** — 3 claim(s), 1,712 blocks total
+  - (23349,-10950) → (23369,-10919) center (23359,-10935) size 20×31
+  - (22320,-12964) → (22346,-12937) center (22333,-12951) size 26×27
+  - (-24617,73) → (-24602,99) center (-24610,86) size 15×26
+**provenmoss8779** — 1 claim(s), 121 blocks total
+  - (21024,18028) → (21035,18039) center (21029,18033) size 11×11
+**pugking_96** — 1 claim(s), 816 blocks total
+  - (3999,21218) → (4023,21252) center (4011,21235) size 24×34
+**xdfrog** — 1 claim(s), 1,900 blocks total
+  - (-16267,-22853) → (-16217,-22815) center (-16242,-22834) size 50×38
+**PrismaKnight** — 1 claim(s), 5,704 blocks total
+  - (-8816,10284) → (-8724,10346) center (-8770,10315) size 92×62
+**_RainyVase3109** — 1 claim(s), 287 blocks total
+  - (17101,20854) → (17108,20895) center (17104,20874) size 7×41
+**_GrimRepper345** — 1 claim(s), 2,898 blocks total
+  - (-22324,10483) → (-22255,10525) center (-22290,10504) size 69×42
+**LT_WiTuLo** — 1 claim(s), 2,700 blocks total
+  - (-8429,22698) → (-8384,22758) center (-8407,22728) size 45×60
+**IcedCoffee00** — 1 claim(s), 13,545 blocks total
+  - (-10072,-67) → (-9943,38) center (-10008,-15) size 129×105
+**BabyDrago_** — 1 claim(s), 21,300 blocks total
+  - (-21591,5998) → (-21449,6148) center (-21520,6073) size 142×150
+
 ## 2026-09-01 20:11 UTC
 Total claims: 17541 | Removed: 7 | Added: 9 | Skipped (reclaimed): 6
 
