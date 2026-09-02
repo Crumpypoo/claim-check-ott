@@ -1,4 +1,35 @@
 
+## 2026-09-02 15:23 UTC
+Total claims: 17537 | Removed: 4 | Added: 8 | Skipped (reclaimed): 1
+
+### Removed
+**_Player536459451** — 1 claim(s), 240 blocks total
+  - (1978,-15744) → (1993,-15728) center (1985,-15736) size 15×16
+**_KindCow95379755** — 1 claim(s), 1,023 blocks total
+  - (-19195,-22873) → (-19164,-22840) center (-19180,-22857) size 31×33
+**_La14tH** — 1 claim(s), 322 blocks total
+  - (-1075,5128) → (-1061,5151) center (-1068,5139) size 14×23
+**Skittlefish1** — 1 claim(s), 840 blocks total
+  - (-22978,5077) → (-22950,5107) center (-22964,5092) size 28×30
+
+### Added
+**Meryseal** — 1 claim(s), 7,553 blocks total
+  - (-21823,2377) → (-21732,2460) center (-21778,2418) size 91×83
+**ludosvillage** — 1 claim(s), 616 blocks total
+  - (-20591,13483) → (-20569,13511) center (-20580,13497) size 22×28
+**_AGWWR** — 1 claim(s), 3,243 blocks total
+  - (-3662,-21453) → (-3615,-21384) center (-3639,-21419) size 47×69
+**blox_si** — 1 claim(s), 126 blocks total
+  - (-22125,5367) → (-22119,5388) center (-22122,5377) size 6×21
+**Hilmird** — 1 claim(s), 252 blocks total
+  - (10433,23217) → (10451,23231) center (10442,23224) size 18×14
+**_La14tH** — 1 claim(s), 3,306 blocks total
+  - (-1412,6367) → (-1355,6425) center (-1384,6396) size 57×58
+**PanzerottoMilo** — 1 claim(s), 5,460 blocks total
+  - (22797,20255) → (22867,20333) center (22832,20294) size 70×78
+**e1even1_** — 1 claim(s), 140,014 blocks total
+  - (-3723,7230) → (-3449,7741) center (-3586,7485) size 274×511
+
 ## 2026-09-02 10:00 UTC
 Total claims: 17534 | Removed: 11 | Added: 7 | Skipped (reclaimed): 2
 
