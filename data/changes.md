@@ -1,4 +1,48 @@
 
+## 2026-09-03 10:10 UTC
+Total claims: 17550 | Removed: 6 | Added: 13 | Skipped (reclaimed): 2
+
+### Removed
+**TerraLol** — 2 claim(s), 960 blocks total
+  - (-22604,-10338) → (-22578,-10328) center (-22591,-10333) size 26×10
+  - (21598,-11490) → (21623,-11462) center (21610,-11476) size 25×28
+**MidwestEmos** — 1 claim(s), 144 blocks total
+  - (21901,20255) → (21913,20267) center (21907,20261) size 12×12
+**_Limit5612** — 1 claim(s), 192 blocks total
+  - (17765,21362) → (17781,21374) center (17773,21368) size 16×12
+**CharlieI6142** — 1 claim(s), 3,016 blocks total
+  - (21732,-896) → (21790,-844) center (21761,-870) size 58×52
+**BurntToastMC** — 1 claim(s), 400 blocks total
+  - (-23103,-15275) → (-23083,-15255) center (-23093,-15265) size 20×20
+
+### Added
+**Moth_Thrive** — 1 claim(s), 12,800 blocks total
+  - (15988,-13488) → (16116,-13388) center (16052,-13438) size 128×100
+**Landonm_07** — 1 claim(s), 132 blocks total
+  - (14542,-21654) → (14553,-21642) center (14547,-21648) size 11×12
+**6sLastStand** — 1 claim(s), 8,181 blocks total
+  - (-4038,21793) → (-3957,21894) center (-3998,21843) size 81×101
+**Lots_o_Sheeps** — 1 claim(s), 6,634 blocks total
+  - (-20329,251) → (-20222,313) center (-20276,282) size 107×62
+**OtterlyDad** — 1 claim(s), 1,034 blocks total
+  - (-12852,-22686) → (-12805,-22664) center (-12829,-22675) size 47×22
+**MUndertale_Frisk** — 1 claim(s), 728 blocks total
+  - (-14749,-21216) → (-14723,-21188) center (-14736,-21202) size 26×28
+**_CorkySiren73909** — 1 claim(s), 1,188 blocks total
+  - (12108,22227) → (12152,22254) center (12130,22240) size 44×27
+**Cheff_Yuzak** — 1 claim(s), 4,950 blocks total
+  - (-21397,16391) → (-21322,16457) center (-21360,16424) size 75×66
+**Darksoulzxxx** — 1 claim(s), 441 blocks total
+  - (-17307,-21856) → (-17286,-21835) center (-17297,-21846) size 21×21
+**iloveturtles2e** — 1 claim(s), 858 blocks total
+  - (22610,15515) → (22643,15541) center (22626,15528) size 33×26
+**anglblessings** — 1 claim(s), 572 blocks total
+  - (-7851,-15334) → (-7829,-15308) center (-7840,-15321) size 22×26
+**StrawSet420** — 1 claim(s), 140 blocks total
+  - (-15560,-23472) → (-15550,-23458) center (-15555,-23465) size 10×14
+**BreadTheifK3** — 1 claim(s), 823,528 blocks total
+  - (21637,18515) → (22881,19177) center (22259,18846) size 1244×662
+
 ## 2026-09-03 01:35 UTC
 Total claims: 17545 | Removed: 6 | Added: 22 | Skipped (reclaimed): 11
 
