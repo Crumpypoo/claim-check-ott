@@ -1,4 +1,30 @@
 
+## 2026-09-03 15:16 UTC
+Total claims: 17553 | Removed: 1 | Added: 9 | Skipped (reclaimed): 5
+
+### Removed
+**_Averythemayo00** — 1 claim(s), 280 blocks total
+  - (21856,21646) → (21870,21666) center (21863,21656) size 14×20
+
+### Added
+**EnzoLegion** — 2 claim(s), 2,241 blocks total
+  - (-16153,-22884) → (-16114,-22857) center (-16134,-22871) size 39×27
+  - (-16212,-22940) → (-16190,-22886) center (-16201,-22913) size 22×54
+**Kellyzz** — 1 claim(s), 756 blocks total
+  - (-20873,21931) → (-20845,21958) center (-20859,21944) size 28×27
+**SrFern** — 1 claim(s), 855 blocks total
+  - (12783,23043) → (12802,23088) center (12792,23065) size 19×45
+**ludosvillage** — 1 claim(s), 275 blocks total
+  - (-20539,13379) → (-20528,13404) center (-20534,13391) size 11×25
+**_CorkySiren73909** — 1 claim(s), 1,656 blocks total
+  - (12108,22227) → (12177,22251) center (12142,22239) size 69×24
+**SJANIMATOR1** — 1 claim(s), 8,214 blocks total
+  - (11728,21751) → (11839,21825) center (11783,21788) size 111×74
+**Chopper** — 1 claim(s), 370,744 blocks total
+  - (-24628,3936) → (-23862,4420) center (-24245,4178) size 766×484
+**Lunaraa** — 1 claim(s), 255 blocks total
+  - (2069,-15712) → (2084,-15695) center (2076,-15704) size 15×17
+
 ## 2026-09-03 10:10 UTC
 Total claims: 17550 | Removed: 6 | Added: 13 | Skipped (reclaimed): 2
 
