@@ -1,4 +1,32 @@
 
+## 2026-09-04 15:11 UTC
+Total claims: 17541 | Removed: 6 | Added: 6 | Skipped (reclaimed): 1
+
+### Removed
+**CallistoKiwi** — 3 claim(s), 1,912 blocks total
+  - (-20829,9326) → (-20795,9351) center (-20812,9338) size 34×25
+  - (-20843,9308) → (-20829,9326) center (-20836,9317) size 14×18
+  - (-20795,9351) → (-20765,9378) center (-20780,9364) size 30×27
+**DumbDimbul** — 1 claim(s), 121 blocks total
+  - (23408,19016) → (23419,19027) center (23413,19021) size 11×11
+**RaFaTheGamer43** — 1 claim(s), 304 blocks total
+  - (-19906,20658) → (-19887,20674) center (-19897,20666) size 19×16
+**billylead2021** — 1 claim(s), 260 blocks total
+  - (-17634,-21970) → (-17621,-21950) center (-17628,-21960) size 13×20
+
+### Added
+**pl4yer_199** — 2 claim(s), 876 blocks total
+  - (23720,23164) → (23733,23176) center (23726,23170) size 13×12
+  - (-22653,17291) → (-22629,17321) center (-22641,17306) size 24×30
+**_CorkySiren73909** — 1 claim(s), 2,736 blocks total
+  - (12105,22227) → (12177,22265) center (12141,22246) size 72×38
+**WasTheHelly** — 1 claim(s), 1,089 blocks total
+  - (-22464,6852) → (-22431,6885) center (-22448,6868) size 33×33
+**AdiosKinGG** — 1 claim(s), 130 blocks total
+  - (-11889,-21393) → (-11879,-21380) center (-11884,-21387) size 10×13
+**Lunaraa** — 1 claim(s), 4,816 blocks total
+  - (-5187,-21439) → (-5131,-21353) center (-5159,-21396) size 56×86
+
 ## 2026-09-04 10:00 UTC
 Total claims: 17542 | Removed: 0 | Added: 0 | Skipped (reclaimed): 878
 
