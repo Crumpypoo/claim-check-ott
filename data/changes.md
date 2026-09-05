@@ -1,4 +1,38 @@
 
+## 2026-09-05 19:36 UTC
+Total claims: 17564 | Removed: 3 | Added: 11 | Skipped (reclaimed): 4
+
+### Removed
+**MrDude1777** — 2 claim(s), 900 blocks total
+  - (23246,-1499) → (23256,-1449) center (23251,-1474) size 10×50
+  - (23243,-1436) → (23253,-1396) center (23248,-1416) size 10×40
+**Titanium42** — 1 claim(s), 900 blocks total
+  - (-22768,21470) → (-22738,21500) center (-22753,21485) size 30×30
+
+### Added
+**SrFern** — 1 claim(s), 440 blocks total
+  - (2067,-15683) → (2089,-15663) center (2078,-15673) size 22×20
+**MrDude1777** — 1 claim(s), 840 blocks total
+  - (23229,-1507) → (23234,-1339) center (23231,-1423) size 5×168
+**JennyManelli** — 1 claim(s), 1,462 blocks total
+  - (22778,5297) → (22821,5331) center (22799,5314) size 43×34
+**SuntBOB** — 1 claim(s), 696 blocks total
+  - (-22978,12704) → (-22954,12733) center (-22966,12718) size 24×29
+**GamingGod101** — 1 claim(s), 957 blocks total
+  - (-23007,12700) → (-22978,12733) center (-22993,12716) size 29×33
+**Jazzy_J_Wolf** — 1 claim(s), 247 blocks total
+  - (10956,-22860) → (10969,-22841) center (10962,-22851) size 13×19
+**_Ninja2131966** — 1 claim(s), 2,544 blocks total
+  - (22999,-15009) → (23052,-14961) center (23025,-14985) size 53×48
+**CheetahLeopard** — 1 claim(s), 132 blocks total
+  - (1805,23429) → (1816,23441) center (1810,23435) size 11×12
+**ludosvillage** — 1 claim(s), 552 blocks total
+  - (-20544,13375) → (-20520,13398) center (-20532,13386) size 24×23
+**Guijoh** — 1 claim(s), 1,890 blocks total
+  - (-22049,15142) → (-22007,15187) center (-22028,15164) size 42×45
+**Lunaraa** — 1 claim(s), 12,960 blocks total
+  - (-5206,-21445) → (-5098,-21325) center (-5152,-21385) size 108×120
+
 ## 2026-09-05 14:02 UTC
 Total claims: 17560 | Removed: 3 | Added: 15 | Skipped (reclaimed): 5
 
