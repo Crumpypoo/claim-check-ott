@@ -1,4 +1,43 @@
 
+## 2026-09-06 14:27 UTC
+Total claims: 17585 | Removed: 4 | Added: 12 | Skipped (reclaimed): 4
+
+### Removed
+**athenaPapi** — 1 claim(s), 121 blocks total
+  - (21906,9026) → (21917,9037) center (21911,9031) size 11×11
+**Fink_the_Wolf** — 1 claim(s), 180 blocks total
+  - (-22620,-15788) → (-22608,-15773) center (-22614,-15781) size 12×15
+**soup3751** — 1 claim(s), 3,536 blocks total
+  - (-21391,12375) → (-21339,12443) center (-21365,12409) size 52×68
+**EnderEnderMan** — 1 claim(s), 4,161 blocks total
+  - (1966,-15842) → (2023,-15769) center (1994,-15806) size 57×73
+
+### Added
+**chicken1919nugg** — 1 claim(s), 108 blocks total
+  - (21533,-5870) → (21542,-5858) center (21537,-5864) size 9×12
+**Mosquitoinmyroom** — 1 claim(s), 112 blocks total
+  - (-20601,4137) → (-20593,4151) center (-20597,4144) size 8×14
+**Squid82** — 1 claim(s), 2,310 blocks total
+  - (-13236,21492) → (-13194,21547) center (-13215,21519) size 42×55
+**athenaPapi** — 1 claim(s), 121 blocks total
+  - (22199,8772) → (22210,8783) center (22204,8777) size 11×11
+**QuinnXavier** — 1 claim(s), 153 blocks total
+  - (72,21320) → (89,21329) center (80,21324) size 17×9
+**xMaud** — 1 claim(s), 1,406 blocks total
+  - (9140,21435) → (9178,21472) center (9159,21453) size 38×37
+**electron234** — 1 claim(s), 1,296 blocks total
+  - (-20969,6011) → (-20942,6059) center (-20956,6035) size 27×48
+**provenmoss8779** — 1 claim(s), 110 blocks total
+  - (21004,18025) → (21014,18036) center (21009,18030) size 10×11
+**NitschiOwO** — 1 claim(s), 1,628 blocks total
+  - (-20732,22462) → (-20695,22506) center (-20714,22484) size 37×44
+**TheUnknown8181** — 1 claim(s), 10,120 blocks total
+  - (20906,-9847) → (21016,-9755) center (20961,-9801) size 110×92
+**Eizy14** — 1 claim(s), 43,146 blocks total
+  - (19958,23219) → (20264,23360) center (20111,23289) size 306×141
+**aw1shz** — 1 claim(s), 14,520 blocks total
+  - (19970,23360) → (20080,23492) center (20025,23426) size 110×132
+
 ## 2026-09-06 09:44 UTC
 Total claims: 17581 | Removed: 14 | Added: 37 | Skipped (reclaimed): 14
 
