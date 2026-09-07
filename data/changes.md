@@ -1,4 +1,46 @@
 
+## 2026-09-07 01:23 UTC
+Total claims: 17591 | Removed: 9 | Added: 10 | Skipped (reclaimed): 7
+
+### Removed
+**Redemptory** — 3 claim(s), 18,122 blocks total
+  - (-9060,9928) → (-9002,9970) center (-9031,9949) size 58×42
+  - (-9060,9797) → (-8938,9854) center (-8999,9825) size 122×57
+  - (-9060,9854) → (-8942,9928) center (-9001,9891) size 118×74
+**HotLocalWomen** — 2 claim(s), 1,514 blocks total
+  - (-22439,-21819) → (-22422,-21802) center (-22431,-21811) size 17×17
+  - (-22401,-21853) → (-22366,-21818) center (-22384,-21836) size 35×35
+**Vplz** — 1 claim(s), 1,496 blocks total
+  - (-23405,-5923) → (-23371,-5879) center (-23388,-5901) size 34×44
+**NonoBOB55** — 1 claim(s), 2,295 blocks total
+  - (-21231,-10512) → (-21180,-10467) center (-21206,-10490) size 51×45
+**beakermeepmeep** — 1 claim(s), 187 blocks total
+  - (23158,-15359) → (23169,-15342) center (23163,-15351) size 11×17
+**D4Doom** — 1 claim(s), 143 blocks total
+  - (-11620,22901) → (-11607,22912) center (-11614,22906) size 13×11
+
+### Added
+**eiPs** — 1 claim(s), 9,568 blocks total
+  - (22018,12377) → (22122,12469) center (22070,12423) size 104×92
+**_ThatFrogGuy_** — 1 claim(s), 952 blocks total
+  - (23651,10125) → (23685,10153) center (23668,10139) size 34×28
+**Im_Xto** — 1 claim(s), 117 blocks total
+  - (-21244,1583) → (-21231,1592) center (-21238,1587) size 13×9
+**Dawniiepaine** — 1 claim(s), 1,092 blocks total
+  - (23480,-6293) → (23522,-6267) center (23501,-6280) size 42×26
+**KoniSky** — 1 claim(s), 266 blocks total
+  - (12432,22991) → (12446,23010) center (12439,23000) size 14×19
+**Herbe4567** — 1 claim(s), 121 blocks total
+  - (-19014,-21561) → (-19003,-21550) center (-19009,-21556) size 11×11
+**Ink_the_Gryphon** — 1 claim(s), 5,475 blocks total
+  - (-20811,14182) → (-20736,14255) center (-20774,14218) size 75×73
+**Izanami_Sama123** — 1 claim(s), 48,351 blocks total
+  - (16545,20340) → (16758,20567) center (16651,20453) size 213×227
+**codofwar01** — 1 claim(s), 121 blocks total
+  - (-5320,-21669) → (-5309,-21658) center (-5315,-21664) size 11×11
+**lncisor** — 1 claim(s), 156,040 blocks total
+  - (-24209,-11149) → (-23794,-10773) center (-24002,-10961) size 415×376
+
 ## 2026-09-06 19:38 UTC
 Total claims: 17597 | Removed: 9 | Added: 32 | Skipped (reclaimed): 11
 
