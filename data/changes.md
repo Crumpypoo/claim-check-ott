@@ -1,4 +1,46 @@
 
+## 2026-09-08 01:33 UTC
+Total claims: 17611 | Removed: 3 | Added: 15 | Skipped (reclaimed): 4
+
+### Removed
+**Tsuki_no_ko** — 1 claim(s), 1,064 blocks total
+  - (-305,583) → (-277,621) center (-291,602) size 28×38
+**sigma_boy78** — 1 claim(s), 861 blocks total
+  - (-23266,863) → (-23225,884) center (-23246,873) size 41×21
+**Gecko7568** — 1 claim(s), 1,122 blocks total
+  - (-21221,-1116) → (-21187,-1083) center (-21204,-1100) size 34×33
+
+### Added
+**_ItzSharky_** — 2 claim(s), 562 blocks total
+  - (22693,-1960) → (22714,-1939) center (22703,-1950) size 21×21
+  - (22698,-1974) → (22709,-1963) center (22703,-1969) size 11×11
+**Tha_Nugget22** — 1 claim(s), 246,052 blocks total
+  - (-3407,24551) → (-2859,25000) center (-3133,24775) size 548×449
+**SK0RN3D** — 1 claim(s), 5,232 blocks total
+  - (-22488,14363) → (-22440,14472) center (-22464,14417) size 48×109
+**danzo950** — 1 claim(s), 230,400 blocks total
+  - (-16039,20067) → (-14439,20211) center (-15239,20139) size 1600×144
+**Toothless78** — 1 claim(s), 121 blocks total
+  - (15707,-7670) → (15718,-7659) center (15712,-7665) size 11×11
+**drsarahdf** — 1 claim(s), 208 blocks total
+  - (-21631,-11947) → (-21615,-11934) center (-21623,-11941) size 16×13
+**DemonTijer** — 1 claim(s), 9,776 blocks total
+  - (-23615,-22104) → (-23521,-22000) center (-23568,-22052) size 94×104
+**CashMoneyThe3rd** — 1 claim(s), 13,365 blocks total
+  - (5974,-22489) → (6055,-22324) center (6014,-22407) size 81×165
+**Im_Xto** — 1 claim(s), 53,632 blocks total
+  - (5786,17354) → (6205,17482) center (5995,17418) size 419×128
+**JxStinger** — 1 claim(s), 2,120 blocks total
+  - (-22774,-7836) → (-22734,-7783) center (-22754,-7810) size 40×53
+**K1_WIIII** — 1 claim(s), 121 blocks total
+  - (266,-22855) → (277,-22844) center (271,-22850) size 11×11
+**Yumarice** — 1 claim(s), 38,796 blocks total
+  - (3019,-1389) → (3231,-1206) center (3125,-1298) size 212×183
+**SweetHades45** — 1 claim(s), 9,408 blocks total
+  - (16893,14256) → (16991,14352) center (16942,14304) size 98×96
+**justemmaaa** — 1 claim(s), 4,374 blocks total
+  - (21472,18313) → (21553,18367) center (21512,18340) size 81×54
+
 ## 2026-09-07 20:50 UTC
 Total claims: 17603 | Removed: 6 | Added: 21 | Skipped (reclaimed): 8
 
