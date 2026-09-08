@@ -1,4 +1,27 @@
 
+## 2026-09-08 15:25 UTC
+Total claims: 17613 | Removed: 1 | Added: 7 | Skipped (reclaimed): 3
+
+### Removed
+**10ben27** — 1 claim(s), 756 blocks total
+  - (10513,-22816) → (10541,-22789) center (10527,-22803) size 28×27
+
+### Added
+**Sebby_x3** — 1 claim(s), 2,756 blocks total
+  - (-17520,22596) → (-17468,22649) center (-17494,22622) size 52×53
+**Derbyss** — 1 claim(s), 289 blocks total
+  - (-21632,-16146) → (-21615,-16129) center (-21624,-16138) size 17×17
+**Mosquitoinmyroom** — 1 claim(s), 494 blocks total
+  - (-20577,4107) → (-20551,4126) center (-20564,4116) size 26×19
+**The_Ackerman** — 1 claim(s), 460 blocks total
+  - (-9585,-21574) → (-9565,-21551) center (-9575,-21563) size 20×23
+**VonVonaBon** — 1 claim(s), 2,550 blocks total
+  - (-20525,12477) → (-20475,12528) center (-20500,12502) size 50×51
+**FearlessEvo8** — 1 claim(s), 1,053 blocks total
+  - (-20510,12450) → (-20471,12477) center (-20491,12463) size 39×27
+**_BlueCopperr** — 1 claim(s), 20,224 blocks total
+  - (7718,22940) → (7846,23098) center (7782,23019) size 128×158
+
 ## 2026-09-08 10:08 UTC
 Total claims: 17610 | Removed: 11 | Added: 12 | Skipped (reclaimed): 2
 
