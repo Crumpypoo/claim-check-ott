@@ -1,4 +1,47 @@
 
+## 2026-09-10 10:05 UTC
+Total claims: 17632 | Removed: 7 | Added: 15 | Skipped (reclaimed): 4
+
+### Removed
+**Romeo1905** — 5 claim(s), 2,193 blocks total
+  - (-15553,23372) → (-15546,23389) center (-15550,23380) size 7×17
+  - (4351,-23046) → (4363,-23026) center (4357,-23036) size 12×20
+  - (-20749,-3911) → (-20727,-3895) center (-20738,-3903) size 22×16
+  - (22216,-6026) → (22260,-5999) center (22238,-6013) size 44×27
+  - (12307,23183) → (12328,23197) center (12317,23190) size 21×14
+**Harajukuu** — 1 claim(s), 121 blocks total
+  - (20929,14669) → (20940,14680) center (20934,14674) size 11×11
+**Battrivett** — 1 claim(s), 152 blocks total
+  - (20887,-5359) → (20906,-5351) center (20896,-5355) size 19×8
+
+### Added
+**EvaConly** — 2 claim(s), 376,096 blocks total
+  - (21162,12098) → (21758,12698) center (21460,12398) size 596×600
+  - (5077,-22066) → (5213,-21930) center (5145,-21998) size 136×136
+**Ottorlly** — 2 claim(s), 253 blocks total
+  - (-21006,-19852) → (-20996,-19841) center (-21001,-19847) size 10×11
+  - (-20996,-19852) → (-20983,-19841) center (-20990,-19847) size 13×11
+**ItsSimplyJoe** — 2 claim(s), 55,590 blocks total
+  - (-4481,-23091) → (-4243,-23046) center (-4362,-23069) size 238×45
+  - (-5126,-22725) → (-4796,-22589) center (-4961,-22657) size 330×136
+**DangerPaws** — 2 claim(s), 19,274 blocks total
+  - (11193,22585) → (11328,22727) center (11260,22656) size 135×142
+  - (11315,22727) → (11328,22735) center (11321,22731) size 13×8
+**muted_fel** — 1 claim(s), 21,056 blocks total
+  - (-15553,22675) → (-15365,22787) center (-15459,22731) size 188×112
+**M_c_S_09** — 1 claim(s), 1,700 blocks total
+  - (11209,-21497) → (11259,-21463) center (11234,-21480) size 50×34
+**_God_Chose_Jay_** — 1 claim(s), 15,260 blocks total
+  - (22907,-1704) → (23047,-1595) center (22977,-1650) size 140×109
+**BethStar** — 1 claim(s), 176,336 blocks total
+  - (7450,-24005) → (7862,-23577) center (7656,-23791) size 412×428
+**grossly** — 1 claim(s), 112 blocks total
+  - (-546,-18400) → (-538,-18386) center (-542,-18393) size 8×14
+**I_Eat_Plastic_** — 1 claim(s), 374 blocks total
+  - (-21537,-22484) → (-21520,-22462) center (-21529,-22473) size 17×22
+**Yumarice** — 1 claim(s), 66,490 blocks total
+  - (7473,-426) → (7691,-121) center (7582,-274) size 218×305
+
 ## 2026-09-10 01:35 UTC
 Total claims: 17628 | Removed: 6 | Added: 12 | Skipped (reclaimed): 5
 
