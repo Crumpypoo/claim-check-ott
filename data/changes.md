@@ -1,4 +1,44 @@
 
+## 2026-09-10 01:35 UTC
+Total claims: 17628 | Removed: 6 | Added: 12 | Skipped (reclaimed): 5
+
+### Removed
+**dolphinprinc3ss** — 2 claim(s), 534 blocks total
+  - (-21323,638) → (-21304,654) center (-21314,646) size 19×16
+  - (-21346,644) → (-21323,654) center (-21335,649) size 23×10
+**ITONE_** — 1 claim(s), 756 blocks total
+  - (6950,-23435) → (6977,-23407) center (6963,-23421) size 27×28
+**teba16** — 1 claim(s), 121 blocks total
+  - (8713,-21806) → (8724,-21795) center (8718,-21801) size 11×11
+**Dreamisfake** — 1 claim(s), 336 blocks total
+  - (-22440,8780) → (-22426,8804) center (-22433,8792) size 14×24
+**_OkayPark7623** — 1 claim(s), 288 blocks total
+  - (-22841,13079) → (-22809,13088) center (-22825,13083) size 32×9
+
+### Added
+**ItsMiken** — 3 claim(s), 2,315 blocks total
+  - (3653,22815) → (3664,22826) center (3658,22820) size 11×11
+  - (3616,22826) → (3664,22864) center (3640,22845) size 48×38
+  - (3616,22816) → (3653,22826) center (3634,22821) size 37×10
+**crroccs** — 1 claim(s), 6,132 blocks total
+  - (-20897,-5891) → (-20824,-5807) center (-20861,-5849) size 73×84
+**_James123115** — 1 claim(s), 288 blocks total
+  - (22885,-5427) → (22901,-5409) center (22893,-5418) size 16×18
+**jonathantheninja** — 1 claim(s), 693 blocks total
+  - (22778,8524) → (22811,8545) center (22794,8534) size 33×21
+**Goudi999** — 1 claim(s), 992 blocks total
+  - (-2094,-23557) → (-2063,-23525) center (-2079,-23541) size 31×32
+**I_Eat_Plastic_** — 1 claim(s), 120 blocks total
+  - (-21771,-22556) → (-21756,-22548) center (-21764,-22552) size 15×8
+**egd2015** — 1 claim(s), 812 blocks total
+  - (-21816,-7226) → (-21788,-7197) center (-21802,-7212) size 28×29
+**TortleSara831** — 1 claim(s), 8,455 blocks total
+  - (-13517,23148) → (-13422,23237) center (-13470,23192) size 95×89
+**TheUnknown8181** — 1 claim(s), 12,320 blocks total
+  - (20906,-9867) → (21016,-9755) center (20961,-9811) size 110×112
+**justemmaaa** — 1 claim(s), 6,642 blocks total
+  - (21391,18313) → (21553,18354) center (21472,18333) size 162×41
+
 ## 2026-09-09 20:05 UTC
 Total claims: 17627 | Removed: 0 | Added: 0 | Skipped (reclaimed): 293
 
