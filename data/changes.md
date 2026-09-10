@@ -1,4 +1,39 @@
 
+## 2026-09-10 20:07 UTC
+Total claims: 17640 | Removed: 5 | Added: 11 | Skipped (reclaimed): 4
+
+### Removed
+**BelovedOne** — 2 claim(s), 626 blocks total
+  - (-22603,-2953) → (-22593,-2941) center (-22598,-2947) size 10×12
+  - (-22587,-2976) → (-22564,-2954) center (-22576,-2965) size 23×22
+**Nilliy** — 1 claim(s), 2,254 blocks total
+  - (-21379,-19471) → (-21330,-19425) center (-21355,-19448) size 49×46
+**Throne_Of_king** — 1 claim(s), 462 blocks total
+  - (6883,-23171) → (6904,-23149) center (6893,-23160) size 21×22
+**CKLL2000** — 1 claim(s), 650 blocks total
+  - (22457,866) → (22483,891) center (22470,878) size 26×25
+
+### Added
+**Umbrell4m** — 3 claim(s), 5,284 blocks total
+  - (21602,4424) → (21641,4478) center (21621,4451) size 39×54
+  - (22033,4226) → (22061,4263) center (22047,4244) size 28×37
+  - (21949,4272) → (22000,4314) center (21974,4293) size 51×42
+**d4rk_LeumaS** — 2 claim(s), 580 blocks total
+  - (-21077,20805) → (-21063,20831) center (-21070,20818) size 14×26
+  - (11383,21272) → (11392,21296) center (11387,21284) size 9×24
+**O_1X** — 1 claim(s), 238 blocks total
+  - (-22780,-3456) → (-22763,-3442) center (-22772,-3449) size 17×14
+**tarlieee** — 1 claim(s), 1,482 blocks total
+  - (-10024,20847) → (-9986,20886) center (-10005,20866) size 38×39
+**littlewhis** — 1 claim(s), 154 blocks total
+  - (6291,-23187) → (6302,-23173) center (6296,-23180) size 11×14
+**TortleSara831** — 1 claim(s), 9,975 blocks total
+  - (-13517,23132) → (-13422,23237) center (-13470,23184) size 95×105
+**SternalNICK** — 1 claim(s), 1,320 blocks total
+  - (-19694,21320) → (-19670,21375) center (-19682,21347) size 24×55
+**Blank_canva** — 1 claim(s), 65,934 blocks total
+  - (-4067,-21742) → (-3734,-21544) center (-3901,-21643) size 333×198
+
 ## 2026-09-10 15:15 UTC
 Total claims: 17638 | Removed: 2 | Added: 15 | Skipped (reclaimed): 7
 
