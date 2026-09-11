@@ -1,4 +1,29 @@
 
+## 2026-09-11 10:03 UTC
+Total claims: 17644 | Removed: 3 | Added: 7 | Skipped (reclaimed): 1
+
+### Removed
+**_N8el_** — 2 claim(s), 360 blocks total
+  - (-3219,-20721) → (-3209,-20706) center (-3214,-20714) size 10×15
+  - (-3216,-20768) → (-3202,-20753) center (-3209,-20761) size 14×15
+**D1amantenKr1eger** — 1 claim(s), 112 blocks total
+  - (-5149,-21553) → (-5141,-21539) center (-5145,-21546) size 8×14
+
+### Added
+**Hydenne** — 2 claim(s), 2,021 blocks total
+  - (-22720,-14767) → (-22670,-14729) center (-22695,-14748) size 50×38
+  - (3402,-22655) → (3413,-22644) center (3407,-22650) size 11×11
+**Kryptic_Light** — 1 claim(s), 156 blocks total
+  - (-21510,20847) → (-21498,20860) center (-21504,20853) size 12×13
+**CosmicBrina** — 1 claim(s), 552 blocks total
+  - (-18157,22731) → (-18134,22755) center (-18146,22743) size 23×24
+**asianduke113** — 1 claim(s), 380 blocks total
+  - (23088,12443) → (23108,12462) center (23098,12452) size 20×19
+**theprismcube** — 1 claim(s), 2,112 blocks total
+  - (22029,5651) → (22073,5699) center (22051,5675) size 44×48
+**SJANIMATOR1** — 1 claim(s), 16,920 blocks total
+  - (-17612,21823) → (-17492,21964) center (-17552,21893) size 120×141
+
 ## 2026-09-11 01:34 UTC
 Total claims: 17641 | Removed: 3 | Added: 6 | Skipped (reclaimed): 2
 
