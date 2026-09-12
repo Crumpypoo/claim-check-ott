@@ -1,4 +1,42 @@
 
+## 2026-09-12 14:26 UTC
+Total claims: 17663 | Removed: 1 | Added: 15 | Skipped (reclaimed): 5
+
+### Removed
+**Smitiq** — 1 claim(s), 130 blocks total
+  - (14315,-21998) → (14325,-21985) center (14320,-21992) size 10×13
+
+### Added
+**Lucas_gamer20** — 2 claim(s), 361 blocks total
+  - (-22659,17252) → (-22636,17261) center (-22648,17256) size 23×9
+  - (-22658,17241) → (-22644,17252) center (-22651,17246) size 14×11
+**holy_ch1cken** — 1 claim(s), 5,088 blocks total
+  - (-3753,-23445) → (-3657,-23392) center (-3705,-23419) size 96×53
+**Kasan3T3t0** — 1 claim(s), 100 blocks total
+  - (-22004,-5475) → (-21994,-5465) center (-21999,-5470) size 10×10
+**Smitiq** — 1 claim(s), 1,488 blocks total
+  - (23670,9743) → (23701,9791) center (23685,9767) size 31×48
+**_ItsBlueMoon_** — 1 claim(s), 775 blocks total
+  - (3406,-8026) → (3431,-7995) center (3418,-8011) size 25×31
+**Artur1313** — 1 claim(s), 221 blocks total
+  - (-15126,-22762) → (-15109,-22749) center (-15118,-22756) size 17×13
+**Squid82** — 1 claim(s), 700 blocks total
+  - (4703,21026) → (4723,21061) center (4713,21043) size 20×35
+**Wakko11** — 1 claim(s), 234 blocks total
+  - (23054,-11902) → (23072,-11889) center (23063,-11896) size 18×13
+**Zolmir** — 1 claim(s), 360 blocks total
+  - (-22936,19303) → (-22916,19321) center (-22926,19312) size 20×18
+**willpanpan** — 1 claim(s), 345 blocks total
+  - (-22951,-16608) → (-22936,-16585) center (-22944,-16597) size 15×23
+**_SonicShelf9729** — 1 claim(s), 105 blocks total
+  - (23232,-15483) → (23239,-15468) center (23235,-15476) size 7×15
+**tarlieee** — 1 claim(s), 9,605 blocks total
+  - (-10071,20835) → (-9958,20920) center (-10015,20877) size 113×85
+**duskling_1** — 1 claim(s), 1,504 blocks total
+  - (22183,8746) → (22215,8793) center (22199,8769) size 32×47
+**TheUnknown8181** — 1 claim(s), 15,000 blocks total
+  - (20896,-9867) → (21016,-9742) center (20956,-9805) size 120×125
+
 ## 2026-09-12 09:39 UTC
 Total claims: 17654 | Removed: 6 | Added: 30 | Skipped (reclaimed): 21
 
