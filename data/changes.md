@@ -1,4 +1,44 @@
 
+## 2026-09-14 17:04 UTC
+Total claims: 17761 | Removed: 2 | Added: 15 | Skipped (reclaimed): 7
+
+### Removed
+**snakonhappypills** — 1 claim(s), 1,024 blocks total
+  - (7760,-20848) → (7792,-20816) center (7776,-20832) size 32×32
+**Cookie_Kin** — 1 claim(s), 1,150 blocks total
+  - (-3540,-21422) → (-3515,-21376) center (-3528,-21399) size 25×46
+
+### Added
+**beluga774_** — 2 claim(s), 979 blocks total
+  - (21407,4332) → (21430,4349) center (21418,4340) size 23×17
+  - (21507,4346) → (21535,4367) center (21521,4356) size 28×21
+**Tha_Nugget22** — 1 claim(s), 331,316 blocks total
+  - (-3592,24548) → (-2859,25000) center (-3226,24774) size 733×452
+**HeyItsEpic** — 1 claim(s), 4,544 blocks total
+  - (23120,16720) → (23184,16791) center (23152,16755) size 64×71
+**Unlootables** — 1 claim(s), 110 blocks total
+  - (-7259,21301) → (-7248,21311) center (-7254,21306) size 11×10
+**dxxrlinq** — 1 claim(s), 667 blocks total
+  - (-13145,21809) → (-13116,21832) center (-13131,21820) size 29×23
+**FLOWD_1** — 1 claim(s), 1,184 blocks total
+  - (3942,-21363) → (3974,-21326) center (3958,-21345) size 32×37
+**_Kuwi5024** — 1 claim(s), 968 blocks total
+  - (-12748,20548) → (-12704,20570) center (-12726,20559) size 44×22
+**peanut_butty** — 1 claim(s), 238 blocks total
+  - (-3140,20694) → (-3126,20711) center (-3133,20702) size 14×17
+**Facility3826** — 1 claim(s), 10,952 blocks total
+  - (11728,-20896) → (11876,-20822) center (11802,-20859) size 148×74
+**eletroid** — 1 claim(s), 406 blocks total
+  - (20366,-4637) → (20380,-4608) center (20373,-4623) size 14×29
+**perqyyyy** — 1 claim(s), 1,408 blocks total
+  - (21938,-10436) → (22002,-10414) center (21970,-10425) size 64×22
+**duskling_1** — 1 claim(s), 748 blocks total
+  - (22339,8668) → (22361,8702) center (22350,8685) size 22×34
+**Carryloki** — 1 claim(s), 441,902 blocks total
+  - (19973,22341) → (21075,22742) center (20524,22541) size 1102×401
+**Randomroxy** — 1 claim(s), 80,053 blocks total
+  - (-15206,23592) → (-14929,23881) center (-15068,23736) size 277×289
+
 ## 2026-09-14 11:01 UTC
 Total claims: 17755 | Removed: 12 | Added: 14 | Skipped (reclaimed): 3
 
