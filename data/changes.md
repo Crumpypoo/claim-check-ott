@@ -1,4 +1,46 @@
 
+## 2026-09-15 10:31 UTC
+Total claims: 17755 | Removed: 15 | Added: 6 | Skipped (reclaimed): 2
+
+### Removed
+**ethanm1223** — 5 claim(s), 941 blocks total
+  - (-22529,-19224) → (-22499,-19215) center (-22514,-19220) size 30×9
+  - (-22544,-19215) → (-22529,-19199) center (-22537,-19207) size 15×16
+  - (-22498,-19223) → (-22485,-19211) center (-22492,-19217) size 13×12
+  - (-17303,22319) → (-17292,22330) center (-17298,22324) size 11×11
+  - (-22510,-19238) → (-22499,-19224) center (-22505,-19231) size 11×14
+**_FickleYeti6550** — 2 claim(s), 254 blocks total
+  - (23243,21328) → (23251,21344) center (23247,21336) size 8×16
+  - (23251,21343) → (23257,21364) center (23254,21353) size 6×21
+**laHaniid** — 2 claim(s), 813 blocks total
+  - (3810,23070) → (3825,23089) center (3817,23079) size 15×19
+  - (-15626,-21031) → (-15604,-21007) center (-15615,-21019) size 22×24
+**BlueJ2J** — 2 claim(s), 1,156 blocks total
+  - (-21543,-16045) → (-21533,-16035) center (-21538,-16040) size 10×10
+  - (-21498,-16017) → (-21466,-15984) center (-21482,-16001) size 32×33
+**InkSpills** — 1 claim(s), 624 blocks total
+  - (21173,19541) → (21199,19565) center (21186,19553) size 26×24
+**Dominicyay** — 1 claim(s), 104 blocks total
+  - (-12684,-22200) → (-12676,-22187) center (-12680,-22194) size 8×13
+**pokermongod** — 1 claim(s), 322 blocks total
+  - (-13768,-21559) → (-13754,-21536) center (-13761,-21548) size 14×23
+**Hydenne** — 1 claim(s), 1,900 blocks total
+  - (-22720,-14767) → (-22670,-14729) center (-22695,-14748) size 50×38
+
+### Added
+**Fartist** — 1 claim(s), 2,624 blocks total
+  - (-7559,-20512) → (-7495,-20471) center (-7527,-20492) size 64×41
+**xitssage** — 1 claim(s), 2,772 blocks total
+  - (-3055,-21140) → (-2992,-21096) center (-3024,-21118) size 63×44
+**mckeen2013** — 1 claim(s), 130 blocks total
+  - (-22357,11336) → (-22344,11346) center (-22351,11341) size 13×10
+**Namvn2222** — 1 claim(s), 1,353 blocks total
+  - (-15656,-22692) → (-15615,-22659) center (-15636,-22676) size 41×33
+**Plastic_Gaming** — 1 claim(s), 121 blocks total
+  - (21524,22848) → (21535,22859) center (21529,22853) size 11×11
+**Axxerion** — 1 claim(s), 3,894 blocks total
+  - (-20815,15555) → (-20756,15621) center (-20786,15588) size 59×66
+
 ## 2026-09-15 01:58 UTC
 Total claims: 17766 | Removed: 17 | Added: 33 | Skipped (reclaimed): 21
 
