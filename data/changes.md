@@ -1,4 +1,49 @@
 
+## 2026-09-15 15:44 UTC
+Total claims: 17751 | Removed: 11 | Added: 12 | Skipped (reclaimed): 5
+
+### Removed
+**Faith_downfall** — 5 claim(s), 1,744 blocks total
+  - (-8859,-19850) → (-8853,-19832) center (-8856,-19841) size 6×18
+  - (-8896,-19876) → (-8886,-19831) center (-8891,-19854) size 10×45
+  - (-8927,-19865) → (-8917,-19833) center (-8922,-19849) size 10×32
+  - (-8916,-19853) → (-8902,-19834) center (-8909,-19844) size 14×19
+  - (-8917,-19884) → (-8897,-19854) center (-8907,-19869) size 20×30
+**krop1kk** — 2 claim(s), 320 blocks total
+  - (-9713,21219) → (-9699,21234) center (-9706,21226) size 14×15
+  - (-9691,21483) → (-9681,21494) center (-9686,21488) size 10×11
+**dogcrapfan** — 1 claim(s), 928 blocks total
+  - (-23220,5270) → (-23191,5302) center (-23206,5286) size 29×32
+**Axxerion** — 1 claim(s), 3,894 blocks total
+  - (-20815,15555) → (-20756,15621) center (-20786,15588) size 59×66
+**Galex_z_** — 1 claim(s), 121 blocks total
+  - (4571,21205) → (4582,21216) center (4576,21210) size 11×11
+**GroxMSC** — 1 claim(s), 459 blocks total
+  - (-6212,22946) → (-6185,22963) center (-6199,22954) size 27×17
+
+### Added
+**warden_vail** — 3 claim(s), 1,482 blocks total
+  - (-9460,20716) → (-9442,20760) center (-9451,20738) size 18×44
+  - (-9480,20764) → (-9457,20779) center (-9469,20771) size 23×15
+  - (-9495,20760) → (-9480,20783) center (-9488,20771) size 15×23
+**Umbrell4m** — 2 claim(s), 6,346 blocks total
+  - (21692,4378) → (21781,4415) center (21736,4396) size 89×37
+  - (21598,4407) → (21641,4478) center (21619,4442) size 43×71
+**Mackenzie_MARIM** — 1 claim(s), 4,200 blocks total
+  - (-20288,12860) → (-20218,12920) center (-20253,12890) size 70×60
+**Booo128** — 1 claim(s), 1,406 blocks total
+  - (19520,23380) → (19557,23418) center (19538,23399) size 37×38
+**a1434az** — 1 claim(s), 540 blocks total
+  - (14417,20221) → (14435,20251) center (14426,20236) size 18×30
+**StefanViP** — 1 claim(s), 121 blocks total
+  - (21936,-5876) → (21947,-5865) center (21941,-5871) size 11×11
+**HaydenFaith** — 1 claim(s), 5,559 blocks total
+  - (-10795,22426) → (-10468,22443) center (-10632,22434) size 327×17
+**grossly** — 1 claim(s), 168 blocks total
+  - (-546,-18400) → (-534,-18386) center (-540,-18393) size 12×14
+**KxToG57** — 1 claim(s), 32,930 blocks total
+  - (21993,22867) → (22178,23045) center (22085,22956) size 185×178
+
 ## 2026-09-15 10:31 UTC
 Total claims: 17755 | Removed: 15 | Added: 6 | Skipped (reclaimed): 2
 
