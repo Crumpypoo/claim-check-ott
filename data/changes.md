@@ -1,4 +1,48 @@
 
+## 2026-09-16 01:49 UTC
+Total claims: 17763 | Removed: 5 | Added: 17 | Skipped (reclaimed): 10
+
+### Removed
+**svnoorii** — 2 claim(s), 1,440 blocks total
+  - (10295,-22949) → (10325,-22917) center (10310,-22933) size 30×32
+  - (10261,-22954) → (10281,-22930) center (10271,-22942) size 20×24
+**mech_inations** — 1 claim(s), 130 blocks total
+  - (19133,21392) → (19143,21405) center (19138,21398) size 10×13
+**lottieisaloser** — 1 claim(s), 756 blocks total
+  - (22109,8569) → (22127,8611) center (22118,8590) size 18×42
+**Blackwidow74** — 1 claim(s), 121 blocks total
+  - (-21145,19101) → (-21134,19112) center (-21140,19106) size 11×11
+
+### Added
+**Miaufii** — 7 claim(s), 265,744 blocks total
+  - (-21268,14926) → (-21185,15047) center (-21227,14986) size 83×121
+  - (20811,3742) → (21247,3963) center (21029,3852) size 436×221
+  - (20948,3670) → (21247,3742) center (21097,3706) size 299×72
+  - (-23371,-6159) → (-23238,-5681) center (-23305,-5920) size 133×478
+  - (-23952,14320) → (-23885,14379) center (-23919,14349) size 67×59
+  - (-10271,21335) → (-10106,21473) center (-10189,21404) size 165×138
+  - (-23515,-6019) → (-23371,-5689) center (-23443,-5854) size 144×330
+**Fartist** — 1 claim(s), 2,829 blocks total
+  - (-7559,-20512) → (-7490,-20471) center (-7525,-20492) size 69×41
+**mouzz2k** — 1 claim(s), 460 blocks total
+  - (-20703,-4928) → (-20680,-4908) center (-20692,-4918) size 23×20
+**Gearwall** — 1 claim(s), 261 blocks total
+  - (-7523,-20462) → (-7494,-20453) center (-7509,-20458) size 29×9
+**MithrilPebble** — 1 claim(s), 1,554 blocks total
+  - (15317,-21385) → (15359,-21348) center (15338,-21367) size 42×37
+**Zayfern__** — 1 claim(s), 4,356 blocks total
+  - (23460,18249) → (23526,18315) center (23493,18282) size 66×66
+**Phelorna_Torqen** — 1 claim(s), 2,128 blocks total
+  - (4588,-22366) → (4626,-22310) center (4607,-22338) size 38×56
+**AxolotlLovesBoba** — 1 claim(s), 342 blocks total
+  - (14425,23126) → (14443,23145) center (14434,23135) size 18×19
+**provenmoss8779** — 1 claim(s), 1,976 blocks total
+  - (-13444,-22596) → (-13406,-22544) center (-13425,-22570) size 38×52
+**HeyItsEpic** — 1 claim(s), 11,536 blocks total
+  - (23104,16688) → (23216,16791) center (23160,16739) size 112×103
+**MadFusion** — 1 claim(s), 17,688 blocks total
+  - (-19364,20874) → (-19230,21006) center (-19297,20940) size 134×132
+
 ## 2026-09-15 20:29 UTC
 Total claims: 17761 | Removed: 4 | Added: 25 | Skipped (reclaimed): 11
 
