@@ -1,4 +1,49 @@
 
+## 2026-09-16 20:28 UTC
+Total claims: 17766 | Removed: 4 | Added: 17 | Skipped (reclaimed): 9
+
+### Removed
+**Weebooboy223** — 1 claim(s), 1,015 blocks total
+  - (20930,1098) → (20965,1127) center (20947,1112) size 35×29
+**Batmannnn100** — 1 claim(s), 5,130 blocks total
+  - (-21241,-1366) → (-21184,-1276) center (-21213,-1321) size 57×90
+**Sywo_0** — 1 claim(s), 1,520 blocks total
+  - (13184,21590) → (13224,21628) center (13204,21609) size 40×38
+**crazydog492** — 1 claim(s), 540 blocks total
+  - (21811,19689) → (21831,19716) center (21821,19702) size 20×27
+
+### Added
+**Umbrell4m** — 4 claim(s), 1,982 blocks total
+  - (7726,-24064) → (7741,-24046) center (7733,-24055) size 15×18
+  - (21452,4643) → (21467,4707) center (21459,4675) size 15×64
+  - (8221,-21353) → (8229,-21286) center (8225,-21320) size 8×67
+  - (8015,-21308) → (8033,-21296) center (8024,-21302) size 18×12
+**Kristox** — 2 claim(s), 1,316 blocks total
+  - (-8623,21664) → (-8609,21678) center (-8616,21671) size 14×14
+  - (-8653,21728) → (-8625,21768) center (-8639,21748) size 28×40
+**Smitiq** — 1 claim(s), 2,745 blocks total
+  - (23656,9734) → (23701,9795) center (23678,9764) size 45×61
+**johanscratch1** — 1 claim(s), 304 blocks total
+  - (745,-21505) → (764,-21489) center (754,-21497) size 19×16
+**RatedKiwi** — 1 claim(s), 3,100 blocks total
+  - (-20220,-12160) → (-20158,-12110) center (-20189,-12135) size 62×50
+**Ekitkuu** — 1 claim(s), 1,122 blocks total
+  - (-22024,12436) → (-21990,12469) center (-22007,12452) size 34×33
+**Weebooboy223** — 1 claim(s), 4,235 blocks total
+  - (-23203,15441) → (-23082,15476) center (-23143,15458) size 121×35
+**Cameraaba** — 1 claim(s), 1,520 blocks total
+  - (-21816,-7127) → (-21778,-7087) center (-21797,-7107) size 38×40
+**byllonsuwu** — 1 claim(s), 306 blocks total
+  - (-12386,-22202) → (-12369,-22184) center (-12378,-22193) size 17×18
+**camiiluwu** — 1 claim(s), 1,452 blocks total
+  - (-4880,-20717) → (-4847,-20673) center (-4864,-20695) size 33×44
+**Randomroxy** — 1 claim(s), 82,654 blocks total
+  - (-15215,23592) → (-14929,23881) center (-15072,23736) size 286×289
+**Silverizer** — 1 claim(s), 1,104,984 blocks total
+  - (21420,3287) → (22612,4214) center (22016,3750) size 1192×927
+**Yiuma** — 1 claim(s), 16,512 blocks total
+  - (6848,-6209) → (6976,-6080) center (6912,-6145) size 128×129
+
 ## 2026-09-16 15:36 UTC
 Total claims: 17762 | Removed: 9 | Added: 6 | Skipped (reclaimed): 3
 
