@@ -1,4 +1,36 @@
 
+## 2026-09-16 15:36 UTC
+Total claims: 17762 | Removed: 9 | Added: 6 | Skipped (reclaimed): 3
+
+### Removed
+**x_blueb4rry_x** — 4 claim(s), 3,454 blocks total
+  - (7858,23621) → (7903,23646) center (7880,23633) size 45×25
+  - (7838,23587) → (7882,23621) center (7860,23604) size 44×34
+  - (7829,23609) → (7838,23646) center (7833,23627) size 9×37
+  - (7838,23621) → (7858,23646) center (7848,23633) size 20×25
+**Vash_Avi** — 1 claim(s), 957 blocks total
+  - (5138,21147) → (5171,21176) center (5154,21161) size 33×29
+**_dabob109876** — 1 claim(s), 121 blocks total
+  - (4751,21137) → (4762,21148) center (4756,21142) size 11×11
+**system1825** — 1 claim(s), 345 blocks total
+  - (20662,-10095) → (20677,-10072) center (20669,-10084) size 15×23
+**l0ztmist** — 1 claim(s), 961 blocks total
+  - (7459,23661) → (7490,23692) center (7474,23676) size 31×31
+**babyghost2** — 1 claim(s), 156 blocks total
+  - (-11108,22624) → (-11096,22637) center (-11102,22630) size 12×13
+
+### Added
+**RatedKiwi** — 3 claim(s), 903 blocks total
+  - (-20184,-12143) → (-20163,-12133) center (-20174,-12138) size 21×10
+  - (-20204,-12133) → (-20182,-12111) center (-20193,-12122) size 22×22
+  - (-20182,-12133) → (-20163,-12122) center (-20173,-12128) size 19×11
+**Bcook1488** — 1 claim(s), 4,440 blocks total
+  - (4626,-22403) → (4686,-22329) center (4656,-22366) size 60×74
+**Teisestv_** — 1 claim(s), 352 blocks total
+  - (-22789,-16091) → (-22773,-16069) center (-22781,-16080) size 16×22
+**Silverizer** — 1 claim(s), 254,100 blocks total
+  - (21859,3628) → (22343,4153) center (22101,3890) size 484×525
+
 ## 2026-09-16 10:20 UTC
 Total claims: 17768 | Removed: 10 | Added: 20 | Skipped (reclaimed): 5
 
