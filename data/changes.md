@@ -1,4 +1,49 @@
 
+## 2026-09-19 01:45 UTC
+Total claims: 17836 | Removed: 1 | Added: 18 | Skipped (reclaimed): 3
+
+### Removed
+**_DJMelo7805** — 1 claim(s), 605 blocks total
+  - (20532,18568) → (20543,18623) center (20537,18595) size 11×55
+
+### Added
+**MagionX** — 1 claim(s), 858 blocks total
+  - (20378,19687) → (20411,19713) center (20394,19700) size 33×26
+**PinkGapple** — 1 claim(s), 8,475 blocks total
+  - (-16336,21907) → (-16261,22020) center (-16299,21963) size 75×113
+**JAYWALKERRRRRR** — 1 claim(s), 204 blocks total
+  - (-22030,7064) → (-22013,7076) center (-22022,7070) size 17×12
+**MyghtyTiger** — 1 claim(s), 1,380 blocks total
+  - (-22598,-6382) → (-22552,-6352) center (-22575,-6367) size 46×30
+**MrKitKatCat** — 1 claim(s), 1,372 blocks total
+  - (-21945,-15838) → (-21917,-15789) center (-21931,-15814) size 28×49
+**Jexacore** — 1 claim(s), 3,477 blocks total
+  - (22614,-10849) → (22671,-10788) center (22642,-10819) size 57×61
+**akapio** — 1 claim(s), 121 blocks total
+  - (-23172,15706) → (-23161,15717) center (-23167,15711) size 11×11
+**provenmoss8779** — 1 claim(s), 121 blocks total
+  - (20997,18029) → (21008,18040) center (21002,18034) size 11×11
+**Captian_Rex_REAL** — 1 claim(s), 340 blocks total
+  - (-20672,12469) → (-20655,12489) center (-20664,12479) size 17×20
+**GreatOwl60** — 1 claim(s), 2,328 blocks total
+  - (17279,22863) → (17376,22887) center (17327,22875) size 97×24
+**Halfvol_Luca** — 1 claim(s), 484 blocks total
+  - (-7696,21048) → (-7674,21070) center (-7685,21059) size 22×22
+**satchz** — 1 claim(s), 5,382 blocks total
+  - (-20940,7964) → (-20871,8042) center (-20906,8003) size 69×78
+**rayfox64** — 1 claim(s), 40,392 blocks total
+  - (16333,20378) → (16486,20642) center (16409,20510) size 153×264
+**0h3lyat** — 1 claim(s), 3,648 blocks total
+  - (-12527,24883) → (-12431,24921) center (-12479,24902) size 96×38
+**GenKenz** — 1 claim(s), 3,591 blocks total
+  - (-21711,-5174) → (-21654,-5111) center (-21683,-5143) size 57×63
+**Xxmadboyxx6779** — 1 claim(s), 156 blocks total
+  - (22920,5523) → (22932,5536) center (22926,5529) size 12×13
+**Rippfam** — 1 claim(s), 245 blocks total
+  - (-21714,-10505) → (-21679,-10498) center (-21697,-10502) size 35×7
+**Mr_Pandaz_** — 1 claim(s), 105,450 blocks total
+  - (10897,20382) → (11467,20567) center (11182,20474) size 570×185
+
 ## 2026-09-18 20:01 UTC
 Total claims: 17822 | Removed: 5 | Added: 24 | Skipped (reclaimed): 7
 
