@@ -1,4 +1,38 @@
 
+## 2026-09-22 20:31 UTC
+Total claims: 17975 | Removed: 4 | Added: 10 | Skipped (reclaimed): 5
+
+### Removed
+**soons36** — 2 claim(s), 840 blocks total
+  - (21058,1401) → (21072,1448) center (21065,1424) size 14×47
+  - (21062,1448) → (21069,1474) center (21065,1461) size 7×26
+**Shadow_ninja13** — 1 claim(s), 121 blocks total
+  - (-21751,10019) → (-21740,10030) center (-21746,10024) size 11×11
+**Romi_xoxo** — 1 claim(s), 1,024 blocks total
+  - (-23904,15008) → (-23872,15040) center (-23888,15024) size 32×32
+
+### Added
+**_IceCube7472** — 1 claim(s), 119 blocks total
+  - (22064,14611) → (22071,14628) center (22067,14619) size 7×17
+**Zulaya27** — 1 claim(s), 612 blocks total
+  - (472,23366) → (489,23402) center (480,23384) size 17×36
+**Skysaw** — 1 claim(s), 121 blocks total
+  - (-22699,-14783) → (-22688,-14772) center (-22694,-14778) size 11×11
+**Romi_xoxo** — 1 claim(s), 2,304 blocks total
+  - (11488,-19424) → (11536,-19376) center (11512,-19400) size 48×48
+**NinjaWika** — 1 claim(s), 18,769 blocks total
+  - (22068,-7498) → (22205,-7361) center (22136,-7430) size 137×137
+**yeren10** — 1 claim(s), 104 blocks total
+  - (21652,-8683) → (21665,-8675) center (21658,-8679) size 13×8
+**puhpuhpearl** — 1 claim(s), 29,547 blocks total
+  - (-10646,-22887) → (-10499,-22686) center (-10573,-22787) size 147×201
+**EvaConly** — 1 claim(s), 82,314 blocks total
+  - (-14317,-18375) → (-14011,-18106) center (-14164,-18241) size 306×269
+**AtomicLost** — 1 claim(s), 136,186 blocks total
+  - (-8981,-17887) → (-8524,-17589) center (-8753,-17738) size 457×298
+**Umbrell4m** — 1 claim(s), 630 blocks total
+  - (20697,-12279) → (20727,-12258) center (20712,-12269) size 30×21
+
 ## 2026-09-22 15:46 UTC
 Total claims: 17974 | Removed: 3 | Added: 14 | Skipped (reclaimed): 9
 
