@@ -1,4 +1,46 @@
 
+## 2026-09-23 15:36 UTC
+Total claims: 17990 | Removed: 4 | Added: 16 | Skipped (reclaimed): 2
+
+### Removed
+**IKHOM** — 2 claim(s), 983 blocks total
+  - (-20932,41) → (-20905,70) center (-20919,55) size 27×29
+  - (-20932,70) → (-20912,80) center (-20922,75) size 20×10
+**PeppyPrincess** — 1 claim(s), 126 blocks total
+  - (22797,-11464) → (22806,-11450) center (22801,-11457) size 9×14
+**Subth00** — 1 claim(s), 420 blocks total
+  - (-9180,20979) → (-9159,20999) center (-9170,20989) size 21×20
+
+### Added
+**sirvipper** — 5 claim(s), 612 blocks total
+  - (15202,21095) → (15213,21106) center (15207,21100) size 11×11
+  - (15222,21090) → (15233,21101) center (15227,21095) size 11×11
+  - (15222,21102) → (15233,21113) center (15227,21107) size 11×11
+  - (15201,21106) → (15212,21117) center (15206,21111) size 11×11
+  - (15214,21098) → (15222,21114) center (15218,21106) size 8×16
+**nas_lost_af** — 1 claim(s), 210 blocks total
+  - (357,-22074) → (372,-22060) center (364,-22067) size 15×14
+**Skebob_kr** — 1 claim(s), 460 blocks total
+  - (23417,-11040) → (23437,-11017) center (23427,-11029) size 20×23
+**MonkeyBunny8** — 1 claim(s), 121 blocks total
+  - (-16519,-5047) → (-16508,-5036) center (-16514,-5042) size 11×11
+**GrandCodex** — 1 claim(s), 806 blocks total
+  - (22063,8972) → (22094,8998) center (22078,8985) size 31×26
+**roxothefluff** — 1 claim(s), 209 blocks total
+  - (9469,-21242) → (9488,-21231) center (9478,-21237) size 19×11
+**AbcTest123** — 1 claim(s), 1,674 blocks total
+  - (-23487,10495) → (-23456,10549) center (-23472,10522) size 31×54
+**SpookieNL** — 1 claim(s), 11,960 blocks total
+  - (21486,-8574) → (21616,-8482) center (21551,-8528) size 130×92
+**gallopingunicorn** — 1 claim(s), 126 blocks total
+  - (-2020,12868) → (-2011,12882) center (-2016,12875) size 9×14
+**Millalgi** — 1 claim(s), 992 blocks total
+  - (20859,22180) → (20890,22212) center (20874,22196) size 31×32
+**rollypolly2016** — 1 claim(s), 800 blocks total
+  - (-16459,-21307) → (-16434,-21275) center (-16447,-21291) size 25×32
+**abaquado** — 1 claim(s), 6,570 blocks total
+  - (-3640,-21598) → (-3550,-21525) center (-3595,-21562) size 90×73
+
 ## 2026-09-23 10:19 UTC
 Total claims: 17980 | Removed: 3 | Added: 14 | Skipped (reclaimed): 6
 
