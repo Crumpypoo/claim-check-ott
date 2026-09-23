@@ -1,4 +1,41 @@
 
+## 2026-09-23 10:19 UTC
+Total claims: 17980 | Removed: 3 | Added: 14 | Skipped (reclaimed): 6
+
+### Removed
+**Durant360** — 1 claim(s), 1,200 blocks total
+  - (2216,-23181) → (2266,-23157) center (2241,-23169) size 50×24
+**_TaxingSet046296** — 1 claim(s), 1,295 blocks total
+  - (13060,21780) → (13097,21815) center (13078,21797) size 37×35
+**Adamson125Java** — 1 claim(s), 196 blocks total
+  - (20515,-8745) → (20529,-8731) center (20522,-8738) size 14×14
+
+### Added
+**KaiasolEnd** — 5 claim(s), 1,146 blocks total
+  - (-22027,-4830) → (-22015,-4819) center (-22021,-4825) size 12×11
+  - (-22030,-4818) → (-22018,-4808) center (-22024,-4813) size 12×10
+  - (-22072,-4856) → (-22041,-4841) center (-22057,-4849) size 31×15
+  - (-22052,-4841) → (-22043,-4812) center (-22048,-4827) size 9×29
+  - (-22041,-4841) → (-22027,-4829) center (-22034,-4835) size 14×12
+**POTATO_OVERLORDE** — 1 claim(s), 252 blocks total
+  - (17413,4190) → (17431,4204) center (17422,4197) size 18×14
+**zeeboutabag** — 1 claim(s), 335 blocks total
+  - (-23298,-9537) → (-23231,-9532) center (-23265,-9535) size 67×5
+**GrandCodex** — 1 claim(s), 1,085 blocks total
+  - (22063,8998) → (22094,9033) center (22078,9015) size 31×35
+**Romi_xoxo** — 1 claim(s), 2,500 blocks total
+  - (11487,-19425) → (11537,-19375) center (11512,-19400) size 50×50
+**olivi_yeah** — 1 claim(s), 2,295 blocks total
+  - (21161,-2375) → (21246,-2348) center (21203,-2362) size 85×27
+**stewwwyf** — 1 claim(s), 11,600 blocks total
+  - (16936,-7627) → (17052,-7527) center (16994,-7577) size 116×100
+**byllonsuwu** — 1 claim(s), 4,758 blocks total
+  - (-12405,-22232) → (-12344,-22154) center (-12375,-22193) size 61×78
+**camiiluwu** — 1 claim(s), 3,160 blocks total
+  - (-4909,-20717) → (-4830,-20677) center (-4870,-20697) size 79×40
+**Soupyahtzee** — 1 claim(s), 281,280 blocks total
+  - (-22831,6216) → (-21871,6509) center (-22351,6362) size 960×293
+
 ## 2026-09-23 01:55 UTC
 Total claims: 17975 | Removed: 0 | Added: 0 | Skipped (reclaimed): 12069
 
