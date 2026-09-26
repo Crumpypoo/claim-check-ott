@@ -1,4 +1,47 @@
 
+## 2026-09-26 15:09 UTC
+Total claims: 18088 | Removed: 4 | Added: 17 | Skipped (reclaimed): 5
+
+### Removed
+**FatKillerKyle** — 2 claim(s), 1,077 blocks total
+  - (-22561,7126) → (-22550,7173) center (-22556,7149) size 11×47
+  - (-22577,7137) → (-22561,7172) center (-22569,7154) size 16×35
+**SternalNICK** — 1 claim(s), 10,246 blocks total
+  - (-21160,-14830) → (-21066,-14721) center (-21113,-14776) size 94×109
+**_Sharmlock** — 1 claim(s), 2,720 blocks total
+  - (22648,8859) → (22680,8944) center (22664,8901) size 32×85
+
+### Added
+**ShezWheeze** — 4 claim(s), 4,224 blocks total
+  - (-21523,-1003) → (-21484,-976) center (-21504,-990) size 39×27
+  - (-21522,-1077) → (-21477,-1040) center (-21500,-1059) size 45×37
+  - (-21478,-1040) → (-21468,-1030) center (-21473,-1035) size 10×10
+  - (-21522,-1040) → (-21484,-1003) center (-21503,-1022) size 38×37
+**Grim_Reaper01** — 2 claim(s), 1,368,008 blocks total
+  - (8823,-8182) → (10595,-7418) center (9709,-7800) size 1772×764
+  - (24900,6684) → (25000,6826) center (24950,6755) size 100×142
+**_Sharmlock** — 2 claim(s), 10,199 blocks total
+  - (-10453,20829) → (-10344,20871) center (-10399,20850) size 109×42
+  - (-10431,20751) → (-10358,20828) center (-10395,20789) size 73×77
+**provenmoss8779** — 1 claim(s), 121 blocks total
+  - (21010,18053) → (21021,18064) center (21015,18058) size 11×11
+**Lavie_Lulu** — 1 claim(s), 192 blocks total
+  - (23433,12725) → (23445,12741) center (23439,12733) size 12×16
+**Venixwolf** — 1 claim(s), 3,600 blocks total
+  - (21133,-13056) → (21213,-13011) center (21173,-13034) size 80×45
+**iVanta** — 1 claim(s), 12,644 blocks total
+  - (23072,-2437) → (23181,-2321) center (23126,-2379) size 109×116
+**Zane21850** — 1 claim(s), 126 blocks total
+  - (20992,17830) → (21006,17839) center (20999,17834) size 14×9
+**Crimson_Raiin** — 1 claim(s), 108,612 blocks total
+  - (-19153,6500) → (-18722,6752) center (-18938,6626) size 431×252
+**P0uxP0ux** — 1 claim(s), 204 blocks total
+  - (21771,12084) → (21788,12096) center (21779,12090) size 17×12
+**Castle_OG** — 1 claim(s), 2,090 blocks total
+  - (13352,-21276) → (13390,-21221) center (13371,-21249) size 38×55
+**IKHOM** — 1 claim(s), 768 blocks total
+  - (-19024,21120) → (-19008,21168) center (-19016,21144) size 16×48
+
 ## 2026-09-26 10:20 UTC
 Total claims: 18080 | Removed: 0 | Added: 0 | Skipped (reclaimed): 15381
 
