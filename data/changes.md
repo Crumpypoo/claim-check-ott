@@ -1,4 +1,46 @@
 
+## 2026-09-27 15:51 UTC
+Total claims: 18122 | Removed: 5 | Added: 14 | Skipped (reclaimed): 2
+
+### Removed
+**BelovedOne** — 2 claim(s), 613 blocks total
+  - (-23401,-23393) → (-23391,-23383) center (-23396,-23388) size 10×10
+  - (-23352,-23334) → (-23325,-23315) center (-23339,-23325) size 27×19
+**ghostdk4** — 1 claim(s), 288 blocks total
+  - (20930,7786) → (20946,7804) center (20938,7795) size 16×18
+**WaZe0508** — 1 claim(s), 190 blocks total
+  - (3804,-23144) → (3842,-23139) center (3823,-23142) size 38×5
+**_Solasta7792** — 1 claim(s), 744 blocks total
+  - (-21006,-5462) → (-20975,-5438) center (-20991,-5450) size 31×24
+
+### Added
+**BelovedOne** — 2 claim(s), 1,920 blocks total
+  - (2745,-23311) → (2782,-23274) center (2763,-23293) size 37×37
+  - (2782,-23311) → (2801,-23282) center (2791,-23297) size 19×29
+**Bastiy_** — 2 claim(s), 3,313 blocks total
+  - (-21585,-19091) → (-21559,-19038) center (-21572,-19065) size 26×53
+  - (23552,12879) → (23597,12922) center (23574,12900) size 45×43
+**Phelorna_Torqen** — 1 claim(s), 2,664 blocks total
+  - (4589,-22366) → (4625,-22292) center (4607,-22329) size 36×74
+**NoahDragonmaster** — 1 claim(s), 418 blocks total
+  - (21904,17934) → (21923,17956) center (21913,17945) size 19×22
+**Lavie_Lulu** — 1 claim(s), 8,255 blocks total
+  - (23434,12745) → (23499,12872) center (23466,12808) size 65×127
+**_TSDtheG** — 1 claim(s), 672 blocks total
+  - (11847,22922) → (11868,22954) center (11857,22938) size 21×32
+**NekoGoddess_** — 1 claim(s), 31,328 blocks total
+  - (-1025,-3219) → (-849,-3041) center (-937,-3130) size 176×178
+**_Raiyato6083** — 1 claim(s), 2,470 blocks total
+  - (-20515,18868) → (-20450,18906) center (-20483,18887) size 65×38
+**Fyyes** — 1 claim(s), 400 blocks total
+  - (-4196,-21946) → (-4180,-21921) center (-4188,-21934) size 16×25
+**Br0wnF1nger** — 1 claim(s), 1,794 blocks total
+  - (-10681,20948) → (-10635,20987) center (-10658,20967) size 46×39
+**Umbrell4m** — 1 claim(s), 10,706 blocks total
+  - (22019,-1554) → (22125,-1453) center (22072,-1504) size 106×101
+**Gothic_Pixie_101** — 1 claim(s), 51,493 blocks total
+  - (-8408,-18198) → (-8175,-17977) center (-8292,-18088) size 233×221
+
 ## 2026-09-27 10:53 UTC
 Total claims: 18115 | Removed: 14 | Added: 19 | Skipped (reclaimed): 4
 
