@@ -1,4 +1,25 @@
 
+## 2026-09-30 21:33 UTC
+Total claims: 18185 | Removed: 2 | Added: 5 | Skipped (reclaimed): 2
+
+### Removed
+**warriorfox2379** — 1 claim(s), 426 blocks total
+  - (-21045,-15959) → (-21039,-15888) center (-21042,-15924) size 6×71
+**CrypticThrone** — 1 claim(s), 4,960 blocks total
+  - (22589,20786) → (22651,20866) center (22620,20826) size 62×80
+
+### Added
+**CrypticThrone** — 1 claim(s), 418 blocks total
+  - (22002,22167) → (22024,22186) center (22013,22176) size 22×19
+**xkaleighx** — 1 claim(s), 130,834 blocks total
+  - (-22818,19859) → (-22400,20172) center (-22609,20015) size 418×313
+**Nuostolis** — 1 claim(s), 2,400 blocks total
+  - (14213,-18923) → (14243,-18843) center (14228,-18883) size 30×80
+**ItzFlam1ng** — 1 claim(s), 216 blocks total
+  - (23295,15967) → (23307,15985) center (23301,15976) size 12×18
+**ariesmike** — 1 claim(s), 119,232 blocks total
+  - (24355,20141) → (24679,20509) center (24517,20325) size 324×368
+
 ## 2026-09-30 17:02 UTC
 Total claims: 18184 | Removed: 3 | Added: 9 | Skipped (reclaimed): 3
 
