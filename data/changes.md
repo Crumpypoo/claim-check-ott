@@ -1,4 +1,35 @@
 
+## 2026-09-30 17:02 UTC
+Total claims: 18184 | Removed: 3 | Added: 9 | Skipped (reclaimed): 3
+
+### Removed
+**_OddOod7** — 1 claim(s), 132 blocks total
+  - (-21639,19568) → (-21628,19580) center (-21634,19574) size 11×12
+**0h3lyat** — 1 claim(s), 263,682 blocks total
+  - (-16243,24078) → (-15730,24592) center (-15987,24335) size 513×514
+**BelovedOne** — 1 claim(s), 380 blocks total
+  - (20807,7988) → (20826,8008) center (20816,7998) size 19×20
+
+### Added
+**EvaConly** — 1 claim(s), 273,528 blocks total
+  - (-3399,-20165) → (-2875,-19643) center (-3137,-19904) size 524×522
+**amit29** — 1 claim(s), 1,920 blocks total
+  - (-13996,23092) → (-13964,23152) center (-13980,23122) size 32×60
+**mhna69** — 1 claim(s), 992 blocks total
+  - (21282,20853) → (21313,20885) center (21297,20869) size 31×32
+**DartPro17** — 1 claim(s), 728 blocks total
+  - (-22459,-19648) → (-22433,-19620) center (-22446,-19634) size 26×28
+**NoahDragonmaster** — 1 claim(s), 630 blocks total
+  - (21911,17907) → (21941,17928) center (21926,17917) size 30×21
+**Nuostolis** — 1 claim(s), 2,220 blocks total
+  - (14213,-18923) → (14243,-18849) center (14228,-18886) size 30×74
+**ItzFlam1ng** — 1 claim(s), 930 blocks total
+  - (-12907,-21854) → (-12877,-21823) center (-12892,-21839) size 30×31
+**GhostlyLazer** — 1 claim(s), 884 blocks total
+  - (-9726,21178) → (-9674,21195) center (-9700,21186) size 52×17
+**BelovedOne** — 1 claim(s), 2,860 blocks total
+  - (2643,-23247) → (2698,-23195) center (2670,-23221) size 55×52
+
 ## 2026-09-30 11:25 UTC
 Total claims: 18181 | Removed: 5 | Added: 27 | Skipped (reclaimed): 9
 
