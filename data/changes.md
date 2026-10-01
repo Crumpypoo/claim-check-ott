@@ -1,4 +1,31 @@
 
+## 2026-10-01 17:32 UTC
+Total claims: 18206 | Removed: 1 | Added: 10 | Skipped (reclaimed): 2
+
+### Removed
+**nikoloz1001** — 1 claim(s), 121 blocks total
+  - (-21157,-1075) → (-21146,-1064) center (-21152,-1070) size 11×11
+
+### Added
+**ImKacperr** — 3 claim(s), 316 blocks total
+  - (15787,21964) → (15797,21974) center (15792,21969) size 10×10
+  - (15889,22056) → (15902,22064) center (15895,22060) size 13×8
+  - (15804,21937) → (15812,21951) center (15808,21944) size 8×14
+**Jexacore** — 1 claim(s), 21,060 blocks total
+  - (22610,-10921) → (22745,-10765) center (22677,-10843) size 135×156
+**JadedSn4ke** — 1 claim(s), 140,818 blocks total
+  - (8164,23876) → (8553,24238) center (8358,24057) size 389×362
+**m9boss17** — 1 claim(s), 418 blocks total
+  - (15527,22698) → (15549,22717) center (15538,22707) size 22×19
+**_A4MY** — 1 claim(s), 266 blocks total
+  - (12186,20635) → (12200,20654) center (12193,20644) size 14×19
+**puhpuhpearl** — 1 claim(s), 22,517 blocks total
+  - (19189,22901) → (19278,23154) center (19233,23027) size 89×253
+**JankaPanda** — 1 claim(s), 270 blocks total
+  - (-22390,-14589) → (-22363,-14579) center (-22377,-14584) size 27×10
+**Umbreon_XD** — 1 claim(s), 713 blocks total
+  - (-21266,-9762) → (-21243,-9731) center (-21255,-9747) size 23×31
+
 ## 2026-10-01 11:52 UTC
 Total claims: 18199 | Removed: 11 | Added: 20 | Skipped (reclaimed): 4
 
