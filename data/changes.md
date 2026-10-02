@@ -1,4 +1,29 @@
 
+## 2026-10-02 21:27 UTC
+Total claims: 18220 | Removed: 1 | Added: 9 | Skipped (reclaimed): 3
+
+### Removed
+**TesseractPurple** — 1 claim(s), 880 blocks total
+  - (-21165,-14411) → (-21125,-14389) center (-21145,-14400) size 40×22
+
+### Added
+**SergeantDebbie** — 3 claim(s), 10,928 blocks total
+  - (-18211,-22426) → (-18168,-22388) center (-18190,-22407) size 43×38
+  - (-18202,-22388) → (-18159,-22358) center (-18181,-22373) size 43×30
+  - (9171,-20664) → (9263,-20577) center (9217,-20621) size 92×87
+**_thepheonix0697** — 1 claim(s), 112 blocks total
+  - (19785,20437) → (19801,20444) center (19793,20440) size 16×7
+**_ninecraft2013** — 1 claim(s), 621 blocks total
+  - (-2872,-22977) → (-2845,-22954) center (-2859,-22966) size 27×23
+**dream543** — 1 claim(s), 7,992 blocks total
+  - (-1487,18037) → (-1376,18109) center (-1432,18073) size 111×72
+**BelovedOne** — 1 claim(s), 2,448 blocks total
+  - (-9279,-22375) → (-9228,-22327) center (-9254,-22351) size 51×48
+**1brugamer1** — 1 claim(s), 100 blocks total
+  - (21001,-10550) → (21011,-10540) center (21006,-10545) size 10×10
+**boiii677777777** — 1 claim(s), 32,016 blocks total
+  - (-20727,-9798) → (-20611,-9522) center (-20669,-9660) size 116×276
+
 ## 2026-10-02 16:51 UTC
 Total claims: 18215 | Removed: 2 | Added: 7 | Skipped (reclaimed): 4
 
