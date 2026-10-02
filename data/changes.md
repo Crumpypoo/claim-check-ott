@@ -1,4 +1,50 @@
 
+## 2026-10-02 11:24 UTC
+Total claims: 18214 | Removed: 5 | Added: 18 | Skipped (reclaimed): 7
+
+### Removed
+**Paradoxrix** — 1 claim(s), 4,284 blocks total
+  - (-17782,22623) → (-17714,22686) center (-17748,22654) size 68×63
+**morisxxx** — 1 claim(s), 121 blocks total
+  - (-1444,-22098) → (-1433,-22087) center (-1439,-22093) size 11×11
+**Nathyyy_mai** — 1 claim(s), 1,116 blocks total
+  - (-22181,20686) → (-22150,20722) center (-22166,20704) size 31×36
+**OsbertoGomez** — 1 claim(s), 966 blocks total
+  - (3959,21736) → (3982,21778) center (3970,21757) size 23×42
+**IDKFRIZ** — 1 claim(s), 1,184 blocks total
+  - (-20955,-836) → (-20881,-820) center (-20918,-828) size 74×16
+
+### Added
+**XpzoneEmily** — 7 claim(s), 7,797 blocks total
+  - (14443,3930) → (14465,3951) center (14454,3940) size 22×21
+  - (14340,3922) → (14413,3972) center (14376,3947) size 73×50
+  - (14355,3903) → (14470,3922) center (14412,3912) size 115×19
+  - (14470,3917) → (14482,3954) center (14476,3935) size 12×37
+  - (14413,3945) → (14441,3951) center (14427,3948) size 28×6
+  - (14418,3951) → (14442,3968) center (14430,3959) size 24×17
+  - (14418,3925) → (14442,3945) center (14430,3935) size 24×20
+**BreadTheifK3** — 2 claim(s), 937,478 blocks total
+  - (21637,18435) → (22881,19177) center (22259,18806) size 1244×742
+  - (20798,514) → (20909,644) center (20853,579) size 111×130
+**Hype_Ray** — 1 claim(s), 6,640 blocks total
+  - (24559,23652) → (24642,23732) center (24600,23692) size 83×80
+**sircupid_** — 1 claim(s), 110,700 blocks total
+  - (21563,-4695) → (21833,-4285) center (21698,-4490) size 270×410
+**SamFikAk2014** — 1 claim(s), 528 blocks total
+  - (1375,-21559) → (1399,-21537) center (1387,-21548) size 24×22
+**drfrieds** — 1 claim(s), 3,306 blocks total
+  - (562,23294) → (620,23351) center (591,23322) size 58×57
+**MARIO_SV** — 1 claim(s), 256 blocks total
+  - (23280,-7199) → (23296,-7183) center (23288,-7191) size 16×16
+**saparinhoplay** — 1 claim(s), 117 blocks total
+  - (-22729,-20013) → (-22720,-20000) center (-22725,-20007) size 9×13
+**GhostlyLazer** — 1 claim(s), 22,440 blocks total
+  - (-9805,21180) → (-9669,21345) center (-9737,21262) size 136×165
+**digitalxvz** — 1 claim(s), 300 blocks total
+  - (-17274,22926) → (-17254,22941) center (-17264,22933) size 20×15
+**ariesmike** — 1 claim(s), 129,360 blocks total
+  - (24355,20141) → (24691,20526) center (24523,20333) size 336×385
+
 ## 2026-10-02 02:40 UTC
 Total claims: 18208 | Removed: 5 | Added: 14 | Skipped (reclaimed): 5
 
