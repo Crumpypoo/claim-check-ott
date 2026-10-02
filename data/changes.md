@@ -1,4 +1,29 @@
 
+## 2026-10-02 16:51 UTC
+Total claims: 18215 | Removed: 2 | Added: 7 | Skipped (reclaimed): 4
+
+### Removed
+**RoskaRottaa** — 1 claim(s), 37,948 blocks total
+  - (1650,17389) → (1862,17568) center (1756,17478) size 212×179
+**1ster4** — 1 claim(s), 304 blocks total
+  - (3925,22549) → (3941,22568) center (3933,22558) size 16×19
+
+### Added
+**FrenchiestToast** — 1 claim(s), 25,032 blocks total
+  - (18426,21947) → (18594,22096) center (18510,22021) size 168×149
+**tatsukiezn** — 1 claim(s), 221 blocks total
+  - (12273,-21546) → (12290,-21533) center (12281,-21540) size 17×13
+**_Skullyxzz** — 1 claim(s), 945 blocks total
+  - (-20895,22168) → (-20860,22195) center (-20878,22181) size 35×27
+**MARIO_SV** — 1 claim(s), 144 blocks total
+  - (-21555,14219) → (-21543,14231) center (-21549,14225) size 12×12
+**Th3SigmaMan** — 1 claim(s), 837 blocks total
+  - (-21811,5088) → (-21784,5119) center (-21798,5103) size 27×31
+**RoskaRottaa** — 1 claim(s), 33,456 blocks total
+  - (13100,21813) → (13304,21977) center (13202,21895) size 204×164
+**starshooter47** — 1 claim(s), 121 blocks total
+  - (-22967,283) → (-22956,294) center (-22962,288) size 11×11
+
 ## 2026-10-02 11:24 UTC
 Total claims: 18214 | Removed: 5 | Added: 18 | Skipped (reclaimed): 7
 
