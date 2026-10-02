@@ -1,4 +1,46 @@
 
+## 2026-10-02 02:40 UTC
+Total claims: 18208 | Removed: 5 | Added: 14 | Skipped (reclaimed): 5
+
+### Removed
+**_Assortxd** — 2 claim(s), 911 blocks total
+  - (-12523,23208) → (-12484,23224) center (-12504,23216) size 39×16
+  - (-12414,23265) → (-12373,23272) center (-12394,23268) size 41×7
+**BludBear** — 1 claim(s), 759 blocks total
+  - (7518,23059) → (7541,23092) center (7529,23075) size 23×33
+**eyber1212** — 1 claim(s), 1,935 blocks total
+  - (4698,-21349) → (4741,-21304) center (4719,-21327) size 43×45
+**justmateoasd** — 1 claim(s), 648 blocks total
+  - (-21963,815) → (-21939,842) center (-21951,828) size 24×27
+
+### Added
+**WhiskeyDown** — 2 claim(s), 110,674 blocks total
+  - (11383,-19790) → (11742,-19492) center (11562,-19641) size 359×298
+  - (11288,-19864) → (11340,-19793) center (11314,-19829) size 52×71
+**ntrs563** — 2 claim(s), 2,778 blocks total
+  - (3241,-19633) → (3274,-19563) center (3257,-19598) size 33×70
+  - (3277,-19609) → (3289,-19570) center (3283,-19590) size 12×39
+**Fartist** — 1 claim(s), 36,676 blocks total
+  - (-8144,-20515) → (-7452,-20462) center (-7798,-20489) size 692×53
+**_RedZigster** — 1 claim(s), 125 blocks total
+  - (22918,20741) → (22943,20746) center (22930,20743) size 25×5
+**_Firemaker2464** — 1 claim(s), 390 blocks total
+  - (94,-7781) → (109,-7755) center (101,-7768) size 15×26
+**S4kss** — 1 claim(s), 1,764 blocks total
+  - (-20642,6181) → (-20593,6217) center (-20618,6199) size 49×36
+**beans223406** — 1 claim(s), 121 blocks total
+  - (-16790,20652) → (-16779,20663) center (-16785,20657) size 11×11
+**ManyoshackYT** — 1 claim(s), 650 blocks total
+  - (-22996,-7674) → (-22970,-7649) center (-22983,-7662) size 26×25
+**kuriizu** — 1 claim(s), 63,987 blocks total
+  - (-24916,-4291) → (-24639,-4060) center (-24778,-4176) size 277×231
+**_StarFairy_** — 1 claim(s), 117,390 blocks total
+  - (-10368,24093) → (-10067,24483) center (-10218,24288) size 301×390
+**corsmicat** — 1 claim(s), 104 blocks total
+  - (-3199,-9835) → (-3191,-9822) center (-3195,-9829) size 8×13
+**MapleSugar46** — 1 claim(s), 23,236 blocks total
+  - (-7390,-21942) → (-7242,-21785) center (-7316,-21864) size 148×157
+
 ## 2026-10-01 22:02 UTC
 Total claims: 18204 | Removed: 8 | Added: 9 | Skipped (reclaimed): 3
 
