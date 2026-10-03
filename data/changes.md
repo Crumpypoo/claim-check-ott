@@ -1,4 +1,23 @@
 
+## 2026-10-03 15:16 UTC
+Total claims: 18230 | Removed: 1 | Added: 5 | Skipped (reclaimed): 2
+
+### Removed
+**youbotty** — 1 claim(s), 108 blocks total
+  - (2150,-2947) → (2159,-2935) center (2154,-2941) size 9×12
+
+### Added
+**rorolikesfanta** — 1 claim(s), 361 blocks total
+  - (14713,17536) → (14732,17555) center (14722,17545) size 19×19
+**ASmodeus686** — 1 claim(s), 121 blocks total
+  - (17449,4169) → (17460,4180) center (17454,4174) size 11×11
+**tatsukiezn** — 1 claim(s), 441 blocks total
+  - (12323,-21597) → (12344,-21576) center (12333,-21587) size 21×21
+**waxifuture** — 1 claim(s), 208 blocks total
+  - (22936,1616) → (22949,1632) center (22942,1624) size 13×16
+**_StarFairy_** — 1 claim(s), 156,009 blocks total
+  - (-10424,24093) → (-10067,24530) center (-10246,24311) size 357×437
+
 ## 2026-10-03 10:41 UTC
 Total claims: 18228 | Removed: 12 | Added: 14 | Skipped (reclaimed): 4
 
