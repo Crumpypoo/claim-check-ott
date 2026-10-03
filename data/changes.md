@@ -1,4 +1,34 @@
 
+## 2026-10-03 20:14 UTC
+Total claims: 18235 | Removed: 0 | Added: 13 | Skipped (reclaimed): 8
+
+
+### Added
+**JNB217** — 2 claim(s), 4,763,196 blocks total
+  - (-25292,-16207) → (-24910,-15949) center (-25101,-16078) size 382×258
+  - (-25624,-15949) → (-23929,-13197) center (-24777,-14573) size 1695×2752
+**Lauugrey** — 2 claim(s), 1,359 blocks total
+  - (-23145,-6488) → (-23134,-6475) center (-23140,-6482) size 11×13
+  - (-7250,21506) → (-7212,21538) center (-7231,21522) size 38×32
+**jojonusly** — 1 claim(s), 33,200 blocks total
+  - (-20982,-5141) → (-20782,-4975) center (-20882,-5058) size 200×166
+**OhHelloItsAugust** — 1 claim(s), 3,096 blocks total
+  - (22841,16679) → (22877,16765) center (22859,16722) size 36×86
+**LadyxRen** — 1 claim(s), 1,840,951 blocks total
+  - (23683,-9912) → (25136,-8645) center (24409,-9279) size 1453×1267
+**Divzer** — 1 claim(s), 171,804 blocks total
+  - (4443,-10161) → (4860,-9749) center (4651,-9955) size 417×412
+**_WigglyBear3** — 1 claim(s), 252 blocks total
+  - (22303,7031) → (22312,7059) center (22307,7045) size 9×28
+**SOLESPORE979510** — 1 claim(s), 1,386 blocks total
+  - (9851,-23007) → (9893,-22974) center (9872,-22991) size 42×33
+**Nikirose93** — 1 claim(s), 5,244 blocks total
+  - (9986,21118) → (10043,21210) center (10014,21164) size 57×92
+**Nuostolis** — 1 claim(s), 3,256 blocks total
+  - (14206,-18931) → (14243,-18843) center (14224,-18887) size 37×88
+**ariesmike** — 1 claim(s), 137,655 blocks total
+  - (24355,20141) → (24700,20540) center (24527,20340) size 345×399
+
 ## 2026-10-03 15:16 UTC
 Total claims: 18230 | Removed: 1 | Added: 5 | Skipped (reclaimed): 2
 
