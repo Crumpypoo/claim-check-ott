@@ -1,4 +1,46 @@
 
+## 2026-10-04 02:56 UTC
+Total claims: 18248 | Removed: 2 | Added: 18 | Skipped (reclaimed): 3
+
+### Removed
+**VoidcPvP_** — 1 claim(s), 121 blocks total
+  - (20568,-8114) → (20579,-8103) center (20573,-8109) size 11×11
+**Brijtrul42** — 1 claim(s), 1,813 blocks total
+  - (-23270,20612) → (-23233,20661) center (-23252,20636) size 37×49
+
+### Added
+**Elorahk_** — 4 claim(s), 1,024 blocks total
+  - (-21136,-6032) → (-21120,-6016) center (-21128,-6024) size 16×16
+  - (-21152,-6032) → (-21136,-6016) center (-21144,-6024) size 16×16
+  - (-21136,-6000) → (-21120,-5984) center (-21128,-5992) size 16×16
+  - (-21136,-6016) → (-21120,-6000) center (-21128,-6008) size 16×16
+**dream543** — 2 claim(s), 31,266 blocks total
+  - (-20827,-9775) → (-20782,-9730) center (-20805,-9753) size 45×45
+  - (15722,21317) → (15893,21488) center (15807,21402) size 171×171
+**StephenCraft711** — 2 claim(s), 1,802 blocks total
+  - (24962,21185) → (25003,21226) center (24982,21205) size 41×41
+  - (15922,22068) → (15933,22079) center (15927,22073) size 11×11
+**_Solascrylla** — 1 claim(s), 121 blocks total
+  - (9344,22857) → (9355,22868) center (9349,22862) size 11×11
+**willpanpan** — 1 claim(s), 192 blocks total
+  - (-21716,-16882) → (-21708,-16858) center (-21712,-16870) size 8×24
+**hopchopper01** — 1 claim(s), 121 blocks total
+  - (1461,-2848) → (1472,-2837) center (1466,-2843) size 11×11
+**____Ally____** — 1 claim(s), 16,384 blocks total
+  - (-23872,-4032) → (-23744,-3904) center (-23808,-3968) size 128×128
+**Shp1ffy** — 1 claim(s), 1,640 blocks total
+  - (-20725,-13148) → (-20685,-13107) center (-20705,-13128) size 40×41
+**Codhy** — 1 claim(s), 3,468 blocks total
+  - (-21406,-11392) → (-21338,-11341) center (-21372,-11367) size 68×51
+**corsmicat** — 1 claim(s), 920 blocks total
+  - (214,-7803) → (254,-7780) center (234,-7792) size 40×23
+**FatTechnical** — 1 claim(s), 806 blocks total
+  - (5086,-21033) → (5112,-21002) center (5099,-21018) size 26×31
+**ariesmike** — 1 claim(s), 176,960 blocks total
+  - (24316,20121) → (24711,20569) center (24513,20345) size 395×448
+**ITSEONIX** — 1 claim(s), 945 blocks total
+  - (16889,23123) → (16924,23150) center (16906,23136) size 35×27
+
 ## 2026-10-03 20:14 UTC
 Total claims: 18235 | Removed: 0 | Added: 13 | Skipped (reclaimed): 8
 
