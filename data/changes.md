@@ -1,4 +1,42 @@
 
+## 2026-10-05 12:45 UTC
+Total claims: 18303 | Removed: 4 | Added: 13 | Skipped (reclaimed): 5
+
+### Removed
+**_Nici19** — 1 claim(s), 1,980 blocks total
+  - (-7001,19539) → (-6941,19572) center (-6971,19555) size 60×33
+**OffhandWolf2960** — 1 claim(s), 4,071 blocks total
+  - (10355,22384) → (10424,22443) center (10389,22413) size 69×59
+**Meower58** — 1 claim(s), 121 blocks total
+  - (17222,20629) → (17233,20640) center (17227,20634) size 11×11
+**WARNINGA** — 1 claim(s), 300 blocks total
+  - (22669,16455) → (22699,16465) center (22684,16460) size 30×10
+
+### Added
+**duskling_1** — 4 claim(s), 84,467 blocks total
+  - (22281,8649) → (22329,8754) center (22305,8701) size 48×105
+  - (22329,8664) → (22370,8737) center (22349,8700) size 41×73
+  - (16395,8576) → (16572,8994) center (16483,8785) size 177×418
+  - (18060,8987) → (18128,9023) center (18094,9005) size 68×36
+**sircupid_** — 1 claim(s), 113,400 blocks total
+  - (21563,-4705) → (21833,-4285) center (21698,-4495) size 270×420
+**lanaxzz** — 1 claim(s), 1,872 blocks total
+  - (-8837,-19011) → (-8789,-18972) center (-8813,-18992) size 48×39
+**tatsukiezn** — 1 claim(s), 5,084 blocks total
+  - (12265,-21495) → (12347,-21433) center (12306,-21464) size 82×62
+**Qwertel_2** — 1 claim(s), 432 blocks total
+  - (21620,8935) → (21644,8953) center (21632,8944) size 24×18
+**leoparded** — 1 claim(s), 270 blocks total
+  - (-21541,15529) → (-21523,15544) center (-21532,15536) size 18×15
+**OldManSisyphus** — 1 claim(s), 2,072 blocks total
+  - (21009,18597) → (21046,18653) center (21027,18625) size 37×56
+**_ash13y** — 1 claim(s), 450 blocks total
+  - (22271,7515) → (22296,7533) center (22283,7524) size 25×18
+**M4RSSSSSS** — 1 claim(s), 696 blocks total
+  - (-13108,21969) → (-13079,21993) center (-13094,21981) size 29×24
+**GhostlyLazer** — 1 claim(s), 31,500 blocks total
+  - (-9857,21184) → (-9647,21334) center (-9752,21259) size 210×150
+
 ## 2026-10-05 02:30 UTC
 Total claims: 18299 | Removed: 3 | Added: 20 | Skipped (reclaimed): 6
 
