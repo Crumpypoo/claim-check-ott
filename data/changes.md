@@ -1,4 +1,45 @@
 
+## 2026-10-07 02:48 UTC
+Total claims: 18323 | Removed: 1 | Added: 22 | Skipped (reclaimed): 8
+
+### Removed
+**CrusaderFar** — 1 claim(s), 1,224 blocks total
+  - (21055,-10280) → (21089,-10244) center (21072,-10262) size 34×36
+
+### Added
+**provenmoss8779** — 8 claim(s), 968 blocks total
+  - (21216,17428) → (21227,17439) center (21221,17433) size 11×11
+  - (21220,17410) → (21231,17421) center (21225,17415) size 11×11
+  - (21224,17393) → (21235,17404) center (21229,17398) size 11×11
+  - (21227,17377) → (21238,17388) center (21232,17382) size 11×11
+  - (21187,17389) → (21198,17400) center (21192,17394) size 11×11
+  - (21169,17408) → (21180,17419) center (21174,17413) size 11×11
+  - (21158,17429) → (21169,17440) center (21163,17434) size 11×11
+  - (21227,17362) → (21238,17373) center (21232,17367) size 11×11
+**_Granger_** — 4 claim(s), 615,249 blocks total
+  - (22030,23823) → (22074,23845) center (22052,23834) size 44×22
+  - (18188,24652) → (18696,24977) center (18442,24814) size 508×325
+  - (-13277,11961) → (-12476,12512) center (-12877,12236) size 801×551
+  - (4940,9159) → (5027,9249) center (4983,9204) size 87×90
+**sonic_1235real** — 3 claim(s), 426 blocks total
+  - (-23098,-18646) → (-23090,-18624) center (-23094,-18635) size 8×22
+  - (-23140,-18649) → (-23130,-18639) center (-23135,-18644) size 10×10
+  - (-23088,-18640) → (-23078,-18625) center (-23083,-18633) size 10×15
+**SK0RN3D** — 1 claim(s), 14,322 blocks total
+  - (-22488,14318) → (-22395,14472) center (-22442,14395) size 93×154
+**MayaLilz** — 1 claim(s), 44,929 blocks total
+  - (5290,-23029) → (5541,-22850) center (5415,-22940) size 251×179
+**Luxavva** — 1 claim(s), 218,073 blocks total
+  - (-20180,24486) → (-19717,24957) center (-19949,24721) size 463×471
+**ReportedWharf56** — 1 claim(s), 121 blocks total
+  - (1335,-23472) → (1346,-23461) center (1340,-23467) size 11×11
+**Atomic_QDS** — 1 claim(s), 1,886 blocks total
+  - (9668,-21144) → (9714,-21103) center (9691,-21124) size 46×41
+**FunnyFamily7** — 1 claim(s), 175 blocks total
+  - (-9184,19039) → (-9177,19064) center (-9181,19051) size 7×25
+**DarthVader09838** — 1 claim(s), 238 blocks total
+  - (22200,2991) → (22217,3005) center (22208,2998) size 17×14
+
 ## 2026-10-06 21:55 UTC
 Total claims: 18310 | Removed: 6 | Added: 22 | Skipped (reclaimed): 9
 
