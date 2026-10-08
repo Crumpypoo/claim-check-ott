@@ -1,4 +1,19 @@
 
+## 2026-10-08 03:06 UTC
+Total claims: 18324 | Removed: 0 | Added: 5 | Skipped (reclaimed): 2
+
+
+### Added
+**_Dragonloves123** — 2 claim(s), 19,392 blocks total
+  - (-10408,20553) → (-10304,20563) center (-10356,20558) size 104×10
+  - (-10426,20428) → (-10278,20552) center (-10352,20490) size 148×124
+**xkaleighx** — 1 claim(s), 98,898 blocks total
+  - (-22243,20092) → (-21932,20410) center (-22088,20251) size 311×318
+**TheScorPionGirl** — 1 claim(s), 1,404 blocks total
+  - (-9000,-21234) → (-8974,-21180) center (-8987,-21207) size 26×54
+**foishy** — 1 claim(s), 15,876 blocks total
+  - (21082,-13673) → (21208,-13547) center (21145,-13610) size 126×126
+
 ## 2026-10-07 22:19 UTC
 Total claims: 18321 | Removed: 12 | Added: 17 | Skipped (reclaimed): 5
 
