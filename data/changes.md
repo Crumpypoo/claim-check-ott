@@ -1,4 +1,36 @@
 
+## 2026-10-09 03:12 UTC
+Total claims: 18343 | Removed: 2 | Added: 12 | Skipped (reclaimed): 3
+
+### Removed
+**_StoneBear62125** — 1 claim(s), 812 blocks total
+  - (9140,20848) → (9169,20876) center (9154,20862) size 29×28
+**OwlBNdNCoffee** — 1 claim(s), 364 blocks total
+  - (-382,-20853) → (-369,-20825) center (-376,-20839) size 13×28
+
+### Added
+**CloudieJam** — 3 claim(s), 1,106 blocks total
+  - (-21769,2772) → (-21759,2789) center (-21764,2780) size 10×17
+  - (-21807,2701) → (-21795,2719) center (-21801,2710) size 12×18
+  - (-21791,2697) → (-21755,2717) center (-21773,2707) size 36×20
+**ShadowstarXY** — 2 claim(s), 540 blocks total
+  - (-419,3378) → (-399,3398) center (-409,3388) size 20×20
+  - (-590,3558) → (-576,3568) center (-583,3563) size 14×10
+**NuttyOaksAK** — 1 claim(s), 121 blocks total
+  - (3511,-21704) → (3522,-21693) center (3516,-21699) size 11×11
+**FrenchiestToast** — 1 claim(s), 11,850 blocks total
+  - (-16504,21606) → (-16425,21756) center (-16465,21681) size 79×150
+**midshotsurvivals** — 1 claim(s), 3,600 blocks total
+  - (8083,21133) → (8143,21193) center (8113,21163) size 60×60
+**OwlBNdNCoffee** — 1 claim(s), 273 blocks total
+  - (-395,-20854) → (-382,-20833) center (-389,-20844) size 13×21
+**oowwuuowo** — 1 claim(s), 460 blocks total
+  - (-22182,8943) → (-22159,8963) center (-22171,8953) size 23×20
+**patrickchaos555** — 1 claim(s), 324 blocks total
+  - (-22067,-21154) → (-22055,-21127) center (-22061,-21141) size 12×27
+**_meowstinky** — 1 claim(s), 651 blocks total
+  - (-22211,8971) → (-22180,8992) center (-22196,8981) size 31×21
+
 ## 2026-10-08 22:31 UTC
 Total claims: 18336 | Removed: 7 | Added: 31 | Skipped (reclaimed): 14
 
