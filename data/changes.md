@@ -1,4 +1,41 @@
 
+## 2026-10-11 21:06 UTC
+Total claims: 18368 | Removed: 2 | Added: 14 | Skipped (reclaimed): 4
+
+### Removed
+**_CinnamonSalt8** — 1 claim(s), 132 blocks total
+  - (6078,21514) → (6090,21525) center (6084,21519) size 12×11
+**LizerAron** — 1 claim(s), 432 blocks total
+  - (-21871,-10209) → (-21855,-10182) center (-21863,-10196) size 16×27
+
+### Added
+**BlissfulSinner** — 2 claim(s), 4,670 blocks total
+  - (-6370,-20213) → (-6356,-20200) center (-6363,-20207) size 14×13
+  - (-6350,-20206) → (-6284,-20138) center (-6317,-20172) size 66×68
+**WearyPie1374880** — 2 claim(s), 10,088 blocks total
+  - (4226,-19300) → (4273,-19252) center (4249,-19276) size 47×48
+  - (4101,-19384) → (4189,-19295) center (4145,-19340) size 88×89
+**SandMan4884** — 1 claim(s), 1,450 blocks total
+  - (-10592,-23175) → (-10542,-23146) center (-10567,-23161) size 50×29
+**Gamergirlgi7** — 1 claim(s), 144 blocks total
+  - (23416,4451) → (23425,4467) center (23420,4459) size 9×16
+**LunarOrbit2002** — 1 claim(s), 1,521 blocks total
+  - (20985,-6976) → (21024,-6937) center (21004,-6957) size 39×39
+**vRivenx** — 1 claim(s), 384 blocks total
+  - (-22038,-22971) → (-22022,-22947) center (-22030,-22959) size 16×24
+**Naaamiiii** — 1 claim(s), 1,449 blocks total
+  - (18299,1144) → (18322,1207) center (18310,1175) size 23×63
+**Cyberdarling** — 1 claim(s), 323 blocks total
+  - (10766,-22515) → (10785,-22498) center (10775,-22507) size 19×17
+**RLM015** — 1 claim(s), 3,850 blocks total
+  - (-1305,22253) → (-1235,22308) center (-1270,22280) size 70×55
+**DustySierraX** — 1 claim(s), 680 blocks total
+  - (-3002,21385) → (-2982,21419) center (-2992,21402) size 20×34
+**Haleygamezz** — 1 claim(s), 3,540 blocks total
+  - (-22530,14735) → (-22470,14794) center (-22500,14764) size 60×59
+**livchocolate** — 1 claim(s), 3,657 blocks total
+  - (482,-22570) → (551,-22517) center (516,-22544) size 69×53
+
 ## 2026-10-11 16:49 UTC
 Total claims: 18360 | Removed: 7 | Added: 12 | Skipped (reclaimed): 4
 
