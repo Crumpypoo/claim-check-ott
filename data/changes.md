@@ -1,4 +1,45 @@
 
+## 2026-10-11 16:49 UTC
+Total claims: 18360 | Removed: 7 | Added: 12 | Skipped (reclaimed): 4
+
+### Removed
+**LucasRowen** — 2 claim(s), 1,033 blocks total
+  - (-21108,21932) → (-21087,21965) center (-21098,21948) size 21×33
+  - (-21023,21858) → (-21006,21878) center (-21015,21868) size 17×20
+**MERF_O** — 2 claim(s), 276 blocks total
+  - (-18143,21163) → (-18134,21175) center (-18139,21169) size 9×12
+  - (-18157,21179) → (-18143,21191) center (-18150,21185) size 14×12
+**_NinjaaX_** — 2 claim(s), 836 blocks total
+  - (-22555,14863) → (-22536,14883) center (-22546,14873) size 19×20
+  - (-22537,14839) → (-22518,14863) center (-22528,14851) size 19×24
+**GMoney421** — 1 claim(s), 4,225 blocks total
+  - (-23276,11826) → (-23211,11891) center (-23244,11858) size 65×65
+
+### Added
+**SunnyLuuu** — 2 claim(s), 3,422 blocks total
+  - (22528,-14531) → (22545,-14515) center (22536,-14523) size 17×16
+  - (22581,-14478) → (22626,-14408) center (22603,-14443) size 45×70
+**jojonusly** — 1 claim(s), 46,209 blocks total
+  - (-20982,-5194) → (-20771,-4975) center (-20877,-5085) size 211×219
+**GMoney421** — 1 claim(s), 3,696 blocks total
+  - (9139,23424) → (9205,23480) center (9172,23452) size 66×56
+**DelinyaGamingNL** — 1 claim(s), 580 blocks total
+  - (20446,-15216) → (20475,-15196) center (20460,-15206) size 29×20
+**ALIE11** — 1 claim(s), 1,599 blocks total
+  - (-16232,20149) → (-16191,20188) center (-16212,20168) size 41×39
+**AbcTest123** — 1 claim(s), 620 blocks total
+  - (-13550,-23634) → (-13519,-23614) center (-13535,-23624) size 31×20
+**_Kayraepixel** — 1 claim(s), 1,376 blocks total
+  - (20364,-7240) → (20407,-7208) center (20385,-7224) size 43×32
+**_Natasha_0** — 1 claim(s), 3,234 blocks total
+  - (-23102,-19224) → (-23036,-19175) center (-23069,-19200) size 66×49
+**Kriisaa** — 1 claim(s), 10,010 blocks total
+  - (-3121,-170) → (-2991,-93) center (-3056,-132) size 130×77
+**Keego_the_dino** — 1 claim(s), 1,363 blocks total
+  - (-20679,1488) → (-20650,1535) center (-20665,1511) size 29×47
+**BlissfulSinner** — 1 claim(s), 1,560 blocks total
+  - (-6333,-20176) → (-6294,-20136) center (-6314,-20156) size 39×40
+
 ## 2026-10-11 11:39 UTC
 Total claims: 18359 | Removed: 9 | Added: 17 | Skipped (reclaimed): 4
 
