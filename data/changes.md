@@ -1,4 +1,39 @@
 
+## 2026-10-13 12:59 UTC
+Total claims: 18366 | Removed: 11 | Added: 5 | Skipped (reclaimed): 2
+
+### Removed
+**wafflz_x2** — 4 claim(s), 1,023 blocks total
+  - (-15039,23079) → (-15018,23103) center (-15029,23091) size 21×24
+  - (-15114,23110) → (-15102,23120) center (-15108,23115) size 12×10
+  - (-15082,23011) → (-15067,23028) center (-15075,23019) size 15×17
+  - (-15139,23094) → (-15121,23102) center (-15130,23098) size 18×8
+**HdogHawk** — 1 claim(s), 121 blocks total
+  - (-18201,3670) → (-18190,3681) center (-18196,3675) size 11×11
+**Th3L1ttl3Man** — 1 claim(s), 180 blocks total
+  - (-22693,16162) → (-22681,16177) center (-22687,16169) size 12×15
+**CelliGaming2020** — 1 claim(s), 2,250 blocks total
+  - (-2171,-21049) → (-2121,-21004) center (-2146,-21027) size 50×45
+**nuke1635** — 1 claim(s), 121 blocks total
+  - (23010,-11318) → (23021,-11307) center (23015,-11313) size 11×11
+**Wicho128** — 1 claim(s), 306 blocks total
+  - (23340,2701) → (23358,2718) center (23349,2709) size 18×17
+**Tejinaal** — 1 claim(s), 296 blocks total
+  - (527,-22057) → (535,-22020) center (531,-22039) size 8×37
+**_piecebypiece351** — 1 claim(s), 126 blocks total
+  - (-4270,-23114) → (-4263,-23096) center (-4267,-23105) size 7×18
+
+### Added
+**Eleni_09** — 2 claim(s), 656 blocks total
+  - (17387,20811) → (17417,20819) center (17402,20815) size 30×8
+  - (17391,20819) → (17417,20835) center (17404,20827) size 26×16
+**AbcTest123** — 1 claim(s), 143 blocks total
+  - (-8662,23347) → (-8649,23358) center (-8656,23352) size 13×11
+**SamuPaz** — 1 claim(s), 176 blocks total
+  - (-22870,52) → (-22862,74) center (-22866,63) size 8×22
+**Forasu** — 1 claim(s), 1,364 blocks total
+  - (-15826,22913) → (-15795,22957) center (-15811,22935) size 31×44
+
 ## 2026-10-13 04:02 UTC
 Total claims: 18374 | Removed: 0 | Added: 0 | Skipped (reclaimed): 7470
 
