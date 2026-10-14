@@ -1,4 +1,31 @@
 
+## 2026-10-14 21:00 UTC
+Total claims: 18400 | Removed: 2 | Added: 9 | Skipped (reclaimed): 1
+
+### Removed
+**_Apex_ad4594** — 1 claim(s), 180 blocks total
+  - (-9354,-22586) → (-9344,-22568) center (-9349,-22577) size 10×18
+**fredtheduck83** — 1 claim(s), 1,140 blocks total
+  - (-22425,-22314) → (-22387,-22284) center (-22406,-22299) size 38×30
+
+### Added
+**Supercrafter_200** — 2 claim(s), 322 blocks total
+  - (-7750,23722) → (-7734,23729) center (-7742,23725) size 16×7
+  - (-7761,23786) → (-7740,23796) center (-7751,23791) size 21×10
+**AbcTest123** — 2 claim(s), 1,128 blocks total
+  - (18903,-1775) → (18934,-1751) center (18918,-1763) size 31×24
+  - (18877,-1750) → (18901,-1734) center (18889,-1742) size 24×16
+**Luanxctaire** — 1 claim(s), 8,190 blocks total
+  - (-22023,-16597) → (-21906,-16527) center (-21965,-16562) size 117×70
+**Doubloon_** — 1 claim(s), 874 blocks total
+  - (-22678,-3136) → (-22640,-3113) center (-22659,-3125) size 38×23
+**mrdeadlynx** — 1 claim(s), 1,023 blocks total
+  - (5391,20443) → (5424,20474) center (5407,20458) size 33×31
+**Bagpuss11** — 1 claim(s), 484 blocks total
+  - (-7788,23879) → (-7766,23901) center (-7777,23890) size 22×22
+**OwenBTW12** — 1 claim(s), 121 blocks total
+  - (10378,-22385) → (10389,-22374) center (10383,-22380) size 11×11
+
 ## 2026-10-14 16:00 UTC
 Total claims: 18394 | Removed: 5 | Added: 18 | Skipped (reclaimed): 7
 
