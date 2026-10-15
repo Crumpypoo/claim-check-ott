@@ -1,4 +1,37 @@
 
+## 2026-10-15 20:34 UTC
+Total claims: 18414 | Removed: 1 | Added: 15 | Skipped (reclaimed): 6
+
+### Removed
+**brdeg** — 1 claim(s), 121 blocks total
+  - (20704,21543) → (20715,21554) center (20709,21548) size 11×11
+
+### Added
+**BigBosMoM** — 4 claim(s), 822 blocks total
+  - (21589,-10049) → (21600,-10038) center (21594,-10044) size 11×11
+  - (21592,-10035) → (21603,-10024) center (21597,-10030) size 11×11
+  - (21564,-10074) → (21598,-10064) center (21581,-10069) size 34×10
+  - (21561,-10064) → (21566,-10016) center (21563,-10040) size 5×48
+**zoomcraft111** — 3 claim(s), 21,077 blocks total
+  - (-1705,-358) → (-1638,-122) center (-1672,-240) size 67×236
+  - (-1638,-182) → (-1613,-125) center (-1626,-154) size 25×57
+  - (-1745,-220) → (-1705,-124) center (-1725,-172) size 40×96
+**LunaShine1** — 2 claim(s), 1,922 blocks total
+  - (-12607,-20452) → (-12587,-20392) center (-12597,-20422) size 20×60
+  - (-12539,-20401) → (-12520,-20363) center (-12530,-20382) size 19×38
+**Bagpuss11** — 1 claim(s), 1,166 blocks total
+  - (-7789,23879) → (-7736,23901) center (-7763,23890) size 53×22
+**Le_BaronIV** — 1 claim(s), 1,150,532 blocks total
+  - (-20624,2356) → (-19092,3107) center (-19858,2731) size 1532×751
+**PotatoCpvp_** — 1 claim(s), 132 blocks total
+  - (14608,22749) → (14619,22761) center (14613,22755) size 11×12
+**Klajo_** — 1 claim(s), 121 blocks total
+  - (-20844,-554) → (-20833,-543) center (-20839,-549) size 11×11
+**oowwuuowo** — 1 claim(s), 3,584 blocks total
+  - (-22276,8939) → (-22220,9003) center (-22248,8971) size 56×64
+**starshooter47** — 1 claim(s), 42,846 blocks total
+  - (-21988,-14633) → (-21795,-14411) center (-21892,-14522) size 193×222
+
 ## 2026-10-15 15:48 UTC
 Total claims: 18406 | Removed: 6 | Added: 17 | Skipped (reclaimed): 4
 
