@@ -1,4 +1,43 @@
 
+## 2026-10-15 10:24 UTC
+Total claims: 18399 | Removed: 6 | Added: 14 | Skipped (reclaimed): 1
+
+### Removed
+**KingCharles_6** — 2 claim(s), 5,636 blocks total
+  - (-11048,22331) → (-10947,22385) center (-10998,22358) size 101×54
+  - (-10942,22392) → (-10929,22406) center (-10936,22399) size 13×14
+**KILI_AUX1** — 1 claim(s), 165 blocks total
+  - (-10008,23232) → (-9997,23247) center (-10003,23239) size 11×15
+**candymanWKFLD** — 1 claim(s), 120 blocks total
+  - (7988,22449) → (7998,22461) center (7993,22455) size 10×12
+**logunbear2015** — 1 claim(s), 294 blocks total
+  - (19028,23320) → (19042,23341) center (19035,23330) size 14×21
+**Lavie_Lulu** — 1 claim(s), 24,215 blocks total
+  - (23289,12745) → (23434,12912) center (23361,12828) size 145×167
+
+### Added
+**ruisusogeki** — 7 claim(s), 257,121 blocks total
+  - (-23362,-6266) → (-23238,-6159) center (-23300,-6213) size 124×107
+  - (-23362,-6304) → (-23185,-6266) center (-23274,-6285) size 177×38
+  - (-23112,-6299) → (-22461,-6159) center (-22787,-6229) size 651×140
+  - (-23107,-6159) → (-22546,-5971) center (-22827,-6065) size 561×188
+  - (-23238,-6159) → (-23107,-5971) center (-23173,-6065) size 131×188
+  - (-23238,-6266) → (-23112,-6159) center (-23175,-6213) size 126×107
+  - (-23185,-6299) → (-23112,-6266) center (-23149,-6283) size 73×33
+**zombiigirl** — 2 claim(s), 65,646 blocks total
+  - (-23297,-12363) → (-23287,-12352) center (-23292,-12358) size 10×11
+  - (-23360,-12352) → (-23104,-12096) center (-23232,-12224) size 256×256
+**TayxTides** — 1 claim(s), 121 blocks total
+  - (-20612,-5631) → (-20601,-5620) center (-20607,-5626) size 11×11
+**Trizza** — 1 claim(s), 1,008 blocks total
+  - (-14618,-21139) → (-14594,-21097) center (-14606,-21118) size 24×42
+**AbcTest123** — 1 claim(s), 4,690 blocks total
+  - (20287,4835) → (20357,4902) center (20322,4868) size 70×67
+**Heryel07** — 1 claim(s), 1,140 blocks total
+  - (18426,1199) → (18464,1229) center (18445,1214) size 38×30
+**K0BEK** — 1 claim(s), 156 blocks total
+  - (22076,-12150) → (22088,-12137) center (22082,-12144) size 12×13
+
 ## 2026-10-15 01:57 UTC
 Total claims: 18392 | Removed: 9 | Added: 9 | Skipped (reclaimed): 8
 
