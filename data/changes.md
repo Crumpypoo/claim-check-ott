@@ -1,4 +1,48 @@
 
+## 2026-10-15 15:48 UTC
+Total claims: 18406 | Removed: 6 | Added: 17 | Skipped (reclaimed): 4
+
+### Removed
+**Headshots4life** — 2 claim(s), 304 blocks total
+  - (20689,-7222) → (20700,-7205) center (20694,-7214) size 11×17
+  - (20680,-7222) → (20689,-7209) center (20684,-7216) size 9×13
+**trinluvsyouu480** — 1 claim(s), 153 blocks total
+  - (21668,19480) → (21677,19497) center (21672,19488) size 9×17
+**Luanxctaire** — 1 claim(s), 4,050 blocks total
+  - (-21929,-16824) → (-21839,-16779) center (-21884,-16802) size 90×45
+**VictVict** — 1 claim(s), 121 blocks total
+  - (-8120,-20771) → (-8109,-20760) center (-8115,-20766) size 11×11
+**Lavie_Lulu** — 1 claim(s), 225 blocks total
+  - (23445,12695) → (23450,12740) center (23447,12717) size 5×45
+
+### Added
+**Supercrafter_200** — 6 claim(s), 9,894 blocks total
+  - (-21472,-12858) → (-21458,-12849) center (-21465,-12854) size 14×9
+  - (-21625,-13131) → (-21616,-13115) center (-21621,-13123) size 9×16
+  - (-20740,-16067) → (-20673,-15981) center (-20707,-16024) size 67×86
+  - (22127,-392) → (22144,-374) center (22135,-383) size 17×18
+  - (22109,-372) → (22119,-362) center (22114,-367) size 10×10
+  - (22070,-280) → (22118,-208) center (22094,-244) size 48×72
+**warthunderpro10** — 3 claim(s), 726 blocks total
+  - (-4662,-21252) → (-4639,-21230) center (-4651,-21241) size 23×22
+  - (-4645,-21272) → (-4639,-21252) center (-4642,-21262) size 6×20
+  - (-4639,-21272) → (-4629,-21262) center (-4634,-21267) size 10×10
+**ItsSimplyJoe** — 2 claim(s), 264,784 blocks total
+  - (-5426,-22725) → (-4777,-22359) center (-5102,-22542) size 649×366
+  - (-5266,-22975) → (-5157,-22725) center (-5212,-22850) size 109×250
+**LocoBandito** — 1 claim(s), 132 blocks total
+  - (-11123,22027) → (-11111,22038) center (-11117,22032) size 12×11
+**_Natasha_0** — 1 claim(s), 10,353 blocks total
+  - (-23124,-19259) → (-23005,-19172) center (-23065,-19216) size 119×87
+**Lepon2014** — 1 claim(s), 1,600 blocks total
+  - (-20075,8713) → (-20035,8753) center (-20055,8733) size 40×40
+**bebu10** — 1 claim(s), 360 blocks total
+  - (7105,22432) → (7110,22504) center (7107,22468) size 5×72
+**Luanxctaire** — 1 claim(s), 2,208 blocks total
+  - (-22055,-16596) → (-22023,-16527) center (-22039,-16562) size 32×69
+**Lavie_Lulu** — 1 claim(s), 49,880 blocks total
+  - (23284,12740) → (23499,12972) center (23391,12856) size 215×232
+
 ## 2026-10-15 10:24 UTC
 Total claims: 18399 | Removed: 6 | Added: 14 | Skipped (reclaimed): 1
 
