@@ -1,4 +1,42 @@
 
+## 2026-10-15 01:57 UTC
+Total claims: 18392 | Removed: 9 | Added: 9 | Skipped (reclaimed): 8
+
+### Removed
+**CarlitosAleF** — 2 claim(s), 963 blocks total
+  - (-12619,-22460) → (-12612,-22385) center (-12616,-22423) size 7×75
+  - (-12604,-22450) → (-12598,-22377) center (-12601,-22414) size 6×73
+**_DuckyChimp3172** — 2 claim(s), 1,186 blocks total
+  - (2688,23192) → (2725,23218) center (2706,23205) size 37×26
+  - (2715,23220) → (2731,23234) center (2723,23227) size 16×14
+**AnimeWatcher17** — 2 claim(s), 242 blocks total
+  - (11129,-23219) → (11140,-23208) center (11134,-23214) size 11×11
+  - (4373,-20909) → (4384,-20898) center (4378,-20904) size 11×11
+**VortekEats** — 2 claim(s), 1,631 blocks total
+  - (22943,-12722) → (22973,-12686) center (22958,-12704) size 30×36
+  - (22944,-12741) → (22973,-12722) center (22958,-12732) size 29×19
+**Floppinha4596** — 1 claim(s), 468 blocks total
+  - (-21679,19126) → (-21627,19135) center (-21653,19130) size 52×9
+
+### Added
+**Mrdragon1452** — 2 claim(s), 671 blocks total
+  - (-21984,1100) → (-21962,1125) center (-21973,1112) size 22×25
+  - (20507,-3972) → (20518,-3961) center (20512,-3967) size 11×11
+**FellowsPath** — 1 claim(s), 15,912 blocks total
+  - (10668,-3778) → (10770,-3622) center (10719,-3700) size 102×156
+**that_PoTaTo84** — 1 claim(s), 3,848 blocks total
+  - (-20903,20573) → (-20829,20625) center (-20866,20599) size 74×52
+**SydeQuests** — 1 claim(s), 6,205 blocks total
+  - (352,-20906) → (437,-20833) center (394,-20870) size 85×73
+**RENGOKU3659** — 1 claim(s), 18,306 blocks total
+  - (-1284,563) → (-1171,725) center (-1228,644) size 113×162
+**ItsaRolat** — 1 claim(s), 896 blocks total
+  - (22828,-10858) → (22856,-10826) center (22842,-10842) size 28×32
+**Cyberdarling** — 1 claim(s), 609 blocks total
+  - (10767,-22517) → (10788,-22488) center (10777,-22503) size 21×29
+**D00M3D_4X0L0TL** — 1 claim(s), 3,050 blocks total
+  - (10802,-22501) → (10863,-22451) center (10832,-22476) size 61×50
+
 ## 2026-10-14 21:00 UTC
 Total claims: 18400 | Removed: 2 | Added: 9 | Skipped (reclaimed): 1
 
