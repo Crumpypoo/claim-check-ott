@@ -1,4 +1,32 @@
 
+## 2026-10-17 14:29 UTC
+Total claims: 18416 | Removed: 6 | Added: 6 | Skipped (reclaimed): 4
+
+### Removed
+**StellarMoss** — 2 claim(s), 638 blocks total
+  - (-13566,-21663) → (-13553,-21649) center (-13560,-21656) size 13×14
+  - (-13576,-21741) → (-13557,-21717) center (-13567,-21729) size 19×24
+**Skilkey_001** — 2 claim(s), 372 blocks total
+  - (-21868,-20959) → (-21854,-20946) center (-21861,-20953) size 14×13
+  - (-10058,-20790) → (-10048,-20771) center (-10053,-20781) size 10×19
+**_BlueMay32** — 2 claim(s), 1,573 blocks total
+  - (1895,673) → (1913,733) center (1904,703) size 18×60
+  - (1850,657) → (1879,674) center (1864,665) size 29×17
+
+### Added
+**Maxymm** — 1 claim(s), 175,100 blocks total
+  - (-307,-4022) → (33,-3507) center (-137,-3765) size 340×515
+**Boon2553** — 1 claim(s), 196 blocks total
+  - (21301,4295) → (21315,4309) center (21308,4302) size 14×14
+**x_wolf_x** — 1 claim(s), 1,200 blocks total
+  - (-22377,-8101) → (-22347,-8061) center (-22362,-8081) size 30×40
+**TheVersaceOwl** — 1 claim(s), 798 blocks total
+  - (-17352,21800) → (-17331,21838) center (-17342,21819) size 21×38
+**Lepon2014** — 1 claim(s), 12,420 blocks total
+  - (-20171,8714) → (-20036,8806) center (-20104,8760) size 135×92
+**Rengokuuy** — 1 claim(s), 1,908 blocks total
+  - (-22533,837) → (-22480,873) center (-22507,855) size 53×36
+
 ## 2026-10-17 09:45 UTC
 Total claims: 18420 | Removed: 23 | Added: 13 | Skipped (reclaimed): 4
 
