@@ -1,4 +1,31 @@
 
+## 2026-10-17 01:41 UTC
+Total claims: 18434 | Removed: 0 | Added: 11 | Skipped (reclaimed): 3
+
+
+### Added
+**Keego_the_dino** — 2 claim(s), 8,595 blocks total
+  - (20300,14703) → (20325,14720) center (20312,14711) size 25×17
+  - (20384,14605) → (20422,14820) center (20403,14712) size 38×215
+**Blenyie** — 1 claim(s), 29,792 blocks total
+  - (16831,536) → (17055,669) center (16943,602) size 224×133
+**zombiigirl** — 1 claim(s), 528 blocks total
+  - (-23307,-12364) → (-23263,-12352) center (-23285,-12358) size 44×12
+**AustyLarpin** — 1 claim(s), 2,592 blocks total
+  - (-21363,5551) → (-21336,5647) center (-21350,5599) size 27×96
+**MasterKodaGaming** — 1 claim(s), 120 blocks total
+  - (6024,-22247) → (6039,-22239) center (6031,-22243) size 15×8
+**LunaShine1** — 1 claim(s), 1,400 blocks total
+  - (-12574,-20406) → (-12539,-20366) center (-12557,-20386) size 35×40
+**JadedSn4ke** — 1 claim(s), 13,552 blocks total
+  - (-23152,15275) → (-23031,15387) center (-23092,15331) size 121×112
+**Rengokuuy** — 1 claim(s), 1,650 blocks total
+  - (-22533,840) → (-22483,873) center (-22508,856) size 50×33
+**TheUnicon9216** — 1 claim(s), 792 blocks total
+  - (-7850,21694) → (-7826,21727) center (-7838,21710) size 24×33
+**EinfxchAlexander** — 1 claim(s), 900 blocks total
+  - (-11076,22661) → (-11046,22691) center (-11061,22676) size 30×30
+
 ## 2026-10-16 20:08 UTC
 Total claims: 18426 | Removed: 8 | Added: 18 | Skipped (reclaimed): 5
 
