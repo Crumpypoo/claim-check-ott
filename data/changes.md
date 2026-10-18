@@ -1,4 +1,47 @@
 
+## 2026-10-18 09:58 UTC
+Total claims: 18422 | Removed: 10 | Added: 9 | Skipped (reclaimed): 7
+
+### Removed
+**SolPisk** — 2 claim(s), 577 blocks total
+  - (6758,22575) → (6781,22595) center (6769,22585) size 23×20
+  - (6705,22542) → (6718,22551) center (6711,22546) size 13×9
+**pratham1690** — 1 claim(s), 273 blocks total
+  - (-20035,11256) → (-20014,11269) center (-20025,11262) size 21×13
+**ST0RMCHAS3R** — 1 claim(s), 783 blocks total
+  - (12225,21102) → (12254,21129) center (12239,21115) size 29×27
+**SUUNYSYDEUP** — 1 claim(s), 9,344 blocks total
+  - (-4951,-20660) → (-4823,-20587) center (-4887,-20624) size 128×73
+**Wetnn** — 1 claim(s), 990 blocks total
+  - (22470,-11462) → (22503,-11432) center (22486,-11447) size 33×30
+**Fire_bird_11** — 1 claim(s), 484 blocks total
+  - (21652,21142) → (21674,21164) center (21663,21153) size 22×22
+**OrderlyHydro** — 1 claim(s), 252 blocks total
+  - (2414,-22803) → (2426,-22782) center (2420,-22793) size 12×21
+**milkster88** — 1 claim(s), 121 blocks total
+  - (-8854,21604) → (-8843,21615) center (-8849,21609) size 11×11
+**manu__el** — 1 claim(s), 1,584 blocks total
+  - (23302,17953) → (23338,17997) center (23320,17975) size 36×44
+
+### Added
+**ST0RMCHAS3R** — 2 claim(s), 1,232 blocks total
+  - (12216,21090) → (12240,21097) center (12228,21093) size 24×7
+  - (12240,21059) → (12268,21097) center (12254,21078) size 28×38
+**dav1d213** — 1 claim(s), 484 blocks total
+  - (21258,19444) → (21280,19466) center (21269,19455) size 22×22
+**x_wolf_x** — 1 claim(s), 2,860 blocks total
+  - (-22371,-8115) → (-22319,-8060) center (-22345,-8088) size 52×55
+**zoe8585** — 1 claim(s), 980 blocks total
+  - (22652,-11048) → (22680,-11013) center (22666,-11031) size 28×35
+**EMILICIOUS1659** — 1 claim(s), 2,346 blocks total
+  - (-22931,21340) → (-22880,21386) center (-22906,21363) size 51×46
+**Zanuix** — 1 claim(s), 728 blocks total
+  - (7,-22272) → (35,-22246) center (21,-22259) size 28×26
+**kungenavedsbyn** — 1 claim(s), 9,794 blocks total
+  - (-16091,20213) → (-16008,20331) center (-16050,20272) size 83×118
+**TayxTides** — 1 claim(s), 5,253 blocks total
+  - (-12591,22006) → (-12540,22109) center (-12566,22057) size 51×103
+
 ## 2026-10-18 01:38 UTC
 Total claims: 18430 | Removed: 4 | Added: 24 | Skipped (reclaimed): 9
 
