@@ -1,4 +1,44 @@
 
+## 2026-10-19 21:45 UTC
+Total claims: 18426 | Removed: 4 | Added: 15 | Skipped (reclaimed): 6
+
+### Removed
+**_GREATMAGNETO705** — 2 claim(s), 483 blocks total
+  - (-22317,-10571) → (-22297,-10554) center (-22307,-10563) size 20×17
+  - (-22285,-10545) → (-22274,-10532) center (-22280,-10539) size 11×13
+**Mrdragon1452** — 1 claim(s), 121 blocks total
+  - (20507,-3972) → (20518,-3961) center (20512,-3967) size 11×11
+**hormain23** — 1 claim(s), 255 blocks total
+  - (-5297,-22093) → (-5282,-22076) center (-5290,-22085) size 15×17
+
+### Added
+**VexaPaws** — 3 claim(s), 476 blocks total
+  - (-20516,-7795) → (-20498,-7782) center (-20507,-7789) size 18×13
+  - (-20487,-7799) → (-20476,-7788) center (-20482,-7794) size 11×11
+  - (-20481,-7813) → (-20470,-7802) center (-20476,-7808) size 11×11
+**_XJDHDK** — 3 claim(s), 1,246 blocks total
+  - (22756,-6387) → (22785,-6377) center (22770,-6382) size 29×10
+  - (22711,-6378) → (22739,-6357) center (22725,-6368) size 28×21
+  - (22761,-6364) → (22784,-6348) center (22772,-6356) size 23×16
+**scorodite** — 1 claim(s), 17,316 blocks total
+  - (-550,-21168) → (-439,-21012) center (-495,-21090) size 111×156
+**Mrdragon1452** — 1 claim(s), 1,518 blocks total
+  - (-22007,1099) → (-21961,1132) center (-21984,1115) size 46×33
+**Maxymm** — 1 claim(s), 30,502 blocks total
+  - (-497,-5183) → (-195,-5082) center (-346,-5133) size 302×101
+**l_wynnie_l** — 1 claim(s), 1,365 blocks total
+  - (22661,-399) → (22696,-360) center (22678,-380) size 35×39
+**Sevyyytaru** — 1 claim(s), 3,535 blocks total
+  - (22093,-2543) → (22194,-2508) center (22143,-2526) size 101×35
+**rombis_guy** — 1 claim(s), 224 blocks total
+  - (22624,-6128) → (22640,-6114) center (22632,-6121) size 16×14
+**DiorTaco** — 1 claim(s), 121 blocks total
+  - (-1022,-22376) → (-1011,-22365) center (-1017,-22371) size 11×11
+**HauntedCookie936** — 1 claim(s), 6,498 blocks total
+  - (10599,21740) → (10713,21797) center (10656,21768) size 114×57
+**DangerPaws** — 1 claim(s), 62,068 blocks total
+  - (10937,22582) → (11200,22818) center (11068,22700) size 263×236
+
 ## 2026-10-19 17:48 UTC
 Total claims: 18421 | Removed: 5 | Added: 17 | Skipped (reclaimed): 8
 
