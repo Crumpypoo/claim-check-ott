@@ -1,4 +1,36 @@
 
+## 2026-10-20 02:13 UTC
+Total claims: 18431 | Removed: 2 | Added: 11 | Skipped (reclaimed): 4
+
+### Removed
+**YourLocalSchiz0** — 1 claim(s), 1,560 blocks total
+  - (-20610,-6083) → (-20570,-6044) center (-20590,-6064) size 40×39
+**_CoKaiDev** — 1 claim(s), 135 blocks total
+  - (-4965,-21069) → (-4950,-21060) center (-4958,-21065) size 15×9
+
+### Added
+**OhHelloItsAugust** — 2 claim(s), 3,526 blocks total
+  - (-22252,-19704) → (-22174,-19689) center (-22213,-19697) size 78×15
+  - (-22249,-19685) → (-22173,-19654) center (-22211,-19670) size 76×31
+**scorodite** — 1 claim(s), 19,404 blocks total
+  - (-565,-21166) → (-439,-21012) center (-502,-21089) size 126×154
+**CAL_caro** — 1 claim(s), 130 blocks total
+  - (-18871,-21441) → (-18858,-21431) center (-18865,-21436) size 13×10
+**kurrooop** — 1 claim(s), 216 blocks total
+  - (-18979,-12253) → (-18955,-12244) center (-18967,-12249) size 24×9
+**dream543** — 1 claim(s), 78,961 blocks total
+  - (15668,21264) → (15949,21545) center (15808,21404) size 281×281
+**LightningLegendB** — 1 claim(s), 31,434 blocks total
+  - (21844,5965) → (22030,6134) center (21937,6049) size 186×169
+**Nandee101** — 1 claim(s), 110 blocks total
+  - (21901,6944) → (21912,6954) center (21906,6949) size 11×10
+**Keego_the_dino** — 1 claim(s), 83,552 blocks total
+  - (-18665,10289) → (-18292,10513) center (-18479,10401) size 373×224
+**Diamonds0fSpades** — 1 claim(s), 13,447 blocks total
+  - (-22574,5336) → (-22455,5449) center (-22515,5392) size 119×113
+**BigBosMoM** — 1 claim(s), 240 blocks total
+  - (21589,-10055) → (21601,-10035) center (21595,-10045) size 12×20
+
 ## 2026-10-19 21:45 UTC
 Total claims: 18426 | Removed: 4 | Added: 15 | Skipped (reclaimed): 6
 
