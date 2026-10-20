@@ -1,4 +1,40 @@
 
+## 2026-10-20 20:56 UTC
+Total claims: 18426 | Removed: 7 | Added: 9 | Skipped (reclaimed): 1
+
+### Removed
+**PiedParasite** — 2 claim(s), 822 blocks total
+  - (-20821,16821) → (-20802,16839) center (-20812,16830) size 19×18
+  - (-20820,16791) → (-20800,16815) center (-20810,16803) size 20×24
+**Kamoxi_** — 1 claim(s), 110 blocks total
+  - (-8686,22771) → (-8675,22781) center (-8681,22776) size 11×10
+**YOURdeathAWAITS** — 1 claim(s), 210 blocks total
+  - (-22209,7079) → (-22195,7094) center (-22202,7086) size 14×15
+**DorTheFirst** — 1 claim(s), 132 blocks total
+  - (3162,-20256) → (3174,-20245) center (3168,-20251) size 12×11
+**DrBlevHim** — 1 claim(s), 1,156 blocks total
+  - (-20097,-22416) → (-20063,-22382) center (-20080,-22399) size 34×34
+**DuckhamJR** — 1 claim(s), 1,292 blocks total
+  - (-22800,18486) → (-22766,18524) center (-22783,18505) size 34×38
+
+### Added
+**scorodite** — 2 claim(s), 26,510 blocks total
+  - (-578,-21183) → (-438,-21002) center (-508,-21093) size 140×181
+  - (-692,-21075) → (-653,-21045) center (-673,-21060) size 39×30
+**_xshadow77773** — 2 claim(s), 406 blocks total
+  - (-21000,17500) → (-20993,17534) center (-20997,17517) size 7×34
+  - (-21017,17483) → (-21003,17495) center (-21010,17489) size 14×12
+**Lilsoras** — 1 claim(s), 15,375 blocks total
+  - (-21910,-22944) → (-21705,-22869) center (-21808,-22907) size 205×75
+**hcslax35** — 1 claim(s), 255 blocks total
+  - (-16430,23424) → (-16415,23441) center (-16423,23432) size 15×17
+**Pjoeter** — 1 claim(s), 120 blocks total
+  - (-21986,2001) → (-21976,2013) center (-21981,2007) size 10×12
+**_Cactified_** — 1 claim(s), 105 blocks total
+  - (-939,22201) → (-932,22216) center (-936,22208) size 7×15
+**rombis_guy** — 1 claim(s), 110 blocks total
+  - (22617,-6158) → (22627,-6147) center (22622,-6153) size 10×11
+
 ## 2026-10-20 15:52 UTC
 Total claims: 18425 | Removed: 5 | Added: 6 | Skipped (reclaimed): 2
 
