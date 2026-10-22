@@ -36846,14 +36846,14 @@
       "owner": "jojonusly",
       "trusted": "",
       "x1": -20982,
-      "z1": -5197,
-      "x2": -20763,
+      "z1": -5202,
+      "x2": -20757,
       "z2": -4975,
-      "cx": -20873,
-      "cz": -5086,
-      "width": 219,
-      "height": 222,
-      "area": 48618
+      "cx": -20870,
+      "cz": -5089,
+      "width": 225,
+      "height": 227,
+      "area": 51075
     },
     {
       "owner": "BRICK_HEAD138",
@@ -133137,14 +133137,14 @@
       "owner": "scorodite",
       "trusted": "",
       "x1": -750,
-      "z1": -21240,
+      "z1": -21287,
       "x2": -428,
       "z2": -20972,
       "cx": -589,
-      "cz": -21106,
+      "cz": -21130,
       "width": 322,
-      "height": 268,
-      "area": 86296
+      "height": 315,
+      "area": 101430
     },
     {
       "owner": "ender_ishungry",
@@ -189216,19 +189216,6 @@
       "area": 324
     },
     {
-      "owner": "jayisani",
-      "trusted": "",
-      "x1": 23127,
-      "z1": 16048,
-      "x2": 23134,
-      "z2": 16071,
-      "cx": 23130,
-      "cz": 16059,
-      "width": 7,
-      "height": 23,
-      "area": 161
-    },
-    {
       "owner": "_MicroUnicron192",
       "trusted": "",
       "x1": 579,
@@ -189916,6 +189903,19 @@
       "width": 21,
       "height": 13,
       "area": 273
+    },
+    {
+      "owner": "Alexpangender",
+      "trusted": "",
+      "x1": -17681,
+      "z1": 21500,
+      "x2": -17618,
+      "z2": 21544,
+      "cx": -17650,
+      "cz": 21522,
+      "width": 63,
+      "height": 44,
+      "area": 2772
     },
     {
       "owner": "ruisusogeki",
@@ -192659,32 +192659,6 @@
       "width": 14,
       "height": 11,
       "area": 154
-    },
-    {
-      "owner": "Pilote_en_chef",
-      "trusted": "SemouleOlait",
-      "x1": -22561,
-      "z1": 20938,
-      "x2": -22533,
-      "z2": 20972,
-      "cx": -22547,
-      "cz": 20955,
-      "width": 28,
-      "height": 34,
-      "area": 952
-    },
-    {
-      "owner": "Pilote_en_chef",
-      "trusted": "",
-      "x1": -22574,
-      "z1": 20962,
-      "x2": -22561,
-      "z2": 20971,
-      "cx": -22568,
-      "cz": 20966,
-      "width": 13,
-      "height": 9,
-      "area": 117
     },
     {
       "owner": "greenshirtbluguy",
@@ -239708,5 +239682,5 @@
       "area": 1482
     }
   ],
-  "time": "2026-10-22 16:07 UTC"
+  "time": "2026-10-22 20:52 UTC"
 }

@@ -1,4 +1,22 @@
 
+## 2026-10-22 20:52 UTC
+Total claims: 18437 | Removed: 3 | Added: 3 | Skipped (reclaimed): 2
+
+### Removed
+**Pilote_en_chef** — 2 claim(s), 1,069 blocks total
+  - (-22561,20938) → (-22533,20972) center (-22547,20955) size 28×34
+  - (-22574,20962) → (-22561,20971) center (-22568,20966) size 13×9
+**jayisani** — 1 claim(s), 161 blocks total
+  - (23127,16048) → (23134,16071) center (23130,16059) size 7×23
+
+### Added
+**jojonusly** — 1 claim(s), 51,075 blocks total
+  - (-20982,-5202) → (-20757,-4975) center (-20870,-5089) size 225×227
+**scorodite** — 1 claim(s), 101,430 blocks total
+  - (-750,-21287) → (-428,-20972) center (-589,-21130) size 322×315
+**Alexpangender** — 1 claim(s), 2,772 blocks total
+  - (-17681,21500) → (-17618,21544) center (-17650,21522) size 63×44
+
 ## 2026-10-22 16:07 UTC
 Total claims: 18439 | Removed: 6 | Added: 4 | Skipped (reclaimed): 2
 
