@@ -1,4 +1,47 @@
 
+## 2026-10-22 02:01 UTC
+Total claims: 18443 | Removed: 6 | Added: 14 | Skipped (reclaimed): 5
+
+### Removed
+**PiratexLulu** — 1 claim(s), 280 blocks total
+  - (10498,23052) → (10533,23060) center (10515,23056) size 35×8
+**Nikladeon** — 1 claim(s), 240 blocks total
+  - (21906,5839) → (21921,5855) center (21913,5847) size 15×16
+**goodgoldgideon11** — 1 claim(s), 247 blocks total
+  - (-21297,-19919) → (-21278,-19906) center (-21288,-19913) size 19×13
+**Skavcal** — 1 claim(s), 437 blocks total
+  - (-8334,22557) → (-8315,22580) center (-8325,22568) size 19×23
+**zytazs** — 1 claim(s), 1,000 blocks total
+  - (-21787,-5135) → (-21762,-5095) center (-21775,-5115) size 25×40
+**_Katanna34** — 1 claim(s), 1,120 blocks total
+  - (-21710,-22096) → (-21675,-22064) center (-21693,-22080) size 35×32
+
+### Added
+**mrstewie47** — 2 claim(s), 292 blocks total
+  - (-21398,-23088) → (-21390,-23069) center (-21394,-23079) size 8×19
+  - (-21390,-23085) → (-21380,-23071) center (-21385,-23078) size 10×14
+**mentali1000** — 2 claim(s), 696 blocks total
+  - (22700,-12029) → (22717,-12005) center (22708,-12017) size 17×24
+  - (22714,-12064) → (22726,-12040) center (22720,-12052) size 12×24
+**TherealMcop** — 2 claim(s), 71,838 blocks total
+  - (-24681,-11791) → (-24676,-11764) center (-24679,-11778) size 5×27
+  - (-24676,-11790) → (-24419,-11511) center (-24548,-11651) size 257×279
+**Tallyyy_wallyyy** — 2 claim(s), 1,434 blocks total
+  - (8372,-22047) → (8399,-22017) center (8385,-22032) size 27×30
+  - (8376,-22073) → (8400,-22047) center (8388,-22060) size 24×26
+**Wood4910** — 1 claim(s), 731 blocks total
+  - (-21779,-2787) → (-21736,-2770) center (-21758,-2779) size 43×17
+**ValeeXO** — 1 claim(s), 6,399 blocks total
+  - (-14536,22855) → (-14457,22936) center (-14497,22895) size 79×81
+**DelMyDeer** — 1 claim(s), 41,810 blocks total
+  - (20181,24035) → (20366,24261) center (20273,24148) size 185×226
+**ItzzzDanTheMan** — 1 claim(s), 12,138 blocks total
+  - (4817,21563) → (4936,21665) center (4876,21614) size 119×102
+**TakiMines** — 1 claim(s), 10,440 blocks total
+  - (-20377,13234) → (-20290,13354) center (-20334,13294) size 87×120
+**Rengokuuy** — 1 claim(s), 13,108 blocks total
+  - (-22552,793) → (-22439,909) center (-22496,851) size 113×116
+
 ## 2026-10-21 20:56 UTC
 Total claims: 18440 | Removed: 11 | Added: 14 | Skipped (reclaimed): 3
 
