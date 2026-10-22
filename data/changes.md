@@ -1,4 +1,29 @@
 
+## 2026-10-22 16:07 UTC
+Total claims: 18439 | Removed: 6 | Added: 4 | Skipped (reclaimed): 2
+
+### Removed
+**Caveman_pickle** — 2 claim(s), 624 blocks total
+  - (13135,21505) → (13155,21511) center (13145,21508) size 20×6
+  - (13229,21627) → (13265,21641) center (13247,21634) size 36×14
+**kysonYT123** — 2 claim(s), 308 blocks total
+  - (-22684,2483) → (-22674,2494) center (-22679,2488) size 10×11
+  - (-21201,8864) → (-21190,8882) center (-21196,8873) size 11×18
+**bvgshaq** — 1 claim(s), 121 blocks total
+  - (11268,-22999) → (11279,-22988) center (11273,-22994) size 11×11
+**A1ronman** — 1 claim(s), 990 blocks total
+  - (-7157,-22684) → (-7127,-22651) center (-7142,-22668) size 30×33
+
+### Added
+**kittyluv303** — 1 claim(s), 23,542 blocks total
+  - (20643,-6418) → (20792,-6260) center (20717,-6339) size 149×158
+**DelMyDeer** — 1 claim(s), 51,156 blocks total
+  - (20181,24009) → (20384,24261) center (20282,24135) size 203×252
+**_DanyaL4165** — 1 claim(s), 273 blocks total
+  - (15684,-21077) → (15705,-21064) center (15694,-21071) size 21×13
+**_luisthe2020** — 1 claim(s), 493 blocks total
+  - (-1948,-21288) → (-1919,-21271) center (-1934,-21280) size 29×17
+
 ## 2026-10-22 10:42 UTC
 Total claims: 18443 | Removed: 12 | Added: 18 | Skipped (reclaimed): 6
 
