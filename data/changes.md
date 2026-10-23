@@ -1,4 +1,45 @@
 
+## 2026-10-23 10:34 UTC
+Total claims: 18442 | Removed: 9 | Added: 10 | Skipped (reclaimed): 2
+
+### Removed
+**GetBlowelled618** — 2 claim(s), 954 blocks total
+  - (-23110,16458) → (-23084,16485) center (-23097,16471) size 26×27
+  - (-23038,16579) → (-23020,16593) center (-23029,16586) size 18×14
+**SiZzYoda** — 1 claim(s), 1,369 blocks total
+  - (-752,23232) → (-715,23269) center (-734,23250) size 37×37
+**Cano711** — 1 claim(s), 121 blocks total
+  - (6889,-23146) → (6900,-23135) center (6894,-23141) size 11×11
+**DelMyDeer** — 1 claim(s), 480 blocks total
+  - (-22063,-5634) → (-22039,-5614) center (-22051,-5624) size 24×20
+**Seuless** — 1 claim(s), 1,161 blocks total
+  - (1052,20009) → (1079,20052) center (1065,20030) size 27×43
+**EatYourBroccoli** — 1 claim(s), 360 blocks total
+  - (-827,21515) → (-803,21530) center (-815,21522) size 24×15
+**iJfox_** — 1 claim(s), 1,610 blocks total
+  - (-8276,-20938) → (-8241,-20892) center (-8259,-20915) size 35×46
+**nuttbacca** — 1 claim(s), 143 blocks total
+  - (22385,-696) → (22396,-683) center (22390,-690) size 11×13
+
+### Added
+**TherealMcop** — 3 claim(s), 78,884 blocks total
+  - (-24676,-11790) → (-24419,-11510) center (-24548,-11650) size 257×280
+  - (-24676,-11510) → (-24419,-11488) center (-24548,-11499) size 257×22
+  - (-24681,-11764) → (-24676,-11510) center (-24679,-11637) size 5×254
+**Yaremoshka** — 2 claim(s), 716 blocks total
+  - (22175,18146) → (22195,18175) center (22185,18160) size 20×29
+  - (22203,18126) → (22211,18143) center (22207,18134) size 8×17
+**Wood4910** — 1 claim(s), 14,874 blocks total
+  - (-21817,-2821) → (-21683,-2710) center (-21750,-2766) size 134×111
+**_Dj_CHEET4H** — 1 claim(s), 1,520 blocks total
+  - (-20635,-7244) → (-20595,-7206) center (-20615,-7225) size 40×38
+**Therealjax777** — 1 claim(s), 1,160 blocks total
+  - (14662,22634) → (14720,22654) center (14691,22644) size 58×20
+**keliedd** — 1 claim(s), 437 blocks total
+  - (-23126,-6932) → (-23103,-6913) center (-23115,-6923) size 23×19
+**_WolfChildX5002** — 1 claim(s), 874 blocks total
+  - (-5753,23379) → (-5715,23402) center (-5734,23390) size 38×23
+
 ## 2026-10-23 02:05 UTC
 Total claims: 18443 | Removed: 2 | Added: 13 | Skipped (reclaimed): 5
 
