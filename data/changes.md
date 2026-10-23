@@ -1,4 +1,31 @@
 
+## 2026-10-23 20:41 UTC
+Total claims: 18445 | Removed: 2 | Added: 8 | Skipped (reclaimed): 5
+
+### Removed
+**arachnull** — 1 claim(s), 130 blocks total
+  - (23395,-11974) → (23405,-11961) center (23400,-11968) size 10×13
+**ShadowstarXY** — 1 claim(s), 140 blocks total
+  - (-590,3558) → (-576,3568) center (-583,3563) size 14×10
+
+### Added
+**BBQ_Legends** — 1 claim(s), 68,208 blocks total
+  - (-3170,8221) → (-2938,8515) center (-3054,8368) size 232×294
+**Maxymm** — 1 claim(s), 12,201 blocks total
+  - (4315,-4253) → (4462,-4170) center (4388,-4212) size 147×83
+**scorodite** — 1 claim(s), 106,904 blocks total
+  - (-750,-21304) → (-428,-20972) center (-589,-21138) size 322×332
+**Rengokuuy** — 1 claim(s), 41,825 blocks total
+  - (-22634,783) → (-22395,958) center (-22515,870) size 239×175
+**ruisusogeki** — 1 claim(s), 39,283 blocks total
+  - (-12009,-22337) → (-11846,-22096) center (-11928,-22217) size 163×241
+**Therealjax777** — 1 claim(s), 130 blocks total
+  - (-21579,-13433) → (-21569,-13420) center (-21574,-13427) size 10×13
+**SnowieDidSmt_** — 1 claim(s), 1,131 blocks total
+  - (-10906,20984) → (-10867,21013) center (-10887,20998) size 39×29
+**SMONDO1** — 1 claim(s), 121 blocks total
+  - (-21715,17630) → (-21704,17641) center (-21710,17635) size 11×11
+
 ## 2026-10-23 15:57 UTC
 Total claims: 18444 | Removed: 1 | Added: 7 | Skipped (reclaimed): 4
 
