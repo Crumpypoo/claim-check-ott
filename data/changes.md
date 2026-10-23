@@ -1,4 +1,38 @@
 
+## 2026-10-23 02:05 UTC
+Total claims: 18443 | Removed: 2 | Added: 13 | Skipped (reclaimed): 5
+
+### Removed
+**_SuperTrenty** — 2 claim(s), 489 blocks total
+  - (-4354,-23106) → (-4334,-23096) center (-4344,-23101) size 20×10
+  - (-22461,14833) → (-22444,14850) center (-22453,14841) size 17×17
+
+### Added
+**0h3lyat** — 3 claim(s), 26,497 blocks total
+  - (-12636,24816) → (-12556,25033) center (-12596,24924) size 80×217
+  - (-12556,24968) → (-12524,25000) center (-12540,24984) size 32×32
+  - (-12556,24865) → (-12423,24926) center (-12490,24895) size 133×61
+**Animaniman** — 1 claim(s), 2,397 blocks total
+  - (667,21003) → (714,21054) center (690,21028) size 47×51
+**Rengokuuy** — 1 claim(s), 29,370 blocks total
+  - (-22617,793) → (-22439,958) center (-22528,875) size 178×165
+**TherealMcop** — 1 claim(s), 3,080 blocks total
+  - (-24419,-11790) → (-24408,-11510) center (-24414,-11650) size 11×280
+**Stunnercraft** — 1 claim(s), 928 blocks total
+  - (21915,20994) → (21944,21026) center (21929,21010) size 29×32
+**Nandee101** — 1 claim(s), 841 blocks total
+  - (12144,22517) → (12173,22546) center (12158,22531) size 29×29
+**luistheelite_202** — 1 claim(s), 1,160 blocks total
+  - (-17032,-23455) → (-16974,-23435) center (-17003,-23445) size 58×20
+**_Crypct_Arrow** — 1 claim(s), 3,337 blocks total
+  - (8405,-20927) → (8452,-20856) center (8428,-20892) size 47×71
+**_Kurama5013** — 1 claim(s), 240 blocks total
+  - (-22037,-8711) → (-22022,-8695) center (-22030,-8703) size 15×16
+**_WigglyBear3** — 1 claim(s), 900 blocks total
+  - (22383,7097) → (22408,7133) center (22395,7115) size 25×36
+**Maxymm** — 1 claim(s), 4,752 blocks total
+  - (-64,-4337) → (200,-4319) center (68,-4328) size 264×18
+
 ## 2026-10-22 20:52 UTC
 Total claims: 18437 | Removed: 3 | Added: 3 | Skipped (reclaimed): 2
 
