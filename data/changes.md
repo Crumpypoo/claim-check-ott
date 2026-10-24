@@ -1,4 +1,34 @@
 
+## 2026-10-24 02:04 UTC
+Total claims: 18454 | Removed: 0 | Added: 14 | Skipped (reclaimed): 5
+
+
+### Added
+**JBlackVelvet** — 3 claim(s), 1,207 blocks total
+  - (-13637,-21003) → (-13543,-20995) center (-13590,-20999) size 94×8
+  - (-13555,-21017) → (-13543,-21003) center (-13549,-21010) size 12×14
+  - (13158,22036) → (13165,22077) center (13161,22056) size 7×41
+**XkEnnyWuvzD0mox** — 3 claim(s), 21,397 blocks total
+  - (-2789,24550) → (-2721,24599) center (-2755,24574) size 68×49
+  - (-2721,24406) → (-2621,24561) center (-2671,24483) size 100×155
+  - (-2856,24406) → (-2721,24425) center (-2789,24415) size 135×19
+**scorodite** — 1 claim(s), 110,124 blocks total
+  - (-750,-21314) → (-428,-20972) center (-589,-21143) size 322×342
+**Doubloon_** — 1 claim(s), 14,352 blocks total
+  - (-22711,-3179) → (-22607,-3041) center (-22659,-3110) size 104×138
+**DelMyDeer** — 1 claim(s), 111,618 blocks total
+  - (20090,23910) → (20408,24261) center (20249,24085) size 318×351
+**GodSpeedZach** — 1 claim(s), 3,888 blocks total
+  - (20687,-6935) → (20759,-6881) center (20723,-6908) size 72×54
+**walkedbyrichard** — 1 claim(s), 169 blocks total
+  - (-22426,17914) → (-22413,17927) center (-22420,17920) size 13×13
+**BlueSting** — 1 claim(s), 126 blocks total
+  - (-20737,21989) → (-20719,21996) center (-20728,21992) size 18×7
+**ignPurple** — 1 claim(s), 120 blocks total
+  - (-21836,-2832) → (-21826,-2820) center (-21831,-2826) size 10×12
+**_GladPlanet18786** — 1 claim(s), 460 blocks total
+  - (-7195,21828) → (-7175,21851) center (-7185,21839) size 20×23
+
 ## 2026-10-23 20:41 UTC
 Total claims: 18445 | Removed: 2 | Added: 8 | Skipped (reclaimed): 5
 
