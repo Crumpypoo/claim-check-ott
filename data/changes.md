@@ -1,4 +1,34 @@
 
+## 2026-10-24 19:52 UTC
+Total claims: 18454 | Removed: 0 | Added: 13 | Skipped (reclaimed): 3
+
+
+### Added
+**Mrsquidyboy** — 2 claim(s), 827 blocks total
+  - (8214,-21883) → (8231,-21846) center (8222,-21865) size 17×37
+  - (8203,-21884) → (8214,-21866) center (8208,-21875) size 11×18
+**flamedown** — 2 claim(s), 300 blocks total
+  - (7608,23117) → (7624,23126) center (7616,23121) size 16×9
+  - (7584,23029) → (7596,23042) center (7590,23035) size 12×13
+**Keego_the_dino** — 1 claim(s), 91,740 blocks total
+  - (22478,21746) → (22895,21966) center (22686,21856) size 417×220
+**sadsquirel** — 1 claim(s), 104 blocks total
+  - (13824,-22516) → (13832,-22503) center (13828,-22510) size 8×13
+**deathboy1001** — 1 claim(s), 1,400 blocks total
+  - (-22003,-2624) → (-21978,-2568) center (-21991,-2596) size 25×56
+**Mochi_Yua** — 1 claim(s), 208 blocks total
+  - (-22607,14207) → (-22594,14223) center (-22601,14215) size 13×16
+**_Whattermelon** — 1 claim(s), 255 blocks total
+  - (-9579,-20839) → (-9564,-20822) center (-9572,-20831) size 15×17
+**_Vyen63** — 1 claim(s), 1,728 blocks total
+  - (21412,17575) → (21460,17611) center (21436,17593) size 48×36
+**Mikouspro** — 1 claim(s), 572 blocks total
+  - (-17359,-21665) → (-17315,-21652) center (-17337,-21659) size 44×13
+**ECHO_MASTER42521** — 1 claim(s), 169 blocks total
+  - (-13891,-21734) → (-13878,-21721) center (-13885,-21728) size 13×13
+**DangerPaws** — 1 claim(s), 12,544 blocks total
+  - (-20864,24272) → (-20752,24384) center (-20808,24328) size 112×112
+
 ## 2026-10-24 14:55 UTC
 Total claims: 18444 | Removed: 4 | Added: 4 | Skipped (reclaimed): 2
 
