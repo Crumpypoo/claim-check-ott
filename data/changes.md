@@ -1,4 +1,25 @@
 
+## 2026-10-24 14:55 UTC
+Total claims: 18444 | Removed: 4 | Added: 4 | Skipped (reclaimed): 2
+
+### Removed
+**_DiogoUnde6520** — 3 claim(s), 3,859 blocks total
+  - (23159,20942) → (23170,20953) center (23164,20947) size 11×11
+  - (23125,20883) → (23184,20935) center (23154,20909) size 59×52
+  - (23149,20961) → (23216,20971) center (23182,20966) size 67×10
+**Povluha** — 1 claim(s), 812 blocks total
+  - (13237,22017) → (13266,22045) center (13251,22031) size 29×28
+
+### Added
+**Theshadowcpvp** — 1 claim(s), 1,170 blocks total
+  - (-23250,19300) → (-23211,19330) center (-23231,19315) size 39×30
+**Nit11Rox11** — 1 claim(s), 180 blocks total
+  - (-21776,-2279) → (-21766,-2261) center (-21771,-2270) size 10×18
+**Rengokuuy** — 1 claim(s), 46,375 blocks total
+  - (-22634,783) → (-22369,958) center (-22502,870) size 265×175
+**GodSpeedZach** — 1 claim(s), 4,374 blocks total
+  - (20687,-6935) → (20768,-6881) center (20727,-6908) size 81×54
+
 ## 2026-10-24 09:52 UTC
 Total claims: 18446 | Removed: 15 | Added: 10 | Skipped (reclaimed): 3
 
