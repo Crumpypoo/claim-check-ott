@@ -1,4 +1,40 @@
 
+## 2026-10-25 15:05 UTC
+Total claims: 18450 | Removed: 8 | Added: 8 | Skipped (reclaimed): 4
+
+### Removed
+**CatfishFishFish** — 3 claim(s), 1,061 blocks total
+  - (-22564,20639) → (-22559,20767) center (-22562,20703) size 5×128
+  - (-22555,20692) → (-22495,20697) center (-22525,20694) size 60×5
+  - (-22511,20702) → (-22500,20713) center (-22506,20707) size 11×11
+**Iam_Leaf** — 1 claim(s), 4,484 blocks total
+  - (22436,7175) → (22512,7234) center (22474,7204) size 76×59
+**queengirl123** — 1 claim(s), 345 blocks total
+  - (-2026,-21644) → (-2003,-21629) center (-2015,-21637) size 23×15
+**Jettism_KamFv** — 1 claim(s), 121 blocks total
+  - (-21191,4407) → (-21180,4418) center (-21186,4412) size 11×11
+**SrLink1** — 1 claim(s), 182 blocks total
+  - (23008,-6806) → (23021,-6792) center (23014,-6799) size 13×14
+**ShrubbyTrash245** — 1 claim(s), 945 blocks total
+  - (6846,21969) → (6873,22004) center (6859,21986) size 27×35
+
+### Added
+**Lepon2014** — 2 claim(s), 54,720 blocks total
+  - (-20223,8577) → (-20218,8601) center (-20221,8589) size 5×24
+  - (-20218,8506) → (-20036,8806) center (-20127,8656) size 182×300
+**FutureRaven1099** — 1 claim(s), 180 blocks total
+  - (-15920,-21664) → (-15905,-21652) center (-15913,-21658) size 15×12
+**ddaenq7** — 1 claim(s), 4,872 blocks total
+  - (20331,-9618) → (20418,-9562) center (20374,-9590) size 87×56
+**Jumpemil2008** — 1 claim(s), 897 blocks total
+  - (-22764,-8485) → (-22741,-8446) center (-22753,-8466) size 23×39
+**LiaPrim** — 1 claim(s), 119 blocks total
+  - (9459,23020) → (9476,23027) center (9467,23023) size 17×7
+**Lilsoras** — 1 claim(s), 912 blocks total
+  - (-21741,-22968) → (-21703,-22944) center (-21722,-22956) size 38×24
+**BushH8R8** — 1 claim(s), 9,592 blocks total
+  - (17027,22035) → (17115,22144) center (17071,22089) size 88×109
+
 ## 2026-10-25 10:12 UTC
 Total claims: 18454 | Removed: 7 | Added: 11 | Skipped (reclaimed): 7
 
