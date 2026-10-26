@@ -1,4 +1,34 @@
 
+## 2026-10-26 11:36 UTC
+Total claims: 18459 | Removed: 7 | Added: 6 | Skipped (reclaimed): 0
+
+### Removed
+**saphgem** — 3 claim(s), 607 blocks total
+  - (-6165,-22358) → (-6158,-22327) center (-6162,-22343) size 7×31
+  - (-6183,-22352) → (-6167,-22337) center (-6175,-22345) size 16×15
+  - (-6182,-22337) → (-6167,-22327) center (-6175,-22332) size 15×10
+**LuciferM8084** — 1 claim(s), 368 blocks total
+  - (-2239,-22631) → (-2223,-22608) center (-2231,-22620) size 16×23
+**seabass61** — 1 claim(s), 1,023 blocks total
+  - (5120,-21305) → (5151,-21272) center (5135,-21289) size 31×33
+**AMM143** — 1 claim(s), 121 blocks total
+  - (20920,16129) → (20931,16140) center (20925,16134) size 11×11
+**galactic_mage** — 1 claim(s), 121 blocks total
+  - (-21902,8910) → (-21891,8921) center (-21897,8915) size 11×11
+
+### Added
+**myirlnameisrere** — 2 claim(s), 1,288 blocks total
+  - (-9278,-22628) → (-9215,-22612) center (-9247,-22620) size 63×16
+  - (-21433,917) → (-21393,924) center (-21413,920) size 40×7
+**PrenForHim** — 1 claim(s), 1,806 blocks total
+  - (-23099,-8088) → (-23057,-8045) center (-23078,-8067) size 42×43
+**__VanquisheR** — 1 claim(s), 301 blocks total
+  - (-18124,-22560) → (-18117,-22517) center (-18121,-22539) size 7×43
+**_ChampSwimmer808** — 1 claim(s), 1,813 blocks total
+  - (18944,-23535) → (18993,-23498) center (18968,-23517) size 49×37
+**scorodite** — 1 claim(s), 9,900 blocks total
+  - (-428,-21083) → (-329,-20983) center (-379,-21033) size 99×100
+
 ## 2026-10-26 01:53 UTC
 Total claims: 18460 | Removed: 9 | Added: 18 | Skipped (reclaimed): 3
 
