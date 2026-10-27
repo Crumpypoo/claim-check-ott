@@ -1,4 +1,26 @@
 
+## 2026-10-27 16:53 UTC
+Total claims: 18469 | Removed: 6 | Added: 3 | Skipped (reclaimed): 1
+
+### Removed
+**Ecoeh** — 3 claim(s), 383 blocks total
+  - (-21707,5629) → (-21696,5640) center (-21702,5634) size 11×11
+  - (21996,-14310) → (22008,-14299) center (22002,-14305) size 12×11
+  - (21997,-14299) → (22007,-14286) center (22002,-14293) size 10×13
+**g4LiveAgain** — 2 claim(s), 706 blocks total
+  - (3908,-21902) → (3935,-21880) center (3921,-21891) size 27×22
+  - (3902,-21916) → (3910,-21902) center (3906,-21909) size 8×14
+**KGNTPL32** — 1 claim(s), 156 blocks total
+  - (-16374,21183) → (-16361,21195) center (-16368,21189) size 13×12
+
+### Added
+**_Goldslash4907** — 1 claim(s), 810 blocks total
+  - (-14809,22450) → (-14755,22465) center (-14782,22457) size 54×15
+**XkEnnyWuvzD0mox** — 1 claim(s), 280 blocks total
+  - (-2563,23795) → (-2558,23851) center (-2561,23823) size 5×56
+**Bene2026_3BF** — 1 claim(s), 3,078 blocks total
+  - (-2427,23889) → (-2373,23946) center (-2400,23917) size 54×57
+
 ## 2026-10-27 11:06 UTC
 Total claims: 18473 | Removed: 3 | Added: 7 | Skipped (reclaimed): 1
 
