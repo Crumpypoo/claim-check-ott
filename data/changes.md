@@ -1,4 +1,30 @@
 
+## 2026-10-27 11:06 UTC
+Total claims: 18473 | Removed: 3 | Added: 7 | Skipped (reclaimed): 1
+
+### Removed
+**ImGavinfrfr** — 1 claim(s), 624 blocks total
+  - (5580,-23057) → (5606,-23033) center (5593,-23045) size 26×24
+**_reven6805** — 1 claim(s), 650 blocks total
+  - (-6064,-21893) → (-6014,-21880) center (-6039,-21887) size 50×13
+**MOoMOo1713** — 1 claim(s), 667 blocks total
+  - (21148,-2418) → (21177,-2395) center (21162,-2407) size 29×23
+
+### Added
+**Diamonds0fSpades** — 2 claim(s), 76,620 blocks total
+  - (-19493,3284) → (-19465,3309) center (-19479,3296) size 28×25
+  - (-19532,3310) → (-19167,3518) center (-19350,3414) size 365×208
+**MrSquirrel6915** — 1 claim(s), 594 blocks total
+  - (9797,-21012) → (9819,-20985) center (9808,-20999) size 22×27
+**Flexi_1234** — 1 claim(s), 135 blocks total
+  - (19052,22284) → (19061,22299) center (19056,22291) size 9×15
+**Mrdragon1452** — 1 claim(s), 6,059 blocks total
+  - (-21049,-6414) → (-20966,-6341) center (-21008,-6378) size 83×73
+**_Goldslash4907** — 1 claim(s), 182 blocks total
+  - (-14791,22450) → (-14778,22464) center (-14785,22457) size 13×14
+**_DA_GREMLIN8235** — 1 claim(s), 121 blocks total
+  - (-22335,-12736) → (-22324,-12725) center (-22330,-12731) size 11×11
+
 ## 2026-10-27 02:31 UTC
 Total claims: 18470 | Removed: 7 | Added: 9 | Skipped (reclaimed): 2
 
