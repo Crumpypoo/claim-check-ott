@@ -1,4 +1,40 @@
 
+## 2026-10-27 02:31 UTC
+Total claims: 18470 | Removed: 7 | Added: 9 | Skipped (reclaimed): 2
+
+### Removed
+**_Juubacon** — 2 claim(s), 242 blocks total
+  - (10331,21830) → (10342,21841) center (10336,21835) size 11×11
+  - (10318,21832) → (10329,21843) center (10323,21837) size 11×11
+**Diamonds0fSpades** — 1 claim(s), 67,160 blocks total
+  - (-22572,5149) → (-22342,5441) center (-22457,5295) size 230×292
+**_FireFlyx423** — 1 claim(s), 312 blocks total
+  - (21898,5923) → (21906,5962) center (21902,5942) size 8×39
+**Mrdragon1452** — 1 claim(s), 32,944 blocks total
+  - (22064,-9179) → (22206,-8947) center (22135,-9063) size 142×232
+**Animegirl170201** — 1 claim(s), 2,200 blocks total
+  - (-2309,-21180) → (-2265,-21130) center (-2287,-21155) size 44×50
+**bqwetcalling** — 1 claim(s), 121 blocks total
+  - (21315,13676) → (21326,13687) center (21320,13681) size 11×11
+
+### Added
+**QDLola** — 3 claim(s), 998 blocks total
+  - (-19263,16573) → (-19255,16589) center (-19259,16581) size 8×16
+  - (-19281,16539) → (-19263,16578) center (-19272,16558) size 18×39
+  - (-19309,16539) → (-19281,16545) center (-19295,16542) size 28×6
+**PixelFen** — 1 claim(s), 1,536 blocks total
+  - (11152,-20656) → (11200,-20624) center (11176,-20640) size 48×32
+**Jauncho3223** — 1 claim(s), 195 blocks total
+  - (20780,9065) → (20793,9080) center (20786,9072) size 13×15
+**freckles2** — 1 claim(s), 728 blocks total
+  - (22380,-7129) → (22406,-7101) center (22393,-7115) size 26×28
+**pprayer** — 1 claim(s), 323 blocks total
+  - (2554,-9325) → (2573,-9308) center (2563,-9317) size 19×17
+**chimmychong2** — 1 claim(s), 506 blocks total
+  - (-1047,-22537) → (-1025,-22514) center (-1036,-22526) size 22×23
+**Diamonds0fSpades** — 1 claim(s), 31,824 blocks total
+  - (-19598,3264) → (-19364,3400) center (-19481,3332) size 234×136
+
 ## 2026-10-26 21:56 UTC
 Total claims: 18470 | Removed: 2 | Added: 14 | Skipped (reclaimed): 2
 
