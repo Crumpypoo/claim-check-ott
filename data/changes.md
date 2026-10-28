@@ -1,4 +1,47 @@
 
+## 2026-10-28 21:55 UTC
+Total claims: 18468 | Removed: 10 | Added: 11 | Skipped (reclaimed): 13
+
+### Removed
+**KidOeht** — 2 claim(s), 1,298 blocks total
+  - (16086,20609) → (16092,20627) center (16089,20618) size 6×18
+  - (16052,20609) → (16086,20644) center (16069,20626) size 34×35
+**_Not_Found4711** — 2 claim(s), 921 blocks total
+  - (-305,-21321) → (-288,-21297) center (-297,-21309) size 17×24
+  - (-301,-21343) → (-274,-21324) center (-288,-21334) size 27×19
+**D3rLord5** — 1 claim(s), 121 blocks total
+  - (10284,22446) → (10295,22457) center (10289,22451) size 11×11
+**Lemon1501** — 1 claim(s), 121 blocks total
+  - (4797,21656) → (4808,21667) center (4802,21661) size 11×11
+**czaczu** — 1 claim(s), 684 blocks total
+  - (-3028,20490) → (-3009,20526) center (-3019,20508) size 19×36
+**scorodite** — 1 claim(s), 9,900 blocks total
+  - (-428,-21083) → (-329,-20983) center (-379,-21033) size 99×100
+**RitzyIsThyName** — 1 claim(s), 961 blocks total
+  - (9627,22501) → (9658,22532) center (9642,22516) size 31×31
+**_wemmbu43862** — 1 claim(s), 1,225 blocks total
+  - (9586,22474) → (9621,22509) center (9603,22491) size 35×35
+
+### Added
+**Maxymm** — 5 claim(s), 423,296 blocks total
+  - (23751,7100) → (23935,7496) center (23843,7298) size 184×396
+  - (-464,-4082) → (33,-3507) center (-216,-3795) size 497×575
+  - (23676,7285) → (23750,7539) center (23713,7412) size 74×254
+  - (-929,-4082) → (-464,-4053) center (-697,-4068) size 465×29
+  - (-692,-4053) → (-464,-3911) center (-578,-3982) size 228×142
+**BitterNix** — 1 claim(s), 31,600 blocks total
+  - (9738,-6273) → (9938,-6115) center (9838,-6194) size 200×158
+**scorodite** — 1 claim(s), 127,968 blocks total
+  - (-772,-21314) → (-428,-20942) center (-600,-21128) size 344×372
+**diablograce950** — 1 claim(s), 2,322 blocks total
+  - (20830,-9889) → (20884,-9846) center (20857,-9868) size 54×43
+**Blank_canva** — 1 claim(s), 148,808 blocks total
+  - (24289,-17525) → (24645,-17107) center (24467,-17316) size 356×418
+**_GamerBlaze1289** — 1 claim(s), 374 blocks total
+  - (21204,-9770) → (21226,-9753) center (21215,-9762) size 22×17
+**Nema187** — 1 claim(s), 128 blocks total
+  - (-7610,21200) → (-7602,21216) center (-7606,21208) size 8×16
+
 ## 2026-10-28 17:27 UTC
 Total claims: 18480 | Removed: 9 | Added: 13 | Skipped (reclaimed): 4
 
