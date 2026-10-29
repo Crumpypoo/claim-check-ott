@@ -1,4 +1,36 @@
 
+## 2026-10-29 02:59 UTC
+Total claims: 18472 | Removed: 1 | Added: 12 | Skipped (reclaimed): 7
+
+### Removed
+**The_apprentic** — 1 claim(s), 1,015 blocks total
+  - (-13979,-20726) → (-13950,-20691) center (-13965,-20709) size 29×35
+
+### Added
+**Birb_Bren** — 2 claim(s), 351,756 blocks total
+  - (17209,-16335) → (17288,-16239) center (17248,-16287) size 79×96
+  - (17288,-16906) → (17804,-16239) center (17546,-16573) size 516×667
+**Girlives** — 1 claim(s), 15,950 blocks total
+  - (21262,-6589) → (21407,-6479) center (21334,-6534) size 145×110
+**scorodite** — 1 claim(s), 146,608 blocks total
+  - (-772,-21314) → (-398,-20922) center (-585,-21118) size 374×392
+**emi3clipse** — 1 claim(s), 14,472 blocks total
+  - (15805,20555) → (15913,20689) center (15859,20622) size 108×134
+**_Goldslash4907** — 1 claim(s), 1,674 blocks total
+  - (-14814,22441) → (-14760,22472) center (-14787,22456) size 54×31
+**DuffyGaming** — 1 claim(s), 49,959 blocks total
+  - (-12121,-12689) → (-11848,-12506) center (-11985,-12598) size 273×183
+**_allah_** — 1 claim(s), 1,155 blocks total
+  - (21092,7468) → (21125,7503) center (21108,7485) size 33×35
+**Jtaylor21** — 1 claim(s), 4,524 blocks total
+  - (-20776,17841) → (-20718,17919) center (-20747,17880) size 58×78
+**Wormate_** — 1 claim(s), 1,360 blocks total
+  - (-22405,-21883) → (-22365,-21849) center (-22385,-21866) size 40×34
+**_Jazzygamer78** — 1 claim(s), 494 blocks total
+  - (21961,16919) → (21980,16945) center (21970,16932) size 19×26
+**mooklesthecat** — 1 claim(s), 1,271 blocks total
+  - (905,1520) → (946,1551) center (925,1535) size 41×31
+
 ## 2026-10-28 21:55 UTC
 Total claims: 18468 | Removed: 10 | Added: 11 | Skipped (reclaimed): 13
 
