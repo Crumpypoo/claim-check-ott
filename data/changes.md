@@ -1,4 +1,32 @@
 
+## 2026-10-29 11:49 UTC
+Total claims: 18468 | Removed: 7 | Added: 6 | Skipped (reclaimed): 3
+
+### Removed
+**Duvan369** — 3 claim(s), 905 blocks total
+  - (20838,-6013) → (20857,-5990) center (20847,-6002) size 19×23
+  - (20825,-6005) → (20834,-5984) center (20829,-5995) size 9×21
+  - (20825,-5982) → (20834,-5951) center (20829,-5967) size 9×31
+**wafflstew** — 2 claim(s), 642 blocks total
+  - (9788,21072) → (9797,21098) center (9792,21085) size 9×26
+  - (9811,21063) → (9845,21075) center (9828,21069) size 34×12
+**TOBAL12_KING** — 2 claim(s), 408 blocks total
+  - (-22797,19624) → (-22767,19634) center (-22782,19629) size 30×10
+  - (-22770,19594) → (-22761,19606) center (-22766,19600) size 9×12
+
+### Added
+**_SpongyBird3240** — 2 claim(s), 326 blocks total
+  - (11885,23044) → (11901,23055) center (11893,23049) size 16×11
+  - (12383,21316) → (12398,21326) center (12390,21321) size 15×10
+**scorodite** — 1 claim(s), 210,400 blocks total
+  - (-772,-21314) → (-246,-20914) center (-509,-21114) size 526×400
+**Rengokuuy** — 1 claim(s), 70,650 blocks total
+  - (-22634,733) → (-22320,958) center (-22477,845) size 314×225
+**Robotpatis** — 1 claim(s), 121 blocks total
+  - (11349,-22276) → (11360,-22265) center (11354,-22271) size 11×11
+**GhostlyLazer** — 1 claim(s), 20,475 blocks total
+  - (-9641,20987) → (-9416,21078) center (-9529,21032) size 225×91
+
 ## 2026-10-29 02:59 UTC
 Total claims: 18472 | Removed: 1 | Added: 12 | Skipped (reclaimed): 7
 
