@@ -1,4 +1,41 @@
 
+## 2026-10-30 21:42 UTC
+Total claims: 18477 | Removed: 11 | Added: 8 | Skipped (reclaimed): 2
+
+### Removed
+**_sister_afton00** — 8 claim(s), 1,036 blocks total
+  - (-18708,-22131) → (-18699,-22119) center (-18704,-22125) size 9×12
+  - (-18699,-22135) → (-18692,-22119) center (-18696,-22127) size 7×16
+  - (-18696,-22146) → (-18684,-22137) center (-18690,-22142) size 12×9
+  - (-18731,-22136) → (-18709,-22131) center (-18720,-22134) size 22×5
+  - (-18707,-22147) → (-18699,-22131) center (-18703,-22139) size 8×16
+  - (-18720,-22160) → (-18710,-22141) center (-18715,-22151) size 10×19
+  - (-18691,-22125) → (-18676,-22117) center (-18684,-22121) size 15×8
+  - (-18683,-22153) → (-18675,-22133) center (-18679,-22143) size 8×20
+**Nocturnios** — 1 claim(s), 2,800 blocks total
+  - (-20567,-19658) → (-20527,-19588) center (-20547,-19623) size 40×70
+**letisia** — 1 claim(s), 300 blocks total
+  - (-16612,-23300) → (-16592,-23285) center (-16602,-23293) size 20×15
+**EminBeraHmedd** — 1 claim(s), 132 blocks total
+  - (21976,18055) → (21998,18061) center (21987,18058) size 22×6
+
+### Added
+**6sLastStand** — 2 claim(s), 1,771,049 blocks total
+  - (24050,8901) → (25405,10016) center (24727,9458) size 1355×1115
+  - (23442,8901) → (24050,9329) center (23746,9115) size 608×428
+**Rengokuuy** — 1 claim(s), 123,120 blocks total
+  - (-22672,673) → (-22240,958) center (-22456,815) size 432×285
+**Guillear14** — 1 claim(s), 1,326 blocks total
+  - (22216,-3048) → (22250,-3009) center (22233,-3029) size 34×39
+**fishy6106** — 1 claim(s), 720 blocks total
+  - (8613,-21979) → (8643,-21955) center (8628,-21967) size 30×24
+**gorewhvre** — 1 claim(s), 120 blocks total
+  - (22106,-12735) → (22118,-12725) center (22112,-12730) size 12×10
+**Snow_Scar** — 1 claim(s), 1,023 blocks total
+  - (3007,22427) → (3040,22458) center (3023,22442) size 33×31
+**dma76** — 1 claim(s), 5,110 blocks total
+  - (-18157,21396) → (-18087,21469) center (-18122,21432) size 70×73
+
 ## 2026-10-30 17:16 UTC
 Total claims: 18482 | Removed: 3 | Added: 6 | Skipped (reclaimed): 2
 
