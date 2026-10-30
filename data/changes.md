@@ -1,4 +1,27 @@
 
+## 2026-10-30 17:16 UTC
+Total claims: 18482 | Removed: 3 | Added: 6 | Skipped (reclaimed): 2
+
+### Removed
+**DiaDinGO** — 1 claim(s), 1,089 blocks total
+  - (1616,24337) → (1649,24370) center (1632,24353) size 33×33
+**max_noob8** — 1 claim(s), 119 blocks total
+  - (15760,-21497) → (15767,-21480) center (15763,-21489) size 7×17
+**MediMax02** — 1 claim(s), 1,710 blocks total
+  - (21832,7429) → (21877,7467) center (21854,7448) size 45×38
+
+### Added
+**_RespectedIowa18** — 3 claim(s), 1,128 blocks total
+  - (22980,-4835) → (22995,-4790) center (22987,-4813) size 15×45
+  - (22984,-4862) → (22998,-4838) center (22991,-4850) size 14×24
+  - (242,21735) → (255,21744) center (248,21739) size 13×9
+**Rengokuuy** — 1 claim(s), 77,244 blocks total
+  - (-22634,712) → (-22320,958) center (-22477,835) size 314×246
+**HoneybeanHails28** — 1 claim(s), 638 blocks total
+  - (22040,18244) → (22062,18273) center (22051,18258) size 22×29
+**dma76** — 1 claim(s), 24,192 blocks total
+  - (21097,22692) → (21265,22836) center (21181,22764) size 168×144
+
 ## 2026-10-30 11:42 UTC
 Total claims: 18481 | Removed: 0 | Added: 0 | Skipped (reclaimed): 9478
 
