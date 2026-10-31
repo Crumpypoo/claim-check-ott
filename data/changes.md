@@ -1,4 +1,27 @@
 
+## 2026-10-31 16:21 UTC
+Total claims: 18481 | Removed: 3 | Added: 5 | Skipped (reclaimed): 2
+
+### Removed
+**NoJobPlayer** — 1 claim(s), 638 blocks total
+  - (-11008,-22467) → (-10979,-22445) center (-10994,-22456) size 29×22
+**Mrdragon1452** — 1 claim(s), 6,059 blocks total
+  - (-21049,-6414) → (-20966,-6341) center (-21008,-6378) size 83×73
+**_VOID39344** — 1 claim(s), 210 blocks total
+  - (20930,16628) → (20951,16638) center (20940,16633) size 21×10
+
+### Added
+**Mrdragon1452** — 1 claim(s), 21,376 blocks total
+  - (-20608,-19821) → (-20441,-19693) center (-20525,-19757) size 167×128
+**EdwinTheGamer** — 1 claim(s), 506 blocks total
+  - (-22484,-3187) → (-22461,-3165) center (-22473,-3176) size 23×22
+**_VOID39344** — 1 claim(s), 1,107 blocks total
+  - (20976,16604) → (21017,16631) center (20996,16617) size 41×27
+**ShoBush** — 1 claim(s), 165 blocks total
+  - (-22681,-18452) → (-22670,-18437) center (-22676,-18445) size 11×15
+**StarsOfAtlas** — 1 claim(s), 11,526 blocks total
+  - (21732,6772) → (21834,6885) center (21783,6828) size 102×113
+
 ## 2026-10-31 11:16 UTC
 Total claims: 18481 | Removed: 11 | Added: 16 | Skipped (reclaimed): 6
 
