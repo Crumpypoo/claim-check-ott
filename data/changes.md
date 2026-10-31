@@ -1,4 +1,32 @@
 
+## 2026-10-31 20:42 UTC
+Total claims: 18486 | Removed: 1 | Added: 11 | Skipped (reclaimed): 5
+
+### Removed
+**darkworl1** — 1 claim(s), 121 blocks total
+  - (-12403,21809) → (-12392,21820) center (-12398,21814) size 11×11
+
+### Added
+**Enigmaticbob** — 2 claim(s), 2,660 blocks total
+  - (8658,20693) → (8698,20743) center (8678,20718) size 40×50
+  - (8675,20744) → (8705,20766) center (8690,20755) size 30×22
+**_PlusDragon9607** — 2 claim(s), 577 blocks total
+  - (-23002,15506) → (-22985,15523) center (-22994,15514) size 17×17
+  - (-22732,-7683) → (-22716,-7665) center (-22724,-7674) size 16×18
+**Br0wnF1nger** — 2 claim(s), 2,744 blocks total
+  - (-10634,20948) → (-10618,21002) center (-10626,20975) size 16×54
+  - (-10681,20948) → (-10634,20988) center (-10658,20968) size 47×40
+**Arachnezar** — 1 claim(s), 2,331,839 blocks total
+  - (2218,20302) → (3459,22181) center (2838,21241) size 1241×1879
+**Rengokuuy** — 1 claim(s), 132,810 blocks total
+  - (-22706,673) → (-22240,958) center (-22473,815) size 466×285
+**zFClipz** — 1 claim(s), 130 blocks total
+  - (4985,-18683) → (4998,-18673) center (4991,-18678) size 13×10
+**Naaamiiii** — 1 claim(s), 2,016 blocks total
+  - (18303,1062) → (18339,1118) center (18321,1090) size 36×56
+**EdwinTheGamer** — 1 claim(s), 1,326 blocks total
+  - (-22483,-3196) → (-22444,-3162) center (-22464,-3179) size 39×34
+
 ## 2026-10-31 16:21 UTC
 Total claims: 18481 | Removed: 3 | Added: 5 | Skipped (reclaimed): 2
 
