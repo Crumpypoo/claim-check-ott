@@ -1,4 +1,49 @@
 
+## 2026-11-02 02:51 UTC
+Total claims: 18528 | Removed: 3 | Added: 18 | Skipped (reclaimed): 9
+
+### Removed
+**CornyWackaWacka** — 1 claim(s), 770 blocks total
+  - (-18768,21451) → (-18746,21486) center (-18757,21468) size 22×35
+**eldritchtheurgy** — 1 claim(s), 1,872 blocks total
+  - (22456,23171) → (22482,23243) center (22469,23207) size 26×72
+**myirlnameisrere** — 1 claim(s), 1,008 blocks total
+  - (-9278,-22628) → (-9215,-22612) center (-9247,-22620) size 63×16
+
+### Added
+**Drazalune** — 5 claim(s), 1,449 blocks total
+  - (-18641,21256) → (-18631,21268) center (-18636,21262) size 10×12
+  - (-18649,21351) → (-18637,21360) center (-18643,21355) size 12×9
+  - (-18627,21247) → (-18612,21254) center (-18620,21250) size 15×7
+  - (-18613,21286) → (-18583,21310) center (-18598,21298) size 30×24
+  - (-18714,21338) → (-18692,21356) center (-18703,21347) size 22×18
+**Animaniman** — 1 claim(s), 4,800 blocks total
+  - (667,21003) → (731,21078) center (699,21040) size 64×75
+**anzxi** — 1 claim(s), 736 blocks total
+  - (-22278,19768) → (-22255,19800) center (-22267,19784) size 23×32
+**myirlnameisrere** — 1 claim(s), 17,391 blocks total
+  - (-21447,829) → (-21354,1016) center (-21401,922) size 93×187
+**liztless** — 1 claim(s), 8,025 blocks total
+  - (-22740,-19288) → (-22665,-19181) center (-22703,-19235) size 75×107
+**HaydenFaith** — 1 claim(s), 961 blocks total
+  - (16828,22765) → (16859,22796) center (16843,22780) size 31×31
+**provenmoss8779** — 1 claim(s), 121 blocks total
+  - (21017,18056) → (21028,18067) center (21022,18061) size 11×11
+**_Fiink0408** — 1 claim(s), 130 blocks total
+  - (23616,-8867) → (23629,-8857) center (23622,-8862) size 13×10
+**FallenPlayer888** — 1 claim(s), 1,440 blocks total
+  - (-20734,-12285) → (-20698,-12245) center (-20716,-12265) size 36×40
+**Drazalith** — 1 claim(s), 1,166 blocks total
+  - (-18676,21256) → (-18654,21309) center (-18665,21282) size 22×53
+**Rjdaguy09** — 1 claim(s), 2,115 blocks total
+  - (3884,-21010) → (3931,-20965) center (3907,-20988) size 47×45
+**_Granger_** — 1 claim(s), 70,516 blocks total
+  - (18354,24690) → (18643,24934) center (18498,24812) size 289×244
+**JexenWacker** — 1 claim(s), 3,552 blocks total
+  - (-12289,22294) → (-12215,22342) center (-12252,22318) size 74×48
+**valursupreme** — 1 claim(s), 336 blocks total
+  - (17115,22134) → (17143,22146) center (17129,22140) size 28×12
+
 ## 2026-11-01 21:23 UTC
 Total claims: 18522 | Removed: 6 | Added: 81 | Skipped (reclaimed): 45
 
