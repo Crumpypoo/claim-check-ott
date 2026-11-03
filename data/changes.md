@@ -1,4 +1,40 @@
 
+## 2026-11-03 22:36 UTC
+Total claims: 18517 | Removed: 5 | Added: 10 | Skipped (reclaimed): 5
+
+### Removed
+**Landonm_07** — 1 claim(s), 132 blocks total
+  - (14542,-21654) → (14553,-21642) center (14547,-21648) size 11×12
+**DirtyDanny67** — 1 claim(s), 180 blocks total
+  - (-20095,21221) → (-20085,21239) center (-20090,21230) size 10×18
+**MineLord123456** — 1 claim(s), 132 blocks total
+  - (-19736,-22957) → (-19725,-22945) center (-19731,-22951) size 11×12
+**_CozyMage5320** — 1 claim(s), 180 blocks total
+  - (18427,22312) → (18442,22324) center (18434,22318) size 15×12
+**PROBLT** — 1 claim(s), 121 blocks total
+  - (21492,-10311) → (21503,-10300) center (21497,-10306) size 11×11
+
+### Added
+**_Jude9872** — 2 claim(s), 720 blocks total
+  - (1537,22601) → (1559,22619) center (1548,22610) size 22×18
+  - (1524,22589) → (1551,22601) center (1537,22595) size 27×12
+**0h3lyat** — 1 claim(s), 2,583 blocks total
+  - (14831,19933) → (14872,19996) center (14851,19964) size 41×63
+**_Goldslash4907** — 1 claim(s), 6,771 blocks total
+  - (-14841,22437) → (-14730,22498) center (-14786,22467) size 111×61
+**mikeopleptop** — 1 claim(s), 121 blocks total
+  - (-21477,-7021) → (-21466,-7010) center (-21472,-7016) size 11×11
+**egd2015** — 1 claim(s), 4,131 blocks total
+  - (-13920,-21936) → (-13869,-21855) center (-13895,-21896) size 51×81
+**provenmoss8779** — 1 claim(s), 437 blocks total
+  - (21023,17997) → (21046,18016) center (21034,18006) size 23×19
+**Arachnezar** — 1 claim(s), 51,040 blocks total
+  - (19266,-4375) → (19346,-3737) center (19306,-4056) size 80×638
+**emi3clipse** — 1 claim(s), 15,984 blocks total
+  - (15805,20555) → (15913,20703) center (15859,20629) size 108×148
+**Nocturnios** — 1 claim(s), 54,496 blocks total
+  - (-11588,-22645) → (-11380,-22383) center (-11484,-22514) size 208×262
+
 ## 2026-11-03 13:03 UTC
 Total claims: 18517 | Removed: 10 | Added: 14 | Skipped (reclaimed): 7
 
