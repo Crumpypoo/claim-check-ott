@@ -1,4 +1,26 @@
 
+## 2026-11-04 03:26 UTC
+Total claims: 18519 | Removed: 2 | Added: 6 | Skipped (reclaimed): 2
+
+### Removed
+**PandaXprress** — 1 claim(s), 1,824 blocks total
+  - (-20982,21711) → (-20944,21759) center (-20963,21735) size 38×48
+**DrearBirch45677** — 1 claim(s), 216 blocks total
+  - (-21972,-22323) → (-21948,-22314) center (-21960,-22319) size 24×9
+
+### Added
+**Keego_the_dino** — 2 claim(s), 1,915 blocks total
+  - (-13924,-21202) → (-13899,-21175) center (-13912,-21189) size 25×27
+  - (-18169,10970) → (-18129,11001) center (-18149,10985) size 40×31
+**TacoFae** — 1 claim(s), 198,442 blocks total
+  - (24683,11596) → (25000,12222) center (24841,11909) size 317×626
+**xX_H4rracha_Xx** — 1 claim(s), 2,451 blocks total
+  - (22585,-12013) → (22628,-11956) center (22606,-11985) size 43×57
+**anzxi** — 1 claim(s), 16,638 blocks total
+  - (-6984,24155) → (-6843,24273) center (-6914,24214) size 141×118
+**scorodite** — 1 claim(s), 224,680 blocks total
+  - (-785,-21314) → (-237,-20904) center (-511,-21109) size 548×410
+
 ## 2026-11-03 22:36 UTC
 Total claims: 18517 | Removed: 5 | Added: 10 | Skipped (reclaimed): 5
 
