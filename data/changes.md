@@ -1,4 +1,28 @@
 
+## 2026-11-04 13:19 UTC
+Total claims: 18517 | Removed: 4 | Added: 5 | Skipped (reclaimed): 3
+
+### Removed
+**_StarsAliteAngel** — 1 claim(s), 130 blocks total
+  - (-22532,-20719) → (-22519,-20709) center (-22526,-20714) size 13×10
+**psychicdragon1** — 1 claim(s), 252 blocks total
+  - (20545,-9530) → (20557,-9509) center (20551,-9520) size 12×21
+**_entity30396226** — 1 claim(s), 304 blocks total
+  - (-12085,20827) → (-12066,20843) center (-12076,20835) size 19×16
+**_NaiveSwing6781** — 1 claim(s), 187 blocks total
+  - (-21021,-18516) → (-21010,-18499) center (-21016,-18508) size 11×17
+
+### Added
+**brianv94** — 2 claim(s), 13,365 blocks total
+  - (20455,13995) → (20484,14019) center (20469,14007) size 29×24
+  - (-17060,-21841) → (-16957,-21718) center (-17009,-21780) size 103×123
+**Falcor71** — 1 claim(s), 110 blocks total
+  - (-22568,-10173) → (-22557,-10163) center (-22563,-10168) size 11×10
+**Rengokuuy** — 1 claim(s), 148,200 blocks total
+  - (-22760,673) → (-22240,958) center (-22500,815) size 520×285
+**olivi_yeah** — 1 claim(s), 2,021 blocks total
+  - (7948,-20993) → (7995,-20950) center (7971,-20972) size 47×43
+
 ## 2026-11-04 03:26 UTC
 Total claims: 18519 | Removed: 2 | Added: 6 | Skipped (reclaimed): 2
 
