@@ -1,4 +1,45 @@
 
+## 2026-11-06 03:46 UTC
+Total claims: 18517 | Removed: 8 | Added: 14 | Skipped (reclaimed): 10
+
+### Removed
+**rxatomic** — 5 claim(s), 1,411 blocks total
+  - (3142,22805) → (3147,22836) center (3144,22820) size 5×31
+  - (3127,22809) → (3135,22827) center (3131,22818) size 8×18
+  - (3160,22783) → (3168,22798) center (3164,22790) size 8×15
+  - (3094,22803) → (3113,22831) center (3103,22817) size 19×28
+  - (3130,22785) → (3153,22805) center (3141,22795) size 23×20
+**_yyoshi** — 1 claim(s), 121 blocks total
+  - (22648,-13131) → (22659,-13120) center (22653,-13126) size 11×11
+**jyrachi** — 1 claim(s), 240 blocks total
+  - (23116,-7775) → (23146,-7767) center (23131,-7771) size 30×8
+**FROGOWOGO_** — 1 claim(s), 550 blocks total
+  - (-21722,-13038) → (-21697,-13016) center (-21710,-13027) size 25×22
+
+### Added
+**alyssa_t10** — 6 claim(s), 77,855 blocks total
+  - (-9110,-19395) → (-8931,-19000) center (-9021,-19198) size 179×395
+  - (-4242,1276) → (-4160,1289) center (-4201,1282) size 82×13
+  - (-7735,-15559) → (-7654,-15497) center (-7695,-15528) size 81×62
+  - (-7731,-15495) → (-7683,-15484) center (-7707,-15490) size 48×11
+  - (-3049,-12400) → (-3019,-12393) center (-3034,-12397) size 30×7
+  - (-1991,-2191) → (-1982,-2155) center (-1987,-2173) size 9×36
+**Keego_the_dino** — 2 claim(s), 90,313 blocks total
+  - (14897,23087) → (15213,23289) center (15055,23188) size 316×202
+  - (15021,23289) → (15312,23380) center (15166,23334) size 291×91
+**lilianna463** — 1 claim(s), 8,664 blocks total
+  - (-21955,-22789) → (-21879,-22675) center (-21917,-22732) size 76×114
+**TiredFoodie** — 1 claim(s), 9,006 blocks total
+  - (-6780,-22975) → (-6701,-22861) center (-6741,-22918) size 79×114
+**Iveyy_** — 1 claim(s), 903 blocks total
+  - (22831,-7599) → (22874,-7578) center (22852,-7589) size 43×21
+**Falcor71** — 1 claim(s), 714 blocks total
+  - (-3403,-21406) → (-3369,-21385) center (-3386,-21396) size 34×21
+**BushH8R8** — 1 claim(s), 41,472 blocks total
+  - (16953,22035) → (17115,22291) center (17034,22163) size 162×256
+**Thejordster135** — 1 claim(s), 3,597 blocks total
+  - (5453,7961) → (5562,7994) center (5507,7977) size 109×33
+
 ## 2026-11-05 22:56 UTC
 Total claims: 18521 | Removed: 14 | Added: 10 | Skipped (reclaimed): 4
 
