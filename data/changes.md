@@ -1,4 +1,30 @@
 
+## 2026-11-07 17:14 UTC
+Total claims: 18588 | Removed: 3 | Added: 8 | Skipped (reclaimed): 4
+
+### Removed
+**LT_WiTuLo** — 1 claim(s), 2,700 blocks total
+  - (-8429,22698) → (-8384,22758) center (-8407,22728) size 45×60
+**lyszun** — 1 claim(s), 121 blocks total
+  - (17656,21449) → (17667,21460) center (17661,21454) size 11×11
+**getawxy** — 1 claim(s), 875 blocks total
+  - (-8118,16244) → (-8083,16269) center (-8101,16256) size 35×25
+
+### Added
+**jackistaken** — 3 claim(s), 8,500,661 blocks total
+  - (13049,-24382) → (13690,-21959) center (13369,-23171) size 641×2423
+  - (16346,-26864) → (20077,-25002) center (18211,-25933) size 3731×1862
+  - (12297,-23189) → (12315,-23167) center (12306,-23178) size 18×22
+**7070_Red** — 2 claim(s), 1,601 blocks total
+  - (13777,10821) → (13810,10858) center (13793,10839) size 33×37
+  - (22833,-9381) → (22853,-9362) center (22843,-9372) size 20×19
+**SATNIN** — 1 claim(s), 86,909 blocks total
+  - (-16544,-11337) → (-16171,-11104) center (-16358,-11221) size 373×233
+**ASmodeus686** — 1 claim(s), 156 blocks total
+  - (17401,4190) → (17413,4203) center (17407,4196) size 12×13
+**Rengokuuy** — 1 claim(s), 168,720 blocks total
+  - (-22793,673) → (-22201,958) center (-22497,815) size 592×285
+
 ## 2026-11-07 11:57 UTC
 Total claims: 18587 | Removed: 6 | Added: 43 | Skipped (reclaimed): 13
 
