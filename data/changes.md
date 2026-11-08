@@ -1,4 +1,36 @@
 
+## 2026-11-08 02:49 UTC
+Total claims: 18608 | Removed: 2 | Added: 14 | Skipped (reclaimed): 4
+
+### Removed
+**FearlessEvo8** — 1 claim(s), 1,053 blocks total
+  - (-20510,12450) → (-20471,12477) center (-20491,12463) size 39×27
+**DimentionalHop** — 1 claim(s), 1,120 blocks total
+  - (6480,-22398) → (6508,-22358) center (6494,-22378) size 28×40
+
+### Added
+**Maxymm** — 5 claim(s), 242,889 blocks total
+  - (21757,28140) → (21942,28367) center (21849,28253) size 185×227
+  - (22663,28256) → (22921,28654) center (22792,28455) size 258×398
+  - (23095,26846) → (23175,26919) center (23135,26882) size 80×73
+  - (21610,27749) → (21715,27867) center (21662,27808) size 105×118
+  - (-833,-4775) → (-461,-4560) center (-647,-4668) size 372×215
+**m_keegan** — 3 claim(s), 1,530 blocks total
+  - (17684,21037) → (17721,21071) center (17702,21054) size 37×34
+  - (17721,21047) → (17729,21063) center (17725,21055) size 8×16
+  - (17746,21032) → (17754,21050) center (17750,21041) size 8×18
+**Luhv123** — 2 claim(s), 253 blocks total
+  - (22102,-12094) → (22113,-12081) center (22107,-12088) size 11×13
+  - (22112,-12104) → (22123,-12094) center (22117,-12099) size 11×10
+**_Nacolburn27** — 1 claim(s), 988 blocks total
+  - (15842,19970) → (15868,20008) center (15855,19989) size 26×38
+**MinishLink_** — 1 claim(s), 900 blocks total
+  - (-7298,-21054) → (-7268,-21024) center (-7283,-21039) size 30×30
+**Noralyto** — 1 claim(s), 896 blocks total
+  - (-21709,10886) → (-21681,10918) center (-21695,10902) size 28×32
+**TayxTides** — 1 claim(s), 32,760 blocks total
+  - (-12639,21955) → (-12444,22123) center (-12542,22039) size 195×168
+
 ## 2026-11-07 21:06 UTC
 Total claims: 18600 | Removed: 3 | Added: 21 | Skipped (reclaimed): 6
 
