@@ -1,4 +1,35 @@
 
+## 2026-11-10 13:49 UTC
+Total claims: 18609 | Removed: 3 | Added: 9 | Skipped (reclaimed): 5
+
+### Removed
+**therealjacob119** — 1 claim(s), 247 blocks total
+  - (21870,-13764) → (21883,-13745) center (21876,-13755) size 13×19
+**Hypixel_Slayer** — 1 claim(s), 324 blocks total
+  - (21814,-382) → (21832,-364) center (21823,-373) size 18×18
+**_FervidJarl19518** — 1 claim(s), 300 blocks total
+  - (-7900,23085) → (-7885,23105) center (-7893,23095) size 15×20
+
+### Added
+**m_keegan** — 1 claim(s), 12,204 blocks total
+  - (17643,20974) → (17756,21082) center (17699,21028) size 113×108
+**rombis_guy** — 1 claim(s), 280 blocks total
+  - (-4331,23148) → (-4303,23158) center (-4317,23153) size 28×10
+**RTFOREAL** — 1 claim(s), 832 blocks total
+  - (-21565,-16790) → (-21533,-16764) center (-21549,-16777) size 32×26
+**hungrydingo1** — 1 claim(s), 360 blocks total
+  - (-20629,9381) → (-20611,9401) center (-20620,9391) size 18×20
+**EdwinTheGamer** — 1 claim(s), 6,232 blocks total
+  - (-22518,-3224) → (-22436,-3148) center (-22477,-3186) size 82×76
+**PettoKilian** — 1 claim(s), 108 blocks total
+  - (-9351,-9976) → (-9339,-9967) center (-9345,-9972) size 12×9
+**MrSquirrel6915** — 1 claim(s), 192 blocks total
+  - (-21452,-13022) → (-21440,-13006) center (-21446,-13014) size 12×16
+**grossly** — 1 claim(s), 23,449 blocks total
+  - (-3956,-23871) → (-3777,-23740) center (-3867,-23806) size 179×131
+**Xto_Milo** — 1 claim(s), 63,798 blocks total
+  - (-22551,-437) → (-22208,-251) center (-22380,-344) size 343×186
+
 ## 2026-11-10 00:53 UTC
 Total claims: 18608 | Removed: 12 | Added: 16 | Skipped (reclaimed): 7
 
