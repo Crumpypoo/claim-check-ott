@@ -1,4 +1,38 @@
 
+## 2026-11-14 12:33 UTC
+Total claims: 18578 | Removed: 5 | Added: 9 | Skipped (reclaimed): 2
+
+### Removed
+**Ekeekee** — 1 claim(s), 225 blocks total
+  - (21309,12743) → (21324,12758) center (21316,12750) size 15×15
+**kaib2925** — 1 claim(s), 168 blocks total
+  - (-23752,-14723) → (-23740,-14709) center (-23746,-14716) size 12×14
+**bbones3110** — 1 claim(s), 420 blocks total
+  - (23169,15683) → (23190,15703) center (23179,15693) size 21×20
+**JollyJoker56** — 1 claim(s), 1,295 blocks total
+  - (-19752,-22065) → (-19717,-22028) center (-19735,-22047) size 35×37
+**W1nt3rB3an5** — 1 claim(s), 961 blocks total
+  - (21714,19615) → (21745,19646) center (21729,19630) size 31×31
+
+### Added
+**jesterdaisies** — 2 claim(s), 193,724 blocks total
+  - (-29131,-15128) → (-29063,-15034) center (-29097,-15081) size 68×94
+  - (-30000,-10990) → (-29598,-10524) center (-29799,-10757) size 402×466
+**ElysiumColors** — 1 claim(s), 2,808 blocks total
+  - (14975,22731) → (15029,22783) center (15002,22757) size 54×52
+**fireheart123456** — 1 claim(s), 924 blocks total
+  - (-13572,-23664) → (-13550,-23622) center (-13561,-23643) size 22×42
+**_moo121232141** — 1 claim(s), 208 blocks total
+  - (22641,11232) → (22657,11245) center (22649,11238) size 16×13
+**Dawniiepaine** — 1 claim(s), 17,688 blocks total
+  - (-14647,-20633) → (-14515,-20499) center (-14581,-20566) size 132×134
+**_Cringeartist444** — 1 claim(s), 484 blocks total
+  - (-703,23691) → (-681,23713) center (-692,23702) size 22×22
+**7070_Red** — 1 claim(s), 289 blocks total
+  - (13950,11510) → (13967,11527) center (13958,11518) size 17×17
+**_The_goat2273860** — 1 claim(s), 4,928 blocks total
+  - (-21388,23005) → (-21300,23061) center (-21344,23033) size 88×56
+
 ## 2026-11-14 03:41 UTC
 Total claims: 18576 | Removed: 3 | Added: 4 | Skipped (reclaimed): 0
 
