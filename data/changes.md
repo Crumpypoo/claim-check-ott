@@ -1,4 +1,24 @@
 
+## 2026-11-14 03:41 UTC
+Total claims: 18576 | Removed: 3 | Added: 4 | Skipped (reclaimed): 0
+
+### Removed
+**Wyldekid** — 2 claim(s), 679 blocks total
+  - (14129,21271) → (14142,21309) center (14135,21290) size 13×38
+  - (14124,21229) → (14129,21266) center (14126,21247) size 5×37
+**asianduke113** — 1 claim(s), 380 blocks total
+  - (23088,12443) → (23108,12462) center (23098,12452) size 20×19
+
+### Added
+**_Cringeartist444** — 1 claim(s), 140 blocks total
+  - (-1694,-20784) → (-1684,-20770) center (-1689,-20777) size 10×14
+**WaddlesXD** — 1 claim(s), 195 blocks total
+  - (-22500,-10130) → (-22487,-10115) center (-22494,-10123) size 13×15
+**6sLastStand** — 1 claim(s), 11,058 blocks total
+  - (-27855,-22569) → (-27741,-22472) center (-27798,-22521) size 114×97
+**Squ1db3ak** — 1 claim(s), 132 blocks total
+  - (-9138,-21264) → (-9127,-21252) center (-9133,-21258) size 11×12
+
 ## 2026-11-13 22:56 UTC
 Total claims: 18575 | Removed: 13 | Added: 15 | Skipped (reclaimed): 15
 
