@@ -1,4 +1,58 @@
 
+## 2026-11-14 21:42 UTC
+Total claims: 18588 | Removed: 5 | Added: 24 | Skipped (reclaimed): 9
+
+### Removed
+**NightmareAXE** — 3 claim(s), 2,109 blocks total
+  - (21472,15142) → (21505,15179) center (21488,15160) size 33×37
+  - (-2703,-20627) → (-2679,-20611) center (-2691,-20619) size 24×16
+  - (-19335,-23497) → (-19307,-23479) center (-19321,-23488) size 28×18
+**Arachnezar** — 1 claim(s), 319,144 blocks total
+  - (3459,20662) → (4033,21218) center (3746,20940) size 574×556
+**Gr0und_Z3r0_** — 1 claim(s), 1,892 blocks total
+  - (23274,7303) → (23317,7347) center (23295,7325) size 43×44
+
+### Added
+**Katarina01774** — 6 claim(s), 25,384 blocks total
+  - (-18990,25994) → (-18925,26047) center (-18958,26020) size 65×53
+  - (-18925,26006) → (-18851,26045) center (-18888,26025) size 74×39
+  - (-18925,26045) → (-18843,26120) center (-18884,26082) size 82×75
+  - (-18990,26121) → (-18925,26176) center (-18958,26148) size 65×55
+  - (-18990,26047) → (-18926,26121) center (-18958,26084) size 64×74
+  - (-18925,26120) → (-18843,26176) center (-18884,26148) size 82×56
+**BerndDasBrot385** — 2 claim(s), 420 blocks total
+  - (13810,10845) → (13815,10867) center (13812,10856) size 5×22
+  - (13776,10858) → (13807,10868) center (13791,10863) size 31×10
+**provenmoss8779** — 2 claim(s), 493 blocks total
+  - (-15518,-22359) → (-15497,-22342) center (-15508,-22351) size 21×17
+  - (21031,18056) → (21048,18064) center (21039,18060) size 17×8
+**_Cringeartist444** — 2 claim(s), 680 blocks total
+  - (-14154,-21280) → (-14144,-21267) center (-14149,-21274) size 10×13
+  - (-14163,-21213) → (-14138,-21191) center (-14151,-21202) size 25×22
+**CrystalcraftXD** — 2 claim(s), 6,537 blocks total
+  - (-2215,-270) → (-2186,-192) center (-2201,-231) size 29×78
+  - (-2257,-353) → (-2200,-278) center (-2229,-316) size 57×75
+**BriannaNicole50** — 1 claim(s), 242 blocks total
+  - (20770,-8001) → (20792,-7990) center (20781,-7996) size 22×11
+**Arachnezar** — 1 claim(s), 4,596,480 blocks total
+  - (-7328,25719) → (-5648,28455) center (-6488,27087) size 1680×2736
+**0h3lyat** — 1 claim(s), 605,568 blocks total
+  - (29336,29088) → (30000,30000) center (29668,29544) size 664×912
+**Lavie_Lulu** — 1 claim(s), 121 blocks total
+  - (14514,25846) → (14525,25857) center (14519,25851) size 11×11
+**GreenWDGASTER** — 1 claim(s), 1,311 blocks total
+  - (-4176,-22086) → (-4119,-22063) center (-4148,-22075) size 57×23
+**Luanxctaire** — 1 claim(s), 720 blocks total
+  - (20918,17988) → (20948,18012) center (20933,18000) size 30×24
+**saoirsepshaw** — 1 claim(s), 1,008 blocks total
+  - (10838,21864) → (10866,21900) center (10852,21882) size 28×36
+**hannxgrace** — 1 claim(s), 37,524 blocks total
+  - (-3157,-22203) → (-2921,-22044) center (-3039,-22124) size 236×159
+**Blank_canva** — 1 claim(s), 122,139 blocks total
+  - (-4079,-21812) → (-3748,-21443) center (-3914,-21628) size 331×369
+**JNB217** — 1 claim(s), 13,922,368 blocks total
+  - (-28988,-15949) → (-23929,-13197) center (-26459,-14573) size 5059×2752
+
 ## 2026-11-14 12:33 UTC
 Total claims: 18578 | Removed: 5 | Added: 9 | Skipped (reclaimed): 2
 
