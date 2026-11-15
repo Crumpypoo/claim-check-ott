@@ -1,4 +1,27 @@
 
+## 2026-11-15 03:17 UTC
+Total claims: 18588 | Removed: 2 | Added: 6 | Skipped (reclaimed): 4
+
+### Removed
+**Girlives** — 1 claim(s), 117 blocks total
+  - (-1628,-21687) → (-1615,-21678) center (-1622,-21683) size 13×9
+**provenmoss8779** — 1 claim(s), 121 blocks total
+  - (21017,18056) → (21028,18067) center (21022,18061) size 11×11
+
+### Added
+**MinuBunni** — 1 claim(s), 9,940 blocks total
+  - (-11827,10595) → (-11685,10665) center (-11756,10630) size 142×70
+**provenmoss8779** — 1 claim(s), 840 blocks total
+  - (21028,18026) → (21049,18066) center (21038,18046) size 21×40
+**DuffyGaming** — 1 claim(s), 392,863 blocks total
+  - (-26495,-5499) → (-25944,-4786) center (-26220,-5143) size 551×713
+**JadedSn4ke** — 1 claim(s), 112,240 blocks total
+  - (-19601,-13273) → (-19113,-13043) center (-19357,-13158) size 488×230
+**CptMarv3804** — 1 claim(s), 380 blocks total
+  - (-21692,1698) → (-21673,1718) center (-21683,1708) size 19×20
+**JNB217** — 1 claim(s), 14,024,192 blocks total
+  - (-29025,-15949) → (-23929,-13197) center (-26477,-14573) size 5096×2752
+
 ## 2026-11-14 21:42 UTC
 Total claims: 18588 | Removed: 5 | Added: 24 | Skipped (reclaimed): 9
 
