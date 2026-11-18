@@ -1,4 +1,39 @@
 
+## 2026-11-18 00:03 UTC
+Total claims: 18581 | Removed: 14 | Added: 4 | Skipped (reclaimed): 0
+
+### Removed
+**DangerPaws** — 9 claim(s), 151,354 blocks total
+  - (-11008,-19335) → (-10637,-19085) center (-10823,-19210) size 371×250
+  - (-10637,-19211) → (-10617,-19179) center (-10627,-19195) size 20×32
+  - (-10637,-19300) → (-10601,-19211) center (-10619,-19256) size 36×89
+  - (-11008,-19390) → (-10698,-19335) center (-10853,-19363) size 310×55
+  - (-10730,-19085) → (-10693,-19065) center (-10712,-19075) size 37×20
+  - (-11008,-19451) → (-10804,-19390) center (-10906,-19421) size 204×61
+  - (-10637,-19179) → (-10624,-19105) center (-10631,-19142) size 13×74
+  - (-11008,-19085) → (-10730,-19023) center (-10869,-19054) size 278×62
+  - (-10956,-19023) → (-10730,-18995) center (-10843,-19009) size 226×28
+**Real_joy11** — 1 claim(s), 150 blocks total
+  - (3104,-21597) → (3134,-21592) center (3119,-21595) size 30×5
+**Nyyxii** — 1 claim(s), 121 blocks total
+  - (-21334,-353) → (-21323,-342) center (-21329,-348) size 11×11
+**ItsLyxal** — 1 claim(s), 462 blocks total
+  - (20809,-4108) → (20831,-4087) center (20820,-4098) size 22×21
+**perqyyyy** — 1 claim(s), 1,408 blocks total
+  - (21938,-10436) → (22002,-10414) center (21970,-10425) size 64×22
+**Luanxctaire** — 1 claim(s), 720 blocks total
+  - (20918,17988) → (20948,18012) center (20933,18000) size 30×24
+
+### Added
+**DSOL_** — 1 claim(s), 1,394 blocks total
+  - (896,22630) → (930,22671) center (913,22650) size 34×41
+**kroniccx** — 1 claim(s), 121 blocks total
+  - (11043,-16139) → (11054,-16128) center (11048,-16134) size 11×11
+**flame3459** — 1 claim(s), 306 blocks total
+  - (-21316,16108) → (-21298,16125) center (-21307,16116) size 18×17
+**7070_Red** — 1 claim(s), 153 blocks total
+  - (13108,10816) → (13125,10825) center (13116,10820) size 17×9
+
 ## 2026-11-17 14:57 UTC
 Total claims: 18591 | Removed: 0 | Added: 0 | Skipped (reclaimed): 6288
 
