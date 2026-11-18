@@ -1,4 +1,43 @@
 
+## 2026-11-18 23:37 UTC
+Total claims: 18552 | Removed: 14 | Added: 5 | Skipped (reclaimed): 2
+
+### Removed
+**whipser1** — 5 claim(s), 2,299 blocks total
+  - (7709,23189) → (7739,23214) center (7724,23201) size 30×25
+  - (7721,23175) → (7733,23189) center (7727,23182) size 12×14
+  - (7733,23175) → (7741,23189) center (7737,23182) size 8×14
+  - (7675,23159) → (7684,23180) center (7679,23169) size 9×21
+  - (7684,23159) → (7720,23189) center (7702,23174) size 36×30
+**_MutantErik11** — 3 claim(s), 596 blocks total
+  - (18442,22314) → (18460,22322) center (18451,22318) size 18×8
+  - (18433,22324) → (18446,22334) center (18439,22329) size 13×10
+  - (18447,22326) → (18470,22340) center (18458,22333) size 23×14
+**hellokyte** — 1 claim(s), 121 blocks total
+  - (18046,-23448) → (18057,-23437) center (18051,-23443) size 11×11
+**leonxgg18** — 1 claim(s), 225 blocks total
+  - (-21952,-1883) → (-21937,-1868) center (-21945,-1876) size 15×15
+**Booo128** — 1 claim(s), 1,406 blocks total
+  - (19520,23380) → (19557,23418) center (19538,23399) size 37×38
+**Bauschaum3141592** — 1 claim(s), 918 blocks total
+  - (22456,2174) → (22483,2208) center (22469,2191) size 27×34
+**asyooni** — 1 claim(s), 396 blocks total
+  - (-17837,-6159) → (-17815,-6141) center (-17826,-6150) size 22×18
+**Fede_55** — 1 claim(s), 810 blocks total
+  - (2781,-22430) → (2835,-22415) center (2808,-22423) size 54×15
+
+### Added
+**aawra** — 1 claim(s), 256 blocks total
+  - (-15574,-4411) → (-15566,-4379) center (-15570,-4395) size 8×32
+**SnowMonkey2028** — 1 claim(s), 2,021,162 blocks total
+  - (1072,-25237) → (3173,-24275) center (2122,-24756) size 2101×962
+**_DriftyFawn78319** — 1 claim(s), 110 blocks total
+  - (-22392,-8941) → (-22381,-8931) center (-22387,-8936) size 11×10
+**Aurora_08** — 1 claim(s), 1,634 blocks total
+  - (-22956,5259) → (-22918,5302) center (-22937,5280) size 38×43
+**asyooni** — 1 claim(s), 7,130 blocks total
+  - (-17802,-6186) → (-17687,-6124) center (-17745,-6155) size 115×62
+
 ## 2026-11-18 14:38 UTC
 Total claims: 18563 | Removed: 20 | Added: 5 | Skipped (reclaimed): 3
 
