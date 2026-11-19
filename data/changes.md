@@ -1,4 +1,30 @@
 
+## 2026-11-19 04:38 UTC
+Total claims: 18552 | Removed: 4 | Added: 7 | Skipped (reclaimed): 3
+
+### Removed
+**dustheap** — 2 claim(s), 241 blocks total
+  - (20909,14894) → (20919,14906) center (20914,14900) size 10×12
+  - (20919,14895) → (20930,14906) center (20924,14900) size 11×11
+**FLOWD_1** — 1 claim(s), 1,184 blocks total
+  - (3942,-21363) → (3974,-21326) center (3958,-21345) size 32×37
+**guinea_playz45** — 1 claim(s), 304 blocks total
+  - (23084,12942) → (23103,12958) center (23093,12950) size 19×16
+
+### Added
+**MayaLilz** — 2 claim(s), 819 blocks total
+  - (19868,-15595) → (19907,-15577) center (19887,-15586) size 39×18
+  - (19892,-15576) → (19905,-15567) center (19898,-15572) size 13×9
+**PickSix401** — 2 claim(s), 1,624 blocks total
+  - (12834,-9002) → (12863,-8973) center (12848,-8988) size 29×29
+  - (12807,-9002) → (12834,-8973) center (12820,-8988) size 27×29
+**67boiohiorizz677** — 1 claim(s), 40,619 blocks total
+  - (7282,22379) → (7551,22530) center (7416,22454) size 269×151
+**n0tNavii** — 1 claim(s), 121 blocks total
+  - (21647,20427) → (21658,20438) center (21652,20432) size 11×11
+**Houndoir** — 1 claim(s), 6,148 blocks total
+  - (23104,16397) → (23157,16513) center (23130,16455) size 53×116
+
 ## 2026-11-18 23:37 UTC
 Total claims: 18552 | Removed: 14 | Added: 5 | Skipped (reclaimed): 2
 
