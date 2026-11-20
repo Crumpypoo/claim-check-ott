@@ -1,4 +1,26 @@
 
+## 2026-11-20 04:41 UTC
+Total claims: 18560 | Removed: 3 | Added: 6 | Skipped (reclaimed): 3
+
+### Removed
+**_Classy6982** — 2 claim(s), 858 blocks total
+  - (-6950,21476) → (-6924,21501) center (-6937,21488) size 26×25
+  - (-6921,21499) → (-6895,21507) center (-6908,21503) size 26×8
+**Dragonbeered** — 1 claim(s), 104 blocks total
+  - (-21690,12589) → (-21677,12597) center (-21684,12593) size 13×8
+
+### Added
+**Peacheskisses** — 3 claim(s), 2,450 blocks total
+  - (-18880,21076) → (-18870,21135) center (-18875,21105) size 10×59
+  - (-18806,21135) → (-18766,21179) center (-18786,21157) size 40×44
+  - (-18872,21138) → (-18852,21143) center (-18862,21140) size 20×5
+**PickSix401** — 1 claim(s), 522 blocks total
+  - (12789,-9002) → (12807,-8973) center (12798,-8988) size 18×29
+**_BossLion7505214** — 1 claim(s), 374 blocks total
+  - (-21045,16160) → (-21028,16182) center (-21037,16171) size 17×22
+**MisterAxolotle** — 1 claim(s), 169 blocks total
+  - (20076,-23071) → (20089,-23058) center (20082,-23065) size 13×13
+
 ## 2026-11-19 23:55 UTC
 Total claims: 18560 | Removed: 6 | Added: 17 | Skipped (reclaimed): 0
 
