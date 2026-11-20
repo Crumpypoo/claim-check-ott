@@ -1,4 +1,50 @@
 
+## 2026-11-20 14:26 UTC
+Total claims: 18551 | Removed: 11 | Added: 11 | Skipped (reclaimed): 9
+
+### Removed
+**Danieliscool49** — 4 claim(s), 757 blocks total
+  - (20994,-6682) → (21023,-6674) center (21008,-6678) size 29×8
+  - (20704,-5793) → (20725,-5788) center (20714,-5791) size 21×5
+  - (21024,-6682) → (21044,-6670) center (21034,-6676) size 20×12
+  - (20984,-6697) → (20994,-6679) center (20989,-6688) size 10×18
+**DannyboyVN** — 1 claim(s), 240 blocks total
+  - (-23430,10477) → (-23415,10493) center (-23423,10485) size 15×16
+**sphixxn** — 1 claim(s), 182 blocks total
+  - (-21825,-18276) → (-21812,-18262) center (-21819,-18269) size 13×14
+**Cameraaba** — 1 claim(s), 1,520 blocks total
+  - (-21816,-7127) → (-21778,-7087) center (-21797,-7107) size 38×40
+**ethereal2121** — 1 claim(s), 121 blocks total
+  - (-23022,-3211) → (-23011,-3200) center (-23017,-3206) size 11×11
+**cayde3715** — 1 claim(s), 2,201 blocks total
+  - (23329,-14547) → (23360,-14476) center (23344,-14512) size 31×71
+**TONARI** — 1 claim(s), 3,136 blocks total
+  - (-13348,-17820) → (-13299,-17756) center (-13324,-17788) size 49×64
+**JarTheMiner_2384** — 1 claim(s), 1,628 blocks total
+  - (-14411,-21051) → (-14374,-21007) center (-14393,-21029) size 37×44
+
+### Added
+**Ent_NZ** — 3 claim(s), 5,849,797 blocks total
+  - (3386,24674) → (3681,25907) center (3533,25290) size 295×1233
+  - (3681,23471) → (5339,26753) center (4510,25112) size 1658×3282
+  - (3681,23090) → (3800,23464) center (3740,23277) size 119×374
+**xoxovx** — 1 claim(s), 168,165 blocks total
+  - (6735,21427) → (7240,21760) center (6987,21593) size 505×333
+**raulv** — 1 claim(s), 4,964 blocks total
+  - (-22179,23009) → (-22111,23082) center (-22145,23045) size 68×73
+**fireheart123456** — 1 claim(s), 204 blocks total
+  - (-13585,-23676) → (-13568,-23664) center (-13577,-23670) size 17×12
+**elivxraez** — 1 claim(s), 1,089 blocks total
+  - (5284,-18301) → (5317,-18268) center (5300,-18285) size 33×33
+**SynthGal** — 1 claim(s), 2,044 blocks total
+  - (-23549,12150) → (-23476,12178) center (-23513,12164) size 73×28
+**rexyiscool** — 1 claim(s), 192 blocks total
+  - (-14992,21772) → (-14976,21784) center (-14984,21778) size 16×12
+**Peacheskisses** — 1 claim(s), 104 blocks total
+  - (-18858,21111) → (-18845,21119) center (-18852,21115) size 13×8
+**Sammwich_** — 1 claim(s), 1,584 blocks total
+  - (17835,-9522) → (17871,-9478) center (17853,-9500) size 36×44
+
 ## 2026-11-20 04:41 UTC
 Total claims: 18560 | Removed: 3 | Added: 6 | Skipped (reclaimed): 3
 
