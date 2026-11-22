@@ -1,4 +1,44 @@
 
+## 2026-11-22 03:37 UTC
+Total claims: 18538 | Removed: 13 | Added: 5 | Skipped (reclaimed): 4
+
+### Removed
+**Leonardo_at** — 2 claim(s), 902 blocks total
+  - (-21093,-21628) → (-21059,-21605) center (-21076,-21617) size 34×23
+  - (-21481,-16771) → (-21471,-16759) center (-21476,-16765) size 10×12
+**flip_reset5659** — 2 claim(s), 517 blocks total
+  - (20812,-5587) → (20832,-5576) center (20822,-5582) size 20×11
+  - (20801,-5654) → (20828,-5643) center (20814,-5649) size 27×11
+**yeren10** — 1 claim(s), 104 blocks total
+  - (21652,-8683) → (21665,-8675) center (21658,-8679) size 13×8
+**JimmyVGamer** — 1 claim(s), 432 blocks total
+  - (21386,-14897) → (21404,-14873) center (21395,-14885) size 18×24
+**llalitaa** — 1 claim(s), 324 blocks total
+  - (-22273,-8434) → (-22255,-8416) center (-22264,-8425) size 18×18
+**alexjjhoward** — 1 claim(s), 182 blocks total
+  - (-273,1112) → (-259,1125) center (-266,1118) size 14×13
+**cuckovic** — 1 claim(s), 1,400 blocks total
+  - (20744,-8267) → (20772,-8217) center (20758,-8242) size 28×50
+**sclxlqz** — 1 claim(s), 1,020 blocks total
+  - (4082,-22022) → (4116,-21992) center (4099,-22007) size 34×30
+**samiel9311** — 1 claim(s), 265 blocks total
+  - (15417,22950) → (15470,22955) center (15443,22952) size 53×5
+**Soapy_Kitty12** — 1 claim(s), 555 blocks total
+  - (22606,-10682) → (22643,-10667) center (22624,-10675) size 37×15
+**_CivicMoon1855** — 1 claim(s), 754 blocks total
+  - (-15802,22310) → (-15773,22336) center (-15788,22323) size 29×26
+
+### Added
+**ItsSimplyJoe** — 2 claim(s), 445,009 blocks total
+  - (-5426,-22725) → (-4777,-22241) center (-5102,-22483) size 649×484
+  - (-5343,-23207) → (-4530,-23046) center (-4937,-23127) size 813×161
+**justemmaaa** — 1 claim(s), 8,320 blocks total
+  - (-21984,-7521) → (-21880,-7441) center (-21932,-7481) size 104×80
+**Earthart89** — 1 claim(s), 217,330 blocks total
+  - (23780,-1638) → (24295,-1216) center (24037,-1427) size 515×422
+**_Denpr_k7508507** — 1 claim(s), 506 blocks total
+  - (-21368,-5896) → (-21346,-5873) center (-21357,-5885) size 22×23
+
 ## 2026-11-21 22:28 UTC
 Total claims: 18550 | Removed: 5 | Added: 54 | Skipped (reclaimed): 46
 
