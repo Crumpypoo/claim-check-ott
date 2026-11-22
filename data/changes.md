@@ -1,4 +1,37 @@
 
+## 2026-11-22 13:39 UTC
+Total claims: 18532 | Removed: 9 | Added: 5 | Skipped (reclaimed): 2
+
+### Removed
+**_BubbyLeeC** — 3 claim(s), 1,210 blocks total
+  - (-281,727) → (-236,748) center (-259,737) size 45×21
+  - (-232,730) → (-209,737) center (-221,733) size 23×7
+  - (-230,711) → (-217,719) center (-224,715) size 13×8
+**Xhwzz** — 1 claim(s), 2,310 blocks total
+  - (-21352,-3672) → (-21310,-3617) center (-21331,-3645) size 42×55
+**TinOnFire42** — 1 claim(s), 240 blocks total
+  - (210,23082) → (220,23106) center (215,23094) size 10×24
+**_Samurai_Ace_** — 1 claim(s), 546 blocks total
+  - (13463,-16620) → (13484,-16594) center (13473,-16607) size 21×26
+**littlewhis** — 1 claim(s), 154 blocks total
+  - (6291,-23187) → (6302,-23173) center (6296,-23180) size 11×14
+**_Denpr_k7508507** — 1 claim(s), 506 blocks total
+  - (-21368,-5896) → (-21346,-5873) center (-21357,-5885) size 22×23
+**FallFeather8978** — 1 claim(s), 952 blocks total
+  - (10433,-21252) → (10467,-21224) center (10450,-21238) size 34×28
+
+### Added
+**lchenk8** — 1 claim(s), 104 blocks total
+  - (21005,16868) → (21013,16881) center (21009,16874) size 8×13
+**_J1nx200** — 1 claim(s), 234 blocks total
+  - (-7133,-21105) → (-7107,-21096) center (-7120,-21101) size 26×9
+**DudeMcManGuy** — 1 claim(s), 1,092 blocks total
+  - (8786,22057) → (8877,22069) center (8831,22063) size 91×12
+**xoxovx** — 1 claim(s), 340,896 blocks total
+  - (6609,21415) → (7457,21817) center (7033,21616) size 848×402
+**Snow_Scar** — 1 claim(s), 1,872 blocks total
+  - (3004,22427) → (3040,22479) center (3022,22453) size 36×52
+
 ## 2026-11-22 03:37 UTC
 Total claims: 18538 | Removed: 13 | Added: 5 | Skipped (reclaimed): 4
 
