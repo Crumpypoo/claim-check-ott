@@ -1,4 +1,39 @@
 
+## 2026-11-23 16:34 UTC
+Total claims: 18501 | Removed: 12 | Added: 5 | Skipped (reclaimed): 2
+
+### Removed
+**Loung2006** — 4 claim(s), 986 blocks total
+  - (14425,20613) → (14435,20623) center (14430,20618) size 10×10
+  - (14434,20562) → (14439,20613) center (14436,20587) size 5×51
+  - (14262,20699) → (14271,20752) center (14266,20725) size 9×53
+  - (14411,20625) → (14425,20636) center (14418,20630) size 14×11
+**Lizzard_lover21** — 2 claim(s), 537 blocks total
+  - (16070,20486) → (16093,20505) center (16081,20495) size 23×19
+  - (16050,20503) → (16060,20513) center (16055,20508) size 10×10
+**_yoyofrom_0** — 2 claim(s), 228 blocks total
+  - (9262,22112) → (9274,22122) center (9268,22117) size 12×10
+  - (9252,22123) → (9261,22135) center (9256,22129) size 9×12
+**RemedyEnjoyer** — 1 claim(s), 1,681 blocks total
+  - (-6922,23307) → (-6881,23348) center (-6902,23327) size 41×41
+**SmokinTha** — 1 claim(s), 1,462 blocks total
+  - (22324,8298) → (22358,8341) center (22341,8319) size 34×43
+**AddieRosita** — 1 claim(s), 120 blocks total
+  - (-6808,-20621) → (-6800,-20606) center (-6804,-20614) size 8×15
+**Dab_2477** — 1 claim(s), 1,073 blocks total
+  - (-20629,12072) → (-20592,12101) center (-20611,12086) size 37×29
+
+### Added
+**_Cringeartist444** — 2 claim(s), 10,710 blocks total
+  - (-14049,-21324) → (-13938,-21229) center (-13994,-21277) size 111×95
+  - (-14065,-21246) → (-14054,-21231) center (-14060,-21239) size 11×15
+**LocalBookNerd** — 1 claim(s), 3,828 blocks total
+  - (6523,-22898) → (6589,-22840) center (6556,-22869) size 66×58
+**CaptainJeferds** — 1 claim(s), 1,358 blocks total
+  - (-15839,973) → (-15742,987) center (-15791,980) size 97×14
+**BlackMountin** — 1 claim(s), 110 blocks total
+  - (-20753,-4600) → (-20742,-4590) center (-20748,-4595) size 11×10
+
 ## 2026-11-23 04:10 UTC
 Total claims: 18510 | Removed: 13 | Added: 6 | Skipped (reclaimed): 5
 
