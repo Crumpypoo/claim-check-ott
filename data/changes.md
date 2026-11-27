@@ -1,4 +1,31 @@
 
+## 2026-11-27 01:11 UTC
+Total claims: 18476 | Removed: 7 | Added: 4 | Skipped (reclaimed): 0
+
+### Removed
+**Cartexls** — 2 claim(s), 1,646 blocks total
+  - (-23129,-8397) → (-23074,-8377) center (-23102,-8387) size 55×20
+  - (-22953,-17387) → (-22932,-17361) center (-22943,-17374) size 21×26
+**Skebob_kr** — 1 claim(s), 460 blocks total
+  - (23417,-11040) → (23437,-11017) center (23427,-11029) size 20×23
+**Leeimmune** — 1 claim(s), 483 blocks total
+  - (-2644,-21968) → (-2621,-21947) center (-2633,-21958) size 23×21
+**teodora902316** — 1 claim(s), 391 blocks total
+  - (-17768,22067) → (-17745,22084) center (-17757,22075) size 23×17
+**_Nova_the_og7702** — 1 claim(s), 220 blocks total
+  - (22802,20379) → (22822,20390) center (22812,20384) size 20×11
+**TobleroneTorb** — 1 claim(s), 121 blocks total
+  - (4571,20985) → (4582,20996) center (4576,20990) size 11×11
+
+### Added
+**Schalla_Balla** — 2 claim(s), 388 blocks total
+  - (5088,21108) → (5099,21120) center (5093,21114) size 11×12
+  - (5072,21104) → (5088,21120) center (5080,21112) size 16×16
+**_MariusX7776** — 1 claim(s), 310 blocks total
+  - (-22497,-17672) → (-22487,-17641) center (-22492,-17657) size 10×31
+**Londyyyyyyy** — 1 claim(s), 72,478 blocks total
+  - (-27893,-12513) → (-27559,-12296) center (-27726,-12405) size 334×217
+
 ## 2026-11-26 15:51 UTC
 Total claims: 18479 | Removed: 16 | Added: 35 | Skipped (reclaimed): 26
 
